@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_31998771523_784e7e9597_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        404,
+        1777,
+        756
+      ],
+      "lines": [
+        {
+          "text": "VAN DEN BERG",
+          "box": [
+            935,
+            445,
+            1555,
+            515
+          ]
+        },
+        {
+          "text": "Jarre Johanes",
+          "box": [
+            940,
+            542,
+            1557,
+            596
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            940,
+            635,
+            1261,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2065,
+        782,
+        2736,
+        921
+      ],
+      "lines": [
+        {
+          "text": "07 04 1988",
+          "box": [
+            2166,
+            811,
+            2615,
+            874
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2030,
+        1022,
+        2726,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "11 11 2058",
+          "box": [
+            2140,
+            1046,
+            2626,
+            1122
+          ]
+        }
+      ]
+    }
+  ]
+}

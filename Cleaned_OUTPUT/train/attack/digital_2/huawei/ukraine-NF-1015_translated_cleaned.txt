@@ -1,0 +1,18 @@
+LE1
+EN: Kozlova /
+OR: Козлова /
+EN: Kozlova
+
+LE2
+EN: Tatyana Romanivna /
+OR: Тетяна Романівна /
+EN: Theresa
+
+E3
+EN: 24.11.12.12
+
+E4
+EN: 10.12.2016
+
+E5
+EN: 10.12.1.92

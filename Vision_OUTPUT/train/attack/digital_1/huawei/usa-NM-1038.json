@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\usa-NM-1038.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        920,
+        641,
+        1889,
+        997
+      ],
+      "lines": [
+        {
+          "text": "Jlienza Taylor",
+          "box": [
+            981,
+            696,
+            1502,
+            776
+          ]
+        },
+        {
+          "text": "204 Pine St",
+          "box": [
+            992,
+            786,
+            1438,
+            853
+          ]
+        },
+        {
+          "text": "Bozeman MT 59715",
+          "box": [
+            990,
+            878,
+            1759,
+            948
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2217,
+        1137,
+        2973,
+        1291
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-22-97",
+          "box": [
+            2277,
+            1170,
+            2880,
+            1237
+          ]
+        }
+      ]
+    }
+  ]
+}

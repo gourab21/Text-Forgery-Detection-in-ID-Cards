@@ -1,0 +1,20 @@
+LE1
+OR: Михайлова /
+EN: Mihaylova /
+EN: Mikhailova
+
+LE2
+OR: ре
+EN: re
+OR: Вера Николаевна / F
+EN: Vera Nikolaevna / F
+EN: Emma Fikdieva
+
+E3
+EN: 20.03.2007
+
+E4
+EN: 02.04.2019
+
+E5
+EN: 12.12.2011

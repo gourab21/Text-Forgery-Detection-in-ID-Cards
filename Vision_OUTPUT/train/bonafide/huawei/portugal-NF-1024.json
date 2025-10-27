@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1024.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        995,
+        473,
+        2347,
+        750
+      ],
+      "lines": [
+        {
+          "text": "GOMES SOUSA",
+          "box": [
+            1096,
+            537,
+            1712,
+            605
+          ]
+        },
+        {
+          "text": "Teresa",
+          "box": [
+            1095,
+            632,
+            1370,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2648,
+        911,
+        3212,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "02 05 1979",
+          "box": [
+            2751,
+            951,
+            3211,
+            1017
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1994,
+        1157,
+        2686,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "29 04 2028",
+          "box": [
+            2096,
+            1221,
+            2560,
+            1285
+          ]
+        }
+      ]
+    }
+  ]
+}

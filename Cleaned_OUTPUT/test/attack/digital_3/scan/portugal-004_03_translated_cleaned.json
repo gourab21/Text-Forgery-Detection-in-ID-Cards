@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-004_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-004_03.jpg",
+  "width": 1995,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            702,
+            343,
+            1134,
+            379
+          ],
+          "original_text": "BRITTNEYGOMES",
+          "translated_en": "BRITTNEYGOMES"
+        },
+        {
+          "box": [
+            691,
+            396,
+            1089,
+            452
+          ],
+          "original_text": "Francisco Jorge",
+          "translated_en": "Francisco Jorge"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1705,
+            598,
+            1950,
+            637
+          ],
+          "original_text": "29 09 1932",
+          "translated_en": "29 09 1932"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1307,
+            767,
+            1587,
+            805
+          ],
+          "original_text": "12 03 1939",
+          "translated_en": "12 03 1939"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-004_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-004_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        430,
+        2077,
+        682
+      ],
+      "lines": [
+        {
+          "text": "CKHARD GOMES",
+          "box": [
+            969,
+            499,
+            1622,
+            559
+          ]
+        },
+        {
+          "text": "Francisco Jorge",
+          "box": [
+            976,
+            580,
+            1543,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2344,
+        828,
+        2843,
+        968
+      ],
+      "lines": [
+        {
+          "text": "07 06 1983",
+          "box": [
+            2431,
+            834,
+            2841,
+            889
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1765,
+        1052,
+        2376,
+        1217
+      ],
+      "lines": [
+        {
+          "text": "22 09 2037",
+          "box": [
+            1865,
+            1088,
+            2294,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

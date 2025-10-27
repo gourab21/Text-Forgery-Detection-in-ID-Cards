@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-019_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        828,
+        376,
+        1648,
+        508
+      ],
+      "lines": [
+        {
+          "text": "BERGER",
+          "box": [
+            903,
+            427,
+            1166,
+            475
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        820,
+        621,
+        1745,
+        778
+      ],
+      "lines": [
+        {
+          "text": "Juliette , Michelle",
+          "box": [
+            903,
+            661,
+            1466,
+            730
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1932,
+        871,
+        2475,
+        1021
+      ],
+      "lines": [
+        {
+          "text": "30 12 1985",
+          "box": [
+            1981,
+            879,
+            2355,
+            934
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1905,
+        1421,
+        2458,
+        1558
+      ],
+      "lines": [
+        {
+          "text": "05 01 2030",
+          "box": [
+            1990,
+            1428,
+            2364,
+            1483
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\scan\\netherland-flickr_F_37019045642_0a3fa19256_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\netherland-flickr_F_37019045642_0a3fa19256_k.jpg",
+  "width": 1997,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            689,
+            320,
+            912,
+            364
+          ],
+          "original_text": "VISSER",
+          "translated_en": "VISSER"
+        },
+        {
+          "box": [
+            691,
+            385,
+            1130,
+            430
+          ],
+          "original_text": "Daan Gerardus",
+          "translated_en": "Daan Gerardus"
+        },
+        {
+          "box": [
+            691,
+            452,
+            834,
+            495
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1560,
+            602,
+            1895,
+            651
+          ],
+          "original_text": "03 06 2002",
+          "translated_en": "03 06 2002"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1530,
+            777,
+            1898,
+            822
+          ],
+          "original_text": "29 09 2030",
+          "translated_en": "29 09 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_37019045642_0a3fa19256_k_translated_cleaned.jpg"
+}

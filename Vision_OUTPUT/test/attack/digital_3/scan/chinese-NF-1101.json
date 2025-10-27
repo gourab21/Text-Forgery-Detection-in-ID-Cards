@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-NF-1101.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        395,
+        1106,
+        580
+      ],
+      "lines": [
+        {
+          "text": "刘亦菲",
+          "box": [
+            686,
+            424,
+            841,
+            474
+          ]
+        },
+        {
+          "text": "Pamela ei",
+          "box": [
+            688,
+            492,
+            898,
+            527
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1201,
+        657,
+        1611,
+        790
+      ],
+      "lines": [
+        {
+          "text": "05 Mar 1938",
+          "box": [
+            1239,
+            710,
+            1562,
+            752
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        848,
+        1634,
+        975
+      ],
+      "lines": [
+        {
+          "text": "12 Dec 2012",
+          "box": [
+            1236,
+            893,
+            1553,
+            933
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1038,
+        1090,
+        1160
+      ],
+      "lines": [
+        {
+          "text": "31 Apr 1947",
+          "box": [
+            677,
+            1077,
+            989,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

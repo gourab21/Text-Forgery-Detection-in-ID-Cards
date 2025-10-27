@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\arabic-NM-1064_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\arabic-NM-1064.jpg",
+  "width": 2003,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            754,
+            460,
+            1357,
+            518
+          ],
+          "original_text": "Joead Abd Al - Rad",
+          "translated_en": "Joead Abd Al - Rad"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            729,
+            318,
+            1181,
+            395
+          ],
+          "original_text": "الرشيد عبد أحمد",
+          "translated_en": "Rashid Abdul Ahmed"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            758,
+            782,
+            1123,
+            828
+          ],
+          "original_text": "19 Nov 1910",
+          "translated_en": "19 Nov 1910"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            758,
+            941,
+            1113,
+            992
+          ],
+          "original_text": "21 Jan 2019",
+          "translated_en": "21 Jan 2019"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            759,
+            1112,
+            1127,
+            1165
+          ],
+          "original_text": "23 May 1973",
+          "translated_en": "23 May 1973"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1289,
+            762,
+            1794,
+            832
+          ],
+          "original_text": "١٦ / سبتمبر / ۱۹۸۱",
+          "translated_en": "September 16, 1981"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1288,
+            928,
+            1719,
+            996
+          ],
+          "original_text": "۲۱ / يناير / ۲۰۱۹",
+          "translated_en": "January 21, 2019"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1293,
+            1095,
+            1809,
+            1160
+          ],
+          "original_text": "١٦ / سبتمبر / ۲۰۳۰",
+          "translated_en": "September 16, 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NM-1064_translated_cleaned.jpg"
+}

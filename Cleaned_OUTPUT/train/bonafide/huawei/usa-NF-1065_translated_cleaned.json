@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\huawei\\usa-NF-1065_translated.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-NF-1065.jpg",
+  "width": 3052,
+  "height": 1893,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            985,
+            719,
+            1460,
+            780
+          ],
+          "original_text": "Anna Rivera",
+          "translated_en": "Anna Rivera"
+        },
+        {
+          "box": [
+            993,
+            805,
+            1655,
+            866
+          ],
+          "original_text": "1325 Cedar Lane",
+          "translated_en": "1325 Cedar Lane"
+        },
+        {
+          "box": [
+            992,
+            893,
+            1721,
+            953
+          ],
+          "original_text": "Tacoma WA 98402",
+          "translated_en": "Tacoma WA 98402"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2297,
+            1155,
+            2898,
+            1216
+          ],
+          "original_text": "06-11-95",
+          "translated_en": "06-11-95"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1065_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1041.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "LESLIE OLIVEIRA",
+          "box": [
+            693,
+            341,
+            1174,
+            381
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            686,
+            399,
+            784,
+            435
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "18 06 1907",
+          "box": [
+            1706,
+            598,
+            1952,
+            635
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        729,
+        1670,
+        844
+      ],
+      "lines": [
+        {
+          "text": "12 10 1915",
+          "box": [
+            1307,
+            766,
+            1588,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

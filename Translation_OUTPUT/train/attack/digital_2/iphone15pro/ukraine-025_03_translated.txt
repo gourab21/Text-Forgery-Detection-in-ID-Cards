@@ -1,0 +1,19 @@
+LE1
+OR: Мельник /
+EN: Miller /
+EN: Melnyk
+
+LE2
+OR: Юлія Сергіївна /
+EN: Yulia Sergiivna /
+OR: -оги
+EN: -ogy
+
+E3
+EN: 21.02.2207
+
+E4
+EN: 25.02.2019
+
+E5
+EN: 24.02.2042

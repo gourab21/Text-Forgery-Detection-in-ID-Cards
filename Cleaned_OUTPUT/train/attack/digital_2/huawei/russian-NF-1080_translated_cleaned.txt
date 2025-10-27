@@ -1,0 +1,21 @@
+LE1
+EN: Mihaylova /
+OR: Михайлова /
+EN: Mikhailova
+
+LE2
+EN: Well
+OR: Pa
+EN: Vera Nikolaevna /
+OR: Вера Николаевна /
+EN: Vuchaana all
+OR: Vuchaana sve
+
+E3
+EN: 18.12.201
+
+E4
+EN: 02.04.2019
+
+E5
+EN: 30.03..20 M

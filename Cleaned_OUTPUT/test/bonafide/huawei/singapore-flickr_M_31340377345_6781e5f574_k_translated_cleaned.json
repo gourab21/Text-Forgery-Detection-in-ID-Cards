@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\singapore-flickr_M_31340377345_6781e5f574_k_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\singapore-flickr_M_31340377345_6781e5f574_k.jpg",
+  "width": 3162,
+  "height": 1982,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            799,
+            748,
+            1585,
+            839
+          ],
+          "original_text": "Wei Tsang Ooi",
+          "translated_en": "Wei Tsang Ooi"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            824,
+            1476,
+            1399,
+            1555
+          ],
+          "original_text": "1973-11-18",
+          "translated_en": "1973-11-18"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1883,
+            1756,
+            2463,
+            1835
+          ],
+          "original_text": "1983-11-18",
+          "translated_en": "1983-11-18"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_31340377345_6781e5f574_k_translated_cleaned.jpg"
+}

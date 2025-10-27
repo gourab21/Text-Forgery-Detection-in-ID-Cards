@@ -1,0 +1,18 @@
+LE1
+OR: Васильева /
+EN: Vasilyeva /
+EN: Vasilleva
+
+LE2
+OR: Людмила Анатольевна / В
+EN: Lyudmila Anatolyevna / V
+EN: Lnasella Ana levna
+
+E3
+EN: 28.08.2025
+
+E4
+EN: 20.08.2015
+
+E5
+EN: 17.08.199

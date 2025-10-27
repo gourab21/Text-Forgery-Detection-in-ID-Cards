@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\chinese-NF-1014_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\chinese-NF-1014.jpg",
+  "width": 3192,
+  "height": 1970,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1093,
+            667,
+            1250,
+            766
+          ],
+          "original_text": "起算 越",
+          "translated_en": "Starting from"
+        },
+        {
+          "box": [
+            1087,
+            775,
+            1509,
+            858
+          ],
+          "original_text": "Zennferg",
+          "translated_en": "Zennferg"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1979,
+            1131,
+            2510,
+            1203
+          ],
+          "original_text": "22 Dec 11024",
+          "translated_en": "22 Dec 11024"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1972,
+            1419,
+            2503,
+            1493
+          ],
+          "original_text": "31 May 2012",
+          "translated_en": "31 May 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1067,
+            1697,
+            1624,
+            1797
+          ],
+          "original_text": "29 May 493",
+          "translated_en": "29 May 493"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1014_translated_cleaned.jpg"
+}

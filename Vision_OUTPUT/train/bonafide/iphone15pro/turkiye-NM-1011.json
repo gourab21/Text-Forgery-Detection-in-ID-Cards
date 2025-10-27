@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\turkiye-NM-1011.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        786,
+        786,
+        1605,
+        940
+      ],
+      "lines": [
+        {
+          "text": "Sami",
+          "box": [
+            853,
+            831,
+            1024,
+            883
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        783,
+        574,
+        1604,
+        734
+      ],
+      "lines": [
+        {
+          "text": "Ergin",
+          "box": [
+            862,
+            637,
+            1034,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        782,
+        987,
+        1575,
+        1136
+      ],
+      "lines": [
+        {
+          "text": "19.06.1986",
+          "box": [
+            855,
+            1028,
+            1234,
+            1088
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        788,
+        1397,
+        1564,
+        1559
+      ],
+      "lines": [
+        {
+          "text": "05.09.2037",
+          "box": [
+            844,
+            1437,
+            1228,
+            1492
+          ]
+        }
+      ]
+    }
+  ]
+}

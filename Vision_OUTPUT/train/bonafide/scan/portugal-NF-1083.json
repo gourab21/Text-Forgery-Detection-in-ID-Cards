@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NF-1083.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES OLIVEIRA",
+          "box": [
+            690,
+            338,
+            1274,
+            385
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            687,
+            397,
+            790,
+            434
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "31 07 2003",
+          "box": [
+            1704,
+            597,
+            1993,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "28 07 2033",
+          "box": [
+            1300,
+            766,
+            1585,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\usa-136_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\usa-136_03.jpg",
+  "width": 1996,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            645,
+            463,
+            942,
+            517
+          ],
+          "original_text": "JavanahHIII",
+          "translated_en": "JavanahHIII",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            650,
+            529,
+            1006,
+            577
+          ],
+          "original_text": "518 Spruce St",
+          "translated_en": "518 Spruce St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            650,
+            586,
+            1138,
+            629
+          ],
+          "original_text": "Portland ME 04101",
+          "translated_en": "Portland ME 04101",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1502,
+            762,
+            1893,
+            799
+          ],
+          "original_text": "DOB : 04-20-18",
+          "translated_en": "DOB : 04-20-18",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-136_03_translated.jpg"
+}

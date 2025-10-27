@@ -1,0 +1,22 @@
+E1
+EN: Poseph
+
+E2
+EN: Salehi
+
+L1
+EN: alliance
+OR: پیمان
+
+L2
+EN: Salehi
+OR: صالحی
+
+E3
+EN: 02 / 02 / -204
+
+E4
+EN: 02/02/2015
+
+E5
+EN: 02/02/2031

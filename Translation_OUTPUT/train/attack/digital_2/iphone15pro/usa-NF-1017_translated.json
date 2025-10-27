@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1017.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1017.jpg",
+  "width": 2811,
+  "height": 1791,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            913,
+            679,
+            1381,
+            730
+          ],
+          "original_text": "Ciliam Queen",
+          "translated_en": "Ciliam Queen",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            919,
+            732,
+            1622,
+            838
+          ],
+          "original_text": "345 Cherry Ln RATE",
+          "translated_en": "345 Cherry Ln RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            919,
+            834,
+            1613,
+            895
+          ],
+          "original_text": "Nashville TN 37212",
+          "translated_en": "Nashville TN 37212",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2111,
+            1084,
+            2675,
+            1138
+          ],
+          "original_text": "DOB : 11-30-28",
+          "translated_en": "DOB : 11-30-28",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1017_translated.jpg"
+}

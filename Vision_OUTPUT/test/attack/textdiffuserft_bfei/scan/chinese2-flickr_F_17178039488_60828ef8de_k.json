@@ -1,0 +1,104 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_F_17178039488_60828ef8de_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        396,
+        1193,
+        590
+      ],
+      "lines": [
+        {
+          "text": "黄丹",
+          "box": [
+            696,
+            422,
+            800,
+            473
+          ]
+        },
+        {
+          "text": "Wiliaman",
+          "box": [
+            692,
+            487,
+            993,
+            531
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1207,
+        658,
+        1672,
+        777
+      ],
+      "lines": [
+        {
+          "text": "19 Feb 1999",
+          "box": [
+            1248,
+            707,
+            1587,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1211,
+        843,
+        1690,
+        967
+      ],
+      "lines": [
+        {
+          "text": "25 Sep 1955",
+          "box": [
+            1244,
+            891,
+            1612,
+            944
+          ]
+        },
+        {
+          "text": "0.0",
+          "box": [
+            1659,
+            929,
+            1685,
+            966
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        642,
+        1045,
+        1119,
+        1178
+      ],
+      "lines": [
+        {
+          "text": "05 Mar 2048",
+          "box": [
+            683,
+            1079,
+            1038,
+            1120
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+E1
+EN: Name
+EN: Loyla
+
+E2
+EN: Hosseini
+
+L1
+OR: ليلا
+EN: At night
+
+L2
+OR: حسینی
+EN: Hosseini
+
+E3
+EN: 29/01/2030
+
+E4
+EN: 29/01/2021
+
+E5
+EN: 29/01/2035

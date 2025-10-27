@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "CHELSEA MARTINS",
+          "box": [
+            688,
+            341,
+            1207,
+            387
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            682,
+            393,
+            977,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "27 04 2001",
+          "box": [
+            1696,
+            601,
+            1952,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "30 04 2084",
+          "box": [
+            1297,
+            770,
+            1582,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

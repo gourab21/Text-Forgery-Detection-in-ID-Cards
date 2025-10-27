@@ -1,0 +1,13 @@
+LE1
+EN: Applicable
+OR: 適用
+EN: Richado
+
+E2
+EN: 12 Jan 1944
+
+E3
+EN: 15 Aug 2016
+
+E4
+EN: 12 Apr 2050

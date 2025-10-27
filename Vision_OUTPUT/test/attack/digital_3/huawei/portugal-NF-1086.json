@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        470,
+        2340,
+        745
+      ],
+      "lines": [
+        {
+          "text": "RICHARDEEIRA",
+          "box": [
+            1115,
+            539,
+            1743,
+            603
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            1097,
+            624,
+            1403,
+            686
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2640,
+        907,
+        3202,
+        1058
+      ],
+      "lines": [
+        {
+          "text": "09 05 2077",
+          "box": [
+            2738,
+            947,
+            3132,
+            1015
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1988,
+        1150,
+        2678,
+        1332
+      ],
+      "lines": [
+        {
+          "text": "29 03 2005",
+          "box": [
+            2093,
+            1215,
+            2555,
+            1279
+          ]
+        }
+      ]
+    }
+  ]
+}

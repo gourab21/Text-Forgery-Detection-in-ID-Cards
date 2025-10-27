@@ -1,0 +1,73 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\turkiye-126_03.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\turkiye-126_03.jpg",
+  "width": 2824,
+  "height": 1804,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            932,
+            944,
+            1105,
+            1009
+          ],
+          "original_text": "Chri",
+          "translated_en": "Chri",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            924,
+            727,
+            1173,
+            778
+          ],
+          "original_text": "Yılmaz",
+          "translated_en": "Yılmaz",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            941,
+            1164,
+            1344,
+            1223
+          ],
+          "original_text": "12.04.1083",
+          "translated_en": "12.04.1083",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            949,
+            1616,
+            1348,
+            1676
+          ],
+          "original_text": "27.02.2024",
+          "translated_en": "27.02.2024",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-126_03_translated.jpg"
+}

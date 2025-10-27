@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\arabic-NF-1053_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\arabic-NF-1053.jpg",
+  "width": 1998,
+  "height": 1243,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            749,
+            469,
+            1221,
+            525
+          ],
+          "original_text": "Loado il camai",
+          "translated_en": "Loado il camai"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            734,
+            333,
+            1095,
+            390
+          ],
+          "original_text": "الغامدي ليلى",
+          "translated_en": "Al-Ghamdi Laila"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            747,
+            779,
+            1103,
+            835
+          ],
+          "original_text": "16 Feb 2011",
+          "translated_en": "16 Feb 2011"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            744,
+            944,
+            1110,
+            990
+          ],
+          "original_text": "11 Nov 2024",
+          "translated_en": "11 Nov 2024"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            741,
+            1106,
+            1112,
+            1160
+          ],
+          "original_text": "11 Nov 2017",
+          "translated_en": "11 Nov 2017"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1275,
+            789,
+            1743,
+            847
+          ],
+          "original_text": "١٦ / فبراير / ۱۹۸۸",
+          "translated_en": "February 16, 1988"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1270,
+            950,
+            1759,
+            1003
+          ],
+          "original_text": "۱۱ / نوفمبر / ٢٠٢٤",
+          "translated_en": "November 11, 2024"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1266,
+            1110,
+            1876,
+            1171
+          ],
+          "original_text": "۱۱ / نوفمبر / ۲٠٣٤١",
+          "translated_en": "November 11, 2034"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1053_translated_cleaned.jpg"
+}

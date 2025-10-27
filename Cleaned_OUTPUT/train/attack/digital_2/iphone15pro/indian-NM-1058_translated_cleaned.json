@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\indian-NM-1058_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\indian-NM-1058.jpg",
+  "width": 2814,
+  "height": 1768,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            970,
+            664,
+            1459,
+            719
+          ],
+          "original_text": "CHOWDHURY",
+          "translated_en": "CHOWDHURY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            972,
+            878,
+            1343,
+            947
+          ],
+          "original_text": "AEFIER JJ",
+          "translated_en": "AEFIER JJ"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            979,
+            1103,
+            1436,
+            1170
+          ],
+          "original_text": "14/02/2032",
+          "translated_en": "14/02/2032"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            985,
+            1519,
+            1422,
+            1585
+          ],
+          "original_text": "29/04/2008",
+          "translated_en": "29/04/2008"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1987,
+            1515,
+            2457,
+            1574
+          ],
+          "original_text": "29/04/2016",
+          "translated_en": "29/04/2016"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NM-1058_translated_cleaned.jpg"
+}

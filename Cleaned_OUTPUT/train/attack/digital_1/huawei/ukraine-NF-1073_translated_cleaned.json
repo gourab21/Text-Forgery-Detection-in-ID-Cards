@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\ukraine-NF-1073_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\ukraine-NF-1073.jpg",
+  "width": 3190,
+  "height": 1962,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1034,
+            458,
+            1534,
+            540
+          ],
+          "original_text": "Кириленко /",
+          "translated_en": "Kyrylenko /"
+        },
+        {
+          "box": [
+            1031,
+            551,
+            1412,
+            613
+          ],
+          "original_text": "Kyrylenko",
+          "translated_en": "Kyrylenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1023,
+            746,
+            1669,
+            828
+          ],
+          "original_text": "Анна Павлівна /",
+          "translated_en": "Anna Pavlovna /"
+        },
+        {
+          "box": [
+            1021,
+            841,
+            1198,
+            896
+          ],
+          "original_text": "Aerr",
+          "translated_en": "Air"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1022,
+            1072,
+            1468,
+            1135
+          ],
+          "original_text": "22.10.11992",
+          "translated_en": "22.10.11992"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1013,
+            1512,
+            1444,
+            1571
+          ],
+          "original_text": "07.04.2013",
+          "translated_en": "07.04.2013"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1009,
+            1820,
+            1457,
+            1880
+          ],
+          "original_text": "07.04.2008",
+          "translated_en": "07.04.2008"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1073_translated_cleaned.jpg"
+}

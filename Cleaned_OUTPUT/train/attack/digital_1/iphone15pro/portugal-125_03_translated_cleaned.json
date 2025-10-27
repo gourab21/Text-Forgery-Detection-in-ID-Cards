@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\portugal-125_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\portugal-125_03.jpg",
+  "width": 2634,
+  "height": 1611,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            907,
+            439,
+            1441,
+            492
+          ],
+          "original_text": "CEBORAHIBEIRO",
+          "translated_en": "CEBORAHIBEIRO"
+        },
+        {
+          "box": [
+            901,
+            517,
+            1293,
+            566
+          ],
+          "original_text": "João Carlos",
+          "translated_en": "João Carlos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2245,
+            770,
+            2629,
+            828
+          ],
+          "original_text": "22 05 2035",
+          "translated_en": "22 05 2035"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1714,
+            988,
+            2098,
+            1038
+          ],
+          "original_text": "15 07 1997",
+          "translated_en": "15 07 1997"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-125_03_translated_cleaned.jpg"
+}

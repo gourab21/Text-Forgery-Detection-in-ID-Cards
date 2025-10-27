@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1046.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        856,
+        612,
+        1758,
+        951
+      ],
+      "lines": [
+        {
+          "text": "Troylie White",
+          "box": [
+            925,
+            672,
+            1418,
+            755
+          ]
+        },
+        {
+          "text": "881 Willow D RATE",
+          "box": [
+            927,
+            748,
+            1617,
+            844
+          ]
+        },
+        {
+          "text": "Burlington VT 05401",
+          "box": [
+            931,
+            837,
+            1669,
+            924
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2063,
+        1085,
+        2767,
+        1230
+      ],
+      "lines": [
+        {
+          "text": "DOB : 15-10-22",
+          "box": [
+            2124,
+            1094,
+            2679,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

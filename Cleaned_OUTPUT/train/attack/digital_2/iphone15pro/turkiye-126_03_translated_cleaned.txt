@@ -1,0 +1,12 @@
+E2
+EN: Ausa
+
+E1
+EN: LIDE IS
+EN: Yılmaz
+
+E3
+EN: 13.02.100
+
+E4
+EN: 05.10 . 1999

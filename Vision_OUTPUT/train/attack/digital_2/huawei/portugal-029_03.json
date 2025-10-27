@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-029_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        471,
+        2346,
+        747
+      ],
+      "lines": [
+        {
+          "text": "PANERA OWERA",
+          "box": [
+            1098,
+            531,
+            1932,
+            619
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            1090,
+            627,
+            1319,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2647,
+        908,
+        3210,
+        1062
+      ],
+      "lines": [
+        {
+          "text": "03 06 2003",
+          "box": [
+            2746,
+            946,
+            3209,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1993,
+        1153,
+        2684,
+        1335
+      ],
+      "lines": [
+        {
+          "text": "31052042",
+          "box": [
+            2088,
+            1210,
+            2577,
+            1287
+          ]
+        }
+      ]
+    }
+  ]
+}

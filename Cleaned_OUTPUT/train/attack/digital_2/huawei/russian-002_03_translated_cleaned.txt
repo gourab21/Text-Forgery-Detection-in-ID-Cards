@@ -1,0 +1,19 @@
+LE1
+EN: Vasilyeva /
+OR: Васильева /
+EN: Vasilieva
+
+LE2
+EN: Lyudmila Anatolyevna / in
+OR: Людмила Анатольевна / в
+EN: Despite, a Anaõõiena
+OR: Licha , a Anaõõiena
+
+E3
+EN: 28.08..195
+
+E4
+EN: 20.08.2015
+
+E5
+EN: 17.08.2012

@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_37019084692_714cba8ac1_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        580,
+        573,
+        2094,
+        849
+      ],
+      "lines": [
+        {
+          "text": "Jun Lee",
+          "box": [
+            703,
+            662,
+            1066,
+            722
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        646,
+        1230,
+        1442,
+        1400
+      ],
+      "lines": [
+        {
+          "text": "1987-07-13",
+          "box": [
+            723,
+            1286,
+            1224,
+            1356
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1568,
+        1493,
+        2313,
+        1658
+      ],
+      "lines": [
+        {
+          "text": "1997-07-13",
+          "box": [
+            1646,
+            1529,
+            2149,
+            1600
+          ]
+        }
+      ]
+    }
+  ]
+}

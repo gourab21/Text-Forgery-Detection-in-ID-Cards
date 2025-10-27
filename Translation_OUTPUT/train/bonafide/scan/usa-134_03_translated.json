@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-134_03.json",
+  "image_relative": "train\\bonafide\\scan\\usa-134_03.jpg",
+  "width": 1995,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            657,
+            466,
+            1027,
+            509
+          ],
+          "original_text": "Jennifer Miller",
+          "translated_en": "Jennifer Miller",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            657,
+            525,
+            1136,
+            569
+          ],
+          "original_text": "9202 Lakeside Ave",
+          "translated_en": "9202 Lakeside Ave",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            655,
+            583,
+            1111,
+            627
+          ],
+          "original_text": "Orlando FL 32808",
+          "translated_en": "Orlando FL 32808",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1496,
+            776,
+            1891,
+            819
+          ],
+          "original_text": "DOB : 08-01-95",
+          "translated_en": "DOB : 08-01-95",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-134_03_translated.jpg"
+}

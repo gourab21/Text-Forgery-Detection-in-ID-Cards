@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_F_32272417100_7c8c616f37_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        658,
+        2384,
+        975
+      ],
+      "lines": [
+        {
+          "text": "Pamel Rosi",
+          "box": [
+            803,
+            742,
+            1418,
+            827
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1412,
+        1641,
+        1607
+      ],
+      "lines": [
+        {
+          "text": "12 06 6611",
+          "box": [
+            822,
+            1477,
+            1382,
+            1555
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1784,
+        1715,
+        2633,
+        1904
+      ],
+      "lines": [
+        {
+          "text": "04 11 1087",
+          "box": [
+            1878,
+            1752,
+            2451,
+            1833
+          ]
+        }
+      ]
+    }
+  ]
+}

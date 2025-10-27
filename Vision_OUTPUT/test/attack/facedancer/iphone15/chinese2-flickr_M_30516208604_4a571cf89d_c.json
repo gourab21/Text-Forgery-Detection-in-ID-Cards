@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\chinese2-flickr_M_30516208604_4a571cf89d_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        855,
+        548,
+        1649,
+        819
+      ],
+      "lines": [
+        {
+          "text": "黄磊",
+          "box": [
+            942,
+            594,
+            1083,
+            662
+          ]
+        },
+        {
+          "text": "Huang Lei",
+          "box": [
+            939,
+            672,
+            1316,
+            756
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1668,
+        913,
+        2311,
+        1078
+      ],
+      "lines": [
+        {
+          "text": "09 JUN 1986",
+          "box": [
+            1716,
+            959,
+            2206,
+            1023
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1673,
+        1169,
+        2337,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "29 JUL 2011",
+          "box": [
+            1722,
+            1212,
+            2191,
+            1275
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        887,
+        1449,
+        1548,
+        1632
+      ],
+      "lines": [
+        {
+          "text": "29 JUL 2031",
+          "box": [
+            952,
+            1491,
+            1426,
+            1554
+          ]
+        }
+      ]
+    }
+  ]
+}

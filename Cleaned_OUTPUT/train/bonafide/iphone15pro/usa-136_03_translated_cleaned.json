@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\iphone15pro\\usa-136_03_translated.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-136_03.jpg",
+  "width": 2815,
+  "height": 1785,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            915,
+            674,
+            1309,
+            733
+          ],
+          "original_text": "Jessica Hill",
+          "translated_en": "Jessica Hill"
+        },
+        {
+          "box": [
+            916,
+            729,
+            1619,
+            839
+          ],
+          "original_text": "518 Spruce St RATE",
+          "translated_en": "518 Spruce St RATE"
+        },
+        {
+          "box": [
+            920,
+            835,
+            1601,
+            899
+          ],
+          "original_text": "Portland ME 04101",
+          "translated_en": "Portland ME 04101"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2111,
+            1084,
+            2662,
+            1141
+          ],
+          "original_text": "04-20-89",
+          "translated_en": "04-20-89"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-136_03_translated_cleaned.jpg"
+}

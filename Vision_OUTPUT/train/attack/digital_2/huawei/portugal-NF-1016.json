@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        990,
+        471,
+        2337,
+        747
+      ],
+      "lines": [
+        {
+          "text": "SMRANO MERLES",
+          "box": [
+            1089,
+            517,
+            1975,
+            626
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            1088,
+            628,
+            1505,
+            689
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2637,
+        906,
+        3198,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "06 08 1997",
+          "box": [
+            2737,
+            944,
+            3197,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1985,
+        1151,
+        2674,
+        1333
+      ],
+      "lines": [
+        {
+          "text": "28 03 90",
+          "box": [
+            2085,
+            1209,
+            2560,
+            1280
+          ]
+        }
+      ]
+    }
+  ]
+}

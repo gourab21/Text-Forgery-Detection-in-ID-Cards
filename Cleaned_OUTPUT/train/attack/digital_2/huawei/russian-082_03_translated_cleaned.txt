@@ -1,0 +1,20 @@
+LE1
+EN: Ershov /
+OR: Ершов /
+EN: Ershov
+
+LE2
+EN: re
+OR: ре
+EN: Roman Fedorovich / C
+OR: Роман Федорович / C
+EN: RD.DLL omvisk
+
+E3
+EN: 16.08.1-20-1
+
+E4
+EN: 03.12.2013
+
+E5
+EN: 01.12.2005

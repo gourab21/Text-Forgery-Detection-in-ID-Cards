@@ -1,0 +1,20 @@
+LE1
+OR: Михайлова /
+EN: Mihaylova /
+EN: Mikhailova
+
+LE2
+OR: Pa
+EN: Well
+OR: Вера Николаевна /
+EN: Vera Nikolaevna /
+EN: Bria Nikolaevna
+
+E3
+EN: 08.05.1984
+
+E4
+EN: 02.04.2019
+
+E5
+EN: 14.05.2095

@@ -1,0 +1,19 @@
+LE1
+EN: Kovaleva /
+OR: Ковалева /
+EN: Kovalev
+OR: Kovaleva
+
+LE2
+EN: Elena Sergeevna / E
+OR: Елена Сергеевна / E
+EN: Franc
+
+E3
+EN: 22.05.1973
+
+E4
+EN: 21.05.2021
+
+E5
+EN: 04.07.2022

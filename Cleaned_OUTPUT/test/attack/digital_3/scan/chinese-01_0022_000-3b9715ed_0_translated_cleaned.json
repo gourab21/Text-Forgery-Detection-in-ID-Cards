@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-01_0022_000-3b9715ed_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-01_0022_000-3b9715ed_0.jpg",
+  "width": 1990,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            681,
+            425,
+            793,
+            480
+          ],
+          "original_text": "AL",
+          "translated_en": "AL"
+        },
+        {
+          "box": [
+            694,
+            489,
+            941,
+            540
+          ],
+          "original_text": "Nicoleing",
+          "translated_en": "Nicoleing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1239,
+            717,
+            1554,
+            763
+          ],
+          "original_text": "02 Sep 1973",
+          "translated_en": "02 Sep 1973"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1234,
+            899,
+            1544,
+            943
+          ],
+          "original_text": "17 Apr 2016",
+          "translated_en": "17 Apr 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            673,
+            1084,
+            985,
+            1131
+          ],
+          "original_text": "26 Sep 1927",
+          "translated_en": "26 Sep 1927"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-01_0022_000-3b9715ed_0_translated_cleaned.jpg"
+}

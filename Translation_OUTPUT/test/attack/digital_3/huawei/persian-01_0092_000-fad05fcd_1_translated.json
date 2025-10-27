@@ -1,0 +1,121 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\persian-01_0092_000-fad05fcd_1.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\persian-01_0092_000-fad05fcd_1.jpg",
+  "width": 3228,
+  "height": 2003,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1231,
+            456,
+            1432,
+            515
+          ],
+          "original_text": "Cher",
+          "translated_en": "Cher",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1234,
+            693,
+            1470,
+            756
+          ],
+          "original_text": "Nouri",
+          "translated_en": "Nouri",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2195,
+            473,
+            2330,
+            538
+          ],
+          "original_text": "سارا",
+          "translated_en": "Sara",
+          "detected_lang": "ur"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2182,
+            704,
+            2357,
+            774
+          ],
+          "original_text": "نوری",
+          "translated_en": "Optical",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1232,
+            956,
+            1677,
+            1024
+          ],
+          "original_text": "27/12/1939",
+          "translated_en": "27/12/1939",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1223,
+            1483,
+            1673,
+            1557
+          ],
+          "original_text": "14/06/2023",
+          "translated_en": "14/06/2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2171,
+            1501,
+            2625,
+            1566
+          ],
+          "original_text": "18/05/1977",
+          "translated_en": "18/05/1977",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-01_0092_000-fad05fcd_1_translated.jpg"
+}

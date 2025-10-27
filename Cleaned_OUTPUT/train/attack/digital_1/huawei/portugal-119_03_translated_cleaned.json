@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\portugal-119_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\portugal-119_03.jpg",
+  "width": 3213,
+  "height": 1973,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1104,
+            539,
+            1819,
+            608
+          ],
+          "original_text": "FELLYDDESTSILYA",
+          "translated_en": "FELLYDDESTSILYA"
+        },
+        {
+          "box": [
+            1102,
+            630,
+            1267,
+            694
+          ],
+          "original_text": "Luis",
+          "translated_en": "Luis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2749,
+            948,
+            3211,
+            1017
+          ],
+          "original_text": "06 02 2005",
+          "translated_en": "06 02 2005"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2091,
+            1218,
+            2578,
+            1281
+          ],
+          "original_text": "03 02 2010",
+          "translated_en": "03 02 2010"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-119_03_translated_cleaned.jpg"
+}

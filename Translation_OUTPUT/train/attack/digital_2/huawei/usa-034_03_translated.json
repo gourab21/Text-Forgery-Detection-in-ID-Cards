@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\huawei\\usa-034_03.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\usa-034_03.jpg",
+  "width": 3199,
+  "height": 1971,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1047,
+            742,
+            1567,
+            814
+          ],
+          "original_text": "Bavid Carter",
+          "translated_en": "Bavid Carter",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1038,
+            834,
+            1640,
+            901
+          ],
+          "original_text": "456 Pine Road",
+          "translated_en": "456 Pine Road",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1035,
+            926,
+            1955,
+            1000
+          ],
+          "original_text": "Winchester MA 01890",
+          "translated_en": "Winchester MA 01890",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2397,
+            1234,
+            3022,
+            1314
+          ],
+          "original_text": "DOB : 05-14-15",
+          "translated_en": "DOB : 05-14-15",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-034_03_translated.jpg"
+}

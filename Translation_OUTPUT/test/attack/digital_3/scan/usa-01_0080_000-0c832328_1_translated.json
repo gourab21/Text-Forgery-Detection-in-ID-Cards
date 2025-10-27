@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\usa-01_0080_000-0c832328_1.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-01_0080_000-0c832328_1.jpg",
+  "width": 1989,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            654,
+            466,
+            1025,
+            508
+          ],
+          "original_text": "Kleinam Brown",
+          "translated_en": "Kleinam Brown",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            650,
+            521,
+            1059,
+            574
+          ],
+          "original_text": "3714 Maple Ave",
+          "translated_en": "3714 Maple Ave",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            649,
+            582,
+            1063,
+            627
+          ],
+          "original_text": "Dallas TX 75235",
+          "translated_en": "Dallas TX 75235",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1491,
+            778,
+            1883,
+            828
+          ],
+          "original_text": "DOB : 09-07-71",
+          "translated_en": "DOB : 09-07-71",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-01_0080_000-0c832328_1_translated.jpg"
+}

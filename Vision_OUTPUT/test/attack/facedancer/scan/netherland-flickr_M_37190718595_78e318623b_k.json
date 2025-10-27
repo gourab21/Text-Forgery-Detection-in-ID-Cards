@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_37190718595_78e318623b_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "POSTMA",
+          "box": [
+            682,
+            324,
+            925,
+            369
+          ]
+        },
+        {
+          "text": "Henrike Petra",
+          "box": [
+            683,
+            390,
+            1072,
+            432
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            686,
+            460,
+            831,
+            503
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1968,
+        657
+      ],
+      "lines": [
+        {
+          "text": "06 03 1995",
+          "box": [
+            1562,
+            585,
+            1900,
+            633
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        729,
+        1961,
+        852
+      ],
+      "lines": [
+        {
+          "text": "19 09 2029",
+          "box": [
+            1537,
+            759,
+            1898,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1026.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        989,
+        474,
+        2335,
+        751
+      ],
+      "lines": [
+        {
+          "text": "SILVA RIBEIRO",
+          "box": [
+            1089,
+            540,
+            1732,
+            611
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            1090,
+            639,
+            1252,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2633,
+        912,
+        3194,
+        1066
+      ],
+      "lines": [
+        {
+          "text": "22 04 1970",
+          "box": [
+            2740,
+            953,
+            3193,
+            1018
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1983,
+        1158,
+        2671,
+        1341
+      ],
+      "lines": [
+        {
+          "text": "19 04 2024",
+          "box": [
+            2083,
+            1222,
+            2550,
+            1289
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-NF-1009.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        674,
+        1987,
+        1048
+      ],
+      "lines": [
+        {
+          "text": "Paul Roe",
+          "box": [
+            1044,
+            742,
+            1415,
+            802
+          ]
+        },
+        {
+          "text": "5678 Maple Dr",
+          "box": [
+            1040,
+            822,
+            1665,
+            927
+          ]
+        },
+        {
+          "text": "Rochester NY 14623",
+          "box": [
+            1043,
+            932,
+            1891,
+            998
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2332,
+        1194,
+        3128,
+        1355
+      ],
+      "lines": [
+        {
+          "text": "DOB : 26-01-04",
+          "box": [
+            2407,
+            1235,
+            3041,
+            1321
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E1
+EN: John Doe 2000 St ...
+EN: 1234 Elm RATE
+EN: Springfield IL 62704
+
+E2
+EN: DOB : 01-15-90

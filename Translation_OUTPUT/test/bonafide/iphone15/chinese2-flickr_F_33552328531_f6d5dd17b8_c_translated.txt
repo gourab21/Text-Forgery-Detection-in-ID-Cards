@@ -1,0 +1,13 @@
+LE1
+OR: 孙 萍
+EN: Sun Ping
+EN: Sun Ping
+
+E2
+EN: 29 APR 1988
+
+E3
+EN: 19 JAN 2012
+
+E4
+EN: 19 JAN 2032

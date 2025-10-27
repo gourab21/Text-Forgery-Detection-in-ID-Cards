@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\chinese-NF-1042_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\chinese-NF-1042.jpg",
+  "width": 1997,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            673,
+            434,
+            827,
+            482
+          ],
+          "original_text": "章子怡",
+          "translated_en": "Zhang Ziyi"
+        },
+        {
+          "box": [
+            672,
+            489,
+            932,
+            537
+          ],
+          "original_text": "Zariehang",
+          "translated_en": "Zariehang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1234,
+            699,
+            1532,
+            745
+          ],
+          "original_text": "9 Feb 1995",
+          "translated_en": "9 Feb 1995"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1238,
+            885,
+            1551,
+            933
+          ],
+          "original_text": "05 Apr 2021",
+          "translated_en": "05 Apr 2021"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            686,
+            1081,
+            1014,
+            1133
+          ],
+          "original_text": "04 Apr 2024",
+          "translated_en": "04 Apr 2024"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1042_translated_cleaned.jpg"
+}

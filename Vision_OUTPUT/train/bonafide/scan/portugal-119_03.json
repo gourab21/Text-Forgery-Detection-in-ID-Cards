@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-119_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES SILVA",
+          "box": [
+            693,
+            341,
+            1174,
+            385
+          ]
+        },
+        {
+          "text": "Luís",
+          "box": [
+            691,
+            397,
+            793,
+            436
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        575,
+        1992,
+        671
+      ],
+      "lines": [
+        {
+          "text": "06 02 1983",
+          "box": [
+            1704,
+            600,
+            1991,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1665,
+        845
+      ],
+      "lines": [
+        {
+          "text": "03 02 2025",
+          "box": [
+            1299,
+            766,
+            1586,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+E2
+EN: Eam
+
+E1
+EN: Soya
+EN: Tezcan
+
+E3
+EN: 17.09.2043
+
+E4
+EN: 27.10.2030

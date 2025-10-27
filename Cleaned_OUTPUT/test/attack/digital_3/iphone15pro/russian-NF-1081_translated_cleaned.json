@@ -1,0 +1,94 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\russian-NF-1081_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\russian-NF-1081.jpg",
+  "width": 2832,
+  "height": 1798,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1005,
+            388,
+            1289,
+            449
+          ],
+          "original_text": "Попова /",
+          "translated_en": "Popova /"
+        },
+        {
+          "box": [
+            1004,
+            464,
+            1230,
+            522
+          ],
+          "original_text": "Popova",
+          "translated_en": "Popova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1020,
+            757,
+            1737,
+            813
+          ],
+          "original_text": "Selenasia Vladimirovna",
+          "translated_en": "Selenasia Vladimirovna"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1018,
+            978,
+            1371,
+            1026
+          ],
+          "original_text": "10.10.2080",
+          "translated_en": "10.10.2080"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1371,
+            1371,
+            1418
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1034,
+            1637,
+            1381,
+            1687
+          ],
+          "original_text": "24.05.1908",
+          "translated_en": "24.05.1908"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1081_translated_cleaned.jpg"
+}

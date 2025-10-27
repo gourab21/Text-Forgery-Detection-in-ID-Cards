@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\arabic-NF-1040_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\arabic-NF-1040.jpg",
+  "width": 2000,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            745,
+            468,
+            1185,
+            522
+          ],
+          "original_text": "Mahley Jnif",
+          "translated_en": "Mahley Jnif"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            729,
+            327,
+            1078,
+            394
+          ],
+          "original_text": "الشريف منى",
+          "translated_en": "Sharif Mona"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            740,
+            779,
+            1110,
+            830
+          ],
+          "original_text": "21 Dec 2023",
+          "translated_en": "21 Dec 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            739,
+            944,
+            1097,
+            989
+          ],
+          "original_text": "17 Jun 2018",
+          "translated_en": "17 Jun 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            736,
+            1106,
+            1096,
+            1158
+          ],
+          "original_text": "14 Oct 2035",
+          "translated_en": "14 Oct 2035"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1269,
+            787,
+            1804,
+            844
+          ],
+          "original_text": "۲۱ / ديسمبر / ۱۹۸۳",
+          "translated_en": "December 21, 1983"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1269,
+            952,
+            1714,
+            1006
+          ],
+          "original_text": "١٧ / يونيو / / ۲۰۱۸",
+          "translated_en": "June 17, 2018"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1266,
+            1108,
+            1737,
+            1171
+          ],
+          "original_text": "١٤ / أكتوبر / ۲۰۳۳",
+          "translated_en": "October 14, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1040_translated_cleaned.jpg"
+}

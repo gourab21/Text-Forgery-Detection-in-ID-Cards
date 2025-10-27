@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-013_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        450,
+        2217,
+        715
+      ],
+      "lines": [
+        {
+          "text": "A ACHELAANDRANE",
+          "box": [
+            1030,
+            520,
+            1748,
+            582
+          ]
+        },
+        {
+          "text": "Carla Patrícia",
+          "box": [
+            1031,
+            603,
+            1554,
+            669
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2500,
+        868,
+        3032,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "13 07 2019",
+          "box": [
+            2591,
+            907,
+            3031,
+            971
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1883,
+        1102,
+        2536,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "05 02 2015",
+          "box": [
+            1969,
+            1158,
+            2421,
+            1223
+          ]
+        }
+      ]
+    }
+  ]
+}

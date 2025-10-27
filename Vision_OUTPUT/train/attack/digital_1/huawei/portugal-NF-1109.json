@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NF-1109.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        996,
+        474,
+        2350,
+        751
+      ],
+      "lines": [
+        {
+          "text": "CICHARDANITOS .",
+          "box": [
+            1100,
+            539,
+            1774,
+            614
+          ]
+        },
+        {
+          "text": "Sara",
+          "box": [
+            1096,
+            633,
+            1280,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2652,
+        913,
+        3216,
+        1068
+      ],
+      "lines": [
+        {
+          "text": "09 10 2236",
+          "box": [
+            2752,
+            955,
+            3207,
+            1026
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1997,
+        1159,
+        2690,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "06 10 2025",
+          "box": [
+            2096,
+            1224,
+            2580,
+            1290
+          ]
+        }
+      ]
+    }
+  ]
+}

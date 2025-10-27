@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_4188233342_8473de8906_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1007,
+        475,
+        2067,
+        886
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            1086,
+            531,
+            1450,
+            606
+          ]
+        },
+        {
+          "text": "Lisaem Geradus",
+          "box": [
+            1099,
+            636,
+            1872,
+            711
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            1094,
+            752,
+            1328,
+            823
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2402,
+        918,
+        3182,
+        1081
+      ],
+      "lines": [
+        {
+          "text": "07 04 2043",
+          "box": [
+            2527,
+            965,
+            3065,
+            1030
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2361,
+        1198,
+        3170,
+        1401
+      ],
+      "lines": [
+        {
+          "text": "12 02 1971",
+          "box": [
+            2492,
+            1242,
+            3076,
+            1328
+          ]
+        }
+      ]
+    }
+  ]
+}

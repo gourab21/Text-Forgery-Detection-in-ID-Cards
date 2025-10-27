@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-119_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        995,
+        472,
+        2348,
+        748
+      ],
+      "lines": [
+        {
+          "text": "FELLYDDESTSILYA",
+          "box": [
+            1104,
+            539,
+            1819,
+            608
+          ]
+        },
+        {
+          "text": "Luis",
+          "box": [
+            1102,
+            630,
+            1267,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2649,
+        909,
+        3213,
+        1063
+      ],
+      "lines": [
+        {
+          "text": "06 02 2005",
+          "box": [
+            2749,
+            948,
+            3211,
+            1017
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1995,
+        1155,
+        2687,
+        1337
+      ],
+      "lines": [
+        {
+          "text": "03 02 2010",
+          "box": [
+            2091,
+            1218,
+            2578,
+            1281
+          ]
+        }
+      ]
+    }
+  ]
+}

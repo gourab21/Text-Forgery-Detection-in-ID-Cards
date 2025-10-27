@@ -1,0 +1,137 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\arabic-024_03.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\arabic-024_03.jpg",
+  "width": 2769,
+  "height": 1748,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1045,
+            661,
+            1625,
+            739
+          ],
+          "original_text": "Richardayam",
+          "translated_en": "Richardayam",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            989,
+            475,
+            1344,
+            567
+          ],
+          "original_text": "خیام عمر",
+          "translated_en": "Omar Khayyam",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1039,
+            1105,
+            1532,
+            1170
+          ],
+          "original_text": "23 Jul 1963",
+          "translated_en": "23 Jul 1963",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1043,
+            1327,
+            1531,
+            1406
+          ],
+          "original_text": "18 Apr 2024",
+          "translated_en": "18 Apr 2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1041,
+            1568,
+            1540,
+            1640
+          ],
+          "original_text": "29 Apr 1955",
+          "translated_en": "29 Apr 1955",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1775,
+            1070,
+            2412,
+            1176
+          ],
+          "original_text": "٠٩ / أكتوبر / ۱۹۹۰ ١٩٩",
+          "translated_en": "October 9, 1990",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1774,
+            1304,
+            2402,
+            1405
+          ],
+          "original_text": "١٨ / أبريل / ٢٠٢٤",
+          "translated_en": "April 18, 2024",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1780,
+            1537,
+            2406,
+            1641
+          ],
+          "original_text": "١٨ / أبريل / ٢٠٣٤",
+          "translated_en": "April 18, 2034",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-024_03_translated.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_50611940256_8405427c78_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        656,
+        654,
+        2374,
+        969
+      ],
+      "lines": [
+        {
+          "text": "Arjun Das",
+          "box": [
+            791,
+            745,
+            1335,
+            842
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        732,
+        1404,
+        1634,
+        1598
+      ],
+      "lines": [
+        {
+          "text": "1965-02-28",
+          "box": [
+            823,
+            1475,
+            1393,
+            1549
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1776,
+        1705,
+        2622,
+        1893
+      ],
+      "lines": [
+        {
+          "text": "1975-02-28",
+          "box": [
+            1878,
+            1752,
+            2456,
+            1832
+          ]
+        }
+      ]
+    }
+  ]
+}

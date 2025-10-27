@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\chinese-NF-1088_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\chinese-NF-1088.jpg",
+  "width": 2630,
+  "height": 1611,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            895,
+            555,
+            1036,
+            614
+          ],
+          "original_text": "豪 明",
+          "translated_en": "Go Akira"
+        },
+        {
+          "box": [
+            905,
+            634,
+            1187,
+            688
+          ],
+          "original_text": "Btepheno",
+          "translated_en": "Btepheno"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1631,
+            921,
+            2072,
+            975
+          ],
+          "original_text": "25 Nov 2024",
+          "translated_en": "25 Nov 2024"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1628,
+            1156,
+            2050,
+            1212
+          ],
+          "original_text": "15 Aug 2016",
+          "translated_en": "15 Aug 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            887,
+            1396,
+            1313,
+            1454
+          ],
+          "original_text": "13 Aug 2041",
+          "translated_en": "13 Aug 2041"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1088_translated_cleaned.jpg"
+}

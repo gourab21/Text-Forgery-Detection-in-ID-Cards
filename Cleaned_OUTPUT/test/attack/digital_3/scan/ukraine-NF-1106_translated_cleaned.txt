@@ -1,0 +1,19 @@
+LE1
+EN: Frost /
+OR: Мороз /
+EN: Frost
+OR: Moroz
+
+LE2
+EN: Iryna Oleksandrivna
+OR: Ірина Олександрівна
+EN: Amyna
+
+E3
+EN: 08.02.1992
+
+E4
+EN: 21.12.2023
+
+E5
+EN: 05.03.1975

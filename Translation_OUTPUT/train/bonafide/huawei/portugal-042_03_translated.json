@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\bonafide\\huawei\\portugal-042_03.json",
+  "image_relative": "train\\bonafide\\huawei\\portugal-042_03.jpg",
+  "width": 3206,
+  "height": 1963,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1107,
+            530,
+            1776,
+            600
+          ],
+          "original_text": "PEREIRA COSTA",
+          "translated_en": "PEREIRA COSTA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1103,
+            627,
+            1341,
+            684
+          ],
+          "original_text": "Pedro",
+          "translated_en": "Pedro",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2749,
+            946,
+            3205,
+            1011
+          ],
+          "original_text": "05 08 1991",
+          "translated_en": "05 08 1991",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2092,
+            1210,
+            2560,
+            1276
+          ],
+          "original_text": "02 08 2031",
+          "translated_en": "02 08 2031",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-042_03_translated.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-026_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        893,
+        429,
+        2107,
+        680
+      ],
+      "lines": [
+        {
+          "text": "F HAIZTOPHR ] } }",
+          "box": [
+            978,
+            490,
+            1805,
+            573
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            976,
+            593,
+            1178,
+            650
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2377,
+        827,
+        2883,
+        966
+      ],
+      "lines": [
+        {
+          "text": "01 09 1998",
+          "box": [
+            2447,
+            835,
+            2861,
+            895
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1790,
+        1050,
+        2411,
+        1215
+      ],
+      "lines": [
+        {
+          "text": "29 08 2140",
+          "box": [
+            1876,
+            1090,
+            2306,
+            1148
+          ]
+        }
+      ]
+    }
+  ]
+}

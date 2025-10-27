@@ -1,0 +1,20 @@
+LE1
+EN: Petrov /
+OR: Петров /
+EN: Petrov
+
+LE2
+EN: ra
+OR: ра
+EN: Nikolai Nikolaevich /
+OR: Николай Николаевич /
+EN: Christo
+
+E3
+EN: 22.08.2025
+
+E4
+EN: 21.08.2020
+
+E5
+EN: 20.01.1932

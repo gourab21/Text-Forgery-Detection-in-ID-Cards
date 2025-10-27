@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_14867283357_afe052b7e3_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "width": 3203,
+  "height": 2043,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1078,
+            530,
+            1490,
+            607
+          ],
+          "original_text": "DE JONG",
+          "translated_en": "DE JONG"
+        },
+        {
+          "box": [
+            1079,
+            624,
+            1849,
+            713
+          ],
+          "original_text": "Tonyake Cornels",
+          "translated_en": "Tonyake Cornels"
+        },
+        {
+          "box": [
+            1079,
+            749,
+            1244,
+            821
+          ],
+          "original_text": "Ilse",
+          "translated_en": "Ilse"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2509,
+            955,
+            3039,
+            1033
+          ],
+          "original_text": "26 01 1928",
+          "translated_en": "26 01 1928"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2470,
+            1236,
+            3054,
+            1323
+          ],
+          "original_text": "27 04 1993",
+          "translated_en": "27 04 1993"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_14867283357_afe052b7e3_c_translated_cleaned.jpg"
+}

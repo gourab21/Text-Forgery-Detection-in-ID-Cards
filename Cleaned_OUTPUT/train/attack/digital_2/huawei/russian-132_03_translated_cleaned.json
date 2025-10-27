@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\russian-132_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\russian-132_03.jpg",
+  "width": 3193,
+  "height": 1980,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1155,
+            418,
+            1556,
+            488
+          ],
+          "original_text": "Кузнецов /",
+          "translated_en": "Kuznetsov /"
+        },
+        {
+          "box": [
+            1152,
+            502,
+            1518,
+            557
+          ],
+          "original_text": "Kuznetsov",
+          "translated_en": "Kuznetsov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1144,
+            747,
+            1939,
+            833
+          ],
+          "original_text": "Сергей Дмитриевич /",
+          "translated_en": "Sergey Dmitrievich /"
+        },
+        {
+          "box": [
+            1142,
+            833,
+            1403,
+            886
+          ],
+          "original_text": "Sachae",
+          "translated_en": "Sachae"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1139,
+            1073,
+            1563,
+            1153
+          ],
+          "original_text": "11.12.2037",
+          "translated_en": "11.12.2037"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1133,
+            1520,
+            1530,
+            1579
+          ],
+          "original_text": "14.10.2020",
+          "translated_en": "14.10.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1123,
+            1816,
+            1530,
+            1879
+          ],
+          "original_text": "12.10.1.9 8",
+          "translated_en": "12.10.1.9 8"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-132_03_translated_cleaned.jpg"
+}

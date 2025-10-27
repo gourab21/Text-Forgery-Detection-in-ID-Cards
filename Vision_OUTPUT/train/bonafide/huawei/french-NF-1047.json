@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-NF-1047.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        954,
+        420,
+        1897,
+        566
+      ],
+      "lines": [
+        {
+          "text": "THOMAS",
+          "box": [
+            1046,
+            460,
+            1377,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        945,
+        692,
+        2010,
+        868
+      ],
+      "lines": [
+        {
+          "text": "Élodie , Margot",
+          "box": [
+            1045,
+            727,
+            1599,
+            807
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2224,
+        971,
+        2850,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "18 02 1993",
+          "box": [
+            2289,
+            1004,
+            2718,
+            1066
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2194,
+        1584,
+        2829,
+        1738
+      ],
+      "lines": [
+        {
+          "text": "09 06 2031",
+          "box": [
+            2273,
+            1622,
+            2705,
+            1682
+          ]
+        }
+      ]
+    }
+  ]
+}

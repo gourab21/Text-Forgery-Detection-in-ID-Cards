@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\indian-NM-1058_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\indian-NM-1058.jpg",
+  "width": 3188,
+  "height": 1980,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1101,
+            737,
+            1669,
+            806
+          ],
+          "original_text": "CHOWDHURY",
+          "translated_en": "CHOWDHURY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1104,
+            989,
+            1499,
+            1044
+          ],
+          "original_text": "MARY RAJ",
+          "translated_en": "MARY RAJ"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1100,
+            1240,
+            1603,
+            1309
+          ],
+          "original_text": "06/12 2079",
+          "translated_en": "06/12 2079"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1085,
+            1710,
+            1590,
+            1787
+          ],
+          "original_text": "29/04/2008",
+          "translated_en": "29/04/2008"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2245,
+            1731,
+            2752,
+            1802
+          ],
+          "original_text": "22/12/2020",
+          "translated_en": "22/12/2020"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NM-1058_translated_cleaned.jpg"
+}

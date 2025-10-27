@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\scan\\netherland-flickr_M_33239373490_5b5df42090_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\netherland-flickr_M_33239373490_5b5df42090_k.jpg",
+  "width": 1996,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            693,
+            323,
+            995,
+            366
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER"
+        },
+        {
+          "box": [
+            692,
+            386,
+            1081,
+            433
+          ],
+          "original_text": "Fleur Henrike",
+          "translated_en": "Fleur Henrike"
+        },
+        {
+          "box": [
+            690,
+            455,
+            921,
+            508
+          ],
+          "original_text": "Matthijs",
+          "translated_en": "Matthijs"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1562,
+            607,
+            1897,
+            652
+          ],
+          "original_text": "22 10 2004",
+          "translated_en": "22 10 2004"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1528,
+            778,
+            1894,
+            826
+          ],
+          "original_text": "07 08 2029",
+          "translated_en": "07 08 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_33239373490_5b5df42090_k_translated_cleaned.jpg"
+}

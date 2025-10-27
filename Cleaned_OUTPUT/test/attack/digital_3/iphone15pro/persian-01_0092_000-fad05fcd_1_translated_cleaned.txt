@@ -1,0 +1,21 @@
+E1
+
+E2
+EN: Nouri
+
+L1
+EN: Sara
+OR: سارا
+
+L2
+EN: Optical
+OR: نوری
+
+E3
+EN: 29/04/1981
+
+E4
+EN: 14/06/2023
+
+E5
+EN: 21/11/2004

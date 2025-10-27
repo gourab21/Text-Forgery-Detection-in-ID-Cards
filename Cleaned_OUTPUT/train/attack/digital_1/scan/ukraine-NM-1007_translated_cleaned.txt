@@ -1,0 +1,19 @@
+LE1
+EN: Bondarenko /
+OR: Бондаренко /
+EN: Bondarenko
+
+LE2
+EN: Andriy Yuriyovych /
+OR: Андрій Юрійович /
+EN: Reliable
+OR: Andal
+
+E3
+EN: 11.12.2001
+
+E4
+EN: 23.05.2018
+
+E5
+EN: 22.05.2011

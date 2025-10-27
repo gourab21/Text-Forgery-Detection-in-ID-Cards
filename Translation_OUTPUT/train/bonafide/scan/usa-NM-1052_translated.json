@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-NM-1052.json",
+  "image_relative": "train\\bonafide\\scan\\usa-NM-1052.jpg",
+  "width": 1995,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            647,
+            459,
+            1235,
+            519
+          ],
+          "original_text": "Christopher Green66666",
+          "translated_en": "Christopher Green66666",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            648,
+            527,
+            931,
+            569
+          ],
+          "original_text": "112 Oak St",
+          "translated_en": "112 Oak St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            645,
+            585,
+            1134,
+            630
+          ],
+          "original_text": "Laramie WY 82070",
+          "translated_en": "Laramie WY 82070",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1490,
+            778,
+            1885,
+            821
+          ],
+          "original_text": "DOB : 10-11-87",
+          "translated_en": "DOB : 10-11-87",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1052_translated.jpg"
+}

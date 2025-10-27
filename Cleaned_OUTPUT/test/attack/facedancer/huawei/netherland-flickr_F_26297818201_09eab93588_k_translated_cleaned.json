@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\netherland-flickr_F_26297818201_09eab93588_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\netherland-flickr_F_26297818201_09eab93588_k.jpg",
+  "width": 3239,
+  "height": 2039,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1091,
+            520,
+            1675,
+            602
+          ],
+          "original_text": "STEVENSON",
+          "translated_en": "STEVENSON"
+        },
+        {
+          "box": [
+            1099,
+            628,
+            1738,
+            707
+          ],
+          "original_text": "Luuk Cornelis",
+          "translated_en": "Luuk Cornelis"
+        },
+        {
+          "box": [
+            1095,
+            747,
+            1607,
+            812
+          ],
+          "original_text": "Annemarie",
+          "translated_en": "Annemarie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2538,
+            954,
+            3083,
+            1031
+          ],
+          "original_text": "2007 1992",
+          "translated_en": "2007 1992"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2496,
+            1238,
+            3093,
+            1319
+          ],
+          "original_text": "28 01 2030",
+          "translated_en": "28 01 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_26297818201_09eab93588_k_translated_cleaned.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\chinese-01_0007_000-08f07a73_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\chinese-01_0007_000-08f07a73_0.jpg",
+  "width": 2790,
+  "height": 1768,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            947,
+            614,
+            1081,
+            684
+          ],
+          "original_text": "李伟",
+          "translated_en": "Li Wei"
+        },
+        {
+          "box": [
+            950,
+            706,
+            1158,
+            754
+          ],
+          "original_text": "Matthe",
+          "translated_en": "Matthew"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1727,
+            989,
+            2182,
+            1048
+          ],
+          "original_text": "17 Mar 2072",
+          "translated_en": "17 Mar 2072"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1726,
+            1247,
+            2202,
+            1302
+          ],
+          "original_text": "22 MAR 2010",
+          "translated_en": "22 MAR 2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            962,
+            1524,
+            1428,
+            1584
+          ],
+          "original_text": "17 Jan 2043",
+          "translated_en": "17 Jan 2043"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-01_0007_000-08f07a73_0_translated_cleaned.jpg"
+}

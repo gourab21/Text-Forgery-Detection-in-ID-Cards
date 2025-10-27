@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\chinese-NM-1092_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\chinese-NM-1092.jpg",
+  "width": 3242,
+  "height": 1985,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1116,
+            683,
+            1281,
+            776
+          ],
+          "original_text": "陈 本",
+          "translated_en": "Chen Ben"
+        },
+        {
+          "box": [
+            1112,
+            781,
+            1487,
+            855
+          ],
+          "original_text": "cigetule",
+          "translated_en": "little cig"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2011,
+            1130,
+            2556,
+            1213
+          ],
+          "original_text": "30 OCT 192",
+          "translated_en": "30 OCT 192"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2005,
+            1426,
+            2539,
+            1493
+          ],
+          "original_text": "09 APR 2013",
+          "translated_en": "09 APR 2013"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1098,
+            1707,
+            1661,
+            1790
+          ],
+          "original_text": "08 APR 2014",
+          "translated_en": "08 APR 2014"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NM-1092_translated_cleaned.jpg"
+}

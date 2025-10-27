@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1051.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        850,
+        611,
+        1744,
+        949
+      ],
+      "lines": [
+        {
+          "text": "Laynoolayor",
+          "box": [
+            914,
+            673,
+            1378,
+            739
+          ]
+        },
+        {
+          "text": "3714 Maple Ave ATE STA",
+          "box": [
+            916,
+            736,
+            1730,
+            822
+          ]
+        },
+        {
+          "text": "Dallas TX 75235",
+          "box": [
+            916,
+            837,
+            1496,
+            897
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2047,
+        1083,
+        2744,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-04-28",
+          "box": [
+            2109,
+            1086,
+            2673,
+            1141
+          ]
+        }
+      ]
+    }
+  ]
+}

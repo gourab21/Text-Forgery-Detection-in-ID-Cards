@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\usa-NF-1051.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        675,
+        1987,
+        1050
+      ],
+      "lines": [
+        {
+          "text": "Loger Taylor",
+          "box": [
+            1035,
+            745,
+            1539,
+            817
+          ]
+        },
+        {
+          "text": "3714 Maple Ave",
+          "box": [
+            1036,
+            835,
+            1693,
+            916
+          ]
+        },
+        {
+          "text": "Dallas TX 75235",
+          "box": [
+            1034,
+            931,
+            1702,
+            1003
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2331,
+        1196,
+        3126,
+        1357
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-04-44",
+          "box": [
+            2396,
+            1240,
+            3049,
+            1305
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\netherland-flickr_F_36412358965_0ec43e5de3_c_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\netherland-flickr_F_36412358965_0ec43e5de3_c.jpg",
+  "width": 3225,
+  "height": 2045,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1086,
+            537,
+            1388,
+            606
+          ],
+          "original_text": "SMITS",
+          "translated_en": "SMITS"
+        },
+        {
+          "box": [
+            1088,
+            638,
+            1615,
+            714
+          ],
+          "original_text": "Willem Ilse",
+          "translated_en": "Willem Ilse"
+        },
+        {
+          "box": [
+            1097,
+            751,
+            1469,
+            834
+          ],
+          "original_text": "Matthijs",
+          "translated_en": "Matthijs"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2540,
+            960,
+            3075,
+            1042
+          ],
+          "original_text": "10 01 1990",
+          "translated_en": "10 01 1990"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2492,
+            1244,
+            3084,
+            1329
+          ],
+          "original_text": "11 09 2030",
+          "translated_en": "11 09 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_36412358965_0ec43e5de3_c_translated_cleaned.jpg"
+}

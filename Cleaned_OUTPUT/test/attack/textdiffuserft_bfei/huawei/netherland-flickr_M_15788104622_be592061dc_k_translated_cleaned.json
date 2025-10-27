@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_15788104622_be592061dc_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_15788104622_be592061dc_k.jpg",
+  "width": 3208,
+  "height": 2060,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1088,
+            532,
+            1575,
+            612
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER"
+        },
+        {
+          "box": [
+            1085,
+            645,
+            1735,
+            713
+          ],
+          "original_text": "Davidke Petra",
+          "translated_en": "Davidke Petra"
+        },
+        {
+          "box": [
+            1087,
+            756,
+            1408,
+            841
+          ],
+          "original_text": "Sophie",
+          "translated_en": "Sophie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2518,
+            964,
+            3048,
+            1041
+          ],
+          "original_text": "09 02 2091",
+          "translated_en": "09 02 2091"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2479,
+            1247,
+            3068,
+            1334
+          ],
+          "original_text": "05 02 1985",
+          "translated_en": "05 02 1985"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_15788104622_be592061dc_k_translated_cleaned.jpg"
+}

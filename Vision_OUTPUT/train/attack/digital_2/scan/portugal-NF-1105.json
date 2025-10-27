@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1105.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "FUKE ANDES COSTA",
+          "box": [
+            687,
+            340,
+            1209,
+            398
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            685,
+            402,
+            780,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        578,
+        1995,
+        675
+      ],
+      "lines": [
+        {
+          "text": "26 07 2005",
+          "box": [
+            1708,
+            603,
+            1994,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        733,
+        1668,
+        848
+      ],
+      "lines": [
+        {
+          "text": "24 07 2020",
+          "box": [
+            1297,
+            771,
+            1596,
+            812
+          ]
+        }
+      ]
+    }
+  ]
+}

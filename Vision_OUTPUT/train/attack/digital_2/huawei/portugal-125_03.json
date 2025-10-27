@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        449,
+        2217,
+        713
+      ],
+      "lines": [
+        {
+          "text": "CTACY & BIETTO",
+          "box": [
+            1035,
+            513,
+            1688,
+            590
+          ]
+        },
+        {
+          "text": "João Carlos",
+          "box": [
+            1035,
+            603,
+            1484,
+            668
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2500,
+        867,
+        3033,
+        1012
+      ],
+      "lines": [
+        {
+          "text": "22 05 1990",
+          "box": [
+            2590,
+            908,
+            3026,
+            966
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1883,
+        1100,
+        2536,
+        1272
+      ],
+      "lines": [
+        {
+          "text": "15 07 2990",
+          "box": [
+            1972,
+            1157,
+            2436,
+            1225
+          ]
+        }
+      ]
+    }
+  ]
+}

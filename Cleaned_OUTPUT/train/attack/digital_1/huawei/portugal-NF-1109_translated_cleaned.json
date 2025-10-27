@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\portugal-NF-1109_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\portugal-NF-1109.jpg",
+  "width": 3216,
+  "height": 1981,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1100,
+            539,
+            1774,
+            614
+          ],
+          "original_text": "CICHARDANITOS .",
+          "translated_en": "CICHARDANITOS ."
+        },
+        {
+          "box": [
+            1096,
+            633,
+            1280,
+            694
+          ],
+          "original_text": "Sara",
+          "translated_en": "Sara"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2752,
+            955,
+            3207,
+            1026
+          ],
+          "original_text": "09 10 2236",
+          "translated_en": "09 10 2236"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2096,
+            1224,
+            2580,
+            1290
+          ],
+          "original_text": "06 10 2025",
+          "translated_en": "06 10 2025"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1109_translated_cleaned.jpg"
+}

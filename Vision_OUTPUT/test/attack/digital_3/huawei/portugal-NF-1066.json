@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        940,
+        451,
+        2219,
+        716
+      ],
+      "lines": [
+        {
+          "text": "DEBOTAHA MARTINS",
+          "box": [
+            1021,
+            517,
+            1814,
+            578
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            1018,
+            611,
+            1467,
+            665
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2504,
+        870,
+        3037,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "2003 1998",
+          "box": [
+            2578,
+            870,
+            2958,
+            928
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1886,
+        1105,
+        2539,
+        1278
+      ],
+      "lines": [
+        {
+          "text": "22 07 1974",
+          "box": [
+            1983,
+            1133,
+            2417,
+            1198
+          ]
+        }
+      ]
+    }
+  ]
+}

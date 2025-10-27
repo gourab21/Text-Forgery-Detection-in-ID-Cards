@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\russian-NF-1099_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\russian-NF-1099.jpg",
+  "width": 2636,
+  "height": 1620,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            947,
+            343,
+            1297,
+            403
+          ],
+          "original_text": "Федорова /",
+          "translated_en": "Fedorova /"
+        },
+        {
+          "box": [
+            950,
+            410,
+            1217,
+            458
+          ],
+          "original_text": "Fedorova",
+          "translated_en": "Fedorova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            948,
+            606,
+            1754,
+            679
+          ],
+          "original_text": "Полина Геннадиевна / F",
+          "translated_en": "Polina Gennadievna / F"
+        },
+        {
+          "box": [
+            943,
+            678,
+            1469,
+            734
+          ],
+          "original_text": "Prendaséenaddia",
+          "translated_en": "Prendaséenaddia"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            940,
+            876,
+            1286,
+            922
+          ],
+          "original_text": "22.05.2027",
+          "translated_en": "22.05.2027"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            935,
+            1235,
+            1264,
+            1280
+          ],
+          "original_text": "13.09.2014",
+          "translated_en": "13.09.2014"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            927,
+            1474,
+            1270,
+            1522
+          ],
+          "original_text": "10.09.2025",
+          "translated_en": "10.09.2025"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1099_translated_cleaned.jpg"
+}

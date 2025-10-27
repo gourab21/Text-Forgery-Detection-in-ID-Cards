@@ -1,0 +1,23 @@
+E1
+EN: me
+EN: Faryad
+
+E2
+EN: Kazemi
+
+L1
+OR: فرهاد
+EN: Farhad
+
+L2
+OR: رحيمي
+EN: Rahimi
+
+E3
+EN: 21/04/2024
+
+E4
+EN: 21/02/2024
+
+E5
+EN: 06/05/2034

@@ -1,0 +1,95 @@
+{
+  "image": "test\\bonafide\\scan\\chinese2-flickr_M_30516208604_4a571cf89d_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        396,
+        1193,
+        590
+      ],
+      "lines": [
+        {
+          "text": "黄磊",
+          "box": [
+            682,
+            434,
+            786,
+            482
+          ]
+        },
+        {
+          "text": "Huang Lei",
+          "box": [
+            680,
+            491,
+            952,
+            550
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1207,
+        658,
+        1672,
+        777
+      ],
+      "lines": [
+        {
+          "text": "09 JUN 1986",
+          "box": [
+            1241,
+            698,
+            1593,
+            744
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1211,
+        843,
+        1690,
+        967
+      ],
+      "lines": [
+        {
+          "text": "29 JUL 2011",
+          "box": [
+            1244,
+            882,
+            1584,
+            926
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        642,
+        1045,
+        1119,
+        1178
+      ],
+      "lines": [
+        {
+          "text": "29 JUL 2031",
+          "box": [
+            691,
+            1079,
+            1028,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_31840786965_77af814416_h_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_31840786965_77af814416_h.jpg",
+  "width": 3223,
+  "height": 2060,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1093,
+            711,
+            1263,
+            788
+          ],
+          "original_text": "吴勇",
+          "translated_en": "Wu Yong"
+        },
+        {
+          "box": [
+            1098,
+            820,
+            1493,
+            909
+          ],
+          "original_text": "Bobyng",
+          "translated_en": "Bobyng"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2017,
+            1152,
+            2599,
+            1239
+          ],
+          "original_text": "16 Jun 1963",
+          "translated_en": "16 Jun 1963"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2021,
+            1457,
+            2581,
+            1533
+          ],
+          "original_text": "13 Mar 2055",
+          "translated_en": "13 Mar 2055"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1117,
+            1788,
+            1677,
+            1861
+          ],
+          "original_text": "09 Mar 2099",
+          "translated_en": "09 Mar 2099"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_31840786965_77af814416_h_translated_cleaned.jpg"
+}

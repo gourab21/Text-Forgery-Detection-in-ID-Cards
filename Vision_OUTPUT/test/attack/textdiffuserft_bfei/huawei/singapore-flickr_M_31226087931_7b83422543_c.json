@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_31226087931_7b83422543_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        656,
+        655,
+        2374,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Lori Praseyo",
+          "box": [
+            820,
+            744,
+            1498,
+            836
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        732,
+        1405,
+        1635,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "22.02.232-",
+          "box": [
+            819,
+            1470,
+            1402,
+            1550
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1776,
+        1706,
+        2622,
+        1895
+      ],
+      "lines": [
+        {
+          "text": "12 06-884",
+          "box": [
+            1875,
+            1749,
+            2401,
+            1832
+          ]
+        }
+      ]
+    }
+  ]
+}

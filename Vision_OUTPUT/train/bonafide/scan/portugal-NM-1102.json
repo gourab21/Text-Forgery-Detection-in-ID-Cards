@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1455,
+        475
+      ],
+      "lines": [
+        {
+          "text": "BARBOSA FERREIRA",
+          "box": [
+            689,
+            340,
+            1218,
+            386
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            688,
+            394,
+            1046,
+            451
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        576,
+        1991,
+        673
+      ],
+      "lines": [
+        {
+          "text": "15 09 1991",
+          "box": [
+            1704,
+            602,
+            1986,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1236,
+        731,
+        1664,
+        846
+      ],
+      "lines": [
+        {
+          "text": "30 11 2034",
+          "box": [
+            1300,
+            770,
+            1582,
+            808
+          ]
+        }
+      ]
+    }
+  ]
+}

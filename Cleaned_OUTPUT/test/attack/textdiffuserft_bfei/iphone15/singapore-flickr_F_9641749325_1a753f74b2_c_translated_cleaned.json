@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_9641749325_1a753f74b2_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_9641749325_1a753f74b2_c.jpg",
+  "width": 2766,
+  "height": 1734,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            716,
+            649,
+            1385,
+            731
+          ],
+          "original_text": "Timothytl Ayan",
+          "translated_en": "Timothytl Ayan"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            728,
+            1275,
+            1223,
+            1348
+          ],
+          "original_text": "13-05-2224",
+          "translated_en": "13-05-2224"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1651,
+            1516,
+            2148,
+            1589
+          ],
+          "original_text": "22-02-1666",
+          "translated_en": "22-02-1666"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_9641749325_1a753f74b2_c_translated_cleaned.jpg"
+}

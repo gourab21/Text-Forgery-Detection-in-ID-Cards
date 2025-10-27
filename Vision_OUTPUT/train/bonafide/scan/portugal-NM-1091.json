@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NM-1091.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "GOMES OLIVEIRA",
+          "box": [
+            673,
+            343,
+            1131,
+            387
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            673,
+            404,
+            834,
+            443
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        575,
+        1993,
+        671
+      ],
+      "lines": [
+        {
+          "text": "04 06 1992",
+          "box": [
+            1699,
+            580,
+            1983,
+            619
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1666,
+        845
+      ],
+      "lines": [
+        {
+          "text": "02 06 2002",
+          "box": [
+            1301,
+            756,
+            1586,
+            797
+          ]
+        }
+      ]
+    }
+  ]
+}

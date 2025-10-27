@@ -1,0 +1,13 @@
+LE1
+OR: 赵 钢
+EN: Zhao Gang
+EN: Rhondang
+
+E2
+EN: 19 Aug 198
+
+E3
+EN: 02 Oct 1936
+
+E4
+EN: 07 May 2014

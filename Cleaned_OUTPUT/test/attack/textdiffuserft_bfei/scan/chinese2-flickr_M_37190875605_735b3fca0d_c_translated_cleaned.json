@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_37190875605_735b3fca0d_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_37190875605_735b3fca0d_c.jpg",
+  "width": 1997,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            688,
+            418,
+            796,
+            470
+          ],
+          "original_text": "杨军",
+          "translated_en": "Yang Jun"
+        },
+        {
+          "box": [
+            693,
+            490,
+            939,
+            531
+          ],
+          "original_text": "Jose Jun",
+          "translated_en": "Jose Jun"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1243,
+            703,
+            1595,
+            750
+          ],
+          "original_text": "08 Jun 2099",
+          "translated_en": "08 Jun 2099"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1243,
+            887,
+            1690,
+            964
+          ],
+          "original_text": "14 Jul 2096 000",
+          "translated_en": "14 Jul 2096 000"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            677,
+            1072,
+            1018,
+            1127
+          ],
+          "original_text": "23 Aug 207",
+          "translated_en": "23 Aug 207"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_37190875605_735b3fca0d_c_translated_cleaned.jpg"
+}

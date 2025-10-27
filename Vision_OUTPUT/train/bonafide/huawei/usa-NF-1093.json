@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-NF-1093.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        925,
+        648,
+        1899,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "Evelyn Shaw",
+          "box": [
+            992,
+            719,
+            1481,
+            785
+          ]
+        },
+        {
+          "text": "306 Pine Street",
+          "box": [
+            990,
+            800,
+            1600,
+            867
+          ]
+        },
+        {
+          "text": "Reno NV 89501",
+          "box": [
+            990,
+            888,
+            1594,
+            956
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2229,
+        1148,
+        2989,
+        1303
+      ],
+      "lines": [
+        {
+          "text": "DOB : 05-18-96",
+          "box": [
+            2285,
+            1182,
+            2886,
+            1251
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-090_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "DURAND",
+          "box": [
+            649,
+            301,
+            856,
+            335
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Isabelle , Marie",
+          "box": [
+            649,
+            467,
+            1000,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        616,
+        1774,
+        721
+      ],
+      "lines": [
+        {
+          "text": "24 06 1991",
+          "box": [
+            1423,
+            622,
+            1690,
+            660
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1005,
+        1763,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "21 12 2027",
+          "box": [
+            1429,
+            1010,
+            1695,
+            1046
+          ]
+        }
+      ]
+    }
+  ]
+}

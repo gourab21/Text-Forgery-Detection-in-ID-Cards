@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NF-1083.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        451,
+        2218,
+        716
+      ],
+      "lines": [
+        {
+          "text": "FICCOLEESSOLLIVIAS",
+          "box": [
+            1042,
+            513,
+            1867,
+            581
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            1039,
+            602,
+            1193,
+            659
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2502,
+        870,
+        3035,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "31 07 2023",
+          "box": [
+            2600,
+            907,
+            3034,
+            964
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1884,
+        1104,
+        2537,
+        1277
+      ],
+      "lines": [
+        {
+          "text": "28 07 1997",
+          "box": [
+            1978,
+            1160,
+            2426,
+            1219
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        828,
+        379,
+        1649,
+        512
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            908,
+            424,
+            1174,
+            476
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        821,
+        625,
+        1747,
+        783
+      ],
+      "lines": [
+        {
+          "text": "Vincent , Paul",
+          "box": [
+            910,
+            665,
+            1346,
+            730
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1933,
+        877,
+        2477,
+        1028
+      ],
+      "lines": [
+        {
+          "text": "15 01 1987",
+          "box": [
+            1999,
+            878,
+            2366,
+            934
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1907,
+        1430,
+        2460,
+        1568
+      ],
+      "lines": [
+        {
+          "text": "28 02 2035",
+          "box": [
+            2010,
+            1432,
+            2380,
+            1481
+          ]
+        }
+      ]
+    }
+  ]
+}

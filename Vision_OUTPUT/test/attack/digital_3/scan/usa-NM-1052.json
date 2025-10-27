@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-NM-1052.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        427,
+        1238,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Morganoher Gren66666",
+          "box": [
+            649,
+            456,
+            1231,
+            523
+          ]
+        },
+        {
+          "text": "112 Oak St",
+          "box": [
+            647,
+            525,
+            932,
+            569
+          ]
+        },
+        {
+          "text": "Laramie WY 82070",
+          "box": [
+            645,
+            585,
+            1134,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        756,
+        1948,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 23-05-00",
+          "box": [
+            1490,
+            779,
+            1885,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

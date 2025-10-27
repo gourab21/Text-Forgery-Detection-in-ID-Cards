@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_F_31998547103_f617b19dfc_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1007,
+        475,
+        2067,
+        886
+      ],
+      "lines": [
+        {
+          "text": "HENDRIKS",
+          "box": [
+            1088,
+            534,
+            1591,
+            609
+          ]
+        },
+        {
+          "text": "Kerryd Henrike",
+          "box": [
+            1098,
+            629,
+            1795,
+            725
+          ]
+        },
+        {
+          "text": "Elisabeth",
+          "box": [
+            1090,
+            750,
+            1510,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2403,
+        918,
+        3183,
+        1081
+      ],
+      "lines": [
+        {
+          "text": "14 07 1983",
+          "box": [
+            2535,
+            964,
+            3058,
+            1036
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2362,
+        1198,
+        3171,
+        1401
+      ],
+      "lines": [
+        {
+          "text": "27 07 1991",
+          "box": [
+            2493,
+            1243,
+            3069,
+            1332
+          ]
+        }
+      ]
+    }
+  ]
+}

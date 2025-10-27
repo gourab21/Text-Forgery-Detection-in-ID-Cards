@@ -1,0 +1,14 @@
+LE1
+OR: 刘景
+EN: Liu Jing
+OR: Lasoning
+EN: Lasong
+
+E2
+EN: 20 Nov 2036
+
+E3
+EN: 14 Jan 2015
+
+E4
+EN: 11 Jan 1991

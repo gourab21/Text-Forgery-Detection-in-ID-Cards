@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_30990255070_570d17d9d4_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            679,
+            325,
+            954,
+            367
+          ]
+        },
+        {
+          "text": "Mackenzeltabeth",
+          "box": [
+            684,
+            380,
+            1184,
+            433
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            678,
+            455,
+            912,
+            498
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1968,
+        657
+      ],
+      "lines": [
+        {
+          "text": "14 05 2080",
+          "box": [
+            1564,
+            585,
+            1893,
+            629
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        729,
+        1961,
+        852
+      ],
+      "lines": [
+        {
+          "text": "18 11 2001",
+          "box": [
+            1537,
+            754,
+            1899,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

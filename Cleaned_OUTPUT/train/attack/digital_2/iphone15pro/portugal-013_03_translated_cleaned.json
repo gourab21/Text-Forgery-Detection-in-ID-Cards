@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\portugal-013_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-013_03.jpg",
+  "width": 2641,
+  "height": 1614,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            903,
+            437,
+            1590,
+            502
+          ],
+          "original_text": "A SHLEY ANDRDE",
+          "translated_en": "A SHLEY ANDRDE"
+        },
+        {
+          "box": [
+            904,
+            514,
+            1357,
+            571
+          ],
+          "original_text": "Carla Patricia",
+          "translated_en": "Carla Patricia"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2254,
+            774,
+            2635,
+            826
+          ],
+          "original_text": "13 07 1996",
+          "translated_en": "13 07 1996"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1713,
+            986,
+            2118,
+            1046
+          ],
+          "original_text": "05 02 2001",
+          "translated_en": "05 02 2001"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-013_03_translated_cleaned.jpg"
+}

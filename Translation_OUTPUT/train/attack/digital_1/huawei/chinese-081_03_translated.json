@@ -1,0 +1,84 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\chinese-081_03.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\chinese-081_03.jpg",
+  "width": 3214,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1104,
+            673,
+            1272,
+            745
+          ],
+          "original_text": "孙悦",
+          "translated_en": "Sun Yue",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            1103,
+            772,
+            1438,
+            835
+          ],
+          "original_text": "SmyāYue",
+          "translated_en": "SmyāYue",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2003,
+            1124,
+            2498,
+            1190
+          ],
+          "original_text": "12 Jul 12039",
+          "translated_en": "12 Jul 12039",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1992,
+            1417,
+            2498,
+            1484
+          ],
+          "original_text": "06 Apr 2014",
+          "translated_en": "06 Apr 2014",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1083,
+            1704,
+            1607,
+            1784
+          ],
+          "original_text": "03 Apr 2024",
+          "translated_en": "03 Apr 2024",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-081_03_translated.jpg"
+}

@@ -1,0 +1,21 @@
+LE1
+OR: Козлова /
+EN: Kozlova /
+EN: Kozlova
+
+LE2
+OR: Тетяна Романівна /
+EN: Tatyana Romanivna /
+OR: Teanana
+EN: Meet each other
+
+E3
+EN: 24.11.2010
+
+E4
+EN: of Is
+EN: 10.12.2016
+EN: NOT
+
+E5
+EN: 10.12.2030

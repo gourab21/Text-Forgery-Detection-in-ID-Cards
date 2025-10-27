@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_4188233342_8473de8906_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        756
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            940,
+            456,
+            1251,
+            519
+          ]
+        },
+        {
+          "text": "Johny Gerardus",
+          "box": [
+            941,
+            530,
+            1616,
+            613
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            949,
+            645,
+            1149,
+            702
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        783,
+        2739,
+        922
+      ],
+      "lines": [
+        {
+          "text": "02 10 2031",
+          "box": [
+            2173,
+            816,
+            2622,
+            881
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2033,
+        1022,
+        2730,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "18 10 2039",
+          "box": [
+            2147,
+            1057,
+            2635,
+            1128
+          ]
+        }
+      ]
+    }
+  ]
+}

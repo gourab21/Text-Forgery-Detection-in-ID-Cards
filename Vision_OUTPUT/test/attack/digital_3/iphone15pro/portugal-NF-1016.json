@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        433,
+        2084,
+        687
+      ],
+      "lines": [
+        {
+          "text": "AMANDAO MEIRELES",
+          "box": [
+            980,
+            504,
+            1727,
+            566
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            968,
+            588,
+            1339,
+            645
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        835,
+        2852,
+        976
+      ],
+      "lines": [
+        {
+          "text": "20 12 1986",
+          "box": [
+            2423,
+            835,
+            2784,
+            892
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1060,
+        2384,
+        1227
+      ],
+      "lines": [
+        {
+          "text": "29 09 2059",
+          "box": [
+            1867,
+            1095,
+            2270,
+            1152
+          ]
+        }
+      ]
+    }
+  ]
+}

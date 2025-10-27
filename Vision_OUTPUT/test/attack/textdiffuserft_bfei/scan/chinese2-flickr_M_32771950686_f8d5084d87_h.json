@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_32771950686_f8d5084d87_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        620,
+        395,
+        1196,
+        589
+      ],
+      "lines": [
+        {
+          "text": "黄杰",
+          "box": [
+            688,
+            424,
+            793,
+            474
+          ]
+        },
+        {
+          "text": "Megan Jie",
+          "box": [
+            690,
+            490,
+            956,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1210,
+        656,
+        1676,
+        775
+      ],
+      "lines": [
+        {
+          "text": "19 Oct 1914",
+          "box": [
+            1245,
+            711,
+            1595,
+            756
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1214,
+        841,
+        1694,
+        965
+      ],
+      "lines": [
+        {
+          "text": "06 Jun 1975",
+          "box": [
+            1237,
+            885,
+            1604,
+            933
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        644,
+        1042,
+        1122,
+        1174
+      ],
+      "lines": [
+        {
+          "text": "28 Jan 1966",
+          "box": [
+            681,
+            1075,
+            1039,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

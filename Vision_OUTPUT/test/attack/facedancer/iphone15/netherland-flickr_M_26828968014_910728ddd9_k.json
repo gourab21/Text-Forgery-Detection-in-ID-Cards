@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\netherland-flickr_M_26828968014_910728ddd9_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        399,
+        1779,
+        744
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            947,
+            443,
+            1336,
+            509
+          ]
+        },
+        {
+          "text": "Henrike Henrike",
+          "box": [
+            950,
+            527,
+            1599,
+            596
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            948,
+            627,
+            1274,
+            686
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        771,
+        2739,
+        908
+      ],
+      "lines": [
+        {
+          "text": "14 03 2002",
+          "box": [
+            2180,
+            804,
+            2640,
+            869
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2033,
+        1008,
+        2730,
+        1178
+      ],
+      "lines": [
+        {
+          "text": "15 07 2027",
+          "box": [
+            2140,
+            1043,
+            2646,
+            1110
+          ]
+        }
+      ]
+    }
+  ]
+}

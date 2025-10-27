@@ -1,0 +1,95 @@
+{
+  "image": "test\\bonafide\\scan\\chinese2-flickr_M_16743317854_732a16acc8_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        396,
+        1193,
+        590
+      ],
+      "lines": [
+        {
+          "text": "陈超",
+          "box": [
+            682,
+            433,
+            785,
+            479
+          ]
+        },
+        {
+          "text": "Chen Chao",
+          "box": [
+            676,
+            495,
+            971,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1207,
+        659,
+        1672,
+        778
+      ],
+      "lines": [
+        {
+          "text": "25 DEC 1984",
+          "box": [
+            1239,
+            699,
+            1597,
+            743
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1211,
+        844,
+        1690,
+        969
+      ],
+      "lines": [
+        {
+          "text": "05 NOV 2008",
+          "box": [
+            1241,
+            880,
+            1608,
+            926
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        642,
+        1046,
+        1119,
+        1179
+      ],
+      "lines": [
+        {
+          "text": "05 NOV 2028",
+          "box": [
+            688,
+            1079,
+            1053,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

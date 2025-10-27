@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_23543328125_d9409d5ae0_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        416,
+        412,
+        1503,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Brianong",
+          "box": [
+            518,
+            463,
+            824,
+            518
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        884,
+        1033,
+        1006
+      ],
+      "lines": [
+        {
+          "text": "23-01.3-35",
+          "box": [
+            508,
+            915,
+            862,
+            969
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1125,
+        1074,
+        1660,
+        1192
+      ],
+      "lines": [
+        {
+          "text": "19-05.7-33",
+          "box": [
+            1167,
+            1103,
+            1524,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

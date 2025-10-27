@@ -1,0 +1,12 @@
+E2
+Dhrist
+
+E1
+Surname
+Bayar
+
+E3
+16.03.1992
+
+E4
+27.04.:2000

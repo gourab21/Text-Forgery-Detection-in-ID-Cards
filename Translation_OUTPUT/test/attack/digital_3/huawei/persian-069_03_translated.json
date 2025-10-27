@@ -1,0 +1,121 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\persian-069_03.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\persian-069_03.jpg",
+  "width": 3200,
+  "height": 1980,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1237,
+            445,
+            1466,
+            509
+          ],
+          "original_text": "Erika",
+          "translated_en": "Erika",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1228,
+            681,
+            1538,
+            745
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2185,
+            446,
+            2324,
+            527
+          ],
+          "original_text": "آرش",
+          "translated_en": "Arash",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2169,
+            689,
+            2364,
+            768
+          ],
+          "original_text": "کاظمی",
+          "translated_en": "Kazemi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1217,
+            943,
+            1669,
+            1006
+          ],
+          "original_text": "07/08/2040",
+          "translated_en": "07/08/2040",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1206,
+            1469,
+            1660,
+            1537
+          ],
+          "original_text": "05/03/2020",
+          "translated_en": "05/03/2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2153,
+            1481,
+            2604,
+            1549
+          ],
+          "original_text": "18/10/2099",
+          "translated_en": "18/10/2099",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-069_03_translated.jpg"
+}

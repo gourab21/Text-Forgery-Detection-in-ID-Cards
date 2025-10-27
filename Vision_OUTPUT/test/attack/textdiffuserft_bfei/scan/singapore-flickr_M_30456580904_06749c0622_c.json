@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_30456580904_06749c0622_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        413,
+        1498,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Michelen Rahnan",
+          "box": [
+            511,
+            467,
+            1125,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "22-04 4744",
+          "box": [
+            520,
+            929,
+            882,
+            981
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "03-02-2335",
+          "box": [
+            1181,
+            1095,
+            1546,
+            1148
+          ]
+        }
+      ]
+    }
+  ]
+}

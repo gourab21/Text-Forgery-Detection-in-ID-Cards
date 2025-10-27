@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\singapore-flickr_F_33525297682_eee6031622_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1501,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Angelica Ramos",
+          "box": [
+            510,
+            468,
+            1066,
+            518
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        886,
+        1033,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1998-12-05",
+          "box": [
+            510,
+            920,
+            872,
+            968
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1124,
+        1076,
+        1659,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "2008-12-05",
+          "box": [
+            1161,
+            1110,
+            1532,
+            1158
+          ]
+        }
+      ]
+    }
+  ]
+}

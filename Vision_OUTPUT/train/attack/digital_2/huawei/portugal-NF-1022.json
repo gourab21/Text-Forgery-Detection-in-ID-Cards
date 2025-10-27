@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NF-1022.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        988,
+        471,
+        2333,
+        747
+      ],
+      "lines": [
+        {
+          "text": "CAMUELPDERA",
+          "box": [
+            1087,
+            531,
+            1777,
+            622
+          ]
+        },
+        {
+          "text": "Marta",
+          "box": [
+            1088,
+            630,
+            1326,
+            690
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2633,
+        907,
+        3193,
+        1061
+      ],
+      "lines": [
+        {
+          "text": "13 01 2002",
+          "box": [
+            2734,
+            947,
+            3192,
+            1014
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1982,
+        1152,
+        2670,
+        1334
+      ],
+      "lines": [
+        {
+          "text": "1101 2032",
+          "box": [
+            2080,
+            1211,
+            2567,
+            1289
+          ]
+        }
+      ]
+    }
+  ]
+}

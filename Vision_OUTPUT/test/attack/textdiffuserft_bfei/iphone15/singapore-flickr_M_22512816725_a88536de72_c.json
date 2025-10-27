@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_M_22512816725_a88536de72_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        578,
+        2088,
+        856
+      ],
+      "lines": [
+        {
+          "text": "Tifany Assam",
+          "box": [
+            702,
+            651,
+            1355,
+            750
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1240,
+        1438,
+        1411
+      ],
+      "lines": [
+        {
+          "text": "21007-36",
+          "box": [
+            723,
+            1292,
+            1216,
+            1372
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1505,
+        2306,
+        1671
+      ],
+      "lines": [
+        {
+          "text": "22-03.3-33",
+          "box": [
+            1640,
+            1534,
+            2132,
+            1605
+          ]
+        }
+      ]
+    }
+  ]
+}

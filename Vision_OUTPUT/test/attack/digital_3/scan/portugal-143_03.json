@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "HARLYRA CASRO",
+          "box": [
+            686,
+            337,
+            1134,
+            384
+          ]
+        },
+        {
+          "text": "Luis Antônio",
+          "box": [
+            687,
+            392,
+            1005,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        575,
+        1995,
+        671
+      ],
+      "lines": [
+        {
+          "text": "25 05 2013",
+          "box": [
+            1699,
+            602,
+            1952,
+            645
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        730,
+        1668,
+        845
+      ],
+      "lines": [
+        {
+          "text": "24 09 2017",
+          "box": [
+            1299,
+            770,
+            1584,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

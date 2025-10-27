@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_23543328125_d9409d5ae0_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        416,
+        412,
+        1503,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Hsu Long",
+          "box": [
+            516,
+            466,
+            826,
+            521
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        884,
+        1033,
+        1006
+      ],
+      "lines": [
+        {
+          "text": "1993-07-14",
+          "box": [
+            511,
+            919,
+            874,
+            971
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1125,
+        1074,
+        1660,
+        1192
+      ],
+      "lines": [
+        {
+          "text": "2003-07-14",
+          "box": [
+            1164,
+            1110,
+            1530,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

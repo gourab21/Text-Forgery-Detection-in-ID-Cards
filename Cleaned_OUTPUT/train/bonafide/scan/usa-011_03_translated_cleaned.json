@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\scan\\usa-011_03_translated.json",
+  "image_relative": "train\\bonafide\\scan\\usa-011_03.jpg",
+  "width": 1999,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            652,
+            466,
+            989,
+            518
+          ],
+          "original_text": "Diane Kruger",
+          "translated_en": "Diane Kruger"
+        },
+        {
+          "box": [
+            650,
+            527,
+            1084,
+            568
+          ],
+          "original_text": "789 Willow Road",
+          "translated_en": "789 Willow Road"
+        },
+        {
+          "box": [
+            651,
+            584,
+            1188,
+            629
+          ],
+          "original_text": "Little Rock AR 72201",
+          "translated_en": "Little Rock AR 72201"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            777,
+            1889,
+            825
+          ],
+          "original_text": "03-05-92",
+          "translated_en": "03-05-92"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-011_03_translated_cleaned.jpg"
+}

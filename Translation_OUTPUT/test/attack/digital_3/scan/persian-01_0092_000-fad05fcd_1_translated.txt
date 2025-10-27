@@ -1,0 +1,22 @@
+E1
+EN: Mary
+
+E2
+EN: Nouri
+
+L1
+OR: سارا
+EN: Sara
+
+L2
+OR: نوری
+EN: Optical
+
+E3
+EN: 20/06/1932
+
+E4
+EN: 14/06/2023
+
+E5
+EN: 02/01/1947

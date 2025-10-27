@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1036.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1036.jpg",
+  "width": 2807,
+  "height": 1800,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            928,
+            672,
+            1528,
+            754
+          ],
+          "original_text": "Margare Thomas",
+          "translated_en": "Margare Thomas",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            927,
+            727,
+            1737,
+            823
+          ],
+          "original_text": "8342 Pine Rd ATE STA",
+          "translated_en": "8342 Pine Rd ATE STA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            931,
+            838,
+            1524,
+            918
+          ],
+          "original_text": "Naples FL 34102",
+          "translated_en": "Naples FL 34102",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2119,
+            1087,
+            2663,
+            1146
+          ],
+          "original_text": "DOB : 07-08-93",
+          "translated_en": "DOB : 07-08-93",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1036_translated.jpg"
+}

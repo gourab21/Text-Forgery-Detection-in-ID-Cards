@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\arabic-NM-1064_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\arabic-NM-1064.jpg",
+  "width": 3193,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1195,
+            745,
+            2186,
+            828
+          ],
+          "original_text": "Aimee Abd Al - Rashd",
+          "translated_en": "Aimee Abd Al - Rashd"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1151,
+            513,
+            1978,
+            618
+          ],
+          "original_text": "الرشيد عبد أحمد /",
+          "translated_en": "Rashid Abdul Ahmed /"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1126,
+            1244,
+            1754,
+            1319
+          ],
+          "original_text": "o 26 Dec 1943",
+          "translated_en": "o 26 Dec 1943"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1159,
+            1504,
+            1731,
+            1585
+          ],
+          "original_text": "21 Jan 2019",
+          "translated_en": "21 Jan 2019"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1158,
+            1771,
+            1744,
+            1854
+          ],
+          "original_text": "05 Aug 1954",
+          "translated_en": "05 Aug 1954"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2022,
+            1259,
+            2843,
+            1347
+          ],
+          "original_text": "١٦ / سبتمبر / ۱۹۸۱",
+          "translated_en": "September 16, 1981"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2015,
+            1489,
+            2787,
+            1596
+          ],
+          "original_text": "۲۱ / بنابر / ۲۰۱۹ د",
+          "translated_en": "21 / Therefore / 2019"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2011,
+            1787,
+            2999,
+            1871
+          ],
+          "original_text": "١٦ / سبتمبر / ٢٠١",
+          "translated_en": "September 16, 201"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NM-1064_translated_cleaned.jpg"
+}

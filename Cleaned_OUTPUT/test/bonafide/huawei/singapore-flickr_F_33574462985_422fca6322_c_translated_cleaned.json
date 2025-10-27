@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\singapore-flickr_F_33574462985_422fca6322_c_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\singapore-flickr_F_33574462985_422fca6322_c.jpg",
+  "width": 3163,
+  "height": 1977,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            794,
+            750,
+            1477,
+            826
+          ],
+          "original_text": "Dewi Lestari",
+          "translated_en": "Dewi Lestari"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            811,
+            1475,
+            1388,
+            1549
+          ],
+          "original_text": "2007-01-29",
+          "translated_en": "2007-01-29"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1868,
+            1752,
+            2448,
+            1830
+          ],
+          "original_text": "2017-01-29",
+          "translated_en": "2017-01-29"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_33574462985_422fca6322_c_translated_cleaned.jpg"
+}

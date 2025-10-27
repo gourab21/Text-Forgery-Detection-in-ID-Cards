@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\portugal-NF-1041_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-NF-1041.jpg",
+  "width": 1998,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            686,
+            340,
+            1193,
+            384
+          ],
+          "original_text": "SATHEVOLIVIRAA",
+          "translated_en": "SATHEVOLIVIRAA"
+        },
+        {
+          "box": [
+            685,
+            400,
+            782,
+            435
+          ],
+          "original_text": "Ana",
+          "translated_en": "Ana"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1707,
+            597,
+            1997,
+            639
+          ],
+          "original_text": "31 05 2035",
+          "translated_en": "31 05 2035"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1305,
+            765,
+            1603,
+            806
+          ],
+          "original_text": "28 05 2004",
+          "translated_en": "28 05 2004"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1041_translated_cleaned.jpg"
+}

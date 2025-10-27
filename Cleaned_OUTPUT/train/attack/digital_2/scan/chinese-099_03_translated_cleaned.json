@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\chinese-099_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\chinese-099_03.jpg",
+  "width": 1992,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            677,
+            438,
+            729,
+            483
+          ],
+          "original_text": "馬",
+          "translated_en": "horse"
+        },
+        {
+          "box": [
+            677,
+            492,
+            951,
+            545
+          ],
+          "original_text": "zictorlag",
+          "translated_en": "zictorlag"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1241,
+            707,
+            1570,
+            743
+          ],
+          "original_text": "22 Mar 2041",
+          "translated_en": "22 Mar 2041"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1244,
+            884,
+            1556,
+            928
+          ],
+          "original_text": "22 Jun 2016",
+          "translated_en": "22 Jun 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            691,
+            1081,
+            1020,
+            1125
+          ],
+          "original_text": "20 Jun 1995",
+          "translated_en": "20 Jun 1995"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-099_03_translated_cleaned.jpg"
+}

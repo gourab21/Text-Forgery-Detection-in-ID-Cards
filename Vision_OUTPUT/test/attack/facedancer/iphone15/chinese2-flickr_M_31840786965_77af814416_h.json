@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\chinese2-flickr_M_31840786965_77af814416_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        860,
+        552,
+        1658,
+        825
+      ],
+      "lines": [
+        {
+          "text": "吴勇",
+          "box": [
+            946,
+            601,
+            1089,
+            663
+          ]
+        },
+        {
+          "text": "Wu Yong",
+          "box": [
+            948,
+            686,
+            1275,
+            754
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1678,
+        919,
+        2325,
+        1085
+      ],
+      "lines": [
+        {
+          "text": "04 DEC 1999",
+          "box": [
+            1730,
+            967,
+            2226,
+            1032
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1683,
+        1176,
+        2351,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "09 JAN 2018",
+          "box": [
+            1735,
+            1221,
+            2218,
+            1286
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        892,
+        1459,
+        1557,
+        1644
+      ],
+      "lines": [
+        {
+          "text": "09 JAN 2038",
+          "box": [
+            964,
+            1500,
+            1449,
+            1567
+          ]
+        }
+      ]
+    }
+  ]
+}

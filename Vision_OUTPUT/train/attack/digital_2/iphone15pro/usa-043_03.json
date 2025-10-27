@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\usa-043_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        851,
+        609,
+        1745,
+        946
+      ],
+      "lines": [
+        {
+          "text": "Eaniel Wright",
+          "box": [
+            922,
+            669,
+            1415,
+            744
+          ]
+        },
+        {
+          "text": "15 Cedar Ln RATE",
+          "box": [
+            922,
+            731,
+            1620,
+            836
+          ]
+        },
+        {
+          "text": "Salem OR 97301",
+          "box": [
+            921,
+            836,
+            1512,
+            896
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2048,
+        1079,
+        2745,
+        1224
+      ],
+      "lines": [
+        {
+          "text": "DOB : 02-08-19",
+          "box": [
+            2113,
+            1086,
+            2666,
+            1139
+          ]
+        }
+      ]
+    }
+  ]
+}

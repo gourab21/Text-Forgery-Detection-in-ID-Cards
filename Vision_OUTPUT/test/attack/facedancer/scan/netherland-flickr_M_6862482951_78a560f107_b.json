@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_6862482951_78a560f107_b.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        625,
+        288,
+        1281,
+        537
+      ],
+      "lines": [
+        {
+          "text": "POSTMA",
+          "box": [
+            695,
+            320,
+            940,
+            361
+          ]
+        },
+        {
+          "text": "Anouk Ilse",
+          "box": [
+            692,
+            383,
+            1001,
+            428
+          ]
+        },
+        {
+          "text": "Henrike",
+          "box": [
+            693,
+            449,
+            914,
+            493
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1489,
+        557,
+        1973,
+        655
+      ],
+      "lines": [
+        {
+          "text": "OF BIRTH",
+          "box": [
+            1755,
+            557,
+            1919,
+            580
+          ]
+        },
+        {
+          "text": "07 09 1974",
+          "box": [
+            1564,
+            601,
+            1902,
+            648
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1464,
+        727,
+        1965,
+        849
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD ! CARD EXPIRY",
+          "box": [
+            1464,
+            727,
+            1914,
+            758
+          ]
+        },
+        {
+          "text": "13 01 2029",
+          "box": [
+            1536,
+            775,
+            1897,
+            821
+          ]
+        }
+      ]
+    }
+  ]
+}

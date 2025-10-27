@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_31998547103_f617b19dfc_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        756
+      ],
+      "lines": [
+        {
+          "text": "HENDRIKS",
+          "box": [
+            949,
+            453,
+            1379,
+            518
+          ]
+        },
+        {
+          "text": "Thomas Henrike",
+          "box": [
+            948,
+            540,
+            1556,
+            599
+          ]
+        },
+        {
+          "text": "Elisabeth",
+          "box": [
+            953,
+            638,
+            1312,
+            702
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        783,
+        2739,
+        922
+      ],
+      "lines": [
+        {
+          "text": "2005 2011",
+          "box": [
+            2182,
+            815,
+            2630,
+            881
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2033,
+        1022,
+        2730,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "29 08 2037",
+          "box": [
+            2147,
+            1056,
+            2649,
+            1123
+          ]
+        }
+      ]
+    }
+  ]
+}

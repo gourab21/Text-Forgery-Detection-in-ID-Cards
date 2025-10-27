@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_33525333882_5cf0c0382a_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        655,
+        654,
+        2371,
+        969
+      ],
+      "lines": [
+        {
+          "text": "Rashid bin Ahmad",
+          "box": [
+            790,
+            744,
+            1779,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        732,
+        1403,
+        1631,
+        1597
+      ],
+      "lines": [
+        {
+          "text": "1974-02-07",
+          "box": [
+            815,
+            1474,
+            1387,
+            1549
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1773,
+        1704,
+        2618,
+        1892
+      ],
+      "lines": [
+        {
+          "text": "1984-02-07",
+          "box": [
+            1867,
+            1752,
+            2447,
+            1830
+          ]
+        }
+      ]
+    }
+  ]
+}

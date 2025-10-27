@@ -1,0 +1,21 @@
+LE1
+OR: Коваленко /
+EN: Kovalenko /
+EN: Kovalenko
+
+LE2
+OR: Олена Григорівна /
+EN: Olena Grigorivna /
+OR: Olena
+EN: Elena
+
+E3
+EN: 09.05.1976
+
+E4
+EN: B of Issue
+EN: 09.05.2021
+
+E5
+EN: дп
+EN: 08.05.2026

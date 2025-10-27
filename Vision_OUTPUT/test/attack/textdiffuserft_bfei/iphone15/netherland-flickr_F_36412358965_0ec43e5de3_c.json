@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_36412358965_0ec43e5de3_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        402,
+        1777,
+        749
+      ],
+      "lines": [
+        {
+          "text": "SMITS",
+          "box": [
+            935,
+            452,
+            1194,
+            513
+          ]
+        },
+        {
+          "text": "Shawm Ilse",
+          "box": [
+            933,
+            543,
+            1383,
+            601
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            944,
+            634,
+            1260,
+            705
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2065,
+        776,
+        2736,
+        914
+      ],
+      "lines": [
+        {
+          "text": "15 03 1917",
+          "box": [
+            2169,
+            806,
+            2614,
+            873
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2030,
+        1014,
+        2726,
+        1185
+      ],
+      "lines": [
+        {
+          "text": "28 12 2056",
+          "box": [
+            2131,
+            1048,
+            2636,
+            1121
+          ]
+        }
+      ]
+    }
+  ]
+}

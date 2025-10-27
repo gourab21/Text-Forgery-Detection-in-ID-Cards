@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-128_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        834,
+        380,
+        1660,
+        513
+      ],
+      "lines": [
+        {
+          "text": "LEROY",
+          "box": [
+            917,
+            430,
+            1137,
+            481
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        827,
+        628,
+        1759,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Antoine , Michel",
+          "box": [
+            919,
+            669,
+            1430,
+            739
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1946,
+        881,
+        2493,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "02 03 1989",
+          "box": [
+            2003,
+            887,
+            2376,
+            939
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1920,
+        1437,
+        2477,
+        1576
+      ],
+      "lines": [
+        {
+          "text": "18 08 2030",
+          "box": [
+            2020,
+            1437,
+            2386,
+            1488
+          ]
+        }
+      ]
+    }
+  ]
+}

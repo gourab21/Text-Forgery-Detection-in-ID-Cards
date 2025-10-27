@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-01_0029_000-d00491e2_1.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        380,
+        1658,
+        513
+      ],
+      "lines": [
+        {
+          "text": "PETIT",
+          "box": [
+            908,
+            427,
+            1100,
+            482
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        627,
+        1757,
+        785
+      ],
+      "lines": [
+        {
+          "text": "Ramsey Nadine",
+          "box": [
+            904,
+            672,
+            1357,
+            738
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1944,
+        879,
+        2490,
+        1030
+      ],
+      "lines": [
+        {
+          "text": "13 02 1991",
+          "box": [
+            1995,
+            890,
+            2370,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1918,
+        1434,
+        2474,
+        1572
+      ],
+      "lines": [
+        {
+          "text": "13 10 1978",
+          "box": [
+            2005,
+            1437,
+            2372,
+            1484
+          ]
+        }
+      ]
+    }
+  ]
+}

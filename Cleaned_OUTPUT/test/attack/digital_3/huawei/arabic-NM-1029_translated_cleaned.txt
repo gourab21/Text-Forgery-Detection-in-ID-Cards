@@ -1,0 +1,27 @@
+E1
+EN: KelseyAl Khaldi
+
+L1
+EN: Khalidi Nawaf
+OR: الخالدي نواف
+
+E2
+EN: 25 Jan 1917
+
+E3
+EN: 11 Mar 2020
+
+E4
+EN: 12 Jan 205
+
+L2
+EN: 12 / July / 1983
+OR: ١٢ / يوليو / ۱۹۸۳
+
+L3
+EN: March 11, 2020
+OR: ١١ / مارس / ٢٠٢٠
+
+L4
+EN: October 6, 2033
+OR: ٦ / أكتوبر / ٢٠٣٣

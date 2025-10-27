@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\french-NF-1082_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\french-NF-1082.jpg",
+  "width": 1994,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            659,
+            291,
+            860,
+            327
+          ],
+          "original_text": "MASSON",
+          "translated_en": "MASSON"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            657,
+            462,
+            992,
+            504
+          ],
+          "original_text": "Lerrick Sabine",
+          "translated_en": "Lerrick Sabine"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1423,
+            631,
+            1707,
+            673
+          ],
+          "original_text": "15 10 2030",
+          "translated_en": "15 10 2030"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1413,
+            1021,
+            1701,
+            1056
+          ],
+          "original_text": "02 12 20 21",
+          "translated_en": "02 12 20 21"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-NF-1082_translated_cleaned.jpg"
+}

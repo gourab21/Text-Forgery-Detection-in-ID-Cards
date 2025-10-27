@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\netherland-flickr_F_20301931855_4cd18f8166_k_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\netherland-flickr_F_20301931855_4cd18f8166_k.jpg",
+  "width": 2766,
+  "height": 1728,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            939,
+            444,
+            1429,
+            509
+          ],
+          "original_text": "VERMEULEN",
+          "translated_en": "VERMEULEN"
+        },
+        {
+          "box": [
+            939,
+            528,
+            1366,
+            610
+          ],
+          "original_text": "Thijs Petra",
+          "translated_en": "Thijs Petra"
+        },
+        {
+          "box": [
+            948,
+            634,
+            1147,
+            692
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2172,
+            805,
+            2627,
+            873
+          ],
+          "original_text": "10 09 1995",
+          "translated_en": "10 09 1995"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2128,
+            1045,
+            2635,
+            1115
+          ],
+          "original_text": "02 01 2028",
+          "translated_en": "02 01 2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_20301931855_4cd18f8166_k_translated_cleaned.jpg"
+}

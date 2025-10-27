@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\indian-NF-1075_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\indian-NF-1075.jpg",
+  "width": 2795,
+  "height": 1789,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            972,
+            667,
+            1284,
+            724
+          ],
+          "original_text": "SHARMA",
+          "translated_en": "SHARMA"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            976,
+            881,
+            1455,
+            940
+          ],
+          "original_text": "SYDIRDAVT ....",
+          "translated_en": "SYDIRDAVT ...."
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            985,
+            1105,
+            1447,
+            1174
+          ],
+          "original_text": "09/01/2040",
+          "translated_en": "09/01/2040"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            992,
+            1526,
+            1433,
+            1591
+          ],
+          "original_text": "16/02/2020",
+          "translated_en": "16/02/2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1997,
+            1510,
+            2469,
+            1580
+          ],
+          "original_text": "13/02/1990",
+          "translated_en": "13/02/1990"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1075_translated_cleaned.jpg"
+}

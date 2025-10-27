@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\chinese-01_0034_000-9b26d58c_0.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        838,
+        512,
+        1454,
+        751
+      ],
+      "lines": [
+        {
+          "text": "Tyle Xing",
+          "box": [
+            888,
+            635,
+            1225,
+            696
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1578,
+        851,
+        2118,
+        1022
+      ],
+      "lines": [
+        {
+          "text": "06 Jul 2066",
+          "box": [
+            1623,
+            906,
+            2047,
+            967
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1553,
+        1097,
+        2149,
+        1262
+      ],
+      "lines": [
+        {
+          "text": "31 Mar 2014",
+          "box": [
+            1628,
+            1140,
+            2050,
+            1192
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        812,
+        1343,
+        1433,
+        1502
+      ],
+      "lines": [
+        {
+          "text": "18 Apr 1973",
+          "box": [
+            899,
+            1393,
+            1310,
+            1462
+          ]
+        }
+      ]
+    }
+  ]
+}

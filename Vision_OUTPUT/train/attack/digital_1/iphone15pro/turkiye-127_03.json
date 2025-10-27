@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\turkiye-127_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        837,
+        875,
+        1708,
+        1045
+      ],
+      "lines": [
+        {
+          "text": "Caryra",
+          "box": [
+            922,
+            928,
+            1148,
+            1002
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        834,
+        639,
+        1707,
+        817
+      ],
+      "lines": [
+        {
+          "text": "Bayar",
+          "box": [
+            923,
+            714,
+            1131,
+            778
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        833,
+        1098,
+        1676,
+        1265
+      ],
+      "lines": [
+        {
+          "text": "16.03.12033",
+          "box": [
+            932,
+            1157,
+            1359,
+            1211
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        839,
+        1554,
+        1664,
+        1735
+      ],
+      "lines": [
+        {
+          "text": "27.04.1992",
+          "box": [
+            939,
+            1603,
+            1364,
+            1666
+          ]
+        }
+      ]
+    }
+  ]
+}

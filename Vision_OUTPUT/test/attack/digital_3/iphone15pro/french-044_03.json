@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-044_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        835,
+        380,
+        1661,
+        513
+      ],
+      "lines": [
+        {
+          "text": "MOREAU",
+          "box": [
+            910,
+            428,
+            1200,
+            477
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        827,
+        628,
+        1759,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Kevin , Alain",
+          "box": [
+            911,
+            675,
+            1301,
+            734
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1947,
+        881,
+        2494,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "01 01 2017",
+          "box": [
+            2002,
+            885,
+            2376,
+            939
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1921,
+        1438,
+        2478,
+        1577
+      ],
+      "lines": [
+        {
+          "text": "30 01 2066",
+          "box": [
+            2008,
+            1438,
+            2382,
+            1484
+          ]
+        }
+      ]
+    }
+  ]
+}

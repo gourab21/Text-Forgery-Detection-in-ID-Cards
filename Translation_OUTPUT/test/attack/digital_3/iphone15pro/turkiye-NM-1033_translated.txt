@@ -1,0 +1,11 @@
+E2
+EN: Hallk
+
+E1
+EN: Arslan
+
+E3
+EN: 20.08.1934
+
+E4
+EN: 25.05.1917

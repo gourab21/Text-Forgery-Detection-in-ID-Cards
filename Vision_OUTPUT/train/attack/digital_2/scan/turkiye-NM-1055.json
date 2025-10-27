@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-NM-1055.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        594,
+        612,
+        1213,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Bhris",
+          "box": [
+            652,
+            646,
+            802,
+            688
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        447,
+        1213,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            655,
+            484,
+            831,
+            532
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        591,
+        767,
+        1190,
+        884
+      ],
+      "lines": [
+        {
+          "text": "14.03.2036",
+          "box": [
+            650,
+            803,
+            955,
+            843
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        596,
+        1087,
+        1182,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "29.11.2000",
+          "box": [
+            644,
+            1116,
+            949,
+            1158
+          ]
+        }
+      ]
+    }
+  ]
+}

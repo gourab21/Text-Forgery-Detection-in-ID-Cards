@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\russian-002_03.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\russian-002_03.jpg",
+  "width": 2832,
+  "height": 1802,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1013,
+            386,
+            1400,
+            445
+          ],
+          "original_text": "Васильева /",
+          "translated_en": "Vasilyeva /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1008,
+            464,
+            1282,
+            511
+          ],
+          "original_text": "Vasilieva",
+          "translated_en": "Vasilieva",
+          "detected_lang": "yo"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1013,
+            672,
+            1884,
+            747
+          ],
+          "original_text": "Людмила Анатольевна / В",
+          "translated_en": "Lyudmila Anatolyevna / V",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1017,
+            749,
+            1683,
+            820
+          ],
+          "original_text": "Lyudmila Anatolievna",
+          "translated_en": "Lyudmila Anatolyevna",
+          "detected_lang": "bg-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1020,
+            976,
+            1368,
+            1026
+          ],
+          "original_text": "28.08.1989",
+          "translated_en": "28.08.1989",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1372,
+            1376,
+            1424
+          ],
+          "original_text": "20.08.2015",
+          "translated_en": "20.08.2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1029,
+            1641,
+            1381,
+            1691
+          ],
+          "original_text": "17.08.2025",
+          "translated_en": "17.08.2025",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-002_03_translated.jpg"
+}

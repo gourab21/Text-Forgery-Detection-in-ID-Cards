@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\chinese2-flickr_M_6850649398_5d950a2635_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_6850649398_5d950a2635_k.jpg",
+  "width": 3216,
+  "height": 2053,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1088,
+            704,
+            1256,
+            785
+          ],
+          "original_text": "赵 洋",
+          "translated_en": "Zhao Yang"
+        },
+        {
+          "box": [
+            1091,
+            814,
+            1548,
+            888
+          ],
+          "original_text": "Zhao Yang",
+          "translated_en": "Zhao Yang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2008,
+            1147,
+            2581,
+            1224
+          ],
+          "original_text": "15 MAY 1991",
+          "translated_en": "15 MAY 1991"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2008,
+            1449,
+            2602,
+            1526
+          ],
+          "original_text": "02 MAR 2012",
+          "translated_en": "02 MAR 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1112,
+            1781,
+            1704,
+            1853
+          ],
+          "original_text": "02 MAR 2032",
+          "translated_en": "02 MAR 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_6850649398_5d950a2635_k_translated_cleaned.jpg"
+}

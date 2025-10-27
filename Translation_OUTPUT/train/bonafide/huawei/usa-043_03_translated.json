@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\huawei\\usa-043_03.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-043_03.jpg",
+  "width": 3191,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1048,
+            744,
+            1594,
+            821
+          ],
+          "original_text": "Ethan Wright",
+          "translated_en": "Ethan Wright",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1039,
+            838,
+            1490,
+            909
+          ],
+          "original_text": "15 Cedar L",
+          "translated_en": "15 Cedar L",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1038,
+            928,
+            1723,
+            1001
+          ],
+          "original_text": "Salem OR 97301",
+          "translated_en": "Salem OR 97301",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2399,
+            1238,
+            3031,
+            1308
+          ],
+          "original_text": "DOB : 02-08-83",
+          "translated_en": "DOB : 02-08-83",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-043_03_translated.jpg"
+}

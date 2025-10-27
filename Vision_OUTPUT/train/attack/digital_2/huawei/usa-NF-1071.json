@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-NF-1071.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        974,
+        677,
+        1998,
+        1053
+      ],
+      "lines": [
+        {
+          "text": "Calthewomez",
+          "box": [
+            1043,
+            748,
+            1587,
+            820
+          ]
+        },
+        {
+          "text": "874 Third Ave",
+          "box": [
+            1041,
+            842,
+            1621,
+            908
+          ]
+        },
+        {
+          "text": "Orlando FL 32801",
+          "box": [
+            1040,
+            934,
+            1778,
+            1005
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2345,
+        1200,
+        3145,
+        1362
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-29-3",
+          "box": [
+            2411,
+            1240,
+            3063,
+            1323
+          ]
+        }
+      ]
+    }
+  ]
+}

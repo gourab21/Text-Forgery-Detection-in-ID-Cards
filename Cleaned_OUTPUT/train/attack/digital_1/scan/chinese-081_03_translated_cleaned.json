@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\chinese-081_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\chinese-081_03.jpg",
+  "width": 1997,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            694,
+            426,
+            797,
+            474
+          ],
+          "original_text": "孙悦",
+          "translated_en": "Sun Yue"
+        },
+        {
+          "box": [
+            692,
+            480,
+            892,
+            526
+          ],
+          "original_text": "saniele",
+          "translated_en": "saniele"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1246,
+            712,
+            1558,
+            752
+          ],
+          "original_text": "12 Jul 12024",
+          "translated_en": "12 Jul 12024"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1242,
+            896,
+            1555,
+            942
+          ],
+          "original_text": "06 Apr 2014",
+          "translated_en": "06 Apr 2014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            678,
+            1079,
+            999,
+            1128
+          ],
+          "original_text": "03 Apr 1997",
+          "translated_en": "03 Apr 1997"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-081_03_translated_cleaned.jpg"
+}

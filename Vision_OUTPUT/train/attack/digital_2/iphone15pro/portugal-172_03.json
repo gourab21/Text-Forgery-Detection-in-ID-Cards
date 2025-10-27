@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-172_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        815,
+        383,
+        1924,
+        608
+      ],
+      "lines": [
+        {
+          "text": "RAKIR & ANTOS",
+          "box": [
+            900,
+            430,
+            1515,
+            508
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            896,
+            507,
+            1108,
+            559
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2171,
+        740,
+        2633,
+        864
+      ],
+      "lines": [
+        {
+          "text": "15 11 1989",
+          "box": [
+            2245,
+            772,
+            2623,
+            822
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1635,
+        939,
+        2201,
+        1086
+      ],
+      "lines": [
+        {
+          "text": "13 11 2002",
+          "box": [
+            1707,
+            983,
+            2096,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

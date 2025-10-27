@@ -1,0 +1,132 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\persian-NM-1035.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\persian-NM-1035.jpg",
+  "width": 2843,
+  "height": 1810,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1087,
+            351,
+            1269,
+            382
+          ],
+          "original_text": "Name",
+          "translated_en": "Name",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1086,
+            414,
+            1306,
+            479
+          ],
+          "original_text": "Jicky",
+          "translated_en": "Jicky",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1091,
+            622,
+            1437,
+            678
+          ],
+          "original_text": "Shahbazi",
+          "translated_en": "Shahbazi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1916,
+            402,
+            2042,
+            465
+          ],
+          "original_text": "جواد",
+          "translated_en": "Javad",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1915,
+            610,
+            2133,
+            668
+          ],
+          "original_text": "شهبازی",
+          "translated_en": "Shahbazi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1102,
+            856,
+            1500,
+            917
+          ],
+          "original_text": "18/11/2023",
+          "translated_en": "18/11/2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1113,
+            1326,
+            1503,
+            1389
+          ],
+          "original_text": "18/11/2022",
+          "translated_en": "18/11/2022",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1943,
+            1317,
+            2337,
+            1373
+          ],
+          "original_text": "18/11/1992",
+          "translated_en": "18/11/1992",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NM-1035_translated.jpg"
+}

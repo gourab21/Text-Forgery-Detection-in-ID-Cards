@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\usa-NF-1093_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\usa-NF-1093.jpg",
+  "width": 3059,
+  "height": 1902,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            991,
+            716,
+            1442,
+            776
+          ],
+          "original_text": "Eatherineew",
+          "translated_en": "Eatherineew"
+        },
+        {
+          "box": [
+            990,
+            799,
+            1599,
+            869
+          ],
+          "original_text": "306 Pine Street",
+          "translated_en": "306 Pine Street"
+        },
+        {
+          "box": [
+            990,
+            888,
+            1593,
+            956
+          ],
+          "original_text": "Reno NV 89501",
+          "translated_en": "Reno NV 89501"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2286,
+            1182,
+            2897,
+            1248
+          ],
+          "original_text": "05-18-01",
+          "translated_en": "05-18-01"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1093_translated_cleaned.jpg"
+}

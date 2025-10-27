@@ -1,0 +1,22 @@
+E1
+EN: Debo
+
+E2
+EN: Ghasemi
+
+L1
+OR: سیما
+EN: Sima
+
+L2
+OR: زارع
+EN: Farmer
+
+E3
+EN: 16/10/195
+
+E4
+EN: 24/03/2024
+
+E5
+EN: 21/04/2092

@@ -1,0 +1,79 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_37048326531_f8270ca4df_k.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_37048326531_f8270ca4df_k.jpg",
+  "width": 2781,
+  "height": 1739,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            940,
+            445,
+            1572,
+            514
+          ],
+          "original_text": "VAN DER MEER",
+          "translated_en": "VAN DER MEER",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            951,
+            534,
+            1664,
+            595
+          ],
+          "original_text": "Thonask Johanes",
+          "translated_en": "Thonask Johanes",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            947,
+            636,
+            1312,
+            694
+          ],
+          "original_text": "Gerardus",
+          "translated_en": "Gerardus",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2175,
+            811,
+            2624,
+            872
+          ],
+          "original_text": "07 03 1923",
+          "translated_en": "07 03 1923",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2144,
+            1047,
+            2642,
+            1116
+          ],
+          "original_text": "05 03 1923",
+          "translated_en": "05 03 1923",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_37048326531_f8270ca4df_k_translated.jpg"
+}

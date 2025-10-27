@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        471,
+        2339,
+        747
+      ],
+      "lines": [
+        {
+          "text": "SODYA LIMA",
+          "box": [
+            1099,
+            536,
+            1616,
+            606
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            1098,
+            631,
+            1716,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2639,
+        907,
+        3201,
+        1061
+      ],
+      "lines": [
+        {
+          "text": "09 02 1995",
+          "box": [
+            2747,
+            946,
+            3200,
+            1011
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1987,
+        1152,
+        2677,
+        1334
+      ],
+      "lines": [
+        {
+          "text": "24 06 290",
+          "box": [
+            2093,
+            1212,
+            2579,
+            1282
+          ]
+        }
+      ]
+    }
+  ]
+}

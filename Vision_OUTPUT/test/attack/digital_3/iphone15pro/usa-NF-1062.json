@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1062.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        856,
+        616,
+        1758,
+        957
+      ],
+      "lines": [
+        {
+          "text": "Molly Brown",
+          "box": [
+            927,
+            674,
+            1388,
+            746
+          ]
+        },
+        {
+          "text": "337 Lakeview Dr",
+          "box": [
+            930,
+            755,
+            1539,
+            820
+          ]
+        },
+        {
+          "text": "Medford OR 97501",
+          "box": [
+            930,
+            839,
+            1608,
+            902
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2063,
+        1092,
+        2767,
+        1238
+      ],
+      "lines": [
+        {
+          "text": "DOB : 28-06-85",
+          "box": [
+            2132,
+            1093,
+            2689,
+            1146
+          ]
+        }
+      ]
+    }
+  ]
+}

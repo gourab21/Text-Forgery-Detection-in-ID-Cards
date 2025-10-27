@@ -1,0 +1,14 @@
+LE1
+OR: 赵 婷
+EN: Zhao Ting
+OR: JeseTng
+EN: Autumn
+
+E2
+EN: 22 Jun 1937
+
+E3
+EN: 31 May 2012
+
+E4
+EN: 14 Nov 1957

@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\usa-NM-1052.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-NM-1052.jpg",
+  "width": 1995,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            649,
+            456,
+            1231,
+            523
+          ],
+          "original_text": "Morganoher Gren66666",
+          "translated_en": "Morganoher Gren66666",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            647,
+            525,
+            932,
+            569
+          ],
+          "original_text": "112 Oak St",
+          "translated_en": "112 Oak St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            645,
+            585,
+            1134,
+            630
+          ],
+          "original_text": "Laramie WY 82070",
+          "translated_en": "Laramie WY 82070",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1490,
+            779,
+            1885,
+            822
+          ],
+          "original_text": "DOB : 23-05-00",
+          "translated_en": "DOB : 23-05-00",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1052_translated.jpg"
+}

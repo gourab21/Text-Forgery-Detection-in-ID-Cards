@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_M_31226087931_7b83422543_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        578,
+        2088,
+        856
+      ],
+      "lines": [
+        {
+          "text": "Joe Prastyo",
+          "box": [
+            711,
+            658,
+            1323,
+            739
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1240,
+        1438,
+        1411
+      ],
+      "lines": [
+        {
+          "text": "08-07-3-38",
+          "box": [
+            729,
+            1295,
+            1217,
+            1369
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1505,
+        2306,
+        1671
+      ],
+      "lines": [
+        {
+          "text": "04.07 3555",
+          "box": [
+            1656,
+            1530,
+            2161,
+            1611
+          ]
+        }
+      ]
+    }
+  ]
+}

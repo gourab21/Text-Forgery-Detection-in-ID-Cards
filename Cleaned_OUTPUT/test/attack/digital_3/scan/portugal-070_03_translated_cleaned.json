@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-070_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-070_03.jpg",
+  "width": 1996,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            687,
+            342,
+            1116,
+            386
+          ],
+          "original_text": "NICHOLASOSTA",
+          "translated_en": "NICHOLASOSTA"
+        },
+        {
+          "box": [
+            687,
+            396,
+            806,
+            438
+          ],
+          "original_text": "João",
+          "translated_en": "João"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1699,
+            599,
+            1951,
+            637
+          ],
+          "original_text": "17 10 2076",
+          "translated_en": "17 10 2076"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1301,
+            767,
+            1584,
+            806
+          ],
+          "original_text": "20 01 1918",
+          "translated_en": "20 01 1918"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-070_03_translated_cleaned.jpg"
+}

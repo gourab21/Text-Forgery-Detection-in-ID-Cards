@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\singapore-flickr_M_22512816725_a88536de72_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1501,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Rajesh Assam",
+          "box": [
+            513,
+            465,
+            990,
+            517
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        885,
+        1033,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "1982-04-21",
+          "box": [
+            508,
+            918,
+            871,
+            968
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1075,
+        1658,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "1992-04-21",
+          "box": [
+            1164,
+            1110,
+            1530,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

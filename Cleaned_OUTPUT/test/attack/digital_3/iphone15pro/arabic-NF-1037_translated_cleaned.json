@@ -1,0 +1,139 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\arabic-NF-1037_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\arabic-NF-1037.jpg",
+  "width": 2626,
+  "height": 1604,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            991,
+            593,
+            1565,
+            660
+          ],
+          "original_text": "Vanessaoud",
+          "translated_en": "Vanessaoud"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            967,
+            427,
+            1396,
+            503
+          ],
+          "original_text": "محمود لیلی",
+          "translated_en": "Mahmoud Leili"
+        },
+        {
+          "box": [
+            960,
+            514,
+            1000,
+            537
+          ],
+          "original_text": "N",
+          "translated_en": "N"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            979,
+            999,
+            1447,
+            1061
+          ],
+          "original_text": "16 Jun 2085",
+          "translated_en": "16 Jun 2085"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            975,
+            1210,
+            1442,
+            1270
+          ],
+          "original_text": "15 Jan 2020",
+          "translated_en": "15 Jan 2020"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            969,
+            1418,
+            1438,
+            1481
+          ],
+          "original_text": "08 Jun 1936",
+          "translated_en": "08 Jun 1936"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1670,
+            994,
+            2232,
+            1083
+          ],
+          "original_text": "۲۲ / فبراير / ۱۹",
+          "translated_en": "February 22, 19"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1672,
+            1221,
+            2227,
+            1294
+          ],
+          "original_text": "١٥ / يناير / ۲۰۲۰",
+          "translated_en": "January 15, 2020"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1668,
+            1419,
+            2234,
+            1504
+          ],
+          "original_text": "٥ / أكتوبر / ٢٠٣٢",
+          "translated_en": "October 5, 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1037_translated_cleaned.jpg"
+}

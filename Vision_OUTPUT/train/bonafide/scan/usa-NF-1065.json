@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-NF-1065.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        425,
+        1238,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Anna Rivera",
+          "box": [
+            653,
+            467,
+            964,
+            507
+          ]
+        },
+        {
+          "text": "1325 Cedar Lane",
+          "box": [
+            655,
+            524,
+            1084,
+            568
+          ]
+        },
+        {
+          "text": "Tacoma WA 98402",
+          "box": [
+            651,
+            582,
+            1132,
+            626
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        754,
+        1948,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 06-11-95",
+          "box": [
+            1493,
+            777,
+            1887,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

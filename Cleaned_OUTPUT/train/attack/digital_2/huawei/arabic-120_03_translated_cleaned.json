@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\arabic-120_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\arabic-120_03.jpg",
+  "width": 3181,
+  "height": 1964,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1184,
+            733,
+            1882,
+            827
+          ],
+          "original_text": "Seth dosliau",
+          "translated_en": "Seth dosliau"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1163,
+            526,
+            1803,
+            621
+          ],
+          "original_text": "إبراهيم سلمى",
+          "translated_en": "Ibrahim Salma"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1168,
+            1230,
+            1769,
+            1329
+          ],
+          "original_text": "26 Feb 97",
+          "translated_en": "26 Feb 97"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1171,
+            1497,
+            1716,
+            1576
+          ],
+          "original_text": "09 Jul 2023",
+          "translated_en": "09 Jul 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1168,
+            1759,
+            1747,
+            1837
+          ],
+          "original_text": "14 Jun 2007",
+          "translated_en": "14 Jun 2007"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2028,
+            1252,
+            2764,
+            1338
+          ],
+          "original_text": "٢٦ / فبراير / ۱۹۹۰",
+          "translated_en": "February 26, 1990"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2026,
+            1515,
+            2681,
+            1586
+          ],
+          "original_text": "// / يوليو / ١٢ ۲۰۲۳",
+          "translated_en": "// / July / 12 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2022,
+            1773,
+            2718,
+            1861
+          ],
+          "original_text": "١٤ / يونيو / ۲۰۳۰",
+          "translated_en": "June 14, 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-120_03_translated_cleaned.jpg"
+}

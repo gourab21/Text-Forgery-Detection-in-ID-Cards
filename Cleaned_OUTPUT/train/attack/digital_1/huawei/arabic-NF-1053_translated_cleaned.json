@@ -1,0 +1,139 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\arabic-NF-1053_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\arabic-NF-1053.jpg",
+  "width": 3187,
+  "height": 1964,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1193,
+            735,
+            1883,
+            818
+          ],
+          "original_text": "LictorAllGhonal",
+          "translated_en": "LictorAllGhonal"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1172,
+            519,
+            1741,
+            628
+          ],
+          "original_text": "الغامدي ليلى",
+          "translated_en": "Al-Ghamdi Laila"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1182,
+            1240,
+            1750,
+            1312
+          ],
+          "original_text": "16 Feb 2019",
+          "translated_en": "16 Feb 2019"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1181,
+            1499,
+            1769,
+            1575
+          ],
+          "original_text": "11 Nov 2024",
+          "translated_en": "11 Nov 2024"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1176,
+            1760,
+            1748,
+            1832
+          ],
+          "original_text": "11 Nov 2035",
+          "translated_en": "11 Nov 2035"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2037,
+            1253,
+            2775,
+            1340
+          ],
+          "original_text": "١٦ / فبراير / ۱۹۸۸",
+          "translated_en": "February 16, 1988"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2030,
+            1511,
+            2810,
+            1586
+          ],
+          "original_text": "۱۱ / نوفمبر / ٢٠٢٤",
+          "translated_en": "November 11, 2024"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2096,
+            1681,
+            2167,
+            1719
+          ],
+          "original_text": "3",
+          "translated_en": "3"
+        },
+        {
+          "box": [
+            2024,
+            1774,
+            2994,
+            1860
+          ],
+          "original_text": "۱۱ / نوفمبر ٢٠٣٤١",
+          "translated_en": "November 11, 20341"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1053_translated_cleaned.jpg"
+}

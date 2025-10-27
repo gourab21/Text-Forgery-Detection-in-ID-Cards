@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-013_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        450,
+        2217,
+        715
+      ],
+      "lines": [
+        {
+          "text": "WILLIAM ANDADE",
+          "box": [
+            1037,
+            520,
+            1798,
+            589
+          ]
+        },
+        {
+          "text": "Carla Patricia",
+          "box": [
+            1031,
+            599,
+            1553,
+            671
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2500,
+        868,
+        3032,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "03 10 2096",
+          "box": [
+            2577,
+            908,
+            2958,
+            973
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1883,
+        1102,
+        2536,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "14 04 2031",
+          "box": [
+            1970,
+            1160,
+            2407,
+            1224
+          ]
+        }
+      ]
+    }
+  ]
+}

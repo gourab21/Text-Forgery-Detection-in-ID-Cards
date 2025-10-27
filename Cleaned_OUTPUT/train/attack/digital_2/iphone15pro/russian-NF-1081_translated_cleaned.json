@@ -1,0 +1,94 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\russian-NF-1081_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\russian-NF-1081.jpg",
+  "width": 2832,
+  "height": 1798,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1005,
+            389,
+            1290,
+            449
+          ],
+          "original_text": "Попова /",
+          "translated_en": "Popova /"
+        },
+        {
+          "box": [
+            1004,
+            464,
+            1230,
+            522
+          ],
+          "original_text": "Popova",
+          "translated_en": "Popova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1007,
+            756,
+            1757,
+            818
+          ],
+          "original_text": "Avendo Vlamroona",
+          "translated_en": "Having Vlamroona"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1018,
+            975,
+            1378,
+            1025
+          ],
+          "original_text": "19.01.2013",
+          "translated_en": "19.01.2013"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1371,
+            1370,
+            1419
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1028,
+            1640,
+            1381,
+            1687
+          ],
+          "original_text": "20.05 . 191",
+          "translated_en": "20.05 . 191"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1081_translated_cleaned.jpg"
+}

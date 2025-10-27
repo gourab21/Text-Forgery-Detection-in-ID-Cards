@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\portugal-026_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-026_03.jpg",
+  "width": 2883,
+  "height": 1794,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            978,
+            490,
+            1805,
+            573
+          ],
+          "original_text": "F HAIZTOPHR ] } }",
+          "translated_en": "F HAIZTOPHR ] } }"
+        },
+        {
+          "box": [
+            976,
+            593,
+            1178,
+            650
+          ],
+          "original_text": "Tiago",
+          "translated_en": "Tiago"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2447,
+            835,
+            2861,
+            895
+          ],
+          "original_text": "01 09 1998",
+          "translated_en": "01 09 1998"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1876,
+            1090,
+            2306,
+            1148
+          ],
+          "original_text": "29 08 2140",
+          "translated_en": "29 08 2140"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-026_03_translated_cleaned.jpg"
+}

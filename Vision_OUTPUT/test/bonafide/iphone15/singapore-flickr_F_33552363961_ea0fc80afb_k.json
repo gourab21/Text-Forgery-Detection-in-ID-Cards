@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_33552363961_ea0fc80afb_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        577,
+        578,
+        2085,
+        856
+      ],
+      "lines": [
+        {
+          "text": "Meera Krishnan",
+          "box": [
+            710,
+            654,
+            1456,
+            724
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1240,
+        1436,
+        1411
+      ],
+      "lines": [
+        {
+          "text": "2000-12-02",
+          "box": [
+            719,
+            1293,
+            1227,
+            1362
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1561,
+        1505,
+        2303,
+        1671
+      ],
+      "lines": [
+        {
+          "text": "2010-12-02",
+          "box": [
+            1638,
+            1537,
+            2148,
+            1608
+          ]
+        }
+      ]
+    }
+  ]
+}

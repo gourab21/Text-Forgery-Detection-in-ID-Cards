@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\russian-027_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\russian-027_03.jpg",
+  "width": 1995,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            729,
+            258,
+            984,
+            308
+          ],
+          "original_text": "Соколова /",
+          "translated_en": "Sokolova /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            728,
+            315,
+            926,
+            347
+          ],
+          "original_text": "Sokolova",
+          "translated_en": "Sokolova",
+          "detected_lang": "cs"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            727,
+            470,
+            1189,
+            518
+          ],
+          "original_text": "Мария Алексеевна /",
+          "translated_en": "Maria Alekseevna /",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            725,
+            516,
+            853,
+            561
+          ],
+          "original_text": "Njane",
+          "translated_en": "Dog",
+          "detected_lang": "ml-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            723,
+            676,
+            985,
+            709
+          ],
+          "original_text": "12.01.:2011",
+          "translated_en": "12.01.:2011",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            717,
+            952,
+            963,
+            987
+          ],
+          "original_text": "15.08.2020",
+          "translated_en": "15.08.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            714,
+            1139,
+            972,
+            1172
+          ],
+          "original_text": "13.08.1996",
+          "translated_en": "13.08.1996",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-027_03_translated.jpg"
+}

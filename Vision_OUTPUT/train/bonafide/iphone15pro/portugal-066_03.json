@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        889,
+        430,
+        2096,
+        682
+      ],
+      "lines": [
+        {
+          "text": "SANTOS COSTA",
+          "box": [
+            975,
+            499,
+            1539,
+            561
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            979,
+            584,
+            1599,
+            648
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2365,
+        828,
+        2868,
+        967
+      ],
+      "lines": [
+        {
+          "text": "18 03 1989",
+          "box": [
+            2445,
+            835,
+            2855,
+            894
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1780,
+        1051,
+        2398,
+        1216
+      ],
+      "lines": [
+        {
+          "text": "0401 2033",
+          "box": [
+            1870,
+            1089,
+            2287,
+            1147
+          ]
+        }
+      ]
+    }
+  ]
+}

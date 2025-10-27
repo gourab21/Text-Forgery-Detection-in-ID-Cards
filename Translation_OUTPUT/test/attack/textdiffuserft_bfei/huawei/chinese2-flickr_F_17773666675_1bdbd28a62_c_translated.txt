@@ -1,0 +1,13 @@
+LE1
+OR: 陈红
+EN: Chen Hong
+EN: Jaco Hong
+
+E2
+EN: 25 Feb 2090
+
+E3
+EN: 31 Mar 2004
+
+E4
+EN: 10 Jul 1943

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1105.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "MATTHEVES COSTA",
+          "box": [
+            691,
+            338,
+            1192,
+            384
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            685,
+            396,
+            781,
+            436
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        578,
+        1995,
+        675
+      ],
+      "lines": [
+        {
+          "text": "02 03 1903",
+          "box": [
+            1698,
+            603,
+            1951,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        733,
+        1668,
+        848
+      ],
+      "lines": [
+        {
+          "text": "01 04 2043",
+          "box": [
+            1298,
+            773,
+            1586,
+            812
+          ]
+        }
+      ]
+    }
+  ]
+}

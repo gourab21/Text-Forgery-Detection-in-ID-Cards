@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-097_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        267,
+        1177,
+        360
+      ],
+      "lines": [
+        {
+          "text": "FONTAINE",
+          "box": [
+            656,
+            297,
+            905,
+            332
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        586,
+        440,
+        1247,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Anaïs , Laura",
+          "box": [
+            649,
+            472,
+            941,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1381,
+        618,
+        1769,
+        724
+      ],
+      "lines": [
+        {
+          "text": "07 07 1987",
+          "box": [
+            1416,
+            638,
+            1686,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1362,
+        1008,
+        1758,
+        1105
+      ],
+      "lines": [
+        {
+          "text": "25 03 $ 2030",
+          "box": [
+            1411,
+            1024,
+            1675,
+            1062
+          ]
+        }
+      ]
+    }
+  ]
+}

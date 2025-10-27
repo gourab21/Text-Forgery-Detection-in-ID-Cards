@@ -1,0 +1,11 @@
+E2
+EN: Dilara
+
+E1
+EN: Bayar
+
+E3
+EN: 16.03.1991
+
+E4
+EN: 27.04.2035

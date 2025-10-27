@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\turkiye-NF-1008.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        611,
+        1216,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Seda",
+          "box": [
+            654,
+            649,
+            779,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        447,
+        1216,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Çelik",
+          "box": [
+            659,
+            494,
+            784,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        767,
+        1193,
+        884
+      ],
+      "lines": [
+        {
+          "text": "05.12.1994",
+          "box": [
+            651,
+            803,
+            941,
+            842
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1086,
+        1185,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "17.02.2034",
+          "box": [
+            648,
+            1117,
+            935,
+            1158
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        298,
+        1456,
+        474
+      ],
+      "lines": [
+        {
+          "text": "SERRY DEEIRA",
+          "box": [
+            676,
+            346,
+            1094,
+            387
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            678,
+            403,
+            867,
+            441
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        576,
+        1993,
+        672
+      ],
+      "lines": [
+        {
+          "text": "22 04 1973",
+          "box": [
+            1704,
+            580,
+            1991,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        731,
+        1666,
+        846
+      ],
+      "lines": [
+        {
+          "text": "20 04 2022",
+          "box": [
+            1306,
+            759,
+            1601,
+            796
+          ]
+        }
+      ]
+    }
+  ]
+}

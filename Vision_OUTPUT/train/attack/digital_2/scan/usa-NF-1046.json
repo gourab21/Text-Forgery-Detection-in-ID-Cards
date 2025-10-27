@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\usa-NF-1046.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        426,
+        1236,
+        661
+      ],
+      "lines": [
+        {
+          "text": "Nonnaie White",
+          "box": [
+            647,
+            468,
+            1007,
+            514
+          ]
+        },
+        {
+          "text": "881 Willow Dr",
+          "box": [
+            646,
+            529,
+            1010,
+            571
+          ]
+        },
+        {
+          "text": "Burlington VT 05401",
+          "box": [
+            650,
+            583,
+            1173,
+            637
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1451,
+        755,
+        1945,
+        856
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-15-07",
+          "box": [
+            1497,
+            761,
+            1902,
+            801
+          ]
+        }
+      ]
+    }
+  ]
+}

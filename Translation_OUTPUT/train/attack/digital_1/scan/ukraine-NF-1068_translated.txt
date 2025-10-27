@@ -1,0 +1,20 @@
+LE1
+OR: Коваленко /
+EN: Kovalenko /
+EN: Kovalenko
+
+LE2
+OR: Олена Григорівна /
+EN: Olena Grigorivna /
+OR: Gett
+EN: Goat
+
+E3
+EN: 09.05.12038
+
+E4
+EN: Вида
+EN: 09.05.2021
+
+E5
+EN: 08.05.2022

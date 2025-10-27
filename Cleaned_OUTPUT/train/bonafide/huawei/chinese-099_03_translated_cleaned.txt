@@ -1,0 +1,13 @@
+LE1
+EN: Ting
+OR: 婷
+EN: Zhou Ting
+
+E2
+EN: 22 Mar 1996
+
+E3
+EN: 22 Jun 2016
+
+E4
+EN: 20 Jun 2026

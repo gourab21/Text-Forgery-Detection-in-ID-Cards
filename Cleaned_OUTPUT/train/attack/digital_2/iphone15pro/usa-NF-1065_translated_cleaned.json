@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\usa-NF-1065_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1065.jpg",
+  "width": 2647,
+  "height": 1611,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            856,
+            617,
+            1292,
+            664
+          ],
+          "original_text": "Aobertivera",
+          "translated_en": "Aobertivera"
+        },
+        {
+          "box": [
+            864,
+            684,
+            1429,
+            736
+          ],
+          "original_text": "1325 Cedar Lane",
+          "translated_en": "1325 Cedar Lane"
+        },
+        {
+          "box": [
+            860,
+            758,
+            1494,
+            813
+          ],
+          "original_text": "Tacoma WA 98402",
+          "translated_en": "Tacoma WA 98402"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1988,
+            975,
+            2530,
+            1050
+          ],
+          "original_text": "06-11-29",
+          "translated_en": "06-11-29"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1065_translated_cleaned.jpg"
+}

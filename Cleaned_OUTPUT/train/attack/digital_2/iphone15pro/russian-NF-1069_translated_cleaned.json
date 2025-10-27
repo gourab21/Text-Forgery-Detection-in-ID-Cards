@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\russian-NF-1069_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\russian-NF-1069.jpg",
+  "width": 2840,
+  "height": 1804,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1014,
+            389,
+            1433,
+            457
+          ],
+          "original_text": "Журавлева /",
+          "translated_en": "Zhuravleva /"
+        },
+        {
+          "box": [
+            1018,
+            466,
+            1362,
+            514
+          ],
+          "original_text": "Zhuravleva",
+          "translated_en": "Zhuravleva"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1023,
+            682,
+            1659,
+            750
+          ],
+          "original_text": "Анна Михайловна /",
+          "translated_en": "Anna Mikhailovna /"
+        },
+        {
+          "box": [
+            1024,
+            766,
+            1207,
+            827
+          ],
+          "original_text": "Aenn",
+          "translated_en": "Aenn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1032,
+            978,
+            1401,
+            1046
+          ],
+          "original_text": "07.01.2038",
+          "translated_en": "07.01.2038"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1040,
+            1380,
+            1389,
+            1430
+          ],
+          "original_text": "02.01.2021",
+          "translated_en": "02.01.2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1042,
+            1646,
+            1418,
+            1696
+          ],
+          "original_text": "31.12 . 2011",
+          "translated_en": "31.12 . 2011"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1069_translated_cleaned.jpg"
+}

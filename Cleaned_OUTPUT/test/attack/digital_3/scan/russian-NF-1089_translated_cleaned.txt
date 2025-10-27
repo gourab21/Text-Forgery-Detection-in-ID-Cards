@@ -1,0 +1,18 @@
+LE1
+EN: Fedorova /
+OR: Федорова /
+EN: Fedorova
+
+LE2
+EN: Svetlana Ivanovna /
+OR: Светлана Ивановна /
+EN: Waltena
+
+E3
+EN: 19.04.2078
+
+E4
+EN: 26.02.2022
+
+E5
+EN: 09.06.1988

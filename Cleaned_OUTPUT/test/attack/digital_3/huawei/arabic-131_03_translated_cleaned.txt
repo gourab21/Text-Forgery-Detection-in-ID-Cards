@@ -1,0 +1,27 @@
+E1
+EN: Rickil AlMubaak
+
+L1
+EN: Mubarak Khalil
+OR: المبارك خليل
+
+E2
+EN: 25 Nov 2040
+
+E3
+EN: 20 Apr 2022
+
+E4
+EN: 01 Feb 2000
+
+L2
+EN: August 17, 1994
+OR: ١٧ / أغسطس / ١٩٩٤
+
+L3
+EN: April 20, 2022
+OR: ۲۰ / ابريل / ۲۰۲۲
+
+L4
+EN: May 10, 2032
+OR: ۱۰ / مايو / ۲۰۳۲

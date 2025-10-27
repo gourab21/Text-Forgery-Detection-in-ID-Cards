@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_30990255070_570d17d9d4_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_30990255070_570d17d9d4_c.jpg",
+  "width": 1995,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            679,
+            325,
+            954,
+            367
+          ],
+          "original_text": "DE VRIES",
+          "translated_en": "DE VRIES"
+        },
+        {
+          "box": [
+            684,
+            380,
+            1184,
+            433
+          ],
+          "original_text": "Mackenzeltabeth",
+          "translated_en": "Mackenzeltabeth"
+        },
+        {
+          "box": [
+            678,
+            455,
+            912,
+            498
+          ],
+          "original_text": "Cornelis",
+          "translated_en": "Cornelis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1564,
+            585,
+            1893,
+            629
+          ],
+          "original_text": "14 05 2080",
+          "translated_en": "14 05 2080"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1537,
+            754,
+            1899,
+            807
+          ],
+          "original_text": "18 11 2001",
+          "translated_en": "18 11 2001"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_30990255070_570d17d9d4_c_translated_cleaned.jpg"
+}

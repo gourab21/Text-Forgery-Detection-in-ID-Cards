@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_F_10239917343_ca73cd29b5_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        864,
+        402,
+        1774,
+        750
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            941,
+            450,
+            1327,
+            513
+          ]
+        },
+        {
+          "text": "Hendrik Gerardus",
+          "box": [
+            943,
+            532,
+            1656,
+            603
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            940,
+            632,
+            1376,
+            692
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2062,
+        777,
+        2732,
+        915
+      ],
+      "lines": [
+        {
+          "text": "27 01 1983",
+          "box": [
+            2164,
+            810,
+            2628,
+            873
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2027,
+        1015,
+        2722,
+        1186
+      ],
+      "lines": [
+        {
+          "text": "23 12 2028",
+          "box": [
+            2129,
+            1050,
+            2636,
+            1117
+          ]
+        }
+      ]
+    }
+  ]
+}

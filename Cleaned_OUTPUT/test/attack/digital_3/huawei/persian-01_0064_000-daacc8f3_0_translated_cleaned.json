@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\persian-01_0064_000-daacc8f3_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\persian-01_0064_000-daacc8f3_0.jpg",
+  "width": 3230,
+  "height": 1994,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1259,
+            454,
+            1467,
+            516
+          ],
+          "original_text": "Carll",
+          "translated_en": "Carll"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1240,
+            688,
+            1554,
+            751
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2197,
+            467,
+            2273,
+            511
+          ],
+          "original_text": "ندا",
+          "translated_en": "Neda"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2185,
+            724,
+            2425,
+            763
+          ],
+          "original_text": "موسوی",
+          "translated_en": "Mousavi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1235,
+            948,
+            1686,
+            1020
+          ],
+          "original_text": "26/07/1999",
+          "translated_en": "26/07/1999"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1226,
+            1478,
+            1672,
+            1544
+          ],
+          "original_text": "16/05/2024",
+          "translated_en": "16/05/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2169,
+            1493,
+            2624,
+            1555
+          ],
+          "original_text": "25/02/2033",
+          "translated_en": "25/02/2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-01_0064_000-daacc8f3_0_translated_cleaned.jpg"
+}

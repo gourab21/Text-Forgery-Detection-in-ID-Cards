@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\iphone15\\singapore-flickr_F_40795084473_21fafd815e_c_translated.json",
+  "image_relative": "test\\attack\\facedancer\\iphone15\\singapore-flickr_F_40795084473_21fafd815e_c.jpg",
+  "width": 2786,
+  "height": 1735,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            712,
+            655,
+            1337,
+            731
+          ],
+          "original_text": "Kavita Reddy",
+          "translated_en": "Kavita Reddy"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            728,
+            1294,
+            1228,
+            1362
+          ],
+          "original_text": "1984-09-08",
+          "translated_en": "1984-09-08"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1646,
+            1534,
+            2154,
+            1604
+          ],
+          "original_text": "1994-09-08",
+          "translated_en": "1994-09-08"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_40795084473_21fafd815e_c_translated_cleaned.jpg"
+}

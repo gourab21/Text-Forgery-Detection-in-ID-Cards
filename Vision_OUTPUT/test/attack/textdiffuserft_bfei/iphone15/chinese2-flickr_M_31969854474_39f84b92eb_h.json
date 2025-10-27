@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_31969854474_39f84b92eb_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        861,
+        552,
+        1660,
+        825
+      ],
+      "lines": [
+        {
+          "text": "马勇",
+          "box": [
+            948,
+            601,
+            1089,
+            665
+          ]
+        },
+        {
+          "text": "Laurang",
+          "box": [
+            951,
+            697,
+            1255,
+            758
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1680,
+        919,
+        2328,
+        1085
+      ],
+      "lines": [
+        {
+          "text": "28 Oct 1943",
+          "box": [
+            1733,
+            969,
+            2222,
+            1033
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1685,
+        1176,
+        2353,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "01 Mar 2003",
+          "box": [
+            1731,
+            1230,
+            2221,
+            1290
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        893,
+        1459,
+        1559,
+        1644
+      ],
+      "lines": [
+        {
+          "text": "18 Nov 1959",
+          "box": [
+            968,
+            1504,
+            1457,
+            1566
+          ]
+        }
+      ]
+    }
+  ]
+}

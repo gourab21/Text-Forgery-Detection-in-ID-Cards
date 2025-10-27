@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1060.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "DEBRICKES RIBERO",
+          "box": [
+            686,
+            344,
+            1235,
+            391
+          ]
+        },
+        {
+          "text": "Carla",
+          "box": [
+            678,
+            407,
+            811,
+            443
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        575,
+        1995,
+        671
+      ],
+      "lines": [
+        {
+          "text": "13 02 1927",
+          "box": [
+            1701,
+            578,
+            1948,
+            615
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        730,
+        1668,
+        845
+      ],
+      "lines": [
+        {
+          "text": "03 12 2030",
+          "box": [
+            1307,
+            756,
+            1596,
+            796
+          ]
+        }
+      ]
+    }
+  ]
+}

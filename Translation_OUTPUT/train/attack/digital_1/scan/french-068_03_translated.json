@@ -1,0 +1,73 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\french-068_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\french-068_03.jpg",
+  "width": 1994,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            660,
+            295,
+            921,
+            331
+          ],
+          "original_text": "ROUSSEAU",
+          "translated_en": "ROUSSEAU",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            651,
+            463,
+            1009,
+            514
+          ],
+          "original_text": "Tamesss Hogo",
+          "translated_en": "Tamesss Hogo",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1421,
+            637,
+            1710,
+            675
+          ],
+          "original_text": "20 07 2021",
+          "translated_en": "20 07 2021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1415,
+            1022,
+            1704,
+            1060
+          ],
+          "original_text": "13 07 2014",
+          "translated_en": "13 07 2014",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-068_03_translated.jpg"
+}

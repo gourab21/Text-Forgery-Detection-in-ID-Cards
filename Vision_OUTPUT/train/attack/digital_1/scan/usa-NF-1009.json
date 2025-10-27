@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\usa-NF-1009.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        424,
+        1236,
+        658
+      ],
+      "lines": [
+        {
+          "text": "Jiiciaoe",
+          "box": [
+            653,
+            466,
+            871,
+            505
+          ]
+        },
+        {
+          "text": "5678 Maple Dr",
+          "box": [
+            652,
+            522,
+            1028,
+            575
+          ]
+        },
+        {
+          "text": "Rochester NY 14623",
+          "box": [
+            653,
+            583,
+            1173,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1452,
+        752,
+        1946,
+        852
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-22-29",
+          "box": [
+            1492,
+            773,
+            1889,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

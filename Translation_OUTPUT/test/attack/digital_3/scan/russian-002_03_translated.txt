@@ -1,0 +1,18 @@
+LE1
+OR: Васильева /
+EN: Vasilyeva /
+EN: Vasilieva
+
+LE2
+OR: Людмила Анатольевна / В
+EN: Lyudmila Anatolyevna / V
+EN: Sheryla Sherrya Ana Analiz - 30 ) Uro
+
+E3
+EN: 14.11.2054
+
+E4
+EN: 20.08.2015
+
+E5
+EN: 20.05.1967

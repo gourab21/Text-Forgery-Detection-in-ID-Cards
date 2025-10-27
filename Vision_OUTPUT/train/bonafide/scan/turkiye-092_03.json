@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\turkiye-092_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        611,
+        1215,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Firat",
+          "box": [
+            654,
+            658,
+            773,
+            696
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Tekin",
+          "box": [
+            648,
+            503,
+            787,
+            540
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        766,
+        1192,
+        883
+      ],
+      "lines": [
+        {
+          "text": "25.12.1993",
+          "box": [
+            659,
+            807,
+            948,
+            851
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1086,
+        1184,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "30.08.2036",
+          "box": [
+            664,
+            1122,
+            953,
+            1161
+          ]
+        }
+      ]
+    }
+  ]
+}

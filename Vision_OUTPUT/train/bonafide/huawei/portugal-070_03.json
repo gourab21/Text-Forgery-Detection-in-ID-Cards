@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        937,
+        451,
+        2213,
+        716
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA COSTA",
+          "box": [
+            1015,
+            523,
+            1646,
+            585
+          ]
+        },
+        {
+          "text": "João",
+          "box": [
+            1014,
+            613,
+            1194,
+            672
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2495,
+        870,
+        3027,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "07 05 1988",
+          "box": [
+            2579,
+            872,
+            3017,
+            934
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1879,
+        1104,
+        2531,
+        1277
+      ],
+      "lines": [
+        {
+          "text": "05 05 2027",
+          "box": [
+            1972,
+            1141,
+            2414,
+            1205
+          ]
+        }
+      ]
+    }
+  ]
+}

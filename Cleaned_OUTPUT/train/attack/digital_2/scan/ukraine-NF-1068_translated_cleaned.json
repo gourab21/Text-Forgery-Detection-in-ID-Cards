@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\ukraine-NF-1068_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\ukraine-NF-1068.jpg",
+  "width": 1996,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            641,
+            295,
+            945,
+            342
+          ],
+          "original_text": "Коваленко /",
+          "translated_en": "Kovalenko /"
+        },
+        {
+          "box": [
+            641,
+            354,
+            889,
+            391
+          ],
+          "original_text": "Kovalenko",
+          "translated_en": "Kovalenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            645,
+            477,
+            1122,
+            526
+          ],
+          "original_text": "Олена Григорівна /",
+          "translated_en": "Olena Grigorivna /"
+        },
+        {
+          "box": [
+            644,
+            538,
+            790,
+            573
+          ],
+          "original_text": "akats",
+          "translated_en": "mistake"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            648,
+            687,
+            934,
+            721
+          ],
+          "original_text": "09.05.12011",
+          "translated_en": "09.05.12011"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            653,
+            959,
+            922,
+            996
+          ],
+          "original_text": "09.05.2021",
+          "translated_en": "09.05.2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            657,
+            1155,
+            945,
+            1191
+          ],
+          "original_text": "08.05.2202+",
+          "translated_en": "08.05.2202+"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1068_translated_cleaned.jpg"
+}

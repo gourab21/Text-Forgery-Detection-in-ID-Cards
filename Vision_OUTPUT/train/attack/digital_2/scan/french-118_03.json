@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\french-118_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "JACQUET",
+          "box": [
+            644,
+            298,
+            860,
+            340
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Isabelle , Hélène",
+          "box": [
+            648,
+            461,
+            1033,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        615,
+        1774,
+        720
+      ],
+      "lines": [
+        {
+          "text": "19 01 12022",
+          "box": [
+            1426,
+            619,
+            1711,
+            657
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1004,
+        1763,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "05 11 2.013",
+          "box": [
+            1431,
+            1008,
+            1717,
+            1044
+          ]
+        }
+      ]
+    }
+  ]
+}

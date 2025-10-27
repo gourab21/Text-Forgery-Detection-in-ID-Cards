@@ -1,0 +1,14 @@
+LE1
+OR: 周琳
+EN: Zhou Lin
+OR: Johnyin
+EN: Johnny
+
+E2
+EN: 06 Feb 202
+
+E3
+EN: 29 Sep 2010
+
+E4
+EN: 19 Aug 2026

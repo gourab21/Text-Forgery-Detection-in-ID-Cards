@@ -1,0 +1,58 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\turkiye-NF-1054_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\turkiye-NF-1054.jpg",
+  "width": 2630,
+  "height": 1611,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            859,
+            637,
+            1013,
+            686
+          ],
+          "original_text": "Kara",
+          "translated_en": "Kara"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            854,
+            1033,
+            1238,
+            1089
+          ],
+          "original_text": "28.04.2027",
+          "translated_en": "28.04.2027"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            846,
+            1438,
+            1227,
+            1490
+          ],
+          "original_text": "25.06.1941",
+          "translated_en": "25.06.1941"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-NF-1054_translated_cleaned.jpg"
+}

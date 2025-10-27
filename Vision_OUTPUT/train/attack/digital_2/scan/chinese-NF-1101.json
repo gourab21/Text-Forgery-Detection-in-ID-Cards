@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-NF-1101.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        395,
+        1106,
+        580
+      ],
+      "lines": [
+        {
+          "text": "刘亦菲",
+          "box": [
+            687,
+            425,
+            841,
+            475
+          ]
+        },
+        {
+          "text": "Lichardei",
+          "box": [
+            690,
+            487,
+            904,
+            529
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1201,
+        657,
+        1611,
+        790
+      ],
+      "lines": [
+        {
+          "text": "25 Aug 2033",
+          "box": [
+            1238,
+            710,
+            1577,
+            758
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        848,
+        1634,
+        975
+      ],
+      "lines": [
+        {
+          "text": "12 Dec 2012",
+          "box": [
+            1235,
+            893,
+            1553,
+            933
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1038,
+        1090,
+        1160
+      ],
+      "lines": [
+        {
+          "text": "10 Dec 2010",
+          "box": [
+            677,
+            1077,
+            1009,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

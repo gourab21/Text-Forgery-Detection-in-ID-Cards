@@ -1,0 +1,73 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\french-NF-1095.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\french-NF-1095.jpg",
+  "width": 3028,
+  "height": 1882,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            993,
+            444,
+            1247,
+            495
+          ],
+          "original_text": "MOREL",
+          "translated_en": "MOREL",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            995,
+            699,
+            1455,
+            764
+          ],
+          "original_text": "BrieLuurence",
+          "translated_en": "BrieLuurence",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2159,
+            960,
+            2592,
+            1020
+          ],
+          "original_text": "05 03 12020",
+          "translated_en": "05 03 12020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            2151,
+            1538,
+            2578,
+            1597
+          ],
+          "original_text": "12 04 22000",
+          "translated_en": "12 04 22000",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-NF-1095_translated.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "OLIVEIRA MARTINS",
+          "box": [
+            684,
+            338,
+            1203,
+            385
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            682,
+            395,
+            977,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "29 04 1992",
+          "box": [
+            1702,
+            600,
+            1990,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "12 10 2029",
+          "box": [
+            1297,
+            768,
+            1581,
+            808
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\turkiye-NF-1002.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        955,
+        965,
+        1950,
+        1153
+      ],
+      "lines": [
+        {
+          "text": "Eath",
+          "box": [
+            1042,
+            1023,
+            1226,
+            1087
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        952,
+        706,
+        1950,
+        901
+      ],
+      "lines": [
+        {
+          "text": "Tezcan",
+          "box": [
+            1048,
+            783,
+            1333,
+            843
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        951,
+        1210,
+        1913,
+        1395
+      ],
+      "lines": [
+        {
+          "text": "17.09.1996",
+          "box": [
+            1041,
+            1273,
+            1522,
+            1342
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        958,
+        1714,
+        1900,
+        1914
+      ],
+      "lines": [
+        {
+          "text": "27.10.:2000",
+          "box": [
+            1037,
+            1773,
+            1519,
+            1842
+          ]
+        }
+      ]
+    }
+  ]
+}

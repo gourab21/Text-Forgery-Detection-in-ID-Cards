@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NF-1105.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        998,
+        477,
+        2354,
+        756
+      ],
+      "lines": [
+        {
+          "text": "FLLEANDEESCCSTA",
+          "box": [
+            1107,
+            550,
+            1831,
+            611
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            1102,
+            644,
+            1256,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2657,
+        919,
+        3222,
+        1074
+      ],
+      "lines": [
+        {
+          "text": "26 07 2201",
+          "box": [
+            2765,
+            962,
+            3217,
+            1026
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2000,
+        1167,
+        2694,
+        1351
+      ],
+      "lines": [
+        {
+          "text": "24 07 2010",
+          "box": [
+            2102,
+            1232,
+            2589,
+            1295
+          ]
+        }
+      ]
+    }
+  ]
+}

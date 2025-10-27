@@ -1,0 +1,29 @@
+E1
+EN: NavidoFarouk
+
+L1
+OR: فاروق نادية
+EN: Farouk Nadia
+
+E2
+EN: 20 Jan 2033
+
+E3
+EN: 15 Mar 2022
+
+E4
+EN: 15 Mar 2011
+
+L2
+OR: ملاد الميـ تاريخ
+EN: Birthday of the Mi
+OR: ۲۰ / يناير / ۱۹۹۳
+EN: January 20, 1993
+
+L3
+OR: ١٥ / مارس /
+EN: March 15
+
+L4
+OR: ١٥ / مارس / ٢۰۲۲۲
+EN: March 15, 2022

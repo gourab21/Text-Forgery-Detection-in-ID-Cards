@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_18042193331_841d026f9a_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        540
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            679,
+            325,
+            978,
+            367
+          ]
+        },
+        {
+          "text": "Tess Cornelis",
+          "box": [
+            677,
+            385,
+            1057,
+            434
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            680,
+            456,
+            944,
+            498
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        560,
+        1968,
+        659
+      ],
+      "lines": [
+        {
+          "text": "04 05 1993",
+          "box": [
+            1557,
+            583,
+            1894,
+            631
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        731,
+        1961,
+        854
+      ],
+      "lines": [
+        {
+          "text": "17 08 2028",
+          "box": [
+            1533,
+            757,
+            1900,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

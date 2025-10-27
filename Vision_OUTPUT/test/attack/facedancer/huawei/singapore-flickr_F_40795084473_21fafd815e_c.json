@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\singapore-flickr_F_40795084473_21fafd815e_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        658,
+        653,
+        2381,
+        968
+      ],
+      "lines": [
+        {
+          "text": "Kavita Reddy",
+          "box": [
+            797,
+            750,
+            1515,
+            831
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        734,
+        1402,
+        1639,
+        1596
+      ],
+      "lines": [
+        {
+          "text": "1984-09-08",
+          "box": [
+            821,
+            1472,
+            1390,
+            1549
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1781,
+        1702,
+        2629,
+        1890
+      ],
+      "lines": [
+        {
+          "text": "1994-09-08",
+          "box": [
+            1876,
+            1752,
+            2456,
+            1831
+          ]
+        }
+      ]
+    }
+  ]
+}

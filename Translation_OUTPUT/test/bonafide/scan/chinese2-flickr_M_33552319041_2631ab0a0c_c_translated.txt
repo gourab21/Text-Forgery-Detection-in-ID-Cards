@@ -1,0 +1,14 @@
+LE1
+OR: 赵 超
+EN: Zhao Chao
+EN: Zhao Chao
+
+E2
+EN: 30 MAY 1989
+
+E3
+EN: 03 APR 2009
+EN: 100
+
+E4
+EN: 03 APR 2029

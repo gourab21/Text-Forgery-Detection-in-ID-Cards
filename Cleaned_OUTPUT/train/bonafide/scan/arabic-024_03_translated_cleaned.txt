@@ -1,0 +1,27 @@
+E1
+EN: Omar Khayyam
+
+L1
+EN: Omar Khayyam
+OR: خیام عمر
+
+E2
+EN: 09 Oct 1990
+
+E3
+EN: 18 Apr 2024
+
+E4
+EN: 18 Apr 2034
+
+L2
+EN: October 9, 1990
+OR: ٠٩ / أكتوبر / ١٩٩٠
+
+L3
+EN: April 18, 2024
+OR: ١٨ / أبريل / ٢٠٢٤
+
+L4
+EN: April 18, 2034
+OR: ١٨ / أبريل / ٢٠٣٤

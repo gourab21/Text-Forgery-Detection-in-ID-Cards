@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-NF-1044.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        427,
+        1237,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Jordantone Calle",
+          "box": [
+            661,
+            459,
+            1236,
+            513
+          ]
+        },
+        {
+          "text": "321 Alder St",
+          "box": [
+            654,
+            523,
+            984,
+            578
+          ]
+        },
+        {
+          "text": "Portland OR 97201",
+          "box": [
+            656,
+            585,
+            1141,
+            629
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        756,
+        1948,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 18-06-36",
+          "box": [
+            1496,
+            777,
+            1886,
+            820
+          ]
+        }
+      ]
+    }
+  ]
+}

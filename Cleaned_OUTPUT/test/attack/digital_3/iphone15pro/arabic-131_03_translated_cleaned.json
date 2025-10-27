@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\arabic-131_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\arabic-131_03.jpg",
+  "width": 2783,
+  "height": 1762,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1044,
+            659,
+            1757,
+            753
+          ],
+          "original_text": "Cindy Arubank",
+          "translated_en": "Cindy Arubank"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1007,
+            477,
+            1485,
+            556
+          ],
+          "original_text": "المبارك خليل",
+          "translated_en": "Mubarak Khalil"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1048,
+            1099,
+            1565,
+            1189
+          ],
+          "original_text": "09 Sep 2020",
+          "translated_en": "09 Sep 2020"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1051,
+            1332,
+            1540,
+            1411
+          ],
+          "original_text": "20 Apr 2022",
+          "translated_en": "20 Apr 2022"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1058,
+            1567,
+            1578,
+            1633
+          ],
+          "original_text": "21 May 2021",
+          "translated_en": "21 May 2021"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1772,
+            1072,
+            2571,
+            1179
+          ],
+          "original_text": "١٧ YV / أغسطس / ١٩٩٤",
+          "translated_en": "17 YV / August / 1994"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1776,
+            1308,
+            2414,
+            1409
+          ],
+          "original_text": "٢٠ / أبريل / ٢٠٢٢",
+          "translated_en": "April 20, 2022"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1786,
+            1552,
+            2371,
+            1641
+          ],
+          "original_text": "١٠ / مايو / ۲۰۳۲",
+          "translated_en": "May 10, 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-131_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\netherland-flickr_F_37048326531_f8270ca4df_k_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\netherland-flickr_F_37048326531_f8270ca4df_k.jpg",
+  "width": 2781,
+  "height": 1739,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            942,
+            446,
+            1571,
+            515
+          ],
+          "original_text": "VAN DER MEER",
+          "translated_en": "VAN DER MEER"
+        },
+        {
+          "box": [
+            948,
+            535,
+            1667,
+            605
+          ],
+          "original_text": "Hendrik Johannes",
+          "translated_en": "Hendrik Johannes"
+        },
+        {
+          "box": [
+            946,
+            630,
+            1314,
+            697
+          ],
+          "original_text": "Gerardus",
+          "translated_en": "Gerardus"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2173,
+            813,
+            2641,
+            878
+          ],
+          "original_text": "28 06 2000",
+          "translated_en": "28 06 2000"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2133,
+            1053,
+            2646,
+            1123
+          ],
+          "original_text": "06 10 2028",
+          "translated_en": "06 10 2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_37048326531_f8270ca4df_k_translated_cleaned.jpg"
+}

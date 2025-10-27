@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        433,
+        2084,
+        687
+      ],
+      "lines": [
+        {
+          "text": "SERRANO MEIRELES",
+          "box": [
+            969,
+            497,
+            1728,
+            563
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            968,
+            589,
+            1338,
+            645
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        835,
+        2852,
+        976
+      ],
+      "lines": [
+        {
+          "text": "06 08 1997",
+          "box": [
+            2431,
+            836,
+            2841,
+            894
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1060,
+        2384,
+        1227
+      ],
+      "lines": [
+        {
+          "text": "28 03 2031",
+          "box": [
+            1867,
+            1090,
+            2270,
+            1150
+          ]
+        }
+      ]
+    }
+  ]
+}

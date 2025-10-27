@@ -1,0 +1,19 @@
+LE1
+EN: Kyrylenko /
+OR: Кириленко /
+EN: Kyrylenko
+
+LE2
+EN: Anna Pavlovna /
+OR: Анна Павлівна /
+EN: AAnn
+OR: AOnn
+
+E3
+EN: 22.10..2037
+
+E4
+EN: 07.04.2013
+
+E5
+EN: 07.04.2041

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-124_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        830,
+        377,
+        1652,
+        509
+      ],
+      "lines": [
+        {
+          "text": "LECLERC",
+          "box": [
+            909,
+            424,
+            1200,
+            477
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        822,
+        622,
+        1749,
+        779
+      ],
+      "lines": [
+        {
+          "text": "Charlotte , Irène",
+          "box": [
+            912,
+            661,
+            1444,
+            730
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1936,
+        872,
+        2480,
+        1022
+      ],
+      "lines": [
+        {
+          "text": "03 08 12035",
+          "box": [
+            1992,
+            883,
+            2398,
+            935
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1910,
+        1423,
+        2464,
+        1560
+      ],
+      "lines": [
+        {
+          "text": "14 07 2031",
+          "box": [
+            2005,
+            1431,
+            2392,
+            1480
+          ]
+        }
+      ]
+    }
+  ]
+}

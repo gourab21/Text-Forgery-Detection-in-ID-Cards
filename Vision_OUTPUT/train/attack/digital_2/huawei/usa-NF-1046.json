@@ -1,0 +1,73 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-NF-1046.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        977,
+        683,
+        2004,
+        1062
+      ],
+      "lines": [
+        {
+          "text": "W",
+          "box": [
+            1438,
+            683,
+            1545,
+            768
+          ]
+        },
+        {
+          "text": "Monaie White",
+          "box": [
+            1047,
+            758,
+            1639,
+            827
+          ]
+        },
+        {
+          "text": "881 Willow Dr",
+          "box": [
+            1046,
+            846,
+            1640,
+            911
+          ]
+        },
+        {
+          "text": "Burlington VT 05401",
+          "box": [
+            1048,
+            946,
+            1900,
+            1019
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        1211,
+        3154,
+        1374
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-15-1",
+          "box": [
+            2413,
+            1253,
+            3067,
+            1322
+          ]
+        }
+      ]
+    }
+  ]
+}

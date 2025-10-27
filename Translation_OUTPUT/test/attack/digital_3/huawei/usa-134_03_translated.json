@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\usa-134_03.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-134_03.jpg",
+  "width": 3199,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1044,
+            741,
+            1627,
+            805
+          ],
+          "original_text": "Johnifer Miler",
+          "translated_en": "Johnifer Miler",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1040,
+            832,
+            1812,
+            906
+          ],
+          "original_text": "9202 Lakeside Ave",
+          "translated_en": "9202 Lakeside Ave",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1035,
+            928,
+            1769,
+            1000
+          ],
+          "original_text": "Orlando FL 32808",
+          "translated_en": "Orlando FL 32808",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2397,
+            1237,
+            3034,
+            1312
+          ],
+          "original_text": "DOB : 09-08-88",
+          "translated_en": "DOB : 09-08-88",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-134_03_translated.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\usa-NF-1009.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-NF-1009.jpg",
+  "width": 2797,
+  "height": 1779,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            907,
+            671,
+            1237,
+            724
+          ],
+          "original_text": "Jane Roe",
+          "translated_en": "Jane Roe",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            912,
+            721,
+            1717,
+            828
+          ],
+          "original_text": "5678 Maple Dr RATE TESTA",
+          "translated_en": "5678 Maple Dr RATE TESTA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            917,
+            828,
+            1650,
+            892
+          ],
+          "original_text": "Rochester NY 14623",
+          "translated_en": "Rochester NY 14623",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2106,
+            1077,
+            2660,
+            1131
+          ],
+          "original_text": "DOB : 03-22-92",
+          "translated_en": "DOB : 03-22-92",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1009_translated.jpg"
+}

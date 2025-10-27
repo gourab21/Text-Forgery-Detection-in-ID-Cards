@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_33574462985_422fca6322_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        575,
+        2088,
+        851
+      ],
+      "lines": [
+        {
+          "text": "Dewi Lestari",
+          "box": [
+            704,
+            653,
+            1300,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1233,
+        1438,
+        1404
+      ],
+      "lines": [
+        {
+          "text": "2007-01-29",
+          "box": [
+            715,
+            1289,
+            1220,
+            1361
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1497,
+        2306,
+        1662
+      ],
+      "lines": [
+        {
+          "text": "2017-01-29",
+          "box": [
+            1636,
+            1531,
+            2143,
+            1602
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-001_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        396,
+        1102,
+        582
+      ],
+      "lines": [
+        {
+          "text": "LauraTing",
+          "box": [
+            685,
+            495,
+            932,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1196,
+        658,
+        1605,
+        791
+      ],
+      "lines": [
+        {
+          "text": "26 Oct 1902",
+          "box": [
+            1242,
+            701,
+            1552,
+            744
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1178,
+        850,
+        1629,
+        977
+      ],
+      "lines": [
+        {
+          "text": "26 Jul 2011",
+          "box": [
+            1242,
+            884,
+            1535,
+            927
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        616,
+        1040,
+        1086,
+        1162
+      ],
+      "lines": [
+        {
+          "text": "11 Apr 2022",
+          "box": [
+            692,
+            1084,
+            990,
+            1127
+          ]
+        }
+      ]
+    }
+  ]
+}

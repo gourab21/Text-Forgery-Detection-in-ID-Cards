@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\turkiye-121_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        785,
+        790,
+        1603,
+        945
+      ],
+      "lines": [
+        {
+          "text": "Baran",
+          "box": [
+            861,
+            837,
+            1056,
+            889
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        783,
+        577,
+        1604,
+        737
+      ],
+      "lines": [
+        {
+          "text": "Balcı",
+          "box": [
+            865,
+            638,
+            1027,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        781,
+        991,
+        1573,
+        1141
+      ],
+      "lines": [
+        {
+          "text": "14.07.1989",
+          "box": [
+            858,
+            1034,
+            1237,
+            1091
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        787,
+        1404,
+        1563,
+        1567
+      ],
+      "lines": [
+        {
+          "text": "20.01.2037",
+          "box": [
+            850,
+            1443,
+            1229,
+            1498
+          ]
+        }
+      ]
+    }
+  ]
+}

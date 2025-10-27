@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1454,
+        475
+      ],
+      "lines": [
+        {
+          "text": "SSSSICA MERELES",
+          "box": [
+            673,
+            341,
+            1224,
+            390
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            675,
+            406,
+            935,
+            445
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1641,
+        576,
+        1990,
+        673
+      ],
+      "lines": [
+        {
+          "text": "06 08 1997",
+          "box": [
+            1702,
+            578,
+            1989,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1235,
+        731,
+        1663,
+        846
+      ],
+      "lines": [
+        {
+          "text": "28 03 2042",
+          "box": [
+            1307,
+            756,
+            1608,
+            799
+          ]
+        }
+      ]
+    }
+  ]
+}

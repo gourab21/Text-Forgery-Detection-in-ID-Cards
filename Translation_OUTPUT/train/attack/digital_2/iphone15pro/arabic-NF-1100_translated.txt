@@ -1,0 +1,27 @@
+E1
+EN: Hriabol
+
+L1
+OR: الصباح هنا
+EN: Morning is here
+
+E2
+EN: 03 Sep 2031
+
+E3
+EN: 19 Nov 2021
+
+E4
+EN: 20 Sep 2034
+
+L2
+OR: / سبتمبر / ۱۹۸۵
+EN: September 1985
+
+L3
+OR: ١٩ / نوفمبر / ۲۰۲۱
+EN: November 19, 2021
+
+L4
+OR: ۲۰ / سبتمبر / ۰۲۹ ۲
+EN: September 20, 2029

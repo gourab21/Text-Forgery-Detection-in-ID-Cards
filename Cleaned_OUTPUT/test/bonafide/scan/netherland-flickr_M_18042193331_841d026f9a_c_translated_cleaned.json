@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\netherland-flickr_M_18042193331_841d026f9a_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\netherland-flickr_M_18042193331_841d026f9a_c.jpg",
+  "width": 1995,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            679,
+            325,
+            978,
+            367
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER"
+        },
+        {
+          "box": [
+            677,
+            385,
+            1057,
+            434
+          ],
+          "original_text": "Tess Cornelis",
+          "translated_en": "Tess Cornelis"
+        },
+        {
+          "box": [
+            680,
+            456,
+            944,
+            498
+          ],
+          "original_text": "Gerardus",
+          "translated_en": "Gerardus"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1557,
+            583,
+            1894,
+            631
+          ],
+          "original_text": "04 05 1993",
+          "translated_en": "04 05 1993"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1533,
+            757,
+            1900,
+            805
+          ],
+          "original_text": "17 08 2028",
+          "translated_en": "17 08 2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_18042193331_841d026f9a_c_translated_cleaned.jpg"
+}

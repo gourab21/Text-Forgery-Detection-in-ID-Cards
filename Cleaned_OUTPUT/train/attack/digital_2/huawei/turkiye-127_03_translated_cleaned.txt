@@ -1,0 +1,11 @@
+E2
+EN: Dartin
+
+E1
+EN: Bayar
+
+E3
+EN: 16.03.201
+
+E4
+EN: 27.04.7 / 96

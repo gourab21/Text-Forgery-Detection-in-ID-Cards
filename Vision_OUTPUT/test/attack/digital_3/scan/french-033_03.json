@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-033_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        595,
+        266,
+        1183,
+        359
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            645,
+            300,
+            837,
+            335
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        589,
+        439,
+        1253,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Julien , Émile",
+          "box": [
+            645,
+            457,
+            952,
+            521
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1387,
+        615,
+        1776,
+        720
+      ],
+      "lines": [
+        {
+          "text": "24 10 1915",
+          "box": [
+            1425,
+            625,
+            1688,
+            661
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1368,
+        1004,
+        1765,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "25 12 1921",
+          "box": [
+            1430,
+            1012,
+            1694,
+            1048
+          ]
+        }
+      ]
+    }
+  ]
+}

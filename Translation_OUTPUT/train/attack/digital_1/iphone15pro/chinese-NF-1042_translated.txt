@@ -1,0 +1,14 @@
+LE1
+OR: 章子怡
+EN: Zhang Ziyi
+OR: Zaurenhang
+EN: The Hangar
+
+E2
+EN: 9 Feb 22030
+
+E3
+EN: 05 Apr 2021
+
+E4
+EN: 04 Apr 2027

@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-101_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        613,
+        1216,
+        732
+      ],
+      "lines": [
+        {
+          "text": "Senn",
+          "box": [
+            653,
+            655,
+            777,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        448,
+        1216,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Aktaş",
+          "box": [
+            654,
+            499,
+            799,
+            546
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        769,
+        1193,
+        886
+      ],
+      "lines": [
+        {
+          "text": "01.10.2023",
+          "box": [
+            651,
+            808,
+            940,
+            850
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1090,
+        1185,
+        1215
+      ],
+      "lines": [
+        {
+          "text": "25.07.1957",
+          "box": [
+            646,
+            1121,
+            934,
+            1165
+          ]
+        }
+      ]
+    }
+  ]
+}

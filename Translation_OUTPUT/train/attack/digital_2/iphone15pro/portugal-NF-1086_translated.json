@@ -1,0 +1,56 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1086.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1086.jpg",
+  "width": 2855,
+  "height": 1780,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            946,
+            486,
+            1541,
+            545
+          ],
+          "original_text": "SOIN PCEPERA",
+          "translated_en": "SOIN PCEPERA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            949,
+            562,
+            1217,
+            621
+          ],
+          "original_text": "Cláudia",
+          "translated_en": "Cláudia",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": []
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1845,
+            1061,
+            2226,
+            1118
+          ],
+          "original_text": "20 0499",
+          "translated_en": "20 0499",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1086_translated.jpg"
+}

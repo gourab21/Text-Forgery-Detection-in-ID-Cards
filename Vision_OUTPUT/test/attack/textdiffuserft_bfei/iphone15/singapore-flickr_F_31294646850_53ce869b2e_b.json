@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_31294646850_53ce869b2e_b.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        579,
+        2088,
+        857
+      ],
+      "lines": [
+        {
+          "text": "Olivianti Hasan",
+          "box": [
+            705,
+            653,
+            1494,
+            730
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1243,
+        1438,
+        1415
+      ],
+      "lines": [
+        {
+          "text": "14 13003",
+          "box": [
+            727,
+            1279,
+            1219,
+            1364
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1509,
+        2306,
+        1676
+      ],
+      "lines": [
+        {
+          "text": "0311285",
+          "box": [
+            1651,
+            1531,
+            2143,
+            1609
+          ]
+        }
+      ]
+    }
+  ]
+}

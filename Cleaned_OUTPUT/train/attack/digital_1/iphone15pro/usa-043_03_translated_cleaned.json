@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\usa-043_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-043_03.jpg",
+  "width": 2811,
+  "height": 1787,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            919,
+            671,
+            1372,
+            739
+          ],
+          "original_text": "Burtneyight",
+          "translated_en": "Burtneyight"
+        },
+        {
+          "box": [
+            916,
+            732,
+            1618,
+            835
+          ],
+          "original_text": "15 Cedar Ln RATE",
+          "translated_en": "15 Cedar Ln RATE"
+        },
+        {
+          "box": [
+            920,
+            835,
+            1512,
+            895
+          ],
+          "original_text": "Salem OR 97301",
+          "translated_en": "Salem OR 97301"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2111,
+            1082,
+            2662,
+            1140
+          ],
+          "original_text": "02-08-12",
+          "translated_en": "02-08-12"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-043_03_translated_cleaned.jpg"
+}

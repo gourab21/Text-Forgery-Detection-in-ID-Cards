@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_23559454676_4919252d67_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        993,
+        459,
+        2037,
+        859
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            1068,
+            514,
+            1422,
+            586
+          ]
+        },
+        {
+          "text": "Maria Honrike",
+          "box": [
+            1087,
+            607,
+            1693,
+            680
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            1071,
+            724,
+            1449,
+            791
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2367,
+        889,
+        3137,
+        1048
+      ],
+      "lines": [
+        {
+          "text": "29 11 2032",
+          "box": [
+            2491,
+            933,
+            3006,
+            1004
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2327,
+        1161,
+        3126,
+        1359
+      ],
+      "lines": [
+        {
+          "text": "12 08 2066",
+          "box": [
+            2454,
+            1201,
+            3046,
+            1293
+          ]
+        }
+      ]
+    }
+  ]
+}

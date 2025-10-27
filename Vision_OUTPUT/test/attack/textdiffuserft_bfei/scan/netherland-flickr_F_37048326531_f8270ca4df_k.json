@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_F_37048326531_f8270ca4df_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        539
+      ],
+      "lines": [
+        {
+          "text": "VAN DER MEER",
+          "box": [
+            675,
+            322,
+            1129,
+            371
+          ]
+        },
+        {
+          "text": "Jacquelnɲanes .",
+          "box": [
+            686,
+            379,
+            1209,
+            442
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            680,
+            455,
+            946,
+            503
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        558,
+        1969,
+        657
+      ],
+      "lines": [
+        {
+          "text": "17 09 1944",
+          "box": [
+            1564,
+            586,
+            1878,
+            628
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1462,
+        729,
+        1962,
+        852
+      ],
+      "lines": [
+        {
+          "text": "09 03 2060",
+          "box": [
+            1538,
+            754,
+            1897,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

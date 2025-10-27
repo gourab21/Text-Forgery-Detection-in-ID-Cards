@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\persian-NF-1018_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\persian-NF-1018.jpg",
+  "width": 1998,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            759,
+            275,
+            925,
+            326
+          ],
+          "original_text": "zaria",
+          "translated_en": "zaria"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            764,
+            431,
+            934,
+            469
+          ],
+          "original_text": "Karimi",
+          "translated_en": "Karimi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1345,
+            278,
+            1433,
+            316
+          ],
+          "original_text": "زهرا",
+          "translated_en": "Zahra"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1343,
+            423,
+            1467,
+            474
+          ],
+          "original_text": "كريمي",
+          "translated_en": "Creamy"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            765,
+            594,
+            1058,
+            633
+          ],
+          "original_text": "09/09/2015",
+          "translated_en": "09/09/2015"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            772,
+            919,
+            1051,
+            963
+          ],
+          "original_text": "09/09/2019",
+          "translated_en": "09/09/2019"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1357,
+            915,
+            1644,
+            953
+          ],
+          "original_text": "09/09/1998",
+          "translated_en": "09/09/1998"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1018_translated_cleaned.jpg"
+}

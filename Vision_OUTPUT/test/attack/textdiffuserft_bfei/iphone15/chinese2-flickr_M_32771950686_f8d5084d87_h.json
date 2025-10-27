@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_32771950686_f8d5084d87_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        861,
+        548,
+        1660,
+        819
+      ],
+      "lines": [
+        {
+          "text": "黄杰",
+          "box": [
+            949,
+            596,
+            1091,
+            667
+          ]
+        },
+        {
+          "text": "Mathewie",
+          "box": [
+            945,
+            688,
+            1328,
+            743
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1679,
+        913,
+        2326,
+        1078
+      ],
+      "lines": [
+        {
+          "text": "01 Feb 1977",
+          "box": [
+            1724,
+            966,
+            2205,
+            1032
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1684,
+        1169,
+        2352,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "14 Apr 2034",
+          "box": [
+            1736,
+            1215,
+            2234,
+            1294
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        893,
+        1449,
+        1558,
+        1632
+      ],
+      "lines": [
+        {
+          "text": "16 Jul 2045",
+          "box": [
+            968,
+            1497,
+            1465,
+            1562
+          ]
+        }
+      ]
+    }
+  ]
+}

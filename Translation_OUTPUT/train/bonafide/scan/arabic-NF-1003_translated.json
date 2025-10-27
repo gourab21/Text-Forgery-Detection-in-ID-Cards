@@ -1,0 +1,137 @@
+{
+  "source_json": "train\\bonafide\\scan\\arabic-NF-1003.json",
+  "image_relative": "train\\bonafide\\scan\\arabic-NF-1003.jpg",
+  "width": 2001,
+  "height": 1244,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            747,
+            470,
+            1195,
+            520
+          ],
+          "original_text": "Amira Al - Sayed",
+          "translated_en": "Amira Al - Sayed",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            728,
+            318,
+            1038,
+            389
+          ],
+          "original_text": "السيد أميرة",
+          "translated_en": "Mr. Amira",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            754,
+            777,
+            1115,
+            838
+          ],
+          "original_text": "23 Sep 1987",
+          "translated_en": "23 Sep 1987",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            758,
+            942,
+            1114,
+            991
+          ],
+          "original_text": "07 Jan 2025",
+          "translated_en": "07 Jan 2025",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            761,
+            1109,
+            1117,
+            1155
+          ],
+          "original_text": "07 Jan 2035",
+          "translated_en": "07 Jan 2035",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1283,
+            765,
+            1804,
+            834
+          ],
+          "original_text": "٢٢ / سبتمبر / ۱۹۸۷",
+          "translated_en": "September 22, 1987",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1289,
+            931,
+            1711,
+            994
+          ],
+          "original_text": "٠٧ / يناير / ۲۰۲۵",
+          "translated_en": "January 7, 2025",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1294,
+            1094,
+            1717,
+            1164
+          ],
+          "original_text": "٠٧ / يناير / ٢٠٣٥",
+          "translated_en": "January 7, 2035",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1003_translated.jpg"
+}

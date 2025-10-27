@@ -1,0 +1,95 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\chinese-NF-1050.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        889,
+        563,
+        1540,
+        828
+      ],
+      "lines": [
+        {
+          "text": "黄静",
+          "box": [
+            955,
+            614,
+            1085,
+            682
+          ]
+        },
+        {
+          "text": "Huang Jing",
+          "box": [
+            957,
+            701,
+            1352,
+            768
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1670,
+        938,
+        2243,
+        1127
+      ],
+      "lines": [
+        {
+          "text": "15 Jul 1989",
+          "box": [
+            1738,
+            991,
+            2152,
+            1054
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1646,
+        1209,
+        2276,
+        1392
+      ],
+      "lines": [
+        {
+          "text": "08 May 2017",
+          "box": [
+            1742,
+            1248,
+            2202,
+            1321
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        861,
+        1479,
+        1517,
+        1655
+      ],
+      "lines": [
+        {
+          "text": "06 May 2027",
+          "box": [
+            970,
+            1530,
+            1429,
+            1606
+          ]
+        }
+      ]
+    }
+  ]
+}

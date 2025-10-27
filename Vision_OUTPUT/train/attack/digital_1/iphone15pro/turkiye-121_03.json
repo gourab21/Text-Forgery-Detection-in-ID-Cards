@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\turkiye-121_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        785,
+        790,
+        1603,
+        945
+      ],
+      "lines": [
+        {
+          "text": "Bteph",
+          "box": [
+            864,
+            838,
+            1062,
+            897
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        783,
+        577,
+        1604,
+        737
+      ],
+      "lines": [
+        {
+          "text": "Balcı",
+          "box": [
+            865,
+            638,
+            1028,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        781,
+        991,
+        1573,
+        1141
+      ],
+      "lines": [
+        {
+          "text": "14.07.12002",
+          "box": [
+            857,
+            1036,
+            1258,
+            1090
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        787,
+        1404,
+        1563,
+        1567
+      ],
+      "lines": [
+        {
+          "text": "20.01.1991",
+          "box": [
+            849,
+            1443,
+            1245,
+            1499
+          ]
+        }
+      ]
+    }
+  ]
+}

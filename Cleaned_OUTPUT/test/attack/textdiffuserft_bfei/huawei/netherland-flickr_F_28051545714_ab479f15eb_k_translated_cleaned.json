@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_F_28051545714_ab479f15eb_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_F_28051545714_ab479f15eb_k.jpg",
+  "width": 3206,
+  "height": 2061,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1083,
+            541,
+            1442,
+            615
+          ],
+          "original_text": "JANSEN",
+          "translated_en": "JANSEN"
+        },
+        {
+          "box": [
+            1077,
+            654,
+            1531,
+            719
+          ],
+          "original_text": "Andrewlse",
+          "translated_en": "Andrewlse"
+        },
+        {
+          "box": [
+            1085,
+            757,
+            1593,
+            834
+          ],
+          "original_text": "Annemarie",
+          "translated_en": "Annemarie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2518,
+            980,
+            3048,
+            1053
+          ],
+          "original_text": "25 07 1933",
+          "translated_en": "25 07 1933"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2477,
+            1260,
+            3065,
+            1343
+          ],
+          "original_text": "2104 2081",
+          "translated_en": "2104 2081"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_28051545714_ab479f15eb_k_translated_cleaned.jpg"
+}

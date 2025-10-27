@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-NF-1017.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        851,
+        610,
+        1745,
+        948
+      ],
+      "lines": [
+        {
+          "text": "Olivia Queen",
+          "box": [
+            911,
+            677,
+            1370,
+            740
+          ]
+        },
+        {
+          "text": "345 Cherry Ln RATE",
+          "box": [
+            919,
+            731,
+            1621,
+            837
+          ]
+        },
+        {
+          "text": "Nashville TN 37212",
+          "box": [
+            919,
+            833,
+            1613,
+            896
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2048,
+        1082,
+        2745,
+        1227
+      ],
+      "lines": [
+        {
+          "text": "DOB : 11-30-93",
+          "box": [
+            2111,
+            1084,
+            2660,
+            1138
+          ]
+        }
+      ]
+    }
+  ]
+}

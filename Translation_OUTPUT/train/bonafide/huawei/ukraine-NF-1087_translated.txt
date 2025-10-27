@@ -1,0 +1,20 @@
+LE1
+OR: Коваль /
+EN: Blacksmith /
+EN: Koval
+
+LE2
+OR: Наталія Вікторівна /
+EN: Natalia Viktorivna /
+OR: Nataliya
+EN: Natalia
+
+E3
+EN: 08.10.1988
+
+E4
+EN: of issue
+EN: 23.01.2013
+
+E5
+EN: 23.01.2018

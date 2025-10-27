@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_33276713046_c88eb6c4c8_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "VAN DEN BERG",
+          "box": [
+            677,
+            322,
+            1124,
+            371
+          ]
+        },
+        {
+          "text": "Lotte Elisabeth",
+          "box": [
+            681,
+            386,
+            1110,
+            435
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            681,
+            457,
+            914,
+            501
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1485,
+        559,
+        1966,
+        658
+      ],
+      "lines": [
+        {
+          "text": "26 12 1985",
+          "box": [
+            1561,
+            588,
+            1896,
+            633
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1460,
+        730,
+        1959,
+        853
+      ],
+      "lines": [
+        {
+          "text": "08 11 2029",
+          "box": [
+            1532,
+            760,
+            1899,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

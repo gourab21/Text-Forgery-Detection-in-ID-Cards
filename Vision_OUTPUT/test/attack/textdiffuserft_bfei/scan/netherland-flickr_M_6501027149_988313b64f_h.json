@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_6501027149_988313b64f_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            689,
+            316,
+            913,
+            362
+          ]
+        },
+        {
+          "text": "Brandi Cornelis",
+          "box": [
+            699,
+            377,
+            1120,
+            432
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            688,
+            448,
+            955,
+            493
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        559,
+        1968,
+        658
+      ],
+      "lines": [
+        {
+          "text": "TE OF BIRTH",
+          "box": [
+            1701,
+            559,
+            1910,
+            583
+          ]
+        },
+        {
+          "text": "29 10 2093",
+          "box": [
+            1562,
+            603,
+            1886,
+            650
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        730,
+        1961,
+        853
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD / CARD EXPIRY",
+          "box": [
+            1461,
+            730,
+            1905,
+            761
+          ]
+        },
+        {
+          "text": "15 09 2088",
+          "box": [
+            1532,
+            770,
+            1894,
+            824
+          ]
+        }
+      ]
+    }
+  ]
+}

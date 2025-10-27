@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_24170605047_501e882ccc_o.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1500,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Firdaus bin Ismail",
+          "box": [
+            508,
+            469,
+            1136,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1967-08-03",
+          "box": [
+            520,
+            930,
+            880,
+            978
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "1977-08-03",
+          "box": [
+            1183,
+            1101,
+            1546,
+            1153
+          ]
+        }
+      ]
+    }
+  ]
+}

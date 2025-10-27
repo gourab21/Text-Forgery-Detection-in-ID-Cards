@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\singapore-flickr_M_22512816725_a88536de72_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        658,
+        652,
+        2381,
+        966
+      ],
+      "lines": [
+        {
+          "text": "Rajesh Assam",
+          "box": [
+            802,
+            741,
+            1562,
+            835
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        734,
+        1399,
+        1639,
+        1593
+      ],
+      "lines": [
+        {
+          "text": "1982-04-21",
+          "box": [
+            825,
+            1470,
+            1397,
+            1547
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1782,
+        1699,
+        2630,
+        1887
+      ],
+      "lines": [
+        {
+          "text": "1992-04-21",
+          "box": [
+            1880,
+            1748,
+            2461,
+            1829
+          ]
+        }
+      ]
+    }
+  ]
+}

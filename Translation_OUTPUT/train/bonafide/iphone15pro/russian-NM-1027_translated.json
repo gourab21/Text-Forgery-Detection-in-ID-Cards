@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\russian-NM-1027.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\russian-NM-1027.jpg",
+  "width": 2829,
+  "height": 1791,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1010,
+            386,
+            1253,
+            446
+          ],
+          "original_text": "Белов /",
+          "translated_en": "Belov /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1012,
+            464,
+            1178,
+            512
+          ],
+          "original_text": "Belov",
+          "translated_en": "Belov",
+          "detected_lang": "eo"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1012,
+            677,
+            1882,
+            749
+          ],
+          "original_text": "Артём Васильевич / M",
+          "translated_en": "Artem Vasilievich / M",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            1012,
+            753,
+            1528,
+            806
+          ],
+          "original_text": "Artem Vasilevich",
+          "translated_en": "Artem Vasilevich",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1021,
+            971,
+            1369,
+            1023
+          ],
+          "original_text": "17.05.1991",
+          "translated_en": "17.05.1991",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1026,
+            1366,
+            1376,
+            1419
+          ],
+          "original_text": "03.10.2017",
+          "translated_en": "03.10.2017",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1029,
+            1632,
+            1380,
+            1682
+          ],
+          "original_text": "01.10.2027",
+          "translated_en": "01.10.2027",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NM-1027_translated.jpg"
+}

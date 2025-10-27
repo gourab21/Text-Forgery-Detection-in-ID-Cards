@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-NF-1009.json",
+  "image_relative": "train\\bonafide\\scan\\usa-NF-1009.jpg",
+  "width": 1993,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            652,
+            457,
+            1222,
+            507
+          ],
+          "original_text": "Jane Roe D",
+          "translated_en": "Jane Roe D",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            653,
+            523,
+            1028,
+            574
+          ],
+          "original_text": "5678 Maple Dr",
+          "translated_en": "5678 Maple Dr",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            652,
+            584,
+            1173,
+            628
+          ],
+          "original_text": "Rochester NY 14623",
+          "translated_en": "Rochester NY 14623",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            776,
+            1886,
+            821
+          ],
+          "original_text": "DOB : 03-22-92",
+          "translated_en": "DOB : 03-22-92",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1009_translated.jpg"
+}

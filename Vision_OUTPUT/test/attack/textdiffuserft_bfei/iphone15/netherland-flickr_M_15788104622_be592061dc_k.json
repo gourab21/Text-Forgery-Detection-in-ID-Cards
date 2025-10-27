@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_15788104622_be592061dc_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        753
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            949,
+            450,
+            1365,
+            513
+          ]
+        },
+        {
+          "text": "Alaneke Petra",
+          "box": [
+            943,
+            545,
+            1497,
+            602
+          ]
+        },
+        {
+          "text": "Sophie",
+          "box": [
+            950,
+            634,
+            1223,
+            705
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        781,
+        2739,
+        920
+      ],
+      "lines": [
+        {
+          "text": "21 08 1964",
+          "box": [
+            2181,
+            814,
+            2629,
+            880
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2033,
+        1021,
+        2730,
+        1193
+      ],
+      "lines": [
+        {
+          "text": "03 05 2017",
+          "box": [
+            2139,
+            1051,
+            2638,
+            1128
+          ]
+        }
+      ]
+    }
+  ]
+}

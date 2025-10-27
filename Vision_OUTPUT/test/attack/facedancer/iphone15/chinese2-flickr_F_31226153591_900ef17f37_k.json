@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\chinese2-flickr_F_31226153591_900ef17f37_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        858,
+        550,
+        1654,
+        822
+      ],
+      "lines": [
+        {
+          "text": "杨 霞",
+          "box": [
+            955,
+            594,
+            1097,
+            660
+          ]
+        },
+        {
+          "text": "Yang Xia",
+          "box": [
+            949,
+            674,
+            1279,
+            754
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1673,
+        916,
+        2318,
+        1082
+      ],
+      "lines": [
+        {
+          "text": "09 DEC 1989",
+          "box": [
+            1731,
+            962,
+            2223,
+            1026
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1678,
+        1173,
+        2344,
+        1346
+      ],
+      "lines": [
+        {
+          "text": "30 DEC 2012",
+          "box": [
+            1739,
+            1217,
+            2236,
+            1283
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        889,
+        1454,
+        1552,
+        1638
+      ],
+      "lines": [
+        {
+          "text": "30 DEC 2032",
+          "box": [
+            968,
+            1496,
+            1468,
+            1560
+          ]
+        }
+      ]
+    }
+  ]
+}

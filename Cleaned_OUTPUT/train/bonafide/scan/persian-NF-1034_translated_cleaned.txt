@@ -1,0 +1,22 @@
+E1
+EN: Soraya
+
+E2
+EN: Kazemi
+
+L1
+EN: chandelier
+OR: ثريا
+
+L2
+EN: Kazemi
+OR: کاظمی
+
+E3
+EN: 22/06/1985
+
+E4
+EN: 12/06/2024
+
+E5
+EN: 12/06/2029

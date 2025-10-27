@@ -1,0 +1,27 @@
+E1
+EN: Tanet Al - Amad
+
+L1
+EN: Ahmed Tariq
+OR: الأحمد طارق
+
+E2
+EN: 29 Apr 2036
+
+E3
+EN: 09 Jul 2018
+
+E4
+EN: 24 Dec 2018
+
+L2
+EN: April 29, 185
+OR: ٢٩ / أبريل / ١٨٥
+
+L3
+EN: July 9, 2018
+OR: ٩ / يوليو / ۲۰۱۸
+
+L4
+EN: December 24, 2033
+OR: ٢٤ / ديسمبر / ۲۰۳۳

@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-063_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        981,
+        681,
+        2012,
+        1059
+      ],
+      "lines": [
+        {
+          "text": "Alex King",
+          "box": [
+            1053,
+            747,
+            1443,
+            820
+          ]
+        },
+        {
+          "text": "910 Apple Blvd",
+          "box": [
+            1057,
+            842,
+            1674,
+            920
+          ]
+        },
+        {
+          "text": "Austin TX 78701",
+          "box": [
+            1051,
+            938,
+            1734,
+            1005
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2361,
+        1207,
+        3166,
+        1370
+      ],
+      "lines": [
+        {
+          "text": "DOB : 05-08-88",
+          "box": [
+            2426,
+            1248,
+            3062,
+            1317
+          ]
+        }
+      ]
+    }
+  ]
+}

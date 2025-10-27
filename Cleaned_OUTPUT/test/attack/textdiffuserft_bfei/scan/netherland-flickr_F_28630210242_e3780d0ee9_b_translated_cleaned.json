@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_F_28630210242_e3780d0ee9_b_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_F_28630210242_e3780d0ee9_b.jpg",
+  "width": 1995,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            679,
+            326,
+            1038,
+            371
+          ],
+          "original_text": "STEVENSON",
+          "translated_en": "STEVENSON"
+        },
+        {
+          "box": [
+            683,
+            388,
+            1086,
+            441
+          ],
+          "original_text": "Christopherra",
+          "translated_en": "Christopherra"
+        },
+        {
+          "box": [
+            685,
+            461,
+            828,
+            502
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1563,
+            587,
+            1887,
+            630
+          ],
+          "original_text": "26 07 1916",
+          "translated_en": "26 07 1916"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1539,
+            758,
+            1898,
+            807
+          ],
+          "original_text": "09 11 2035",
+          "translated_en": "09 11 2035"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_28630210242_e3780d0ee9_b_translated_cleaned.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\huawei\\usa-NF-1009.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-NF-1009.jpg",
+  "width": 3202,
+  "height": 1978,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1043,
+            745,
+            1422,
+            807
+          ],
+          "original_text": "Jane Roe",
+          "translated_en": "Jane Roe",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1046,
+            835,
+            1648,
+            915
+          ],
+          "original_text": "5678 Maple Dr",
+          "translated_en": "5678 Maple Dr",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1043,
+            931,
+            1891,
+            999
+          ],
+          "original_text": "Rochester NY 14623",
+          "translated_en": "Rochester NY 14623",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2407,
+            1234,
+            3038,
+            1308
+          ],
+          "original_text": "DOB : 03-22-92",
+          "translated_en": "DOB : 03-22-92",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1009_translated.jpg"
+}

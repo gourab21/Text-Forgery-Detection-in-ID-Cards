@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-107_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-107_03.jpg",
+  "width": 1991,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            678,
+            431,
+            783,
+            476
+          ],
+          "original_text": "吳 情",
+          "translated_en": "Wu Qing"
+        },
+        {
+          "box": [
+            689,
+            488,
+            885,
+            538
+          ],
+          "original_text": "Cassly",
+          "translated_en": "Cassly"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1234,
+            715,
+            1552,
+            756
+          ],
+          "original_text": "20 Nov 1914",
+          "translated_en": "20 Nov 1914"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1230,
+            898,
+            1544,
+            936
+          ],
+          "original_text": "14 Jun 2012",
+          "translated_en": "14 Jun 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            667,
+            1079,
+            977,
+            1122
+          ],
+          "original_text": "02 Jan 1970",
+          "translated_en": "02 Jan 1970"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-107_03_translated_cleaned.jpg"
+}

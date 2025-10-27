@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        420,
+        1892,
+        566
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            1052,
+            462,
+            1357,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        693,
+        2004,
+        869
+      ],
+      "lines": [
+        {
+          "text": "vlment , Paul",
+          "box": [
+            1042,
+            730,
+            1579,
+            805
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2218,
+        971,
+        2843,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "15 01 2028",
+          "box": [
+            2289,
+            1009,
+            2746,
+            1075
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2189,
+        1585,
+        2823,
+        1739
+      ],
+      "lines": [
+        {
+          "text": "28 02 2014",
+          "box": [
+            2270,
+            1622,
+            2730,
+            1689
+          ]
+        }
+      ]
+    }
+  ]
+}

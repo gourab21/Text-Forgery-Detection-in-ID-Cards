@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\portugal-01_0014_000-6f7ea414_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\portugal-01_0014_000-6f7ea414_0.jpg",
+  "width": 2854,
+  "height": 1819,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            982,
+            493,
+            1454,
+            553
+          ],
+          "original_text": "CAITINIVA",
+          "translated_en": "CAITINIVA"
+        },
+        {
+          "box": [
+            982,
+            586,
+            1123,
+            637
+          ],
+          "original_text": "Rita",
+          "translated_en": "Rita"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2433,
+            840,
+            2785,
+            885
+          ],
+          "original_text": "21 04 1950",
+          "translated_en": "21 04 1950"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1878,
+            1085,
+            2286,
+            1142
+          ],
+          "original_text": "15 03 2082",
+          "translated_en": "15 03 2082"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-01_0014_000-6f7ea414_0_translated_cleaned.jpg"
+}

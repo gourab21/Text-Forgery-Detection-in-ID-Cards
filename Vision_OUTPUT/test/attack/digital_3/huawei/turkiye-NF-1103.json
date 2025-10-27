@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\turkiye-NF-1103.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        949,
+        962,
+        1939,
+        1149
+      ],
+      "lines": [
+        {
+          "text": "Jenn",
+          "box": [
+            1034,
+            1028,
+            1203,
+            1082
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        946,
+        703,
+        1939,
+        897
+      ],
+      "lines": [
+        {
+          "text": "Durmaz",
+          "box": [
+            1041,
+            779,
+            1362,
+            838
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        945,
+        1207,
+        1902,
+        1391
+      ],
+      "lines": [
+        {
+          "text": "13.05.2016",
+          "box": [
+            1035,
+            1271,
+            1496,
+            1340
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        952,
+        1709,
+        1889,
+        1908
+      ],
+      "lines": [
+        {
+          "text": "17.12.2055",
+          "box": [
+            1023,
+            1768,
+            1480,
+            1837
+          ]
+        }
+      ]
+    }
+  ]
+}

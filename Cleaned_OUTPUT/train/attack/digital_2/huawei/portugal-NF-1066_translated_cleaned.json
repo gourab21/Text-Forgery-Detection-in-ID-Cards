@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\portugal-NF-1066_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\portugal-NF-1066.jpg",
+  "width": 3037,
+  "height": 1887,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1015,
+            513,
+            1834,
+            589
+          ],
+          "original_text": "CERYIA MARINS",
+          "translated_en": "CERYIA MARINS"
+        },
+        {
+          "box": [
+            1017,
+            611,
+            1468,
+            665
+          ],
+          "original_text": "Sofia Joana",
+          "translated_en": "Sofia Joana"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2592,
+            870,
+            3031,
+            930
+          ],
+          "original_text": "29 04 1992",
+          "translated_en": "29 04 1992"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1983,
+            1133,
+            2440,
+            1203
+          ],
+          "original_text": "12 10 2204",
+          "translated_en": "12 10 2204"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1066_translated_cleaned.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-022_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        266,
+        1178,
+        359
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            660,
+            295,
+            850,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        587,
+        439,
+        1249,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Paul , Henri",
+          "box": [
+            658,
+            467,
+            914,
+            510
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1382,
+        615,
+        1770,
+        720
+      ],
+      "lines": [
+        {
+          "text": "23 05 1992",
+          "box": [
+            1421,
+            637,
+            1690,
+            676
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1363,
+        1004,
+        1759,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "29 09 2033",
+          "box": [
+            1412,
+            1021,
+            1680,
+            1063
+          ]
+        }
+      ]
+    }
+  ]
+}

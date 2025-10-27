@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\netherland-flickr_M_6862482951_78a560f107_b_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_6862482951_78a560f107_b.jpg",
+  "width": 3209,
+  "height": 2045,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1090,
+            530,
+            1480,
+            607
+          ],
+          "original_text": "POSTMA",
+          "translated_en": "POSTMA"
+        },
+        {
+          "box": [
+            1084,
+            635,
+            1582,
+            713
+          ],
+          "original_text": "Anouk Ilse",
+          "translated_en": "Anouk Ilse"
+        },
+        {
+          "box": [
+            1095,
+            752,
+            1448,
+            818
+          ],
+          "original_text": "Henrike",
+          "translated_en": "Henrike"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2513,
+            959,
+            3055,
+            1038
+          ],
+          "original_text": "07 09 1974",
+          "translated_en": "07 09 1974"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2478,
+            1245,
+            3065,
+            1328
+          ],
+          "original_text": "13 01 2029",
+          "translated_en": "13 01 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_6862482951_78a560f107_b_translated_cleaned.jpg"
+}

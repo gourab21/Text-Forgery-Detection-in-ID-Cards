@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_F_37048326531_f8270ca4df_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        869,
+        403,
+        1782,
+        751
+      ],
+      "lines": [
+        {
+          "text": "VAN DER MEER",
+          "box": [
+            942,
+            446,
+            1571,
+            515
+          ]
+        },
+        {
+          "text": "Hendrik Johannes",
+          "box": [
+            948,
+            535,
+            1667,
+            605
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            946,
+            630,
+            1314,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2072,
+        779,
+        2745,
+        918
+      ],
+      "lines": [
+        {
+          "text": "28 06 2000",
+          "box": [
+            2173,
+            813,
+            2641,
+            878
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2037,
+        1018,
+        2735,
+        1189
+      ],
+      "lines": [
+        {
+          "text": "06 10 2028",
+          "box": [
+            2133,
+            1053,
+            2646,
+            1123
+          ]
+        }
+      ]
+    }
+  ]
+}

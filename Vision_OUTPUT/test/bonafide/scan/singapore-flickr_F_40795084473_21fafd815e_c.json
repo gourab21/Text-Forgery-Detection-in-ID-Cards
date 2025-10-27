@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_F_40795084473_21fafd815e_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        413,
+        1498,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Kavita Reddy",
+          "box": [
+            507,
+            470,
+            957,
+            526
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1984-09-08",
+          "box": [
+            519,
+            930,
+            876,
+            978
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "1994-09-08",
+          "box": [
+            1178,
+            1100,
+            1541,
+            1153
+          ]
+        }
+      ]
+    }
+  ]
+}

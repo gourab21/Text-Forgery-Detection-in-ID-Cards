@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_M_15788105142_89e9bca209_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        576,
+        572,
+        2084,
+        847
+      ],
+      "lines": [
+        {
+          "text": "Shawn bin Saleh",
+          "box": [
+            714,
+            631,
+            1532,
+            712
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1227,
+        1436,
+        1397
+      ],
+      "lines": [
+        {
+          "text": "31.12.1010",
+          "box": [
+            716,
+            1272,
+            1215,
+            1344
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1560,
+        1490,
+        2302,
+        1655
+      ],
+      "lines": [
+        {
+          "text": "16 03 2233",
+          "box": [
+            1647,
+            1512,
+            2138,
+            1588
+          ]
+        }
+      ]
+    }
+  ]
+}

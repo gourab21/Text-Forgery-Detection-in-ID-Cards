@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-NF-1094.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        973,
+        676,
+        1996,
+        1051
+      ],
+      "lines": [
+        {
+          "text": "John Parker",
+          "box": [
+            1050,
+            749,
+            1542,
+            814
+          ]
+        },
+        {
+          "text": "980 Elm Rd",
+          "box": [
+            1046,
+            837,
+            1515,
+            904
+          ]
+        },
+        {
+          "text": "Naperville IL 60540",
+          "box": [
+            1043,
+            938,
+            1870,
+            1005
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2342,
+        1198,
+        3141,
+        1359
+      ],
+      "lines": [
+        {
+          "text": "DOB : 09-01-16",
+          "box": [
+            2412,
+            1244,
+            3046,
+            1320
+          ]
+        }
+      ]
+    }
+  ]
+}

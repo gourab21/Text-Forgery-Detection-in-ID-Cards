@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\ukraine-NF-1021_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\ukraine-NF-1021.jpg",
+  "width": 3215,
+  "height": 1977,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1039,
+            455,
+            1441,
+            539
+          ],
+          "original_text": "Лисенко /",
+          "translated_en": "Lysenko /"
+        },
+        {
+          "box": [
+            1043,
+            558,
+            1357,
+            616
+          ],
+          "original_text": "Lysenko",
+          "translated_en": "Lysenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1040,
+            754,
+            1695,
+            832
+          ],
+          "original_text": "Марія Іванівна /",
+          "translated_en": "Maria Ivanovna /"
+        },
+        {
+          "box": [
+            1035,
+            847,
+            1305,
+            911
+          ],
+          "original_text": "M remy",
+          "translated_en": "M remy"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1030,
+            1073,
+            1487,
+            1144
+          ],
+          "original_text": "29.07.12013",
+          "translated_en": "29.07.12013"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1026,
+            1519,
+            1456,
+            1579
+          ],
+          "original_text": "15.02.2011",
+          "translated_en": "15.02.2011"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1014,
+            1823,
+            1470,
+            1910
+          ],
+          "original_text": "15.02.:204",
+          "translated_en": "15.02.:204"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1021_translated_cleaned.jpg"
+}

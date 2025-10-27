@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-NF-1023.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        397,
+        1103,
+        583
+      ],
+      "lines": [
+        {
+          "text": "赵 婷",
+          "box": [
+            686,
+            427,
+            786,
+            477
+          ]
+        },
+        {
+          "text": "Z ravising",
+          "box": [
+            683,
+            480,
+            950,
+            539
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1198,
+        660,
+        1607,
+        794
+      ],
+      "lines": [
+        {
+          "text": "25 Dec 204",
+          "box": [
+            1239,
+            713,
+            1568,
+            755
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1179,
+        852,
+        1630,
+        979
+      ],
+      "lines": [
+        {
+          "text": "18 Jun 2012",
+          "box": [
+            1237,
+            896,
+            1549,
+            935
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1043,
+        1088,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "16 Jun 25c",
+          "box": [
+            671,
+            1076,
+            1004,
+            1122
+          ]
+        }
+      ]
+    }
+  ]
+}

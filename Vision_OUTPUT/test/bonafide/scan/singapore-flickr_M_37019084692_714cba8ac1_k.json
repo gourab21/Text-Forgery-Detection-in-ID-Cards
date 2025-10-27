@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_37019084692_714cba8ac1_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        416,
+        411,
+        1503,
+        610
+      ],
+      "lines": [
+        {
+          "text": "Jun Lee",
+          "box": [
+            506,
+            475,
+            764,
+            517
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        883,
+        1033,
+        1005
+      ],
+      "lines": [
+        {
+          "text": "1987-07-13",
+          "box": [
+            520,
+            923,
+            880,
+            974
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1125,
+        1072,
+        1660,
+        1190
+      ],
+      "lines": [
+        {
+          "text": "1997-07-13",
+          "box": [
+            1182,
+            1096,
+            1544,
+            1147
+          ]
+        }
+      ]
+    }
+  ]
+}

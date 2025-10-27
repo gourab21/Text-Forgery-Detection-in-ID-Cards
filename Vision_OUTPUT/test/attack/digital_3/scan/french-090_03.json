@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-090_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "DURAND",
+          "box": [
+            649,
+            301,
+            856,
+            335
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Nicholas , Marie",
+          "box": [
+            645,
+            470,
+            1002,
+            521
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        616,
+        1774,
+        721
+      ],
+      "lines": [
+        {
+          "text": "09 06 2040",
+          "box": [
+            1424,
+            623,
+            1691,
+            658
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1005,
+        1763,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "09 01 1922",
+          "box": [
+            1429,
+            1010,
+            1696,
+            1047
+          ]
+        }
+      ]
+    }
+  ]
+}

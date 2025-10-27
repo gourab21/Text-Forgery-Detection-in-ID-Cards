@@ -1,0 +1,22 @@
+E1
+EN: Jossa
+
+E2
+EN: Shirazi
+
+L1
+OR: پریسا
+EN: Parisa
+
+L2
+OR: زارع
+EN: Farmer
+
+E3
+EN: 04/04/2083
+
+E4
+EN: 06/02/2024
+
+E5
+EN: 08/07/2084

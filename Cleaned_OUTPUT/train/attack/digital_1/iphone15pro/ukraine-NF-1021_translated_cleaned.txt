@@ -1,0 +1,20 @@
+LE1
+EN: Nicknames
+OR: Прізви
+EN: Lysenko /
+OR: Лисенко /
+EN: Lysenko
+
+LE2
+EN: Maria Ivanovna /
+OR: Марія Іванівна /
+EN: Monald
+
+E3
+EN: 29.07.12021
+
+E4
+EN: 15.02.2011
+
+E5
+EN: 15.02.2044

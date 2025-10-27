@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-124_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "LECLERC",
+          "box": [
+            659,
+            292,
+            867,
+            329
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Charlotte , Irène",
+          "box": [
+            654,
+            464,
+            1035,
+            509
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        616,
+        1774,
+        721
+      ],
+      "lines": [
+        {
+          "text": "03 08 1991",
+          "box": [
+            1420,
+            633,
+            1691,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1005,
+        1763,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "14 07 2031",
+          "box": [
+            1414,
+            1023,
+            1683,
+            1061
+          ]
+        }
+      ]
+    }
+  ]
+}

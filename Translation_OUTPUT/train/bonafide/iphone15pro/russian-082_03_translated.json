@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\russian-082_03.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\russian-082_03.jpg",
+  "width": 2830,
+  "height": 1798,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1007,
+            387,
+            1260,
+            449
+          ],
+          "original_text": "Ершов /",
+          "translated_en": "Ershov /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1001,
+            461,
+            1214,
+            511
+          ],
+          "original_text": "Ershov",
+          "translated_en": "Ershov",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1012,
+            679,
+            1645,
+            742
+          ],
+          "original_text": "Роман Федорович /",
+          "translated_en": "Roman Fedorovych /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1013,
+            754,
+            1585,
+            812
+          ],
+          "original_text": "Roman Fedorovich",
+          "translated_en": "Roman Fedorovich",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1020,
+            974,
+            1367,
+            1025
+          ],
+          "original_text": "16.08.1980",
+          "translated_en": "16.08.1980",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1369,
+            1375,
+            1422
+          ],
+          "original_text": "03.12.2013",
+          "translated_en": "03.12.2013",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1026,
+            1636,
+            1375,
+            1689
+          ],
+          "original_text": "01.12.2023",
+          "translated_en": "01.12.2023",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-082_03_translated.jpg"
+}

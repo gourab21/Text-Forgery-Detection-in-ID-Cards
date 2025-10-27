@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\russian-140_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\russian-140_03.jpg",
+  "width": 1996,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            705,
+            264,
+            1040,
+            312
+          ],
+          "original_text": "Паниковский /",
+          "translated_en": "Panikovsky /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            705,
+            319,
+            954,
+            359
+          ],
+          "original_text": "Panikovsky",
+          "translated_en": "Panikovsky",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            711,
+            473,
+            1328,
+            518
+          ],
+          "original_text": "Михаил Самуэлевич / Б",
+          "translated_en": "Mikhail Samuelevich / B",
+          "detected_lang": "tg"
+        },
+        {
+          "box": [
+            709,
+            523,
+            853,
+            566
+          ],
+          "original_text": "Nillail",
+          "translated_en": "Nillail",
+          "detected_lang": "fi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            711,
+            678,
+            975,
+            714
+          ],
+          "original_text": "04.05.:2025",
+          "translated_en": "04.05.:2025",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            716,
+            956,
+            965,
+            991
+          ],
+          "original_text": "25.03.2021",
+          "translated_en": "25.03.2021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            721,
+            1142,
+            982,
+            1179
+          ],
+          "original_text": "24.03.2024",
+          "translated_en": "24.03.2024",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-140_03_translated.jpg"
+}

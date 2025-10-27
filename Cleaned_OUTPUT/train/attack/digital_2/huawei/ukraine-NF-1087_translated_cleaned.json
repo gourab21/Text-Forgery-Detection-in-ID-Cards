@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\ukraine-NF-1087_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\ukraine-NF-1087.jpg",
+  "width": 3199,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1036,
+            455,
+            1382,
+            530
+          ],
+          "original_text": "Коваль /",
+          "translated_en": "Blacksmith /"
+        },
+        {
+          "box": [
+            1035,
+            550,
+            1244,
+            602
+          ],
+          "original_text": "Koval",
+          "translated_en": "Koval"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1035,
+            737,
+            1843,
+            831
+          ],
+          "original_text": "Наталія Вікторівна /",
+          "translated_en": "Natalia Viktorivna /"
+        },
+        {
+          "box": [
+            1028,
+            838,
+            1350,
+            912
+          ],
+          "original_text": "Ninaya",
+          "translated_en": "Ninaya"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1067,
+            1483,
+            1137
+          ],
+          "original_text": "08.10.2001 .",
+          "translated_en": "08.10.2001 ."
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1017,
+            1510,
+            1447,
+            1571
+          ],
+          "original_text": "23.01.2013",
+          "translated_en": "23.01.2013"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1006,
+            1817,
+            1455,
+            1893
+          ],
+          "original_text": "23.01.2018",
+          "translated_en": "23.01.2018"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1087_translated_cleaned.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-NM-1070.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        828,
+        378,
+        1649,
+        510
+      ],
+      "lines": [
+        {
+          "text": "BERNARD",
+          "box": [
+            909,
+            426,
+            1227,
+            474
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        821,
+        624,
+        1747,
+        782
+      ],
+      "lines": [
+        {
+          "text": "Maxime , André",
+          "box": [
+            914,
+            660,
+            1408,
+            733
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1933,
+        875,
+        2477,
+        1025
+      ],
+      "lines": [
+        {
+          "text": "16 03 2084",
+          "box": [
+            1996,
+            882,
+            2369,
+            936
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1907,
+        1428,
+        2460,
+        1566
+      ],
+      "lines": [
+        {
+          "text": "22 03 1918",
+          "box": [
+            2007,
+            1428,
+            2380,
+            1481
+          ]
+        }
+      ]
+    }
+  ]
+}

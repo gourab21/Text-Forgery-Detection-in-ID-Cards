@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\huawei\\portugal-042_03_translated.json",
+  "image_relative": "train\\bonafide\\huawei\\portugal-042_03.jpg",
+  "width": 3206,
+  "height": 1963,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1107,
+            530,
+            1776,
+            600
+          ],
+          "original_text": "PEREIRA COSTA",
+          "translated_en": "PEREIRA COSTA"
+        },
+        {
+          "box": [
+            1103,
+            627,
+            1341,
+            684
+          ],
+          "original_text": "Pedro",
+          "translated_en": "Pedro"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2749,
+            946,
+            3205,
+            1011
+          ],
+          "original_text": "05 08 1991",
+          "translated_en": "05 08 1991"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2092,
+            1210,
+            2560,
+            1276
+          ],
+          "original_text": "02 08 2031",
+          "translated_en": "02 08 2031"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-042_03_translated_cleaned.jpg"
+}

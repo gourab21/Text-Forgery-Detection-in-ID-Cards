@@ -1,0 +1,22 @@
+E1
+EN: Angea
+
+E2
+EN: Kazemi
+
+L1
+EN: Farhad
+OR: فرهاد
+
+L2
+EN: Rahimi
+OR: رحيمي
+
+E3
+EN: 07/09/2053
+
+E4
+EN: 21/02/2024
+
+E5
+EN: 25/10/1955

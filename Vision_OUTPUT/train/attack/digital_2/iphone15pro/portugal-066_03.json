@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        889,
+        430,
+        2096,
+        682
+      ],
+      "lines": [
+        {
+          "text": "SCMOS COSTA",
+          "box": [
+            974,
+            500,
+            1570,
+            563
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            980,
+            582,
+            1596,
+            649
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2365,
+        828,
+        2868,
+        967
+      ],
+      "lines": [
+        {
+          "text": "18 03 1989",
+          "box": [
+            2445,
+            835,
+            2855,
+            894
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1780,
+        1051,
+        2398,
+        1216
+      ],
+      "lines": [
+        {
+          "text": "04 01 2018",
+          "box": [
+            1870,
+            1087,
+            2302,
+            1148
+          ]
+        }
+      ]
+    }
+  ]
+}

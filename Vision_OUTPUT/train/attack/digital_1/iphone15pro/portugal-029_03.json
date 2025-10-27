@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-029_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        878,
+        429,
+        2072,
+        680
+      ],
+      "lines": [
+        {
+          "text": "PARIRADOL VORMA",
+          "box": [
+            955,
+            485,
+            1640,
+            552
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            952,
+            578,
+            1151,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2337,
+        828,
+        2835,
+        967
+      ],
+      "lines": [
+        {
+          "text": "03 06 2013",
+          "box": [
+            2421,
+            829,
+            2834,
+            877
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1760,
+        1051,
+        2370,
+        1216
+      ],
+      "lines": [
+        {
+          "text": "31 05 1997",
+          "box": [
+            1850,
+            1073,
+            2274,
+            1137
+          ]
+        }
+      ]
+    }
+  ]
+}

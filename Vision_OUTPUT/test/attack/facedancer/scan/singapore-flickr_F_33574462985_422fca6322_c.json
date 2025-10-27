@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\singapore-flickr_F_33574462985_422fca6322_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        412,
+        1498,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Dewi Lestari",
+          "box": [
+            504,
+            472,
+            933,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "2007-01-29",
+          "box": [
+            514,
+            927,
+            873,
+            976
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1121,
+        1076,
+        1655,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "2017-01-29",
+          "box": [
+            1175,
+            1099,
+            1535,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

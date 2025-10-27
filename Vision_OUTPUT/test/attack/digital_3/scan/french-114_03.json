@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-114_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "DAVID",
+          "box": [
+            656,
+            295,
+            812,
+            326
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        440,
+        1251,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Gabriel , Étienne",
+          "box": [
+            651,
+            451,
+            1035,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        617,
+        1774,
+        722
+      ],
+      "lines": [
+        {
+          "text": "04 03 2012",
+          "box": [
+            1420,
+            636,
+            1689,
+            671
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1006,
+        1763,
+        1103
+      ],
+      "lines": [
+        {
+          "text": "29 08 2012",
+          "box": [
+            1412,
+            1024,
+            1680,
+            1061
+          ]
+        }
+      ]
+    }
+  ]
+}

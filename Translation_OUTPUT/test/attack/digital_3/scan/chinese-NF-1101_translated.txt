@@ -1,0 +1,14 @@
+LE1
+OR: 刘亦菲
+EN: Liu Yifei
+OR: Pamela ei
+EN: Pamela does not
+
+E2
+EN: 05 Mar 1938
+
+E3
+EN: 12 Dec 2012
+
+E4
+EN: 31 Apr 1947

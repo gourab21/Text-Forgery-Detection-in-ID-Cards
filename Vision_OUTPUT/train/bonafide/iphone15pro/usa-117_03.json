@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-117_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        853,
+        610,
+        1749,
+        948
+      ],
+      "lines": [
+        {
+          "text": "John Doe 2000 St ...",
+          "box": [
+            910,
+            610,
+            1676,
+            812
+          ]
+        },
+        {
+          "text": "1234 Elm RATE",
+          "box": [
+            904,
+            709,
+            1620,
+            872
+          ]
+        },
+        {
+          "text": "Springfield IL 62704",
+          "box": [
+            913,
+            827,
+            1649,
+            911
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2054,
+        1082,
+        2753,
+        1227
+      ],
+      "lines": [
+        {
+          "text": "DOB : 01-15-90",
+          "box": [
+            2109,
+            1087,
+            2665,
+            1145
+          ]
+        }
+      ]
+    }
+  ]
+}

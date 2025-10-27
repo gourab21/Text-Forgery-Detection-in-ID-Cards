@@ -1,0 +1,27 @@
+E1
+EN: NavidoFarouk
+
+L1
+EN: Farouk Nadia
+OR: فاروق نادية
+
+E2
+EN: 20 Jan 2033
+
+E3
+EN: 15 Mar 2022
+
+E4
+EN: 15 Mar 2011
+
+L2
+EN: January 20, 1993
+OR: ۲۰ / يناير / ۱۹۹۳
+
+L3
+EN: March 15
+OR: ١٥ / مارس /
+
+L4
+EN: March 15, 2022
+OR: ١٥ / مارس / ٢۰۲۲۲

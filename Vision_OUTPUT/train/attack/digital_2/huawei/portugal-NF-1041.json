@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NF-1041.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        473,
+        2339,
+        750
+      ],
+      "lines": [
+        {
+          "text": "SEAAYAS BELLIRA",
+          "box": [
+            1092,
+            529,
+            1887,
+            632
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            1090,
+            639,
+            1245,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2638,
+        911,
+        3200,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "31 05 1978",
+          "box": [
+            2742,
+            954,
+            3199,
+            1020
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1986,
+        1157,
+        2675,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "28 05 2004",
+          "box": [
+            2087,
+            1219,
+            2567,
+            1297
+          ]
+        }
+      ]
+    }
+  ]
+}

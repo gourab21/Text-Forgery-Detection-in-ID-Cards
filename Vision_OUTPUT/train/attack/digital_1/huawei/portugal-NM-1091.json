@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NM-1091.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        472,
+        2345,
+        748
+      ],
+      "lines": [
+        {
+          "text": "G CHEALLIVERA",
+          "box": [
+            1094,
+            540,
+            1774,
+            608
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            1091,
+            631,
+            1350,
+            696
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2646,
+        909,
+        3209,
+        1063
+      ],
+      "lines": [
+        {
+          "text": "04 06 12004",
+          "box": [
+            2745,
+            953,
+            3207,
+            1017
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1992,
+        1155,
+        2683,
+        1337
+      ],
+      "lines": [
+        {
+          "text": "02 06 2018",
+          "box": [
+            2088,
+            1219,
+            2566,
+            1286
+          ]
+        }
+      ]
+    }
+  ]
+}

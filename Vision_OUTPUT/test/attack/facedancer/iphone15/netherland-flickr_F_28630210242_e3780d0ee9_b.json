@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\netherland-flickr_F_28630210242_e3780d0ee9_b.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        865,
+        404,
+        1775,
+        753
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            940,
+            449,
+            1437,
+            512
+          ]
+        },
+        {
+          "text": "Maarten Petra",
+          "box": [
+            944,
+            542,
+            1506,
+            602
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            948,
+            637,
+            1146,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2063,
+        781,
+        2733,
+        920
+      ],
+      "lines": [
+        {
+          "text": "30 05 1993",
+          "box": [
+            2170,
+            813,
+            2633,
+            880
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2028,
+        1020,
+        2723,
+        1192
+      ],
+      "lines": [
+        {
+          "text": "11 02 2030",
+          "box": [
+            2133,
+            1056,
+            2640,
+            1122
+          ]
+        }
+      ]
+    }
+  ]
+}

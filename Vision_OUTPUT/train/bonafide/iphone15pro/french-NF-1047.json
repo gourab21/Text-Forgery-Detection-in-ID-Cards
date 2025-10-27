@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-NF-1047.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        379,
+        1658,
+        512
+      ],
+      "lines": [
+        {
+          "text": "THOMAS",
+          "box": [
+            909,
+            429,
+            1196,
+            481
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        825,
+        627,
+        1755,
+        785
+      ],
+      "lines": [
+        {
+          "text": "Élodie , Margot",
+          "box": [
+            919,
+            663,
+            1398,
+            734
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1943,
+        879,
+        2489,
+        1030
+      ],
+      "lines": [
+        {
+          "text": "18 02 1993",
+          "box": [
+            2002,
+            885,
+            2371,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1916,
+        1434,
+        2472,
+        1572
+      ],
+      "lines": [
+        {
+          "text": "09 06 2031",
+          "box": [
+            2010,
+            1434,
+            2384,
+            1486
+          ]
+        }
+      ]
+    }
+  ]
+}

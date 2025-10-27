@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-091_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        266,
+        1180,
+        359
+      ],
+      "lines": [
+        {
+          "text": "ROCHE",
+          "box": [
+            654,
+            294,
+            819,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Cécile , Marie",
+          "box": [
+            648,
+            467,
+            953,
+            509
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1384,
+        615,
+        1773,
+        720
+      ],
+      "lines": [
+        {
+          "text": "23 05 2091",
+          "box": [
+            1419,
+            638,
+            1689,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1365,
+        1004,
+        1761,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "01 04 2068",
+          "box": [
+            1409,
+            1025,
+            1673,
+            1059
+          ]
+        }
+      ]
+    }
+  ]
+}

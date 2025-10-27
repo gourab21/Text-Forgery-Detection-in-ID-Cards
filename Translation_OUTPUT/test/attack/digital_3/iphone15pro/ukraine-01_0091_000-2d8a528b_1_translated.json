@@ -1,0 +1,122 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\ukraine-01_0091_000-2d8a528b_1.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\ukraine-01_0091_000-2d8a528b_1.jpg",
+  "width": 2814,
+  "height": 1787,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            879,
+            372,
+            1128,
+            414
+          ],
+          "original_text": "Прізвищ",
+          "translated_en": "Last name",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            904,
+            430,
+            1239,
+            500
+          ],
+          "original_text": "Кравчук /",
+          "translated_en": "Kravchuk /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            904,
+            512,
+            1215,
+            560
+          ],
+          "original_text": "Kravchuk",
+          "translated_en": "Kravchuk",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            907,
+            677,
+            1675,
+            760
+          ],
+          "original_text": "Сергій Миколайович /",
+          "translated_en": "Serhiy Mykolayovych /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            906,
+            773,
+            1105,
+            823
+          ],
+          "original_text": "Russel",
+          "translated_en": "Russel",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            911,
+            976,
+            1283,
+            1030
+          ],
+          "original_text": "05.03.2042",
+          "translated_en": "05.03.2042",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            917,
+            1368,
+            1292,
+            1421
+          ],
+          "original_text": "28.07.2015",
+          "translated_en": "28.07.2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            920,
+            1640,
+            1300,
+            1692
+          ],
+          "original_text": "21.02.2083",
+          "translated_en": "21.02.2083",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-01_0091_000-2d8a528b_1_translated.jpg"
+}

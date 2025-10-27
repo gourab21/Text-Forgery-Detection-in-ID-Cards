@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-017_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        884,
+        434,
+        2086,
+        688
+      ],
+      "lines": [
+        {
+          "text": "MIRJSPNISA19",
+          "box": [
+            982,
+            501,
+            1523,
+            571
+          ]
+        },
+        {
+          "text": "Eduardo Manuel",
+          "box": [
+            980,
+            586,
+            1570,
+            646
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2354,
+        835,
+        2855,
+        976
+      ],
+      "lines": [
+        {
+          "text": "14 11 1988",
+          "box": [
+            2443,
+            835,
+            2846,
+            893
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1772,
+        1061,
+        2388,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "01 12 2024",
+          "box": [
+            1876,
+            1091,
+            2307,
+            1152
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1009.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        846,
+        606,
+        1736,
+        942
+      ],
+      "lines": [
+        {
+          "text": "Jart ines",
+          "box": [
+            905,
+            637,
+            1271,
+            750
+          ]
+        },
+        {
+          "text": "5678 Maple D RAT",
+          "box": [
+            911,
+            737,
+            1580,
+            826
+          ]
+        },
+        {
+          "text": "Rochester NY 14623",
+          "box": [
+            917,
+            829,
+            1650,
+            893
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2038,
+        1074,
+        2732,
+        1218
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-22-14",
+          "box": [
+            2106,
+            1078,
+            2677,
+            1132
+          ]
+        }
+      ]
+    }
+  ]
+}

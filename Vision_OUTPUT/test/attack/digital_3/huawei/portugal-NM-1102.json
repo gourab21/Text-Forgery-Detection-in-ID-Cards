@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        998,
+        480,
+        2354,
+        760
+      ],
+      "lines": [
+        {
+          "text": "LORIOSA FEREIRA",
+          "box": [
+            1107,
+            551,
+            1959,
+            622
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            1102,
+            643,
+            1681,
+            722
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2656,
+        924,
+        3221,
+        1080
+      ],
+      "lines": [
+        {
+          "text": "03 06 1992",
+          "box": [
+            2740,
+            974,
+            3146,
+            1036
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2000,
+        1173,
+        2694,
+        1358
+      ],
+      "lines": [
+        {
+          "text": "1303 2098",
+          "box": [
+            2096,
+            1240,
+            2554,
+            1305
+          ]
+        }
+      ]
+    }
+  ]
+}

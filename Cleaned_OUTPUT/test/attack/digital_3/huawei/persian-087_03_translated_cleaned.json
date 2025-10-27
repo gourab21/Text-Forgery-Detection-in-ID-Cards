@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\persian-087_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\persian-087_03.jpg",
+  "width": 3199,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1242,
+            444,
+            1421,
+            500
+          ],
+          "original_text": "Matt",
+          "translated_en": "Matt"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1223,
+            678,
+            1535,
+            742
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2177,
+            459,
+            2313,
+            524
+          ],
+          "original_text": "سارا",
+          "translated_en": "Sara"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2161,
+            692,
+            2321,
+            767
+          ],
+          "original_text": "زارع",
+          "translated_en": "Farmer"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1219,
+            942,
+            1665,
+            1005
+          ],
+          "original_text": "13/05/2077",
+          "translated_en": "13/05/2077"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1203,
+            1464,
+            1654,
+            1534
+          ],
+          "original_text": "09/12/2024",
+          "translated_en": "09/12/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2148,
+            1480,
+            2601,
+            1548
+          ],
+          "original_text": "28/03/2077",
+          "translated_en": "28/03/2077"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-087_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,20 @@
+LE1
+EN: Kovaleva /
+OR: Ковалева /
+EN: Kovalev
+OR: Kovaleva
+
+LE2
+EN: P
+EN: Elena Sergeevna /
+OR: Елена Сергеевна /
+EN: Sanue
+
+E3
+EN: 12.09.1995
+
+E4
+EN: 21.05.2021
+
+E5
+EN: 17.05.1971

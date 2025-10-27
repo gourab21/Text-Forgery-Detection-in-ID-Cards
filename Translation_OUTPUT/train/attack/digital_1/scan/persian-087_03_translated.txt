@@ -1,0 +1,22 @@
+E1
+EN: sayn
+
+E2
+EN: Kazemi
+
+L1
+OR: سارا
+EN: Sara
+
+L2
+OR: زارع
+EN: Farmer
+
+E3
+EN: 12/12/2030
+
+E4
+EN: 09/12/2024
+
+E5
+EN: 16/06/2006

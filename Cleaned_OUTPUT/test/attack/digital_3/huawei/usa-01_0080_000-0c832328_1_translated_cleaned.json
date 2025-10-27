@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\usa-01_0080_000-0c832328_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-01_0080_000-0c832328_1.jpg",
+  "width": 3192,
+  "height": 1978,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1043,
+            745,
+            1637,
+            805
+          ],
+          "original_text": "Todiam Brown",
+          "translated_en": "Todiam Brown"
+        },
+        {
+          "box": [
+            1035,
+            814,
+            1666,
+            925
+          ],
+          "original_text": "3714 Maple Av",
+          "translated_en": "3714 Maple Av"
+        },
+        {
+          "box": [
+            1033,
+            927,
+            1702,
+            999
+          ],
+          "original_text": "Dallas TX 75235",
+          "translated_en": "Dallas TX 75235"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2394,
+            1238,
+            3026,
+            1308
+          ],
+          "original_text": "14-07-03",
+          "translated_en": "14-07-03"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-01_0080_000-0c832328_1_translated_cleaned.jpg"
+}

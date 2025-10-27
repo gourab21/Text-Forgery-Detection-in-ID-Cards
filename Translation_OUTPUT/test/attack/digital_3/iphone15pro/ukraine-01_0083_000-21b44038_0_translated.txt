@@ -1,0 +1,20 @@
+LE1
+OR: Прізвище
+EN: Name
+OR: Остапенко /
+EN: Ostapenko /
+EN: Ostapenko
+
+LE2
+OR: Наталія Русланівна /
+EN: Natalia Ruslanivna /
+EN: Gabriela
+
+E3
+EN: 18.09.2029
+
+E4
+EN: 05.06.2016 等
+
+E5
+EN: 07.11.1922

@@ -1,0 +1,20 @@
+E1
+EN: Victor
+
+E2
+EN: Kermani
+
+L1
+EN: Mariam
+OR: مريم
+
+L2
+
+E3
+EN: 25/10/1903
+
+E4
+EN: 15/12/2024
+
+E5
+EN: 20/09/2051

@@ -1,0 +1,27 @@
+E1
+EN: Kyle Youssef
+
+L1
+EN: Youssef Hanaa
+OR: يوسف هناء
+
+E2
+EN: 25 Jan 1962
+
+E3
+EN: 07 Oct 2023
+
+E4
+EN: 21 Nov 1945
+
+L2
+EN: December 21, 1983
+OR: ۲۱ / ديسمبر / ۱۹۸۳
+
+L3
+EN: October 7, 2023
+OR: ٧ / أكتوبر ۲۰۲۳
+
+L4
+EN: 19 February 2029
+OR: ١٩ ۱۹ / فبراير / ۲۰۲۹

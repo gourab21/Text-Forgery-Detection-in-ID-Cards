@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1060.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        992,
+        475,
+        2342,
+        753
+      ],
+      "lines": [
+        {
+          "text": "DEANNADES RIBEIRO",
+          "box": [
+            1108,
+            544,
+            1990,
+            615
+          ]
+        },
+        {
+          "text": "Carla",
+          "box": [
+            1093,
+            636,
+            1306,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2643,
+        915,
+        3205,
+        1070
+      ],
+      "lines": [
+        {
+          "text": "10 05 1936",
+          "box": [
+            2739,
+            961,
+            3127,
+            1026
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1990,
+        1162,
+        2680,
+        1345
+      ],
+      "lines": [
+        {
+          "text": "10 04 1918",
+          "box": [
+            2096,
+            1230,
+            2555,
+            1296
+          ]
+        }
+      ]
+    }
+  ]
+}

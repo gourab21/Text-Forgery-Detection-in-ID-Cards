@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_38999105422_457bedeef7_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        855,
+        547,
+        1649,
+        818
+      ],
+      "lines": [
+        {
+          "text": "张强",
+          "box": [
+            932,
+            594,
+            1077,
+            657
+          ]
+        },
+        {
+          "text": "Karen Qiang",
+          "box": [
+            951,
+            676,
+            1402,
+            744
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1668,
+        911,
+        2311,
+        1076
+      ],
+      "lines": [
+        {
+          "text": "25 Dec 1982",
+          "box": [
+            1713,
+            956,
+            2196,
+            1020
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1673,
+        1167,
+        2337,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "19 Oct 1973",
+          "box": [
+            1719,
+            1212,
+            2192,
+            1274
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        887,
+        1446,
+        1548,
+        1629
+      ],
+      "lines": [
+        {
+          "text": "# 31 Nov 1904",
+          "box": [
+            887,
+            1488,
+            1425,
+            1556
+          ]
+        }
+      ]
+    }
+  ]
+}

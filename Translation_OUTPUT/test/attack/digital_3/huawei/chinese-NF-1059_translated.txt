@@ -1,0 +1,13 @@
+LE1
+OR: 武則天
+EN: Wu Zetian
+EN: Joseptian
+
+E2
+EN: 15 Jan 1944
+
+E3
+EN: 12 Dec 2012
+
+E4
+EN: 01 Feb 2034

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-068_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        834,
+        380,
+        1660,
+        513
+      ],
+      "lines": [
+        {
+          "text": "ROUSSEAU",
+          "box": [
+            917,
+            430,
+            1280,
+            483
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        628,
+        1757,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Thomas , Hugo",
+          "box": [
+            920,
+            681,
+            1397,
+            736
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1946,
+        880,
+        2493,
+        1031
+      ],
+      "lines": [
+        {
+          "text": "20 07 1983",
+          "box": [
+            1999,
+            887,
+            2373,
+            941
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1919,
+        1436,
+        2476,
+        1575
+      ],
+      "lines": [
+        {
+          "text": "13 07 2031",
+          "box": [
+            2010,
+            1436,
+            2379,
+            1493
+          ]
+        }
+      ]
+    }
+  ]
+}

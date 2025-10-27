@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_M_15788105142_89e9bca209_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_M_15788105142_89e9bca209_k.jpg",
+  "width": 2772,
+  "height": 1727,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            714,
+            631,
+            1532,
+            712
+          ],
+          "original_text": "Shawn bin Saleh",
+          "translated_en": "Shawn bin Saleh"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            716,
+            1272,
+            1215,
+            1344
+          ],
+          "original_text": "31.12.1010",
+          "translated_en": "31.12.1010"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1647,
+            1512,
+            2138,
+            1588
+          ],
+          "original_text": "16 03 2233",
+          "translated_en": "16 03 2233"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_15788105142_89e9bca209_k_translated_cleaned.jpg"
+}

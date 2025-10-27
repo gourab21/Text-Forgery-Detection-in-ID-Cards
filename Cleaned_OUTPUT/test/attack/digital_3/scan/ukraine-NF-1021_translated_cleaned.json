@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\ukraine-NF-1021_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-NF-1021.jpg",
+  "width": 1989,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            649,
+            289,
+            897,
+            342
+          ],
+          "original_text": "Лисенко /",
+          "translated_en": "Lysenko /"
+        },
+        {
+          "box": [
+            652,
+            352,
+            847,
+            392
+          ],
+          "original_text": "Lysenko",
+          "translated_en": "Lysenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            649,
+            475,
+            1054,
+            527
+          ],
+          "original_text": "Марія Іванівна /",
+          "translated_en": "Maria Ivanovna /"
+        },
+        {
+          "box": [
+            646,
+            533,
+            807,
+            578
+          ],
+          "original_text": "Sherry",
+          "translated_en": "Sherry"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            646,
+            680,
+            912,
+            718
+          ],
+          "original_text": "14.02.2066",
+          "translated_en": "14.02.2066"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            640,
+            956,
+            907,
+            993
+          ],
+          "original_text": "15.02.2011",
+          "translated_en": "15.02.2011"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            634,
+            1153,
+            902,
+            1188
+          ],
+          "original_text": "07.06.1966",
+          "translated_en": "07.06.1966"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1021_translated_cleaned.jpg"
+}

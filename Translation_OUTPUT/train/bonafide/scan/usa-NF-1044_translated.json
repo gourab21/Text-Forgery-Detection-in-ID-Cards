@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-NF-1044.json",
+  "image_relative": "train\\bonafide\\scan\\usa-NF-1044.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            658,
+            459,
+            1236,
+            510
+          ],
+          "original_text": "Emma Stone Calle",
+          "translated_en": "Emma Stone Calle",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            654,
+            526,
+            983,
+            577
+          ],
+          "original_text": "321 Alder St",
+          "translated_en": "321 Alder St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            656,
+            585,
+            1141,
+            629
+          ],
+          "original_text": "Portland OR 97201",
+          "translated_en": "Portland OR 97201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1496,
+            777,
+            1889,
+            823
+          ],
+          "original_text": "DOB : 02-13-94",
+          "translated_en": "DOB : 02-13-94",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1044_translated.jpg"
+}

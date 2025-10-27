@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\singapore-flickr_M_21893334161_8c8b011508_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        576,
+        578,
+        2084,
+        856
+      ],
+      "lines": [
+        {
+          "text": "Budi Hartono",
+          "box": [
+            716,
+            661,
+            1341,
+            722
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1239,
+        1436,
+        1410
+      ],
+      "lines": [
+        {
+          "text": "1990-07-25",
+          "box": [
+            728,
+            1292,
+            1231,
+            1364
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1560,
+        1504,
+        2302,
+        1670
+      ],
+      "lines": [
+        {
+          "text": "2000-07-25",
+          "box": [
+            1646,
+            1537,
+            2161,
+            1608
+          ]
+        }
+      ]
+    }
+  ]
+}

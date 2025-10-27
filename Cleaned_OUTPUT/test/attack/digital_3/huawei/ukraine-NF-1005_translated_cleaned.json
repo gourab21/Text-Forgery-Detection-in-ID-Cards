@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\ukraine-NF-1005_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\ukraine-NF-1005.jpg",
+  "width": 3212,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1044,
+            462,
+            1484,
+            536
+          ],
+          "original_text": "Петренко /",
+          "translated_en": "Petrenko /"
+        },
+        {
+          "box": [
+            1043,
+            554,
+            1388,
+            608
+          ],
+          "original_text": "Petrenko",
+          "translated_en": "Petrenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1031,
+            754,
+            1890,
+            835
+          ],
+          "original_text": "Ірина Олександрівна",
+          "translated_en": "Iryna Oleksandrivna"
+        },
+        {
+          "box": [
+            1030,
+            845,
+            1244,
+            897
+          ],
+          "original_text": "Court",
+          "translated_en": "Court"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1038,
+            1077,
+            1469,
+            1141
+          ],
+          "original_text": "18.04.1990",
+          "translated_en": "18.04.1990"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1519,
+            1453,
+            1581
+          ],
+          "original_text": "14.08.2017",
+          "translated_en": "14.08.2017"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1020,
+            1832,
+            1454,
+            1890
+          ],
+          "original_text": "18.03.1924",
+          "translated_en": "18.03.1924"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1005_translated_cleaned.jpg"
+}

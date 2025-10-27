@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_31226087931_7b83422543_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1500,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Eko Prasetyo",
+          "box": [
+            515,
+            465,
+            966,
+            526
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1032,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1964-08-07",
+          "box": [
+            506,
+            921,
+            871,
+            969
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1076,
+        1658,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "1974-08-07",
+          "box": [
+            1163,
+            1113,
+            1531,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

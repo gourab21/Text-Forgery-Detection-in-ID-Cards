@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_31226087931_7b83422543_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1500,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Seth Praseyo",
+          "box": [
+            519,
+            460,
+            956,
+            525
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1032,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "23.08.0900",
+          "box": [
+            508,
+            918,
+            864,
+            966
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1076,
+        1658,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "16-00-1556",
+          "box": [
+            1163,
+            1106,
+            1523,
+            1161
+          ]
+        }
+      ]
+    }
+  ]
+}

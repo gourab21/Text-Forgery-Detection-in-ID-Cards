@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1455,
+        475
+      ],
+      "lines": [
+        {
+          "text": "ASHLEYA FERRIRA",
+          "box": [
+            694,
+            340,
+            1212,
+            391
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            689,
+            393,
+            1047,
+            448
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        576,
+        1991,
+        673
+      ],
+      "lines": [
+        {
+          "text": "26 03 1992",
+          "box": [
+            1697,
+            598,
+            1946,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1236,
+        731,
+        1664,
+        846
+      ],
+      "lines": [
+        {
+          "text": "26 08 1925",
+          "box": [
+            1300,
+            770,
+            1584,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

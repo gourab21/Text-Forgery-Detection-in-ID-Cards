@@ -1,0 +1,29 @@
+E1
+EN: Salma Ibrahim
+
+L1
+OR: إبراهيم سلمى
+EN: Ibrahim Salma
+
+E2
+EN: 26 Feb 1990
+
+E3
+EN: 09 Jul 2023
+
+E4
+EN: 14 Jun 2030
+
+L2
+OR: تاریخ
+EN: History
+OR: ٢٦ / فبراير / ۱۹۹۰
+EN: February 26, 1990
+
+L3
+OR: ٩ / يوليو / ۲۰۲۳
+EN: July 9, 2023
+
+L4
+OR: ١٤ / یونیو / ۲۰۳۰
+EN: 14 / June / 2030

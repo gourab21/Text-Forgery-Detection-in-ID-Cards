@@ -1,0 +1,22 @@
+E1
+EN: Lisaad
+
+E2
+EN: Kazemi
+
+L1
+EN: Farhad
+OR: فرهاد
+
+L2
+EN: Rahimi Haymi
+OR: رحیمی حيمى
+
+E3
+EN: 06/01/1962
+
+E4
+EN: 21/02/2024
+
+E5
+EN: 08/02/2081

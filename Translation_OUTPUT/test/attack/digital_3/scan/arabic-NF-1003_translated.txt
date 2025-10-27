@@ -1,0 +1,27 @@
+E1
+EN: Jasmine - Sayed
+
+L1
+OR: السيد أميرة
+EN: Mr. Amira
+
+E2
+EN: 29 Mar 2016
+
+E3
+EN: 07 Jan 2025
+
+E4
+EN: 11 Jun 1971
+
+L2
+OR: ٢٢ / سبتمبر / ۱۹۸۷
+EN: September 22, 1987
+
+L3
+OR: ٠٧ / يناير / ۲۰۲۵
+EN: January 7, 2025
+
+L4
+OR: ٠٧ / يناير / ٢٠٣٥
+EN: January 7, 2035

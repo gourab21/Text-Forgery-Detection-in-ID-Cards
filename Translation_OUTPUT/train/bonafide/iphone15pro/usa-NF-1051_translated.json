@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\usa-NF-1051.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-NF-1051.jpg",
+  "width": 2809,
+  "height": 1793,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            916,
+            672,
+            1355,
+            740
+          ],
+          "original_text": "Linda Taylor",
+          "translated_en": "Linda Taylor",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            915,
+            734,
+            1725,
+            822
+          ],
+          "original_text": "3714 Maple Ave ATE STA",
+          "translated_en": "3714 Maple Ave ATE STA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            916,
+            838,
+            1497,
+            897
+          ],
+          "original_text": "Dallas TX 75235",
+          "translated_en": "Dallas TX 75235",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2109,
+            1087,
+            2658,
+            1141
+          ],
+          "original_text": "DOB : 08-04-77",
+          "translated_en": "DOB : 08-04-77",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1051_translated.jpg"
+}

@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\usa-NF-1076_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\usa-NF-1076.jpg",
+  "width": 1993,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            657,
+            471,
+            1118,
+            520
+          ],
+          "original_text": "Fhristopherderson",
+          "translated_en": "Fhristopherderson"
+        },
+        {
+          "box": [
+            655,
+            527,
+            966,
+            569
+          ],
+          "original_text": "1543 Elm St",
+          "translated_en": "1543 Elm St"
+        },
+        {
+          "box": [
+            654,
+            587,
+            1119,
+            630
+          ],
+          "original_text": "Phoenix AZ 85021",
+          "translated_en": "Phoenix AZ 85021"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1495,
+            777,
+            1895,
+            822
+          ],
+          "original_text": "11-12-12",
+          "translated_en": "11-12-12"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1076_translated_cleaned.jpg"
+}

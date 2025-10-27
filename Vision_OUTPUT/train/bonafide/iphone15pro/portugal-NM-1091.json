@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NM-1091.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        878,
+        429,
+        2072,
+        680
+      ],
+      "lines": [
+        {
+          "text": "GOMES OLIVEIRA",
+          "box": [
+            949,
+            493,
+            1598,
+            554
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            953,
+            583,
+            1174,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2337,
+        827,
+        2835,
+        966
+      ],
+      "lines": [
+        {
+          "text": "04 06 1992",
+          "box": [
+            2403,
+            829,
+            2813,
+            886
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1760,
+        1050,
+        2370,
+        1215
+      ],
+      "lines": [
+        {
+          "text": "02 06 2002",
+          "box": [
+            1835,
+            1080,
+            2244,
+            1138
+          ]
+        }
+      ]
+    }
+  ]
+}

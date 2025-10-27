@@ -1,0 +1,13 @@
+LE1
+OR: 吳芳
+EN: Wu Fang
+EN: Paulang
+
+E2
+EN: 07 Jun 1987
+
+E3
+EN: 04 JUN 2010
+
+E4
+EN: 03 Sep 1934

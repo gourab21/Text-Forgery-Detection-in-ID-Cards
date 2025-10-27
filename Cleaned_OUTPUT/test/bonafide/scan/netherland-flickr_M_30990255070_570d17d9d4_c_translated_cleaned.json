@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\netherland-flickr_M_30990255070_570d17d9d4_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\netherland-flickr_M_30990255070_570d17d9d4_c.jpg",
+  "width": 1995,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            678,
+            324,
+            950,
+            366
+          ],
+          "original_text": "DE VRIES",
+          "translated_en": "DE VRIES"
+        },
+        {
+          "box": [
+            680,
+            383,
+            1185,
+            435
+          ],
+          "original_text": "Henrike Elisabeth",
+          "translated_en": "Henrike Elisabeth"
+        },
+        {
+          "box": [
+            678,
+            456,
+            912,
+            499
+          ],
+          "original_text": "Cornelis",
+          "translated_en": "Cornelis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1559,
+            582,
+            1895,
+            631
+          ],
+          "original_text": "04 01 1977",
+          "translated_en": "04 01 1977"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1532,
+            755,
+            1900,
+            803
+          ],
+          "original_text": "08 09 2032",
+          "translated_en": "08 09 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_30990255070_570d17d9d4_c_translated_cleaned.jpg"
+}

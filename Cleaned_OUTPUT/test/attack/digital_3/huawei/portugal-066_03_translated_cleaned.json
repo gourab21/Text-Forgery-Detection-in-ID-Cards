@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\portugal-066_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\portugal-066_03.jpg",
+  "width": 3225,
+  "height": 2001,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1110,
+            545,
+            1736,
+            616
+          ],
+          "original_text": "APRLS COSTA",
+          "translated_en": "APRLS COSTA"
+        },
+        {
+          "box": [
+            1101,
+            637,
+            1805,
+            726
+          ],
+          "original_text": "Isabel Margarida",
+          "translated_en": "Isabel Margarida"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2752,
+            972,
+            3150,
+            1041
+          ],
+          "original_text": "12 12 2007",
+          "translated_en": "12 12 2007"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2103,
+            1239,
+            2565,
+            1305
+          ],
+          "original_text": "17 11 2006",
+          "translated_en": "17 11 2006"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-066_03_translated_cleaned.jpg"
+}

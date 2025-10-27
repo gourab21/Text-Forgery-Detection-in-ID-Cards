@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\chinese-NF-1085_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\chinese-NF-1085.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            678,
+            437,
+            786,
+            484
+          ],
+          "original_text": "吴芳",
+          "translated_en": "Wu Fang"
+        },
+        {
+          "box": [
+            679,
+            487,
+            921,
+            538
+          ],
+          "original_text": "vaulang",
+          "translated_en": "valuable"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1245,
+            703,
+            1590,
+            746
+          ],
+          "original_text": "14 MAY 2031",
+          "translated_en": "14 MAY 2031"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1247,
+            885,
+            1570,
+            928
+          ],
+          "original_text": "04 JUN 2010",
+          "translated_en": "04 JUN 2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            693,
+            1085,
+            1039,
+            1126
+          ],
+          "original_text": "03 JUN 2003",
+          "translated_en": "03 JUN 2003"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1085_translated_cleaned.jpg"
+}

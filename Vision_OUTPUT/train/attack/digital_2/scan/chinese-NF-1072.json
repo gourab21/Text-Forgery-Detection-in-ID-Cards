@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-NF-1072.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        637,
+        396,
+        1105,
+        582
+      ],
+      "lines": [
+        {
+          "text": "吳 情",
+          "box": [
+            679,
+            431,
+            783,
+            475
+          ]
+        },
+        {
+          "text": "Vciroldn",
+          "box": [
+            675,
+            491,
+            902,
+            534
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1199,
+        659,
+        1609,
+        792
+      ],
+      "lines": [
+        {
+          "text": "10 Mar : [ 02",
+          "box": [
+            1232,
+            712,
+            1527,
+            755
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1181,
+        850,
+        1633,
+        977
+      ],
+      "lines": [
+        {
+          "text": "17 Apr 2016",
+          "box": [
+            1230,
+            898,
+            1541,
+            942
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1041,
+        1089,
+        1164
+      ],
+      "lines": [
+        {
+          "text": "15 Apr 2030",
+          "box": [
+            669,
+            1081,
+            991,
+            1129
+          ]
+        }
+      ]
+    }
+  ]
+}

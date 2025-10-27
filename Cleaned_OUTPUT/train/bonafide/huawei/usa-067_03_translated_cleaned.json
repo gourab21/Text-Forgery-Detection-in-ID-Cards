@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\huawei\\usa-067_03_translated.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-067_03.jpg",
+  "width": 3047,
+  "height": 1905,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            973,
+            705,
+            1508,
+            796
+          ],
+          "original_text": "James Wilson",
+          "translated_en": "James Wilson"
+        },
+        {
+          "box": [
+            981,
+            809,
+            1551,
+            871
+          ],
+          "original_text": "67.84 Creek Rd",
+          "translated_en": "67.84 Creek Rd"
+        },
+        {
+          "box": [
+            986,
+            899,
+            1611,
+            961
+          ],
+          "original_text": "Dover DE 19901",
+          "translated_en": "Dover DE 19901"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2284,
+            1163,
+            2884,
+            1225
+          ],
+          "original_text": "01-12-84",
+          "translated_en": "01-12-84"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-067_03_translated_cleaned.jpg"
+}

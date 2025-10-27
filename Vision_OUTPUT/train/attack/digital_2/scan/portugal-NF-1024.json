@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1024.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1454,
+        475
+      ],
+      "lines": [
+        {
+          "text": "GEVIN SOUSA",
+          "box": [
+            666,
+            345,
+            1067,
+            393
+          ]
+        },
+        {
+          "text": "Teresa",
+          "box": [
+            670,
+            414,
+            838,
+            448
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1641,
+        578,
+        1990,
+        675
+      ],
+      "lines": [
+        {
+          "text": "02 05 1979",
+          "box": [
+            1696,
+            583,
+            1987,
+            623
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1235,
+        733,
+        1663,
+        848
+      ],
+      "lines": [
+        {
+          "text": "29 047493",
+          "box": [
+            1299,
+            759,
+            1598,
+            803
+          ]
+        }
+      ]
+    }
+  ]
+}

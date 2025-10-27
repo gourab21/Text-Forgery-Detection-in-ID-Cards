@@ -1,0 +1,137 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\arabic-NM-1090.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\arabic-NM-1090.jpg",
+  "width": 2766,
+  "height": 1767,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1032,
+            681,
+            1445,
+            736
+          ],
+          "original_text": "David Fares",
+          "translated_en": "David Fares",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            992,
+            462,
+            1391,
+            563
+          ],
+          "original_text": "فارس بلال",
+          "translated_en": "Fares Bilal",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1042,
+            1101,
+            1560,
+            1187
+          ],
+          "original_text": "02 Apr 2055",
+          "translated_en": "02 Apr 2055",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1048,
+            1338,
+            1513,
+            1404
+          ],
+          "original_text": "10 Jul 2025",
+          "translated_en": "10 Jul 2025",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1049,
+            1575,
+            1478,
+            1634
+          ],
+          "original_text": "03 Nov 198",
+          "translated_en": "03 Nov 198",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1776,
+            1081,
+            2445,
+            1183
+          ],
+          "original_text": "۱۱ / نوفمبر / ۱۹۹۱",
+          "translated_en": "November 11, 1991",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1780,
+            1318,
+            2389,
+            1416
+          ],
+          "original_text": "١٠ / يوليو / ٢٠٢٥",
+          "translated_en": "July 10, 2025",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1787,
+            1553,
+            2395,
+            1649
+          ],
+          "original_text": "١٠ / يوليو / ٢٠٣٥",
+          "translated_en": "July 10, 2035",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NM-1090_translated.jpg"
+}

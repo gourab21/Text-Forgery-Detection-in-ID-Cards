@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\russian-082_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\russian-082_03.jpg",
+  "width": 2002,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            726,
+            267,
+            907,
+            311
+          ],
+          "original_text": "Ершов /",
+          "translated_en": "Ershov /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            723,
+            319,
+            869,
+            353
+          ],
+          "original_text": "Ershov",
+          "translated_en": "Ershov",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1294,
+            433,
+            1331,
+            462
+          ],
+          "original_text": "ре",
+          "translated_en": "re",
+          "detected_lang": "sr"
+        },
+        {
+          "box": [
+            720,
+            475,
+            1331,
+            525
+          ],
+          "original_text": "Роман Федорович C",
+          "translated_en": "Roman Fedorovich C",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            718,
+            525,
+            1130,
+            564
+          ],
+          "original_text": "RuralFeboowic",
+          "translated_en": "RuralFeboowic",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            718,
+            681,
+            979,
+            715
+          ],
+          "original_text": "16.08.2024",
+          "translated_en": "16.08.2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            710,
+            959,
+            958,
+            992
+          ],
+          "original_text": "03.12.2013",
+          "translated_en": "03.12.2013",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            706,
+            1143,
+            962,
+            1177
+          ],
+          "original_text": "01.12.2007",
+          "translated_en": "01.12.2007",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-082_03_translated.jpg"
+}

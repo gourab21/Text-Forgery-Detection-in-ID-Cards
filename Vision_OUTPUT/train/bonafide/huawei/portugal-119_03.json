@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-119_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        995,
+        472,
+        2348,
+        748
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES SILVA",
+          "box": [
+            1105,
+            537,
+            1885,
+            605
+          ]
+        },
+        {
+          "text": "Luís",
+          "box": [
+            1102,
+            629,
+            1266,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2649,
+        909,
+        3213,
+        1063
+      ],
+      "lines": [
+        {
+          "text": "06 02 1983",
+          "box": [
+            2752,
+            948,
+            3212,
+            1014
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1995,
+        1155,
+        2687,
+        1337
+      ],
+      "lines": [
+        {
+          "text": "03 02 2025",
+          "box": [
+            2092,
+            1218,
+            2563,
+            1282
+          ]
+        }
+      ]
+    }
+  ]
+}

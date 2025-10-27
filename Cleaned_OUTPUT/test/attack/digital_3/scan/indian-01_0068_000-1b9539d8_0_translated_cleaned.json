@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\indian-01_0068_000-1b9539d8_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\indian-01_0068_000-1b9539d8_0.jpg",
+  "width": 1995,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            688,
+            469,
+            796,
+            503
+          ],
+          "original_text": "ROY",
+          "translated_en": "ROY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            700,
+            621,
+            1002,
+            667
+          ],
+          "original_text": "KELL VIKAS",
+          "translated_en": "KELL VIKAS"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            696,
+            779,
+            1012,
+            828
+          ],
+          "original_text": "25/06/1970",
+          "translated_en": "25/06/1970"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            699,
+            1074,
+            1014,
+            1124
+          ],
+          "original_text": "08/04/2021",
+          "translated_en": "08/04/2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1430,
+            1067,
+            1741,
+            1116
+          ],
+          "original_text": "29/01/2048",
+          "translated_en": "29/01/2048"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-01_0068_000-1b9539d8_0_translated_cleaned.jpg"
+}

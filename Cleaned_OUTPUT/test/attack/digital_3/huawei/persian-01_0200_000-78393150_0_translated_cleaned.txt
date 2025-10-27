@@ -1,0 +1,23 @@
+E1
+EN: Melis
+
+E2
+EN: Mousavi
+
+L1
+EN: At night
+OR: ليلا
+
+L2
+EN: L
+EN: Kazemi
+OR: کاظمی
+
+E3
+EN: 04/07/2051
+
+E4
+EN: 17/04/2024
+
+E5
+EN: 20/11/2026

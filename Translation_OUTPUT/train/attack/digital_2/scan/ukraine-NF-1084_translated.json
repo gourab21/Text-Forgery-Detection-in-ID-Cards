@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_2\\scan\\ukraine-NF-1084.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\ukraine-NF-1084.jpg",
+  "width": 1991,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            641,
+            295,
+            929,
+            340
+          ],
+          "original_text": "Шевченко /",
+          "translated_en": "Shevchenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            637,
+            351,
+            927,
+            392
+          ],
+          "original_text": "Shevchenko",
+          "translated_en": "Shevchenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            640,
+            476,
+            1057,
+            531
+          ],
+          "original_text": "Ірина Олегівна /",
+          "translated_en": "Iryna Olegivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            642,
+            539,
+            783,
+            578
+          ],
+          "original_text": "I ulie",
+          "translated_en": "I cry.",
+          "detected_lang": "sw"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            649,
+            685,
+            930,
+            721
+          ],
+          "original_text": "19.03.2041",
+          "translated_en": "19.03.2041",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            652,
+            960,
+            920,
+            995
+          ],
+          "original_text": "04.08.2020",
+          "translated_en": "04.08.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            654,
+            1154,
+            939,
+            1192
+          ],
+          "original_text": "04.08.21955",
+          "translated_en": "04.08.21955",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1084_translated.jpg"
+}

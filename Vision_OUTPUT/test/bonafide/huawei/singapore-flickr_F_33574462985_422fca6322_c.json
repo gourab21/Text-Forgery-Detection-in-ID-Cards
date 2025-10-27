@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_F_33574462985_422fca6322_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        657,
+        655,
+        2378,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Dewi Lestari",
+          "box": [
+            794,
+            750,
+            1477,
+            826
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        733,
+        1405,
+        1637,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "2007-01-29",
+          "box": [
+            811,
+            1475,
+            1388,
+            1549
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1780,
+        1706,
+        2627,
+        1895
+      ],
+      "lines": [
+        {
+          "text": "2017-01-29",
+          "box": [
+            1868,
+            1752,
+            2448,
+            1830
+          ]
+        }
+      ]
+    }
+  ]
+}

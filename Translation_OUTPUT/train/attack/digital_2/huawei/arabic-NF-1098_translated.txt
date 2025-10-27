@@ -1,0 +1,27 @@
+E1
+EN: هسرح Ali
+
+L1
+OR: علي زهراء
+EN: Ali Zahra
+
+E2
+EN: 29 Jun 202
+
+E3
+EN: 18 Feb 2020
+
+E4
+EN: 25 Oct 2029
+
+L2
+OR: ۲۹ / يونيو / ۱۹۹۵ ११०
+EN: 29 / June / 1995 1995
+
+L3
+OR: ۱۸ / فبراير / ۲۰۲۰
+EN: February 18, 2020
+
+L4
+OR: ٢٥ / أكتوبر / ۲۰۲۹
+EN: October 25, 2029

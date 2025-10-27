@@ -1,0 +1,84 @@
+{
+  "source_json": "train\\bonafide\\huawei\\turkiye-092_03.json",
+  "image_relative": "train\\bonafide\\huawei\\turkiye-092_03.jpg",
+  "width": 3027,
+  "height": 1889,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            990,
+            986,
+            1169,
+            1044
+          ],
+          "original_text": "Fırat",
+          "translated_en": "Fırat",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1272,
+            677,
+            1572,
+            712
+          ],
+          "original_text": "Surname",
+          "translated_en": "Surname",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            987,
+            758,
+            1198,
+            812
+          ],
+          "original_text": "Tekin",
+          "translated_en": "Tekin",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            987,
+            1215,
+            1423,
+            1286
+          ],
+          "original_text": "25.12.1993",
+          "translated_en": "25.12.1993",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            975,
+            1691,
+            1413,
+            1754
+          ],
+          "original_text": "30.08.2036",
+          "translated_en": "30.08.2036",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-092_03_translated.jpg"
+}

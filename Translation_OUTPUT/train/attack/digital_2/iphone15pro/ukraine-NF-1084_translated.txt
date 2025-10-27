@@ -1,0 +1,20 @@
+LE1
+OR: Прізви
+EN: Nicknames
+OR: Шевченко /
+EN: Shevchenko /
+EN: Shevchenko
+
+LE2
+OR: Ірина Олегівна /
+EN: Iryna Olegivna /
+EN: Iosea
+
+E3
+EN: 19.03.:2035
+
+E4
+EN: 04.08.2020
+
+E5
+EN: 04.08.200

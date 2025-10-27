@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-017_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        474,
+        2345,
+        751
+      ],
+      "lines": [
+        {
+          "text": "MENDES SOUSA",
+          "box": [
+            1097,
+            540,
+            1762,
+            610
+          ]
+        },
+        {
+          "text": "Eduardo Manuel",
+          "box": [
+            1097,
+            635,
+            1770,
+            704
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2646,
+        912,
+        3209,
+        1066
+      ],
+      "lines": [
+        {
+          "text": "14 11 1988",
+          "box": [
+            2752,
+            956,
+            3208,
+            1023
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1992,
+        1158,
+        2683,
+        1341
+      ],
+      "lines": [
+        {
+          "text": "01 12 2032",
+          "box": [
+            2091,
+            1224,
+            2559,
+            1292
+          ]
+        }
+      ]
+    }
+  ]
+}

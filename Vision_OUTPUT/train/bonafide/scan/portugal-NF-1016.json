@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1454,
+        475
+      ],
+      "lines": [
+        {
+          "text": "SERRANO MEIRELES",
+          "box": [
+            675,
+            343,
+            1206,
+            388
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            676,
+            406,
+            936,
+            446
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1641,
+        576,
+        1990,
+        673
+      ],
+      "lines": [
+        {
+          "text": "06 08 1997",
+          "box": [
+            1702,
+            578,
+            1989,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1235,
+        731,
+        1663,
+        846
+      ],
+      "lines": [
+        {
+          "text": "28 03 2031",
+          "box": [
+            1307,
+            755,
+            1594,
+            799
+          ]
+        }
+      ]
+    }
+  ]
+}

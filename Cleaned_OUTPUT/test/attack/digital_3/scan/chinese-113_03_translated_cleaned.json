@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-113_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-113_03.jpg",
+  "width": 1990,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            684,
+            430,
+            787,
+            483
+          ],
+          "original_text": "周琳",
+          "translated_en": "Zhou Lin"
+        },
+        {
+          "box": [
+            694,
+            496,
+            900,
+            532
+          ],
+          "original_text": "Michele",
+          "translated_en": "Michele"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1236,
+            719,
+            1548,
+            757
+          ],
+          "original_text": "17 Oct 2080",
+          "translated_en": "17 Oct 2080"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1230,
+            898,
+            1549,
+            945
+          ],
+          "original_text": "29 Sep 2010",
+          "translated_en": "29 Sep 2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            671,
+            1085,
+            988,
+            1122
+          ],
+          "original_text": "27 Mar 2075",
+          "translated_en": "27 Mar 2075"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-113_03_translated_cleaned.jpg"
+}

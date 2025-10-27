@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\usa-NM-1052.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        427,
+        1238,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Carcusophr een",
+          "box": [
+            646,
+            468,
+            1132,
+            520
+          ]
+        },
+        {
+          "text": "112 Oak St",
+          "box": [
+            648,
+            526,
+            931,
+            568
+          ]
+        },
+        {
+          "text": "Laramie WY 82070",
+          "box": [
+            648,
+            587,
+            1132,
+            629
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        756,
+        1948,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-11-17",
+          "box": [
+            1490,
+            776,
+            1896,
+            826
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-020_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-020_03.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            689,
+            436,
+            789,
+            483
+          ],
+          "original_text": "李晨",
+          "translated_en": "Li Chen"
+        },
+        {
+          "box": [
+            684,
+            499,
+            814,
+            530
+          ],
+          "original_text": "David",
+          "translated_en": "David"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1250,
+            702,
+            1573,
+            744
+          ],
+          "original_text": "16 Oct 1932",
+          "translated_en": "16 Oct 1932"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1246,
+            886,
+            1559,
+            927
+          ],
+          "original_text": "07 JUL 2009",
+          "translated_en": "07 JUL 2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            694,
+            1083,
+            1010,
+            1125
+          ],
+          "original_text": "21 Nov 1908",
+          "translated_en": "21 Nov 1908"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-020_03_translated_cleaned.jpg"
+}

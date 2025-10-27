@@ -1,0 +1,74 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\usa-034_03.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-034_03.jpg",
+  "width": 2810,
+  "height": 1794,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1236,
+            611,
+            1332,
+            695
+          ],
+          "original_text": "200",
+          "translated_en": "200",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            919,
+            672,
+            1360,
+            746
+          ],
+          "original_text": "Emily Carter",
+          "translated_en": "Emily Carter",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            916,
+            739,
+            1619,
+            835
+          ],
+          "original_text": "456 Pine Road RATE",
+          "translated_en": "456 Pine Road RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            916,
+            837,
+            1707,
+            899
+          ],
+          "original_text": "Winchester MA 01890",
+          "translated_en": "Winchester MA 01890",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2111,
+            1088,
+            2662,
+            1142
+          ],
+          "original_text": "DOB : 05-14-92",
+          "translated_en": "DOB : 05-14-92",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-034_03_translated.jpg"
+}

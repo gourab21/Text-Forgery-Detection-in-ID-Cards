@@ -1,0 +1,14 @@
+LE1
+OR: 孙 萍
+EN: Sun Ping
+OR: Kaylang
+EN: How long?
+
+E2
+EN: 15 Sep 2023
+
+E3
+EN: 15 Aug 1915
+
+E4
+EN: 31 May 2006

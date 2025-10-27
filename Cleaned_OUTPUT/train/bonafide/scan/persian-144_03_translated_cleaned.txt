@@ -1,0 +1,20 @@
+E1
+EN: Mina
+
+E2
+EN: Rahimi
+
+L1
+
+L2
+EN: Rahimi
+OR: رحیمی
+
+E3
+EN: 22/12/1986
+
+E4
+EN: 22/12/2016
+
+E5
+EN: 22/12/2021

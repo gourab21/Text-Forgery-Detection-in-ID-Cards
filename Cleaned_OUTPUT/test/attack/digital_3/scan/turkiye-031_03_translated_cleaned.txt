@@ -1,0 +1,12 @@
+E2
+EN: Jasom
+
+E1
+EN: Soyadı
+EN: Kaya
+
+E3
+EN: 30.02.1914
+
+E4
+EN: 21.07.1921

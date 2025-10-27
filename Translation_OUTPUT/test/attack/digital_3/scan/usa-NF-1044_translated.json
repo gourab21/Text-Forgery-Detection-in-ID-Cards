@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\usa-NF-1044.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-NF-1044.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            661,
+            459,
+            1236,
+            513
+          ],
+          "original_text": "Jordantone Calle",
+          "translated_en": "Jordantone Calle",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            654,
+            523,
+            984,
+            578
+          ],
+          "original_text": "321 Alder St",
+          "translated_en": "321 Alder St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            656,
+            585,
+            1141,
+            629
+          ],
+          "original_text": "Portland OR 97201",
+          "translated_en": "Portland OR 97201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1496,
+            777,
+            1886,
+            820
+          ],
+          "original_text": "DOB : 18-06-36",
+          "translated_en": "DOB : 18-06-36",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1044_translated.jpg"
+}

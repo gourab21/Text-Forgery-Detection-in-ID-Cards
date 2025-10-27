@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_46826659491_bab820563f_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        662,
+        655,
+        2392,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Tariq Saeed",
+          "box": [
+            806,
+            740,
+            1456,
+            840
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        738,
+        1405,
+        1647,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "2004-12-05",
+          "box": [
+            828,
+            1478,
+            1411,
+            1553
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1790,
+        1706,
+        2642,
+        1895
+      ],
+      "lines": [
+        {
+          "text": "2014-12-05",
+          "box": [
+            1891,
+            1754,
+            2479,
+            1833
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+E1
+EN: Maxad
+
+E2
+EN: Shahbazi
+
+L1
+OR: جواد
+EN: Javad
+
+L2
+OR: شهبازی
+EN: Shahbazi
+
+E3
+EN: 07/04/1920
+
+E4
+EN: 18/11/2022
+
+E5
+EN: 17/04/2037

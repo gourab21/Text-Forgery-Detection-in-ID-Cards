@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_32771950686_f8d5084d87_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        999,
+        652,
+        1926,
+        974
+      ],
+      "lines": [
+        {
+          "text": "黄杰",
+          "box": [
+            1088,
+            708,
+            1261,
+            794
+          ]
+        },
+        {
+          "text": "Huang Jie",
+          "box": [
+            1091,
+            808,
+            1523,
+            906
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1948,
+        1085,
+        2700,
+        1283
+      ],
+      "lines": [
+        {
+          "text": "20 DEC 1998",
+          "box": [
+            2005,
+            1152,
+            2590,
+            1229
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1954,
+        1389,
+        2730,
+        1596
+      ],
+      "lines": [
+        {
+          "text": "15 MAR 2019",
+          "box": [
+            2020,
+            1454,
+            2602,
+            1534
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1036,
+        1723,
+        1809,
+        1940
+      ],
+      "lines": [
+        {
+          "text": "15 MAR 2039",
+          "box": [
+            1117,
+            1787,
+            1705,
+            1859
+          ]
+        }
+      ]
+    }
+  ]
+}

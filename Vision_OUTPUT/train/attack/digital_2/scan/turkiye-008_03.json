@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-008_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        593,
+        612,
+        1211,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Marah",
+          "box": [
+            654,
+            648,
+            815,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        447,
+        1212,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            660,
+            484,
+            836,
+            533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        591,
+        767,
+        1189,
+        884
+      ],
+      "lines": [
+        {
+          "text": "09.06.2019",
+          "box": [
+            653,
+            803,
+            951,
+            844
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        595,
+        1087,
+        1180,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "14.11.2021",
+          "box": [
+            647,
+            1117,
+            946,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_F_36921282312_c8e6a2674d_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        662,
+        655,
+        2392,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Nurul binti Azman",
+          "box": [
+            809,
+            747,
+            1802,
+            823
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        738,
+        1406,
+        1647,
+        1601
+      ],
+      "lines": [
+        {
+          "text": "1999-01-20",
+          "box": [
+            828,
+            1475,
+            1405,
+            1555
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1790,
+        1707,
+        2642,
+        1896
+      ],
+      "lines": [
+        {
+          "text": "2009-01-20",
+          "box": [
+            1883,
+            1757,
+            2476,
+            1836
+          ]
+        }
+      ]
+    }
+  ]
+}

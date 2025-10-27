@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\russian-01_0075_000-9bed189a_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\russian-01_0075_000-9bed189a_0.jpg",
+  "width": 1996,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            724,
+            260,
+            903,
+            304
+          ],
+          "original_text": "Попов /",
+          "translated_en": "Popov /"
+        },
+        {
+          "box": [
+            722,
+            315,
+            860,
+            357
+          ],
+          "original_text": "Popov",
+          "translated_en": "Popov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            720,
+            472,
+            1321,
+            524
+          ],
+          "original_text": "Владимир Александрович",
+          "translated_en": "Vladimir Alexandrovich"
+        },
+        {
+          "box": [
+            715,
+            518,
+            902,
+            556
+          ],
+          "original_text": "Nicoleir",
+          "translated_en": "Nicoleir"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            713,
+            677,
+            960,
+            712
+          ],
+          "original_text": "06.07.2098",
+          "translated_en": "06.07.2098"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            708,
+            952,
+            956,
+            987
+          ],
+          "original_text": "05.10.2023",
+          "translated_en": "05.10.2023"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            706,
+            1136,
+            954,
+            1174
+          ],
+          "original_text": "02.12.1993",
+          "translated_en": "02.12.1993"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-01_0075_000-9bed189a_0_translated_cleaned.jpg"
+}

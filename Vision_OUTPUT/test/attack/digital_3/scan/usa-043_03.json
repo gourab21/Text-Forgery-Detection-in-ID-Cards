@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-043_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        602,
+        426,
+        1234,
+        661
+      ],
+      "lines": [
+        {
+          "text": "Gregn Wright",
+          "box": [
+            651,
+            475,
+            1001,
+            524
+          ]
+        },
+        {
+          "text": "15 Cedar Ln",
+          "box": [
+            649,
+            531,
+            959,
+            574
+          ]
+        },
+        {
+          "text": "Salem OR 97301",
+          "box": [
+            650,
+            588,
+            1075,
+            633
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1450,
+        755,
+        1944,
+        856
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-1-1-17",
+          "box": [
+            1500,
+            763,
+            1892,
+            803
+          ]
+        }
+      ]
+    }
+  ]
+}

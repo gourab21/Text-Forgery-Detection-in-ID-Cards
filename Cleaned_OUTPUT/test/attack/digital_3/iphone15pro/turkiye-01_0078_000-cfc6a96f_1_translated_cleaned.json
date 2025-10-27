@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\turkiye-01_0078_000-cfc6a96f_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\turkiye-01_0078_000-cfc6a96f_1.jpg",
+  "width": 2820,
+  "height": 1793,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            935,
+            933,
+            1122,
+            1003
+          ],
+          "original_text": "Step",
+          "translated_en": "Step"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            920,
+            719,
+            1169,
+            771
+          ],
+          "original_text": "Yılmaz",
+          "translated_en": "Yılmaz"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            937,
+            1157,
+            1340,
+            1217
+          ],
+          "original_text": "17.04.1927",
+          "translated_en": "17.04.1927"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            947,
+            1604,
+            1346,
+            1663
+          ],
+          "original_text": "31.07.1994",
+          "translated_en": "31.07.1994"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-01_0078_000-cfc6a96f_1_translated_cleaned.jpg"
+}

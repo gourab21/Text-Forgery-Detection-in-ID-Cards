@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\persian-087_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\persian-087_03.jpg",
+  "width": 1993,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            763,
+            286,
+            888,
+            324
+          ],
+          "original_text": "Gabr",
+          "translated_en": "Gabr"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            764,
+            430,
+            957,
+            469
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1351,
+            294,
+            1437,
+            331
+          ],
+          "original_text": "سارا",
+          "translated_en": "Sara"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1343,
+            439,
+            1439,
+            484
+          ],
+          "original_text": "زارع",
+          "translated_en": "Farmer"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            758,
+            593,
+            1036,
+            636
+          ],
+          "original_text": "27/03/2014",
+          "translated_en": "27/03/2014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            750,
+            923,
+            1029,
+            963
+          ],
+          "original_text": "09/12/2024",
+          "translated_en": "09/12/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1334,
+            930,
+            1615,
+            973
+          ],
+          "original_text": "03/09/1994",
+          "translated_en": "03/09/1994"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-087_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\singapore-flickr_F_17178258920_6f5f1eedd0_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        413,
+        1498,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Elena Petrova",
+          "box": [
+            511,
+            464,
+            987,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        887,
+        1031,
+        1010
+      ],
+      "lines": [
+        {
+          "text": "1982-05-28",
+          "box": [
+            506,
+            919,
+            866,
+            968
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1077,
+        1656,
+        1196
+      ],
+      "lines": [
+        {
+          "text": "1992-05-28",
+          "box": [
+            1160,
+            1111,
+            1524,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

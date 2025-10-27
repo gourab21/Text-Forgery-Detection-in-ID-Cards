@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_9641749325_1a753f74b2_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        575,
+        574,
+        2080,
+        850
+      ],
+      "lines": [
+        {
+          "text": "Siti binti Ayan",
+          "box": [
+            710,
+            652,
+            1385,
+            725
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        642,
+        1232,
+        1431,
+        1402
+      ],
+      "lines": [
+        {
+          "text": "1981-06-27",
+          "box": [
+            733,
+            1284,
+            1236,
+            1352
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1556,
+        1496,
+        2296,
+        1661
+      ],
+      "lines": [
+        {
+          "text": "1991-06-27",
+          "box": [
+            1655,
+            1525,
+            2157,
+            1599
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\usa-NF-1046.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-NF-1046.jpg",
+  "width": 1992,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            647,
+            471,
+            991,
+            513
+          ],
+          "original_text": "Michael White",
+          "translated_en": "Michael White",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            645,
+            529,
+            1009,
+            570
+          ],
+          "original_text": "881 Willow Dr",
+          "translated_en": "881 Willow Dr",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            650,
+            583,
+            1173,
+            638
+          ],
+          "original_text": "Burlington VT 05401",
+          "translated_en": "Burlington VT 05401",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1496,
+            757,
+            1888,
+            799
+          ],
+          "original_text": "DOB : 01-12-99",
+          "translated_en": "DOB : 01-12-99",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1046_translated.jpg"
+}

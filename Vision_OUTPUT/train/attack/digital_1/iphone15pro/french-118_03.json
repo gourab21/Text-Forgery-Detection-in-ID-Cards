@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-118_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        835,
+        380,
+        1661,
+        513
+      ],
+      "lines": [
+        {
+          "text": "JACQUET",
+          "box": [
+            913,
+            431,
+            1214,
+            488
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        827,
+        628,
+        1759,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Isabelle , Hélène",
+          "box": [
+            922,
+            669,
+            1458,
+            736
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1948,
+        881,
+        2495,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "19 01 12027",
+          "box": [
+            2005,
+            886,
+            2410,
+            941
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1921,
+        1438,
+        2478,
+        1577
+      ],
+      "lines": [
+        {
+          "text": "05 11 1994",
+          "box": [
+            2012,
+            1438,
+            2414,
+            1489
+          ]
+        }
+      ]
+    }
+  ]
+}

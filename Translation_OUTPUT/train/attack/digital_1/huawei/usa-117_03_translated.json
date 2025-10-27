@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\usa-117_03.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\usa-117_03.jpg",
+  "width": 3199,
+  "height": 1973,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1038,
+            731,
+            1972,
+            811
+          ],
+          "original_text": "JylerDoe D",
+          "translated_en": "JylerDoe D",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1044,
+            820,
+            1853,
+            935
+          ],
+          "original_text": "1234 Elm St KATE",
+          "translated_en": "1234 Elm St KATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1036,
+            930,
+            1888,
+            1006
+          ],
+          "original_text": "Springfield IL 62704",
+          "translated_en": "Springfield IL 62704",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2398,
+            1235,
+            3041,
+            1308
+          ],
+          "original_text": "DOB : 01-15-12",
+          "translated_en": "DOB : 01-15-12",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-117_03_translated.jpg"
+}

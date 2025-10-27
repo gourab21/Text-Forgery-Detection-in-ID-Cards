@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-011_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        854,
+        612,
+        1751,
+        951
+      ],
+      "lines": [
+        {
+          "text": "Derek Krugr",
+          "box": [
+            921,
+            676,
+            1397,
+            740
+          ]
+        },
+        {
+          "text": "789 Willow Road",
+          "box": [
+            921,
+            749,
+            1528,
+            813
+          ]
+        },
+        {
+          "text": "Little Rock AR 72201",
+          "box": [
+            925,
+            830,
+            1675,
+            895
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2056,
+        1085,
+        2756,
+        1230
+      ],
+      "lines": [
+        {
+          "text": "DOB : 30-12-67",
+          "box": [
+            2118,
+            1087,
+            2674,
+            1139
+          ]
+        }
+      ]
+    }
+  ]
+}

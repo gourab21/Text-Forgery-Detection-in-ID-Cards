@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1022.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        881,
+        434,
+        2078,
+        688
+      ],
+      "lines": [
+        {
+          "text": "COSTA PEREIRA",
+          "box": [
+            966,
+            495,
+            1558,
+            557
+          ]
+        },
+        {
+          "text": "Marta",
+          "box": [
+            970,
+            590,
+            1178,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2345,
+        835,
+        2844,
+        976
+      ],
+      "lines": [
+        {
+          "text": "13 01 2002",
+          "box": [
+            2431,
+            836,
+            2840,
+            885
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1766,
+        1061,
+        2378,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "11 01 2027",
+          "box": [
+            1865,
+            1085,
+            2268,
+            1144
+          ]
+        }
+      ]
+    }
+  ]
+}

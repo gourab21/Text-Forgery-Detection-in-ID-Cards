@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\scan\\netherland-flickr_M_19475853574_c947539b18_c_translated.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\netherland-flickr_M_19475853574_c947539b18_c.jpg",
+  "width": 1993,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            693,
+            319,
+            998,
+            363
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER"
+        },
+        {
+          "box": [
+            690,
+            386,
+            1088,
+            429
+          ],
+          "original_text": "Noa Elisabeth",
+          "translated_en": "Noa Elisabeth"
+        },
+        {
+          "box": [
+            687,
+            450,
+            888,
+            502
+          ],
+          "original_text": "Sophie",
+          "translated_en": "Sophie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1563,
+            602,
+            1899,
+            651
+          ],
+          "original_text": "27 06 1972",
+          "translated_en": "27 06 1972"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1529,
+            776,
+            1898,
+            825
+          ],
+          "original_text": "07 04 2027",
+          "translated_en": "07 04 2027"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_19475853574_c947539b18_c_translated_cleaned.jpg"
+}

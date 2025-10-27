@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\netherland-flickr_M_6501027149_988313b64f_h_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\netherland-flickr_M_6501027149_988313b64f_h.jpg",
+  "width": 2773,
+  "height": 1739,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            937,
+            450,
+            1247,
+            512
+          ],
+          "original_text": "VISSER",
+          "translated_en": "VISSER"
+        },
+        {
+          "box": [
+            940,
+            535,
+            1553,
+            603
+          ],
+          "original_text": "Anouk Cornelis",
+          "translated_en": "Anouk Cornelis"
+        },
+        {
+          "box": [
+            945,
+            631,
+            1311,
+            695
+          ],
+          "original_text": "Gerardus",
+          "translated_en": "Gerardus"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2175,
+            811,
+            2634,
+            873
+          ],
+          "original_text": "11 11 1979",
+          "translated_en": "11 11 1979"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2133,
+            1051,
+            2640,
+            1119
+          ],
+          "original_text": "28 11 2028",
+          "translated_en": "28 11 2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_6501027149_988313b64f_h_translated_cleaned.jpg"
+}

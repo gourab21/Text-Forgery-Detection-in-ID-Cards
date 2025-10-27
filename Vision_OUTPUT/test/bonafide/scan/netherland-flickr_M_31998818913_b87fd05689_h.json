@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_31998818913_b87fd05689_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        290,
+        1277,
+        541
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            677,
+            324,
+            1037,
+            372
+          ]
+        },
+        {
+          "text": "Fleur Matthijs",
+          "box": [
+            682,
+            390,
+            1083,
+            441
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            680,
+            458,
+            997,
+            503
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1486,
+        560,
+        1967,
+        659
+      ],
+      "lines": [
+        {
+          "text": "07 11 2002",
+          "box": [
+            1564,
+            584,
+            1896,
+            635
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        731,
+        1961,
+        854
+      ],
+      "lines": [
+        {
+          "text": "31 03 2030",
+          "box": [
+            1536,
+            760,
+            1905,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1022.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        881,
+        434,
+        2078,
+        688
+      ],
+      "lines": [
+        {
+          "text": "OHIIMERRA",
+          "box": [
+            964,
+            500,
+            1581,
+            564
+          ]
+        },
+        {
+          "text": "Marta",
+          "box": [
+            969,
+            590,
+            1182,
+            639
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2345,
+        835,
+        2844,
+        976
+      ],
+      "lines": [
+        {
+          "text": "13 01 2002",
+          "box": [
+            2432,
+            836,
+            2840,
+            885
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1766,
+        1061,
+        2378,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "11 01 2002",
+          "box": [
+            1864,
+            1084,
+            2285,
+            1144
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\chinese-113_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1016,
+        625,
+        1760,
+        919
+      ],
+      "lines": [
+        {
+          "text": "周琳",
+          "box": [
+            1078,
+            685,
+            1239,
+            767
+          ]
+        },
+        {
+          "text": "ZSit Lin",
+          "box": [
+            1073,
+            774,
+            1456,
+            863
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1910,
+        1042,
+        2564,
+        1252
+      ],
+      "lines": [
+        {
+          "text": "04 Jan Battb",
+          "box": [
+            1968,
+            1140,
+            2484,
+            1202
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1881,
+        1343,
+        2601,
+        1546
+      ],
+      "lines": [
+        {
+          "text": "29 Sep 2010",
+          "box": [
+            1962,
+            1430,
+            2473,
+            1505
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        983,
+        1645,
+        1735,
+        1839
+      ],
+      "lines": [
+        {
+          "text": "26 Sep 2003",
+          "box": [
+            1058,
+            1719,
+            1588,
+            1789
+          ]
+        }
+      ]
+    }
+  ]
+}

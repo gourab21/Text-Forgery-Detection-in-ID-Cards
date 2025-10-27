@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NF-1083.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        451,
+        2218,
+        716
+      ],
+      "lines": [
+        {
+          "text": "FYNIADE COIVEKA",
+          "box": [
+            1041,
+            512,
+            1957,
+            596
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            1041,
+            608,
+            1194,
+            659
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2502,
+        870,
+        3035,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "31 07 2003",
+          "box": [
+            2600,
+            908,
+            3034,
+            964
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1884,
+        1104,
+        2537,
+        1277
+      ],
+      "lines": [
+        {
+          "text": "28 07 2009",
+          "box": [
+            1976,
+            1161,
+            2430,
+            1219
+          ]
+        }
+      ]
+    }
+  ]
+}

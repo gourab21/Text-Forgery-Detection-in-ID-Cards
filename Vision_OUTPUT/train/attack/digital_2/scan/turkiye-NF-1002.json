@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-NF-1002.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        594,
+        612,
+        1213,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Eam",
+          "box": [
+            653,
+            660,
+            759,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        448,
+        1213,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Soya",
+          "box": [
+            650,
+            449,
+            757,
+            477
+          ]
+        },
+        {
+          "text": "Tezcan",
+          "box": [
+            648,
+            505,
+            824,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        768,
+        1191,
+        885
+      ],
+      "lines": [
+        {
+          "text": "17.09.2043",
+          "box": [
+            657,
+            813,
+            955,
+            851
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        596,
+        1088,
+        1182,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "27.10.2030",
+          "box": [
+            663,
+            1125,
+            965,
+            1163
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\usa-NF-1065.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-NF-1065.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            659,
+            468,
+            960,
+            507
+          ],
+          "original_text": "Amardavera",
+          "translated_en": "Amardavera",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            655,
+            524,
+            1085,
+            568
+          ],
+          "original_text": "1325 Cedar Lane",
+          "translated_en": "1325 Cedar Lane",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            651,
+            582,
+            1131,
+            627
+          ],
+          "original_text": "Tacoma WA 98402",
+          "translated_en": "Tacoma WA 98402",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1493,
+            777,
+            1890,
+            821
+          ],
+          "original_text": "DOB : 14-01-08",
+          "translated_en": "DOB : 14-01-08",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1065_translated.jpg"
+}

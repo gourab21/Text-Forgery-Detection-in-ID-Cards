@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\chinese-NF-1050.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        395,
+        1103,
+        580
+      ],
+      "lines": [
+        {
+          "text": "黄静",
+          "box": [
+            688,
+            428,
+            788,
+            480
+          ]
+        },
+        {
+          "text": "Hustinjing",
+          "box": [
+            686,
+            484,
+            956,
+            543
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1198,
+        658,
+        1607,
+        791
+      ],
+      "lines": [
+        {
+          "text": "15 Jul 2015",
+          "box": [
+            1238,
+            716,
+            1548,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1179,
+        849,
+        1630,
+        976
+      ],
+      "lines": [
+        {
+          "text": "08 May 2017",
+          "box": [
+            1230,
+            897,
+            1562,
+            942
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1039,
+        1088,
+        1161
+      ],
+      "lines": [
+        {
+          "text": "06 May 1995",
+          "box": [
+            675,
+            1079,
+            1020,
+            1126
+          ]
+        }
+      ]
+    }
+  ]
+}

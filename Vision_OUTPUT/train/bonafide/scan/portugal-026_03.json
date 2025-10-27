@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-026_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES RIBEIRO",
+          "box": [
+            689,
+            339,
+            1246,
+            385
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            683,
+            399,
+            825,
+            444
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        574,
+        1993,
+        670
+      ],
+      "lines": [
+        {
+          "text": "01 09 1998",
+          "box": [
+            1702,
+            599,
+            1992,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        729,
+        1666,
+        844
+      ],
+      "lines": [
+        {
+          "text": "29 08 2008",
+          "box": [
+            1299,
+            768,
+            1582,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

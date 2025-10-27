@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            645,
+            302,
+            836,
+            337
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Vincent , Paul",
+          "box": [
+            645,
+            471,
+            963,
+            521
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1386,
+        616,
+        1775,
+        721
+      ],
+      "lines": [
+        {
+          "text": "15 01 1987",
+          "box": [
+            1427,
+            626,
+            1694,
+            661
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1367,
+        1005,
+        1764,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "28 02 2035",
+          "box": [
+            1432,
+            1010,
+            1696,
+            1047
+          ]
+        }
+      ]
+    }
+  ]
+}

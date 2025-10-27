@@ -1,0 +1,19 @@
+LE1
+EN: Panikovsky /
+OR: Паниковский /
+EN: Panikovsky
+
+LE2
+EN: Mikhail Samuelevich / B
+OR: Михаил Самуэлевич / Б
+EN: Ml sal
+OR: Мл сал
+
+E3
+EN: 04.05.2008
+
+E4
+EN: 25.03.2021
+
+E5
+EN: 24.03 . 2021

@@ -1,0 +1,19 @@
+LE1
+OR: Кузьменко /
+EN: Kuzmenko /
+EN: Kuzmenko
+
+LE2
+OR: Вікторія Сергіївна /
+EN: Victoria Sergiivna /
+OR: Vharonia
+EN: Varonia
+
+E3
+EN: 12.11.2016
+
+E4
+EN: 28.12.2015
+
+E5
+EN: 28.12.2010

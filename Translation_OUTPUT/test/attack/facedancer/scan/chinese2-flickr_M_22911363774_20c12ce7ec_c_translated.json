@@ -1,0 +1,95 @@
+{
+  "source_json": "test\\attack\\facedancer\\scan\\chinese2-flickr_M_22911363774_20c12ce7ec_c.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\chinese2-flickr_M_22911363774_20c12ce7ec_c.jpg",
+  "width": 1995,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            681,
+            428,
+            790,
+            473
+          ],
+          "original_text": "周 辉",
+          "translated_en": "Zhou Hui",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            683,
+            492,
+            933,
+            535
+          ],
+          "original_text": "Zhou Hui",
+          "translated_en": "Zhou Hui",
+          "detected_lang": "zh-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1246,
+            692,
+            1592,
+            739
+          ],
+          "original_text": "20 JAN 2001",
+          "translated_en": "20 JAN 2001",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1250,
+            874,
+            1591,
+            922
+          ],
+          "original_text": "05 JUL 2025",
+          "translated_en": "05 JUL 2025",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1649,
+            929,
+            1670,
+            962
+          ],
+          "original_text": "717",
+          "translated_en": "717",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            696,
+            1075,
+            1037,
+            1119
+          ],
+          "original_text": "05 JUL 2045",
+          "translated_en": "05 JUL 2045",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_22911363774_20c12ce7ec_c_translated.jpg"
+}

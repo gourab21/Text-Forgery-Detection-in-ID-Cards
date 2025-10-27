@@ -1,0 +1,22 @@
+E1
+EN: Angela
+
+E2
+EN: Ahmadi
+
+L1
+OR: الهه
+EN: Goddess
+
+L2
+OR: موسوی
+EN: Mousavi
+
+E3
+EN: 08/07/2087
+
+E4
+EN: 27/11/2024
+
+E5
+EN: 03/02/1911

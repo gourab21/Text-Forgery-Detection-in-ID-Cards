@@ -1,0 +1,121 @@
+{
+  "source_json": "train\\bonafide\\scan\\persian-010_03.json",
+  "image_relative": "train\\bonafide\\scan\\persian-010_03.jpg",
+  "width": 1992,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            772,
+            285,
+            951,
+            324
+          ],
+          "original_text": "Elaheh",
+          "translated_en": "Elaheh",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            764,
+            429,
+            972,
+            470
+          ],
+          "original_text": "Ahmadi",
+          "translated_en": "Ahmadi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1355,
+            290,
+            1427,
+            330
+          ],
+          "original_text": "الهه",
+          "translated_en": "Goddess",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1349,
+            451,
+            1498,
+            474
+          ],
+          "original_text": "موسوی",
+          "translated_en": "Mousavi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            766,
+            594,
+            1038,
+            633
+          ],
+          "original_text": "10/01/1981",
+          "translated_en": "10/01/1981",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            757,
+            922,
+            1032,
+            964
+          ],
+          "original_text": "27/11/2024",
+          "translated_en": "27/11/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1346,
+            928,
+            1618,
+            971
+          ],
+          "original_text": "11/06/2029",
+          "translated_en": "11/06/2029",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-010_03_translated.jpg"
+}

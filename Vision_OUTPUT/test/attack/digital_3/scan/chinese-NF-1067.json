@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-NF-1067.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        395,
+        1106,
+        580
+      ],
+      "lines": [
+        {
+          "text": "張梦奇",
+          "box": [
+            683,
+            431,
+            841,
+            480
+          ]
+        },
+        {
+          "text": "Marissengi",
+          "box": [
+            697,
+            481,
+            1047,
+            543
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1200,
+        658,
+        1610,
+        791
+      ],
+      "lines": [
+        {
+          "text": "16 Feb 2098",
+          "box": [
+            1245,
+            716,
+            1557,
+            756
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        849,
+        1634,
+        976
+      ],
+      "lines": [
+        {
+          "text": "26 Jul 2011",
+          "box": [
+            1235,
+            897,
+            1529,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1039,
+        1089,
+        1161
+      ],
+      "lines": [
+        {
+          "text": "07 Apr 201",
+          "box": [
+            671,
+            1081,
+            965,
+            1125
+          ]
+        }
+      ]
+    }
+  ]
+}

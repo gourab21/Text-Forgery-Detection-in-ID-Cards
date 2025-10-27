@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\usa-NF-1076.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-NF-1076.jpg",
+  "width": 3202,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1048,
+            716,
+            1963,
+            824
+          ],
+          "original_text": "Holycia Arderson $ 800",
+          "translated_en": "Holycia Arderson $ 800",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1041,
+            811,
+            1846,
+            935
+          ],
+          "original_text": "1543 Elm St RATE",
+          "translated_en": "1543 Elm St RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1039,
+            921,
+            1788,
+            991
+          ],
+          "original_text": "Phoenix AZ 85021",
+          "translated_en": "Phoenix AZ 85021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2399,
+            1228,
+            3035,
+            1305
+          ],
+          "original_text": "DOB : 08-07-62",
+          "translated_en": "DOB : 08-07-62",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1076_translated.jpg"
+}

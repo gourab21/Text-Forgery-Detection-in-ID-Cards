@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-01_0080_000-0c832328_1.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        602,
+        425,
+        1234,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Kleinam Brown",
+          "box": [
+            654,
+            466,
+            1025,
+            508
+          ]
+        },
+        {
+          "text": "3714 Maple Ave",
+          "box": [
+            650,
+            521,
+            1059,
+            574
+          ]
+        },
+        {
+          "text": "Dallas TX 75235",
+          "box": [
+            649,
+            582,
+            1063,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1449,
+        754,
+        1942,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 09-07-71",
+          "box": [
+            1491,
+            778,
+            1883,
+            828
+          ]
+        }
+      ]
+    }
+  ]
+}

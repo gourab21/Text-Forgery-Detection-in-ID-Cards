@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\singapore-flickr_F_19679296994_d0fc2a7ac6_o.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        662,
+        653,
+        2393,
+        968
+      ],
+      "lines": [
+        {
+          "text": "Jasmine dela Cruz",
+          "box": [
+            793,
+            743,
+            1801,
+            823
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        738,
+        1402,
+        1648,
+        1596
+      ],
+      "lines": [
+        {
+          "text": "1982-07-15",
+          "box": [
+            817,
+            1468,
+            1398,
+            1545
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1792,
+        1702,
+        2644,
+        1890
+      ],
+      "lines": [
+        {
+          "text": "1992-07-15",
+          "box": [
+            1878,
+            1750,
+            2464,
+            1829
+          ]
+        }
+      ]
+    }
+  ]
+}

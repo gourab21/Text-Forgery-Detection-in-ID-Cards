@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\portugal-026_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\portugal-026_03.jpg",
+  "width": 3195,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1098,
+            536,
+            1898,
+            599
+          ],
+          "original_text": "FRAAWNDESRINHEBO",
+          "translated_en": "FRAAWNDESRINHEBO"
+        },
+        {
+          "box": [
+            1088,
+            627,
+            1318,
+            700
+          ],
+          "original_text": "Tiago",
+          "translated_en": "Tiago"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2734,
+            946,
+            3194,
+            1012
+          ],
+          "original_text": "01 09 12031",
+          "translated_en": "01 09 12031"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2084,
+            1214,
+            2560,
+            1280
+          ],
+          "original_text": "29 08 2026",
+          "translated_en": "29 08 2026"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-026_03_translated_cleaned.jpg"
+}

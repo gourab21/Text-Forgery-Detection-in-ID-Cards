@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_30532886723_e55b04664f_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        412,
+        1498,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Jessicainti Azman",
+          "box": [
+            513,
+            451,
+            1147,
+            514
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        885,
+        1031,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "04-03-1217",
+          "box": [
+            507,
+            913,
+            868,
+            963
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1075,
+        1656,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "24-01-1158",
+          "box": [
+            1166,
+            1105,
+            1522,
+            1155
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\chinese-039_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\chinese-039_03.jpg",
+  "width": 2782,
+  "height": 1763,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            942,
+            611,
+            1083,
+            684
+          ],
+          "original_text": "李芳",
+          "translated_en": "Li Fang"
+        },
+        {
+          "box": [
+            938,
+            707,
+            1203,
+            754
+          ],
+          "original_text": "Barbara",
+          "translated_en": "Barbara"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1722,
+            991,
+            2158,
+            1051
+          ],
+          "original_text": "12 Jul 2082",
+          "translated_en": "12 Jul 2082"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1728,
+            1249,
+            2163,
+            1306
+          ],
+          "original_text": "08 Jan 2011",
+          "translated_en": "08 Jan 2011"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            957,
+            1528,
+            1395,
+            1598
+          ],
+          "original_text": "12 May 1912",
+          "translated_en": "12 May 1912"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-039_03_translated_cleaned.jpg"
+}

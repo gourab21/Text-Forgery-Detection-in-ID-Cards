@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-063_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        425,
+        1236,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Dustning",
+          "box": [
+            651,
+            466,
+            899,
+            511
+          ]
+        },
+        {
+          "text": "910 Apple Blvd",
+          "box": [
+            655,
+            525,
+            1035,
+            571
+          ]
+        },
+        {
+          "text": "Austin TX 78701",
+          "box": [
+            651,
+            582,
+            1071,
+            625
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1452,
+        754,
+        1946,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 07-11-07",
+          "box": [
+            1495,
+            775,
+            1885,
+            820
+          ]
+        }
+      ]
+    }
+  ]
+}

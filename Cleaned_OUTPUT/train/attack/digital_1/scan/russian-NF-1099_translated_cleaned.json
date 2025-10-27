@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\russian-NF-1099_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\russian-NF-1099.jpg",
+  "width": 1995,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            723,
+            263,
+            987,
+            309
+          ],
+          "original_text": "Федорова /",
+          "translated_en": "Fedorova /"
+        },
+        {
+          "box": [
+            723,
+            315,
+            927,
+            351
+          ],
+          "original_text": "Fedorova",
+          "translated_en": "Fedorova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            720,
+            470,
+            1240,
+            520
+          ],
+          "original_text": "Полина Геннадиевна /",
+          "translated_en": "Polina Gennadievna /"
+        },
+        {
+          "box": [
+            717,
+            518,
+            1167,
+            566
+          ],
+          "original_text": "Pathielsenastiern",
+          "translated_en": "Pathielsenastiern"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            715,
+            677,
+            979,
+            712
+          ],
+          "original_text": "22.05.:2005",
+          "translated_en": "22.05.:2005"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            709,
+            955,
+            956,
+            988
+          ],
+          "original_text": "13.09.2014",
+          "translated_en": "13.09.2014"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            705,
+            1138,
+            966,
+            1174
+          ],
+          "original_text": "10.09.2032",
+          "translated_en": "10.09.2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1099_translated_cleaned.jpg"
+}

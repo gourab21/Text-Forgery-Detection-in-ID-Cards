@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        816,
+        385,
+        1925,
+        611
+      ],
+      "lines": [
+        {
+          "text": "CEBORAHIBEIRO",
+          "box": [
+            907,
+            439,
+            1441,
+            492
+          ]
+        },
+        {
+          "text": "João Carlos",
+          "box": [
+            901,
+            517,
+            1293,
+            566
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2172,
+        743,
+        2634,
+        867
+      ],
+      "lines": [
+        {
+          "text": "22 05 2035",
+          "box": [
+            2245,
+            770,
+            2629,
+            828
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1636,
+        943,
+        2202,
+        1091
+      ],
+      "lines": [
+        {
+          "text": "15 07 1997",
+          "box": [
+            1714,
+            988,
+            2098,
+            1038
+          ]
+        }
+      ]
+    }
+  ]
+}

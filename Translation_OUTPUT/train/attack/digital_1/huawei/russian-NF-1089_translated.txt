@@ -1,0 +1,18 @@
+LE1
+OR: Федорова /
+EN: Fedorova /
+EN: Fedorova
+
+LE2
+OR: Светлана Ивановна /
+EN: Svetlana Ivanovna /
+EN: Sryllana
+
+E3
+EN: 16.05.1996
+
+E4
+EN: 26.02.2022
+
+E5
+EN: 24.02.2005

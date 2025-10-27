@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-026_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        989,
+        471,
+        2335,
+        747
+      ],
+      "lines": [
+        {
+          "text": "ANDREWDES RIBEIRO",
+          "box": [
+            1096,
+            538,
+            1989,
+            608
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            1087,
+            629,
+            1318,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2634,
+        906,
+        3195,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "26 10 1910",
+          "box": [
+            2723,
+            948,
+            3121,
+            1009
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1983,
+        1151,
+        2671,
+        1333
+      ],
+      "lines": [
+        {
+          "text": "19 02 1948",
+          "box": [
+            2082,
+            1213,
+            2538,
+            1279
+          ]
+        }
+      ]
+    }
+  ]
+}

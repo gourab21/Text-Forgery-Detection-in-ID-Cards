@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\chinese-NF-1072_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\chinese-NF-1072.jpg",
+  "width": 3192,
+  "height": 1966,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1085,
+            681,
+            1254,
+            751
+          ],
+          "original_text": "吴 情",
+          "translated_en": "Wu Qing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1984,
+            1131,
+            2498,
+            1200
+          ],
+          "original_text": "11 Sep 1988",
+          "translated_en": "11 Sep 1988"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1971,
+            1415,
+            2473,
+            1491
+          ],
+          "original_text": "17 Apr 2016",
+          "translated_en": "17 Apr 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1074,
+            1707,
+            1572,
+            1781
+          ],
+          "original_text": "22 Sep 2086",
+          "translated_en": "22 Sep 2086"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1072_translated_cleaned.jpg"
+}

@@ -1,0 +1,13 @@
+LE1
+OR: 吴静
+EN: Wu Jing
+EN: Wu Jing
+
+E2
+EN: 01 MAR 1971
+
+E3
+EN: 10 NOV 1991
+
+E4
+EN: 10 NOV 2011

@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\attack\\digital_2\\scan\\portugal-NF-1066.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\portugal-NF-1066.jpg",
+  "width": 1995,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            679,
+            338,
+            1218,
+            392
+          ],
+          "original_text": "ON MMRTIS",
+          "translated_en": "ON MMRTIS",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            682,
+            395,
+            977,
+            437
+          ],
+          "original_text": "Sofia Joana",
+          "translated_en": "Sofia Joana",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1702,
+            601,
+            1991,
+            642
+          ],
+          "original_text": "29 04 1992",
+          "translated_en": "29 04 1992",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1296,
+            766,
+            1598,
+            808
+          ],
+          "original_text": "12 10 2036",
+          "translated_en": "12 10 2036",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1066_translated.jpg"
+}

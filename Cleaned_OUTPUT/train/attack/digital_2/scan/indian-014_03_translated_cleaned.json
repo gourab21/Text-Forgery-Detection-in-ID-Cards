@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\indian-014_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\indian-014_03.jpg",
+  "width": 1997,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            695,
+            467,
+            830,
+            502
+          ],
+          "original_text": "BOSE",
+          "translated_en": "BOSE"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            692,
+            619,
+            1067,
+            665
+          ],
+          "original_text": "PEBORAHEERA",
+          "translated_en": "PEBORAHEERA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            687,
+            776,
+            1025,
+            827
+          ],
+          "original_text": "08/08/203",
+          "translated_en": "08/08/203"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            682,
+            1074,
+            997,
+            1118
+          ],
+          "original_text": "17/09/2006",
+          "translated_en": "17/09/2006"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1405,
+            1080,
+            1732,
+            1127
+          ],
+          "original_text": "17/09/2032",
+          "translated_en": "17/09/2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-014_03_translated_cleaned.jpg"
+}

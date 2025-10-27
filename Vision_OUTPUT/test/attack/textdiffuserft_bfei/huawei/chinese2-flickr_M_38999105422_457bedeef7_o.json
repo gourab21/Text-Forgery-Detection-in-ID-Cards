@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_38999105422_457bedeef7_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1000,
+        652,
+        1928,
+        974
+      ],
+      "lines": [
+        {
+          "text": "张强",
+          "box": [
+            1083,
+            709,
+            1257,
+            786
+          ]
+        },
+        {
+          "text": "Patriciang",
+          "box": [
+            1095,
+            804,
+            1645,
+            897
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1950,
+        1085,
+        2702,
+        1283
+      ],
+      "lines": [
+        {
+          "text": "18 Sep 1903",
+          "box": [
+            2002,
+            1156,
+            2572,
+            1239
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1956,
+        1390,
+        2732,
+        1597
+      ],
+      "lines": [
+        {
+          "text": "20 Jul 1971",
+          "box": [
+            2014,
+            1453,
+            2562,
+            1533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1037,
+        1724,
+        1810,
+        1941
+      ],
+      "lines": [
+        {
+          "text": "# 31 May 2057",
+          "box": [
+            1037,
+            1785,
+            1667,
+            1866
+          ]
+        }
+      ]
+    }
+  ]
+}

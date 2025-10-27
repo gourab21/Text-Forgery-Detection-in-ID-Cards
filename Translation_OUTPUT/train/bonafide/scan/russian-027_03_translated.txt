@@ -1,0 +1,18 @@
+LE1
+OR: Соколова /
+EN: Sokolova /
+EN: Sokolova
+
+LE2
+OR: Мария Алексеевна /
+EN: Maria Alekseevna /
+EN: Maria
+
+E3
+EN: 12.01.1987
+
+E4
+EN: 15.08.2020
+
+E5
+EN: 13.08.2030

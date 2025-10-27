@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\indian-01_0087_000-7edaffe9_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\indian-01_0087_000-7edaffe9_0.jpg",
+  "width": 1991,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            696,
+            463,
+            871,
+            502
+          ],
+          "original_text": "GUPTA",
+          "translated_en": "GUPTA"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            694,
+            615,
+            1118,
+            660
+          ],
+          "original_text": "JORDAN HIMANI",
+          "translated_en": "JORDAN HIMANI"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            696,
+            778,
+            1002,
+            822
+          ],
+          "original_text": "10/12/1989",
+          "translated_en": "10/12/1989"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            686,
+            1073,
+            1002,
+            1119
+          ],
+          "original_text": "28/12/2010",
+          "translated_en": "28/12/2010"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1406,
+            1079,
+            1721,
+            1126
+          ],
+          "original_text": "07/03/2062",
+          "translated_en": "07/03/2062"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-01_0087_000-7edaffe9_0_translated_cleaned.jpg"
+}

@@ -1,0 +1,12 @@
+E2
+EN: Bames
+
+E1
+EN: Soy
+EN: Balcı
+
+E3
+EN: 14.07.2014
+
+E4
+EN: 20.01.2036

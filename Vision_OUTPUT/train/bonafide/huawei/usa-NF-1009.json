@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-NF-1009.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        674,
+        1987,
+        1048
+      ],
+      "lines": [
+        {
+          "text": "Jane Roe",
+          "box": [
+            1043,
+            745,
+            1422,
+            807
+          ]
+        },
+        {
+          "text": "5678 Maple Dr",
+          "box": [
+            1046,
+            835,
+            1648,
+            915
+          ]
+        },
+        {
+          "text": "Rochester NY 14623",
+          "box": [
+            1043,
+            931,
+            1891,
+            999
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2332,
+        1194,
+        3128,
+        1355
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-22-92",
+          "box": [
+            2407,
+            1234,
+            3038,
+            1308
+          ]
+        }
+      ]
+    }
+  ]
+}

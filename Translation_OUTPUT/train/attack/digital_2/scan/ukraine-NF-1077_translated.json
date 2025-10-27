@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_2\\scan\\ukraine-NF-1077.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\ukraine-NF-1077.jpg",
+  "width": 1989,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            647,
+            289,
+            921,
+            339
+          ],
+          "original_text": "Ткаченко /",
+          "translated_en": "Tkachenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            648,
+            349,
+            905,
+            387
+          ],
+          "original_text": "Tkachenko",
+          "translated_en": "Tkachenko",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            646,
+            478,
+            1183,
+            528
+          ],
+          "original_text": "Олександра Михайлів",
+          "translated_en": "Oleksandra Mykhailiv",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            642,
+            529,
+            931,
+            586
+          ],
+          "original_text": "Ociadra",
+          "translated_en": "Ociadra",
+          "detected_lang": "pt"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            644,
+            679,
+            924,
+            715
+          ],
+          "original_text": "14.04.2042",
+          "translated_en": "14.04.2042",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            638,
+            954,
+            904,
+            994
+          ],
+          "original_text": "29.06.2017",
+          "translated_en": "29.06.2017",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            632,
+            1145,
+            913,
+            1198
+          ],
+          "original_text": "29.06.2017",
+          "translated_en": "29.06.2017",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1077_translated.jpg"
+}

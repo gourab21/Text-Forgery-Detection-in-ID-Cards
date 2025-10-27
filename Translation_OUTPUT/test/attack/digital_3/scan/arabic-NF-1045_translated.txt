@@ -1,0 +1,27 @@
+E1
+EN: Brett Al - houry
+
+L1
+OR: الخوري رانيا
+EN: Father Rania
+
+E2
+EN: 24 Aug 1909
+
+E3
+EN: 28 May 2023
+
+E4
+EN: 31 Feb 1944
+
+L2
+OR: ١٥ / يناير / ۱۹۸۳
+EN: January 15, 1983
+
+L3
+OR: ۲۸ / مايو ٢٠٢٣
+EN: May 28, 2023
+
+L4
+OR: ۱۱ / سبتمبر / ۲۰۲۸
+EN: September 11, 2028

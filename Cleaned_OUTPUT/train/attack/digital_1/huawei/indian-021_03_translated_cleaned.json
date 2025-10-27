@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\indian-021_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\indian-021_03.jpg",
+  "width": 3215,
+  "height": 1978,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1122,
+            730,
+            1395,
+            795
+          ],
+          "original_text": "SINGH",
+          "translated_en": "SINGH"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1115,
+            979,
+            1683,
+            1037
+          ],
+          "original_text": "V MINICITINE",
+          "translated_en": "V MINICITINE"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1115,
+            1233,
+            1628,
+            1308
+          ],
+          "original_text": "22/11/2009",
+          "translated_en": "22/11/2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1105,
+            1707,
+            1612,
+            1778
+          ],
+          "original_text": "22/10/2021",
+          "translated_en": "22/10/2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2275,
+            1723,
+            2787,
+            1792
+          ],
+          "original_text": "20/10/2032",
+          "translated_en": "20/10/2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-021_03_translated_cleaned.jpg"
+}

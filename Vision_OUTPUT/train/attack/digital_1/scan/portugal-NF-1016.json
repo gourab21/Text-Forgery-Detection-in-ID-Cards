@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1454,
+        475
+      ],
+      "lines": [
+        {
+          "text": "SCHELEMEIRELES",
+          "box": [
+            675,
+            344,
+            1216,
+            390
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            675,
+            406,
+            934,
+            444
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1641,
+        576,
+        1990,
+        673
+      ],
+      "lines": [
+        {
+          "text": "06 08 1998",
+          "box": [
+            1702,
+            579,
+            1989,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1235,
+        731,
+        1663,
+        846
+      ],
+      "lines": [
+        {
+          "text": "28 03 2015",
+          "box": [
+            1307,
+            753,
+            1603,
+            800
+          ]
+        }
+      ]
+    }
+  ]
+}

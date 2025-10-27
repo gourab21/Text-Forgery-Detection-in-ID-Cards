@@ -1,0 +1,22 @@
+E1
+EN: Jmyad
+
+E2
+EN: Shahbazi
+
+L1
+EN: Javad
+OR: جواد
+
+L2
+EN: Shahbazi
+OR: شهبازی
+
+E3
+EN: 18/11/2010
+
+E4
+EN: 18/11/2022
+
+E5
+EN: 18/11/12039

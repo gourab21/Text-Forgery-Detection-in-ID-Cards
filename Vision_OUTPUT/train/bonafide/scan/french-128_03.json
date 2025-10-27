@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-128_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        266,
+        1180,
+        359
+      ],
+      "lines": [
+        {
+          "text": "LEROY",
+          "box": [
+            658,
+            296,
+            812,
+            330
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Antoine , Michel",
+          "box": [
+            648,
+            467,
+            1014,
+            513
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1384,
+        615,
+        1773,
+        720
+      ],
+      "lines": [
+        {
+          "text": "02 03 1989",
+          "box": [
+            1420,
+            640,
+            1689,
+            678
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1365,
+        1004,
+        1761,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "18 08 2030",
+          "box": [
+            1412,
+            1026,
+            1679,
+            1064
+          ]
+        }
+      ]
+    }
+  ]
+}

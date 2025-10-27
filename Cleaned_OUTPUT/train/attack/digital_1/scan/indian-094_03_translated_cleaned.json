@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\indian-094_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\indian-094_03.jpg",
+  "width": 1992,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            471,
+            802,
+            505
+          ],
+          "original_text": "ROY",
+          "translated_en": "ROY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            695,
+            621,
+            1029,
+            661
+          ],
+          "original_text": "MACHAYYITA",
+          "translated_en": "MACHAYYITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            699,
+            781,
+            1019,
+            827
+          ],
+          "original_text": "23/03/1991",
+          "translated_en": "23/03/1991"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            704,
+            1074,
+            1020,
+            1122
+          ],
+          "original_text": "08/02/2020",
+          "translated_en": "08/02/2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1423,
+            1064,
+            1743,
+            1112
+          ],
+          "original_text": "05/02/1992",
+          "translated_en": "05/02/1992"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-094_03_translated_cleaned.jpg"
+}

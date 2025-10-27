@@ -1,0 +1,16 @@
+LE1
+EN: Popova /
+OR: Попова /
+EN: Popova
+
+LE2
+EN: Aanatsia taoinirorra
+
+E3
+EN: 19.01.2031
+
+E4
+EN: 23.05.2018
+
+E5
+EN: 20.05.1995

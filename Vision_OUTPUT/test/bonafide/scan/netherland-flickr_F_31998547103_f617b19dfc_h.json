@@ -1,0 +1,102 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_F_31998547103_f617b19dfc_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        288,
+        1277,
+        538
+      ],
+      "lines": [
+        {
+          "text": "HENDRIKS",
+          "box": [
+            692,
+            319,
+            1001,
+            365
+          ]
+        },
+        {
+          "text": "Sjoerd Henrike",
+          "box": [
+            688,
+            379,
+            1122,
+            436
+          ]
+        },
+        {
+          "text": "Elisabeth",
+          "box": [
+            690,
+            449,
+            947,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1486,
+        557,
+        1967,
+        655
+      ],
+      "lines": [
+        {
+          "text": "ATE OF BIRTH",
+          "box": [
+            1683,
+            557,
+            1917,
+            583
+          ]
+        },
+        {
+          "text": "21 02 1972",
+          "box": [
+            1560,
+            604,
+            1896,
+            648
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        728,
+        1961,
+        850
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD / CARD EXPIRY",
+          "box": [
+            1461,
+            728,
+            1911,
+            759
+          ]
+        },
+        {
+          "text": "29 11 2032",
+          "box": [
+            1529,
+            777,
+            1895,
+            821
+          ]
+        }
+      ]
+    }
+  ]
+}

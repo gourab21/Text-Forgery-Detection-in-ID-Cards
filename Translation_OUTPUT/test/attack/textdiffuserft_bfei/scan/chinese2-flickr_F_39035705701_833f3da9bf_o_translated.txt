@@ -1,0 +1,15 @@
+LE1
+OR: 周敏
+EN: Zhou Min
+EN: Merdith
+
+E2
+EN: 27 Dec 1969
+
+E3
+EN: 13 Nov 1916
+EN: ano 100
+
+E4
+EN: 25 Jan 2031
+EN: ON

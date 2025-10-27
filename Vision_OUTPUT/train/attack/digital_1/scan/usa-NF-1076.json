@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\usa-NF-1076.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        427,
+        1236,
+        662
+      ],
+      "lines": [
+        {
+          "text": "AtthmyȧAmsytan",
+          "box": [
+            654,
+            460,
+            1119,
+            521
+          ]
+        },
+        {
+          "text": "1543 Elm St",
+          "box": [
+            655,
+            525,
+            967,
+            569
+          ]
+        },
+        {
+          "text": "Phoenix AZ 85021",
+          "box": [
+            654,
+            586,
+            1120,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1452,
+        756,
+        1946,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 11-12-91",
+          "box": [
+            1497,
+            777,
+            1893,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

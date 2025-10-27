@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-01_0038_000-0ee87df5_0.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        979,
+        686,
+        2008,
+        1066
+      ],
+      "lines": [
+        {
+          "text": "Danied Johnson",
+          "box": [
+            1066,
+            761,
+            1723,
+            825
+          ]
+        },
+        {
+          "text": "3927 Oak Avenue",
+          "box": [
+            1050,
+            846,
+            1780,
+            919
+          ]
+        },
+        {
+          "text": "Pleasantville NY 11803",
+          "box": [
+            1049,
+            948,
+            2007,
+            1014
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2357,
+        1216,
+        3160,
+        1380
+      ],
+      "lines": [
+        {
+          "text": "DOB : 22-05-70",
+          "box": [
+            2424,
+            1253,
+            3071,
+            1326
+          ]
+        }
+      ]
+    }
+  ]
+}

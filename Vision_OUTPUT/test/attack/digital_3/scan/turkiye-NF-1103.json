@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-NF-1103.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        613,
+        1216,
+        732
+      ],
+      "lines": [
+        {
+          "text": "Kinb",
+          "box": [
+            645,
+            651,
+            757,
+            691
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        448,
+        1216,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Durmaz",
+          "box": [
+            653,
+            495,
+            855,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        769,
+        1193,
+        886
+      ],
+      "lines": [
+        {
+          "text": "18.05.1901",
+          "box": [
+            648,
+            803,
+            938,
+            842
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1089,
+        1185,
+        1214
+      ],
+      "lines": [
+        {
+          "text": "28.04.2039",
+          "box": [
+            641,
+            1120,
+            926,
+            1162
+          ]
+        }
+      ]
+    }
+  ]
+}

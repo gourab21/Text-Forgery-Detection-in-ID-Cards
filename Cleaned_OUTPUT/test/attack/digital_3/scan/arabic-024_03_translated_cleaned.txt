@@ -1,0 +1,27 @@
+E1
+EN: Patriciayam
+
+L1
+EN: Omar Khayyam
+OR: خیام عمر
+
+E2
+EN: 28 May 2036
+
+E3
+EN: 18 Apr 2024
+
+E4
+EN: 30 Apr 199
+
+L2
+EN: October 9, 1990
+OR: ٠٩ / أكتوبر / ١٩٩٠
+
+L3
+EN: April 18, 2024
+OR: ١٨ / أبريل / ٢٠٢٤
+
+L4
+EN: April 18, 2034
+OR: ١٨ / أبريل / ٢٠٣٤

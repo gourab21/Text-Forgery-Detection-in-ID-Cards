@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        431,
+        2077,
+        683
+      ],
+      "lines": [
+        {
+          "text": "ALEXOSA FEREIRA",
+          "box": [
+            980,
+            496,
+            1723,
+            565
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            974,
+            582,
+            1481,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2343,
+        830,
+        2842,
+        970
+      ],
+      "lines": [
+        {
+          "text": "21 11 2067",
+          "box": [
+            2414,
+            830,
+            2773,
+            886
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1765,
+        1054,
+        2376,
+        1220
+      ],
+      "lines": [
+        {
+          "text": "17 10 1915",
+          "box": [
+            1866,
+            1084,
+            2268,
+            1145
+          ]
+        }
+      ]
+    }
+  ]
+}

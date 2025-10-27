@@ -1,0 +1,18 @@
+LE1
+EN: Shevchenko /
+OR: Шевченко /
+EN: Shevchenko
+
+LE2
+EN: Iryna Olegivna /
+OR: Ірина Олегівна /
+EN: Thona
+
+E3
+EN: 23.11.1959
+
+E4
+EN: 04.08.2020
+
+E5
+EN: 06.03.2047

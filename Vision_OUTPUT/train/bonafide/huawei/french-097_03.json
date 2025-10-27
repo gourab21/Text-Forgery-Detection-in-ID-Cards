@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-097_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        960,
+        427,
+        1912,
+        575
+      ],
+      "lines": [
+        {
+          "text": "FONTAINE",
+          "box": [
+            1062,
+            475,
+            1464,
+            532
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        952,
+        703,
+        2024,
+        881
+      ],
+      "lines": [
+        {
+          "text": "Anaïs , Laura",
+          "box": [
+            1049,
+            751,
+            1521,
+            818
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2241,
+        986,
+        2872,
+        1156
+      ],
+      "lines": [
+        {
+          "text": "07 07 1987",
+          "box": [
+            2300,
+            1020,
+            2735,
+            1082
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2211,
+        1609,
+        2853,
+        1765
+      ],
+      "lines": [
+        {
+          "text": "25 03 2030",
+          "box": [
+            2285,
+            1643,
+            2722,
+            1701
+          ]
+        }
+      ]
+    }
+  ]
+}

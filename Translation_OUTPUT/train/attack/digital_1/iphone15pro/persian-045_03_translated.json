@@ -1,0 +1,132 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\persian-045_03.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\persian-045_03.jpg",
+  "width": 2795,
+  "height": 1783,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1093,
+            346,
+            1244,
+            378
+          ],
+          "original_text": "Name",
+          "translated_en": "Name",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1069,
+            407,
+            1331,
+            468
+          ],
+          "original_text": "Fichell",
+          "translated_en": "Fichell",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1073,
+            614,
+            1341,
+            667
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1882,
+            389,
+            2025,
+            457
+          ],
+          "original_text": "فرهاد",
+          "translated_en": "Farhad",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1884,
+            622,
+            2065,
+            671
+          ],
+          "original_text": "رحيمي",
+          "translated_en": "Rahimi",
+          "detected_lang": "ps"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1077,
+            845,
+            1469,
+            903
+          ],
+          "original_text": "21/04/2012",
+          "translated_en": "21/04/2012",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1087,
+            1307,
+            1475,
+            1368
+          ],
+          "original_text": "21/02/2024",
+          "translated_en": "21/02/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1902,
+            1301,
+            2297,
+            1357
+          ],
+          "original_text": "06/05/2019",
+          "translated_en": "06/05/2019",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-045_03_translated.jpg"
+}

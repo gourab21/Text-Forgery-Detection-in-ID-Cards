@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\russian-027_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\russian-027_03.jpg",
+  "width": 1995,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            729,
+            258,
+            983,
+            308
+          ],
+          "original_text": "Соколова /",
+          "translated_en": "Sokolova /"
+        },
+        {
+          "box": [
+            728,
+            315,
+            926,
+            347
+          ],
+          "original_text": "Sokolova",
+          "translated_en": "Sokolova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            726,
+            466,
+            1187,
+            518
+          ],
+          "original_text": "Мария Алексеевна /",
+          "translated_en": "Maria Alekseevna /"
+        },
+        {
+          "box": [
+            726,
+            524,
+            845,
+            561
+          ],
+          "original_text": "Misty",
+          "translated_en": "Misty"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            723,
+            676,
+            968,
+            712
+          ],
+          "original_text": "12.03.2031",
+          "translated_en": "12.03.2031"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            718,
+            952,
+            963,
+            986
+          ],
+          "original_text": "15.08.2020",
+          "translated_en": "15.08.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            714,
+            1137,
+            957,
+            1172
+          ],
+          "original_text": "13.01.1934",
+          "translated_en": "13.01.1934"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-027_03_translated_cleaned.jpg"
+}

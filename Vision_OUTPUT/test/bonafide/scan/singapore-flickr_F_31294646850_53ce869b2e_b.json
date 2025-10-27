@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_F_31294646850_53ce869b2e_b.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        413,
+        1497,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Siti binti Hassan",
+          "box": [
+            501,
+            469,
+            1061,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        462,
+        887,
+        1029,
+        1010
+      ],
+      "lines": [
+        {
+          "text": "1981-02-28",
+          "box": [
+            519,
+            926,
+            878,
+            977
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1120,
+        1077,
+        1653,
+        1196
+      ],
+      "lines": [
+        {
+          "text": "1991-02-28",
+          "box": [
+            1179,
+            1099,
+            1540,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

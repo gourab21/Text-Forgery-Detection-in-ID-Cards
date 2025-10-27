@@ -1,0 +1,27 @@
+E1
+EN: Yesey Mubok
+
+L1
+OR: مبارك يوسف
+EN: Mubarak Youssef
+
+E2
+EN: 03 Dec 197
+
+E3
+EN: 25 May 2023
+
+E4
+EN: 25 May 2003
+
+L2
+OR: ٣ / ديسمبر / ١٩٨٥
+EN: December 3, 1985
+
+L3
+OR: ٢٥ / مايو / ٢٠٢٣
+EN: May 25, 2023
+
+L4
+OR: ٢٥ / مايو / ۲۰۳۳
+EN: May 25, 2033

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        420,
+        1892,
+        566
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            1052,
+            462,
+            1357,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        693,
+        2004,
+        869
+      ],
+      "lines": [
+        {
+          "text": "Vincent , Paul",
+          "box": [
+            1040,
+            736,
+            1547,
+            805
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2218,
+        971,
+        2843,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "15 01 1987",
+          "box": [
+            2289,
+            1008,
+            2715,
+            1073
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2189,
+        1585,
+        2823,
+        1739
+      ],
+      "lines": [
+        {
+          "text": "28 02 2035",
+          "box": [
+            2270,
+            1625,
+            2696,
+            1684
+          ]
+        }
+      ]
+    }
+  ]
+}

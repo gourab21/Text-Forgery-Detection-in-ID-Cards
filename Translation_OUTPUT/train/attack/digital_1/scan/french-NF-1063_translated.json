@@ -1,0 +1,73 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\french-NF-1063.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\french-NF-1063.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            649,
+            299,
+            849,
+            336
+          ],
+          "original_text": "DUPONT",
+          "translated_en": "DUPONT",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            648,
+            463,
+            1000,
+            519
+          ],
+          "original_text": "Amélie , Solène",
+          "translated_en": "Amélie , Solène",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1424,
+            620,
+            1722,
+            662
+          ],
+          "original_text": "09 05 12010",
+          "translated_en": "09 05 12010",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1435,
+            1007,
+            1718,
+            1044
+          ],
+          "original_text": "14 03 2028",
+          "translated_en": "14 03 2028",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-NF-1063_translated.jpg"
+}

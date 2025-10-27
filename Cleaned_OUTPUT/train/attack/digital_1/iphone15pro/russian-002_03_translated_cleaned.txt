@@ -1,0 +1,19 @@
+LE1
+EN: Vasilyeva /
+OR: Васильева /
+EN: Vasilleva
+
+LE2
+EN: Lyudmila Anatolyevna / V
+OR: Людмила Анатольевна / В
+EN: LarrailiaAnt &amp; atllal
+OR: LarrailiaAnt & atllal
+
+E3
+EN: 28.08.:2015
+
+E4
+EN: 20.08.2015
+
+E5
+EN: 17.08.1991

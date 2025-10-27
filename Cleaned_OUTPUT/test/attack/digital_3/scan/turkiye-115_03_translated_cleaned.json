@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\turkiye-115_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\turkiye-115_03.jpg",
+  "width": 1998,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            661,
+            653,
+            776,
+            692
+          ],
+          "original_text": "Lisa",
+          "translated_en": "Lisa"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            654,
+            447,
+            735,
+            473
+          ],
+          "original_text": "Soy",
+          "translated_en": "Soy"
+        },
+        {
+          "box": [
+            655,
+            503,
+            767,
+            545
+          ],
+          "original_text": "Kılıç",
+          "translated_en": "Kılıç"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            663,
+            806,
+            954,
+            850
+          ],
+          "original_text": "17.10.2032",
+          "translated_en": "17.10.2032"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            667,
+            1123,
+            961,
+            1163
+          ],
+          "original_text": "02.02.1956",
+          "translated_en": "02.02.1956"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-115_03_translated_cleaned.jpg"
+}

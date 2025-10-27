@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\netherland-flickr_F_20301931855_4cd18f8166_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        864,
+        401,
+        1773,
+        747
+      ],
+      "lines": [
+        {
+          "text": "VERMEULEN",
+          "box": [
+            939,
+            444,
+            1429,
+            509
+          ]
+        },
+        {
+          "text": "Thijs Petra",
+          "box": [
+            939,
+            527,
+            1366,
+            610
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            949,
+            635,
+            1147,
+            691
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2061,
+        774,
+        2730,
+        912
+      ],
+      "lines": [
+        {
+          "text": "10 09 1995",
+          "box": [
+            2172,
+            804,
+            2628,
+            873
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2026,
+        1011,
+        2720,
+        1181
+      ],
+      "lines": [
+        {
+          "text": "02 01 2028",
+          "box": [
+            2128,
+            1045,
+            2635,
+            1115
+          ]
+        }
+      ]
+    }
+  ]
+}

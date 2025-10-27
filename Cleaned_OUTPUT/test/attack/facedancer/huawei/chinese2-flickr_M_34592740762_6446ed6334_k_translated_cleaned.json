@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\chinese2-flickr_M_34592740762_6446ed6334_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_34592740762_6446ed6334_k.jpg",
+  "width": 3217,
+  "height": 2054,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1095,
+            706,
+            1258,
+            786
+          ],
+          "original_text": "朱明",
+          "translated_en": "Zhu Ming"
+        },
+        {
+          "box": [
+            1096,
+            809,
+            1503,
+            894
+          ],
+          "original_text": "Zhu Ming",
+          "translated_en": "Zhu Ming"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2017,
+            1145,
+            2593,
+            1225
+          ],
+          "original_text": "16 MAY 1995",
+          "translated_en": "16 MAY 1995"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2022,
+            1448,
+            2611,
+            1528
+          ],
+          "original_text": "10 MAR 2016",
+          "translated_en": "10 MAR 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1123,
+            1780,
+            1713,
+            1854
+          ],
+          "original_text": "10 MAR 2036",
+          "translated_en": "10 MAR 2036"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_34592740762_6446ed6334_k_translated_cleaned.jpg"
+}

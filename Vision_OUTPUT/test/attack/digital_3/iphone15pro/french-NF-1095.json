@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-NF-1095.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        781,
+        341,
+        1555,
+        460
+      ],
+      "lines": [
+        {
+          "text": "MOREL",
+          "box": [
+            861,
+            376,
+            1079,
+            421
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        774,
+        564,
+        1646,
+        706
+      ],
+      "lines": [
+        {
+          "text": "Tony Laurence",
+          "box": [
+            845,
+            594,
+            1293,
+            654
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1822,
+        789,
+        2335,
+        926
+      ],
+      "lines": [
+        {
+          "text": "06 05 1972",
+          "box": [
+            1863,
+            821,
+            2219,
+            871
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1798,
+        1289,
+        2319,
+        1413
+      ],
+      "lines": [
+        {
+          "text": "09 01 1900",
+          "box": [
+            1850,
+            1317,
+            2206,
+            1366
+          ]
+        }
+      ]
+    }
+  ]
+}

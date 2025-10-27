@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\singapore-flickr_F_31294646850_53ce869b2e_b_translated.json",
+  "image_relative": "test\\bonafide\\scan\\singapore-flickr_F_31294646850_53ce869b2e_b.jpg",
+  "width": 1991,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            501,
+            469,
+            1061,
+            520
+          ],
+          "original_text": "Siti binti Hassan",
+          "translated_en": "Siti binti Hassan"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            519,
+            926,
+            878,
+            977
+          ],
+          "original_text": "1981-02-28",
+          "translated_en": "1981-02-28"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1179,
+            1099,
+            1540,
+            1149
+          ],
+          "original_text": "1991-02-28",
+          "translated_en": "1991-02-28"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_31294646850_53ce869b2e_b_translated_cleaned.jpg"
+}

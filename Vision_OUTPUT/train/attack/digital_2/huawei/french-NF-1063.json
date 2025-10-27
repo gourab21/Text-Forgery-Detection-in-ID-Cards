@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\french-NF-1063.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        954,
+        420,
+        1900,
+        566
+      ],
+      "lines": [
+        {
+          "text": "DUPONT",
+          "box": [
+            1057,
+            460,
+            1379,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        946,
+        693,
+        2011,
+        869
+      ],
+      "lines": [
+        {
+          "text": "Amélie , Solène",
+          "box": [
+            1044,
+            730,
+            1610,
+            804
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2226,
+        971,
+        2853,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "09 05 2027",
+          "box": [
+            2289,
+            1006,
+            2753,
+            1065
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2196,
+        1585,
+        2834,
+        1739
+      ],
+      "lines": [
+        {
+          "text": "14 03 2013",
+          "box": [
+            2280,
+            1622,
+            2741,
+            1681
+          ]
+        }
+      ]
+    }
+  ]
+}

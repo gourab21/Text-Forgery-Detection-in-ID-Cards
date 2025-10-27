@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\chinese-01_0007_000-08f07a73_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\chinese-01_0007_000-08f07a73_0.jpg",
+  "width": 3205,
+  "height": 1960,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1102,
+            669,
+            1257,
+            746
+          ],
+          "original_text": "李伟",
+          "translated_en": "Li Wei"
+        },
+        {
+          "box": [
+            1093,
+            770,
+            1353,
+            827
+          ],
+          "original_text": "Rebec",
+          "translated_en": "Rebec"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1996,
+            1122,
+            2519,
+            1188
+          ],
+          "original_text": "14 Dec 2066",
+          "translated_en": "14 Dec 2066"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1981,
+            1413,
+            2531,
+            1476
+          ],
+          "original_text": "22 MAR 2010",
+          "translated_en": "22 MAR 2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1083,
+            1699,
+            1628,
+            1769
+          ],
+          "original_text": "08 Dec 1956",
+          "translated_en": "08 Dec 1956"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-01_0007_000-08f07a73_0_translated_cleaned.jpg"
+}

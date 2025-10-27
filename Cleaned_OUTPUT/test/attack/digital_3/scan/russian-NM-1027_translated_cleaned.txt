@@ -1,0 +1,18 @@
+LE1
+EN: Belov /
+OR: Белов /
+EN: Belov
+
+LE2
+EN: Artem Vasilievich /
+OR: Артём Васильевич /
+EN: Donna Vaslevich
+
+E3
+EN: 21.08.1956
+
+E4
+EN: 03.10.2017
+
+E5
+EN: 22.04.2069

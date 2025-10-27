@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-090_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        901,
+        402,
+        1793,
+        542
+      ],
+      "lines": [
+        {
+          "text": "DURAND",
+          "box": [
+            1001,
+            444,
+            1312,
+            497
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        893,
+        664,
+        1898,
+        831
+      ],
+      "lines": [
+        {
+          "text": "I aniellene",
+          "box": [
+            994,
+            702,
+            1456,
+            763
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2101,
+        929,
+        2692,
+        1090
+      ],
+      "lines": [
+        {
+          "text": "24 06 2044",
+          "box": [
+            2163,
+            961,
+            2590,
+            1016
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2073,
+        1518,
+        2674,
+        1664
+      ],
+      "lines": [
+        {
+          "text": "21 12 2020",
+          "box": [
+            2149,
+            1541,
+            2579,
+            1591
+          ]
+        }
+      ]
+    }
+  ]
+}

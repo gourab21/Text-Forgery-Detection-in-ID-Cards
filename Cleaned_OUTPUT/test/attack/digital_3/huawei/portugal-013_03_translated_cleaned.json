@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\portugal-013_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\portugal-013_03.jpg",
+  "width": 3032,
+  "height": 1881,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1037,
+            520,
+            1798,
+            589
+          ],
+          "original_text": "WILLIAM ANDADE",
+          "translated_en": "WILLIAM ANDADE"
+        },
+        {
+          "box": [
+            1031,
+            599,
+            1553,
+            671
+          ],
+          "original_text": "Carla Patricia",
+          "translated_en": "Carla Patricia"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2577,
+            908,
+            2958,
+            973
+          ],
+          "original_text": "03 10 2096",
+          "translated_en": "03 10 2096"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1970,
+            1160,
+            2407,
+            1224
+          ],
+          "original_text": "14 04 2031",
+          "translated_en": "14 04 2031"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-013_03_translated_cleaned.jpg"
+}

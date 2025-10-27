@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_F_31294646850_53ce869b2e_b.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        656,
+        656,
+        2375,
+        972
+      ],
+      "lines": [
+        {
+          "text": "Siti binti Hassan",
+          "box": [
+            790,
+            748,
+            1683,
+            823
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        732,
+        1407,
+        1635,
+        1602
+      ],
+      "lines": [
+        {
+          "text": "1981-02-28",
+          "box": [
+            819,
+            1476,
+            1391,
+            1550
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1777,
+        1709,
+        2623,
+        1898
+      ],
+      "lines": [
+        {
+          "text": "1991-02-28",
+          "box": [
+            1872,
+            1753,
+            2455,
+            1831
+          ]
+        }
+      ]
+    }
+  ]
+}

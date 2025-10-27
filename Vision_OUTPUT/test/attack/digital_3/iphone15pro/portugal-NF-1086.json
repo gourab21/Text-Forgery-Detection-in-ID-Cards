@@ -1,0 +1,65 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        884,
+        426,
+        2086,
+        676
+      ],
+      "lines": [
+        {
+          "text": "SAMULPEEIRA",
+          "box": [
+            945,
+            477,
+            1519,
+            541
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            949,
+            561,
+            1217,
+            622
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2354,
+        821,
+        2855,
+        959
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1772,
+        1042,
+        2388,
+        1206
+      ],
+      "lines": [
+        {
+          "text": "18 10 2041",
+          "box": [
+            1852,
+            1062,
+            2263,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\indian-NF-1006_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\indian-NF-1006.jpg",
+  "width": 2799,
+  "height": 1785,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            971,
+            665,
+            1223,
+            721
+          ],
+          "original_text": "GHOSE",
+          "translated_en": "GHOSE"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            977,
+            887,
+            1463,
+            938
+          ],
+          "original_text": "REANN SITA",
+          "translated_en": "REANN SITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            983,
+            1105,
+            1440,
+            1173
+          ],
+          "original_text": "21/01/2015",
+          "translated_en": "21/01/2015"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            988,
+            1522,
+            1430,
+            1594
+          ],
+          "original_text": "29/09/2022",
+          "translated_en": "29/09/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1997,
+            1516,
+            2463,
+            1577
+          ],
+          "original_text": "26/09/2042",
+          "translated_en": "26/09/2042"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1006_translated_cleaned.jpg"
+}

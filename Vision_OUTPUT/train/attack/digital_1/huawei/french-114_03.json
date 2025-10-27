@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-114_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        952,
+        422,
+        1894,
+        568
+      ],
+      "lines": [
+        {
+          "text": "DAVID",
+          "box": [
+            1048,
+            464,
+            1293,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        943,
+        695,
+        2006,
+        871
+      ],
+      "lines": [
+        {
+          "text": "Gabriel , Étienne",
+          "box": [
+            1040,
+            719,
+            1652,
+            809
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2221,
+        975,
+        2847,
+        1143
+      ],
+      "lines": [
+        {
+          "text": "08 12 2006",
+          "box": [
+            2283,
+            1011,
+            2743,
+            1067
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2192,
+        1591,
+        2827,
+        1745
+      ],
+      "lines": [
+        {
+          "text": "13 02 2009",
+          "box": [
+            2271,
+            1629,
+            2727,
+            1687
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-NF-1008.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        611,
+        1216,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Laur",
+          "box": [
+            658,
+            649,
+            782,
+            688
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        447,
+        1216,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Çelik",
+          "box": [
+            659,
+            494,
+            784,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        767,
+        1193,
+        884
+      ],
+      "lines": [
+        {
+          "text": "14.08.1980",
+          "box": [
+            655,
+            803,
+            942,
+            842
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1086,
+        1185,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "03.09.1937",
+          "box": [
+            643,
+            1117,
+            934,
+            1158
+          ]
+        }
+      ]
+    }
+  ]
+}

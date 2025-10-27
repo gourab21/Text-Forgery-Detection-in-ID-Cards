@@ -1,0 +1,27 @@
+E1
+EN: Nenniferrouk
+
+L1
+OR: فاروق نادية
+EN: Farouk Nadia
+
+E2
+EN: 20 Jan 2041
+
+E3
+EN: 15 Mar 2022
+
+E4
+EN: 15 Mar 2012
+
+L2
+OR: ۲۰ / يناير / ۱۹۹۳
+EN: January 20, 1993
+
+L3
+OR: ١٥ / مارس / ٢٠۲۲
+EN: March 15, 2022
+
+L4
+OR: ١٥ / مارس / ٢۰۳۲
+EN: March 15, 2032

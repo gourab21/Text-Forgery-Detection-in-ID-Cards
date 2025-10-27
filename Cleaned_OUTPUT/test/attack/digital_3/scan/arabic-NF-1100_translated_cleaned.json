@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\arabic-NF-1100_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\arabic-NF-1100.jpg",
+  "width": 1998,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            754,
+            472,
+            1168,
+            517
+          ],
+          "original_text": "Michel - Sabah",
+          "translated_en": "Michel - Sabah"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            730,
+            330,
+            1011,
+            388
+          ],
+          "original_text": "الصباح هنا",
+          "translated_en": "Morning is here"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            740,
+            786,
+            1101,
+            837
+          ],
+          "original_text": "10 Feb 2085",
+          "translated_en": "10 Feb 2085"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            737,
+            947,
+            1105,
+            993
+          ],
+          "original_text": "19 Nov 2021",
+          "translated_en": "19 Nov 2021"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            731,
+            1113,
+            1089,
+            1164
+          ],
+          "original_text": "21 Apr 1907",
+          "translated_en": "21 Apr 1907"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1323,
+            793,
+            1749,
+            847
+          ],
+          "original_text": "/ سبتمبر / ۱۹۸۵",
+          "translated_en": "September 1985"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1265,
+            956,
+            1745,
+            1008
+          ],
+          "original_text": "١٩ / نوفمبر / ٢٠١",
+          "translated_en": "November 19, 2011"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1258,
+            1122,
+            1671,
+            1176
+          ],
+          "original_text": "۲۰ / سبتمبر / ۲",
+          "translated_en": "September 20"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1100_translated_cleaned.jpg"
+}

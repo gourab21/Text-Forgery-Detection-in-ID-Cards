@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        815,
+        388,
+        1924,
+        615
+      ],
+      "lines": [
+        {
+          "text": "PARAHRGY PRO",
+          "box": [
+            916,
+            431,
+            1494,
+            504
+          ]
+        },
+        {
+          "text": "Luis Antonio",
+          "box": [
+            912,
+            516,
+            1331,
+            568
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2171,
+        748,
+        2633,
+        873
+      ],
+      "lines": [
+        {
+          "text": "03 01 1985",
+          "box": [
+            2253,
+            773,
+            2631,
+            822
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1635,
+        949,
+        2201,
+        1098
+      ],
+      "lines": [
+        {
+          "text": "17 08 2036",
+          "box": [
+            1722,
+            991,
+            2118,
+            1039
+          ]
+        }
+      ]
+    }
+  ]
+}

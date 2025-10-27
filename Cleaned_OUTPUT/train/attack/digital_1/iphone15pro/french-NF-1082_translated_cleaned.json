@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\french-NF-1082_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\french-NF-1082.jpg",
+  "width": 2801,
+  "height": 1785,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            915,
+            429,
+            1196,
+            480
+          ],
+          "original_text": "MASSON",
+          "translated_en": "MASSON"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            921,
+            672,
+            1356,
+            731
+          ],
+          "original_text": "L dames Sabine",
+          "translated_en": "L dames Sabine"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2004,
+            886,
+            2402,
+            935
+          ],
+          "original_text": "15 10 2035",
+          "translated_en": "15 10 2035"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            2014,
+            1439,
+            2406,
+            1484
+          ],
+          "original_text": "02 12 2033",
+          "translated_en": "02 12 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-NF-1082_translated_cleaned.jpg"
+}

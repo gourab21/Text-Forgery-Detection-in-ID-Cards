@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_F_25164779518_a723fab6b8_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        995,
+        651,
+        1919,
+        973
+      ],
+      "lines": [
+        {
+          "text": "吴静",
+          "box": [
+            1084,
+            709,
+            1259,
+            788
+          ]
+        },
+        {
+          "text": "Saraing",
+          "box": [
+            1093,
+            815,
+            1440,
+            892
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1941,
+        1084,
+        2690,
+        1282
+      ],
+      "lines": [
+        {
+          "text": "05 Jul 1944",
+          "box": [
+            2009,
+            1150,
+            2587,
+            1224
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1947,
+        1388,
+        2720,
+        1595
+      ],
+      "lines": [
+        {
+          "text": "08 Nov 1981",
+          "box": [
+            2010,
+            1454,
+            2604,
+            1529
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1032,
+        1722,
+        1802,
+        1939
+      ],
+      "lines": [
+        {
+          "text": "28 Aug 2017",
+          "box": [
+            1115,
+            1776,
+            1696,
+            1873
+          ]
+        }
+      ]
+    }
+  ]
+}

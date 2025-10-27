@@ -1,0 +1,20 @@
+LE1
+OR: Кравчук /
+EN: Kravchuk /
+EN: Kravchuk
+
+LE2
+OR: Сергій Миколайович
+EN: Serhiy Mykolayovych
+OR: Kriste
+EN: Christ
+
+E3
+EN: 14.07.1914
+
+E4
+EN: Дата вида
+EN: 28.07.2015
+
+E5
+EN: 31.09.2015

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\chinese2-flickr_M_31304800026_59e0161aba_c_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_31304800026_59e0161aba_c.jpg",
+  "width": 3221,
+  "height": 2044,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1096,
+            701,
+            1262,
+            786
+          ],
+          "original_text": "対 明",
+          "translated_en": "Against Ming"
+        },
+        {
+          "box": [
+            1096,
+            806,
+            1463,
+            893
+          ],
+          "original_text": "Liu Ming",
+          "translated_en": "Liu Ming"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2008,
+            1146,
+            2590,
+            1221
+          ],
+          "original_text": "29 MAY 1977",
+          "translated_en": "29 MAY 1977"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2021,
+            1443,
+            2578,
+            1521
+          ],
+          "original_text": "17 SEP 1998",
+          "translated_en": "17 SEP 1998"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1120,
+            1774,
+            1680,
+            1848
+          ],
+          "original_text": "17 SEP 2018",
+          "translated_en": "17 SEP 2018"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_31304800026_59e0161aba_c_translated_cleaned.jpg"
+}

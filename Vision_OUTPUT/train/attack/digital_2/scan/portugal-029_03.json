@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-029_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "PEREMAA OLVERA",
+          "box": [
+            685,
+            341,
+            1199,
+            400
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            679,
+            400,
+            822,
+            445
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        575,
+        1992,
+        671
+      ],
+      "lines": [
+        {
+          "text": "03 06 2003",
+          "box": [
+            1701,
+            602,
+            1991,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1665,
+        845
+      ],
+      "lines": [
+        {
+          "text": "31 05 2039",
+          "box": [
+            1293,
+            768,
+            1593,
+            813
+          ]
+        }
+      ]
+    }
+  ]
+}

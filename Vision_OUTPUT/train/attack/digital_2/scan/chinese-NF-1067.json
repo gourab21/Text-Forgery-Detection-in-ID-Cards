@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-NF-1067.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        395,
+        1106,
+        580
+      ],
+      "lines": [
+        {
+          "text": "張梦奇",
+          "box": [
+            685,
+            429,
+            840,
+            479
+          ]
+        },
+        {
+          "text": "zoma Mengi",
+          "box": [
+            684,
+            481,
+            1061,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1200,
+        658,
+        1610,
+        791
+      ],
+      "lines": [
+        {
+          "text": "05 Jan 2016",
+          "box": [
+            1236,
+            714,
+            1555,
+            754
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        849,
+        1634,
+        976
+      ],
+      "lines": [
+        {
+          "text": "26 Jul 2011",
+          "box": [
+            1235,
+            897,
+            1528,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1039,
+        1089,
+        1161
+      ],
+      "lines": [
+        {
+          "text": "23 Jul 2217",
+          "box": [
+            675,
+            1079,
+            980,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

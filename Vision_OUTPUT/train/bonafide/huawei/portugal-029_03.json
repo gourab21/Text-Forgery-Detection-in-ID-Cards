@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-029_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        471,
+        2346,
+        747
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA OLIVEIRA",
+          "box": [
+            1099,
+            532,
+            1909,
+            603
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            1093,
+            629,
+            1322,
+            699
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2647,
+        908,
+        3210,
+        1062
+      ],
+      "lines": [
+        {
+          "text": "03 06 2003",
+          "box": [
+            2746,
+            946,
+            3209,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1993,
+        1153,
+        2684,
+        1335
+      ],
+      "lines": [
+        {
+          "text": "31 05 2013",
+          "box": [
+            2088,
+            1213,
+            2560,
+            1281
+          ]
+        }
+      ]
+    }
+  ]
+}

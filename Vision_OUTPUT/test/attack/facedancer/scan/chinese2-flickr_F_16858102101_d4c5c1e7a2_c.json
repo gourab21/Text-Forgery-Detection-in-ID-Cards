@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\chinese2-flickr_F_16858102101_d4c5c1e7a2_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        394,
+        1194,
+        587
+      ],
+      "lines": [
+        {
+          "text": "李红",
+          "box": [
+            686,
+            427,
+            785,
+            476
+          ]
+        },
+        {
+          "text": "Li Hong",
+          "box": [
+            682,
+            494,
+            886,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1208,
+        656,
+        1674,
+        774
+      ],
+      "lines": [
+        {
+          "text": "16 OCT 1982",
+          "box": [
+            1246,
+            693,
+            1601,
+            738
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1212,
+        840,
+        1691,
+        964
+      ],
+      "lines": [
+        {
+          "text": "05 JUN 2000",
+          "box": [
+            1245,
+            874,
+            1600,
+            921
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        643,
+        1041,
+        1120,
+        1173
+      ],
+      "lines": [
+        {
+          "text": "05 JUN 2020",
+          "box": [
+            694,
+            1075,
+            1043,
+            1120
+          ]
+        }
+      ]
+    }
+  ]
+}

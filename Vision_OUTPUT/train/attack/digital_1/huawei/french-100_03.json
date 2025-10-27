@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-100_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        421,
+        1892,
+        567
+      ],
+      "lines": [
+        {
+          "text": "ROBERT",
+          "box": [
+            1052,
+            464,
+            1359,
+            517
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        694,
+        2004,
+        870
+      ],
+      "lines": [
+        {
+          "text": "Marie , Noëlle",
+          "box": [
+            1043,
+            732,
+            1544,
+            805
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2219,
+        974,
+        2844,
+        1142
+      ],
+      "lines": [
+        {
+          "text": "25 10 1995",
+          "box": [
+            2283,
+            1009,
+            2737,
+            1067
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2190,
+        1589,
+        2824,
+        1743
+      ],
+      "lines": [
+        {
+          "text": "30 01 2006",
+          "box": [
+            2268,
+            1624,
+            2725,
+            1683
+          ]
+        }
+      ]
+    }
+  ]
+}

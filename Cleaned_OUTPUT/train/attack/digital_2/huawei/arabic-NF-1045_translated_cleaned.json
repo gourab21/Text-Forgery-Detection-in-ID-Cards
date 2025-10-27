@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\arabic-NF-1045_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\arabic-NF-1045.jpg",
+  "width": 3183,
+  "height": 1977,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1186,
+            748,
+            1941,
+            846
+          ],
+          "original_text": "Rntiony / Khoury",
+          "translated_en": "Rntiony / Khoury"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1157,
+            536,
+            1668,
+            628
+          ],
+          "original_text": "الخوري رانيا",
+          "translated_en": "Father Rania"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1174,
+            1235,
+            1744,
+            1327
+          ],
+          "original_text": "15 Jan 198",
+          "translated_en": "15 Jan 198"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1169,
+            1514,
+            1768,
+            1592
+          ],
+          "original_text": "28 May 2023",
+          "translated_en": "28 May 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1166,
+            1770,
+            1733,
+            1862
+          ],
+          "original_text": "11 Sep 2010",
+          "translated_en": "11 Sep 2010"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2024,
+            1260,
+            2719,
+            1354
+          ],
+          "original_text": "١٥ / يناير / ۱۹۸۳",
+          "translated_en": "January 15, 1983"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2022,
+            1523,
+            2702,
+            1597
+          ],
+          "original_text": "۲۸ / مايو / ۲۰۲۲",
+          "translated_en": "May 28, 2022"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2011,
+            1782,
+            2717,
+            1873
+          ],
+          "original_text": "۱۱ / سبتمبر / ٢٠",
+          "translated_en": "September 11, 20"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1045_translated_cleaned.jpg"
+}

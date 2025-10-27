@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_31340377345_6781e5f574_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_31340377345_6781e5f574_k.jpg",
+  "width": 3162,
+  "height": 1982,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            806,
+            735,
+            1579,
+            839
+          ],
+          "original_text": "JohnTsang Ooi",
+          "translated_en": "JohnTsang Ooi"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            826,
+            1479,
+            1393,
+            1566
+          ],
+          "original_text": "21-12-887",
+          "translated_en": "21-12-887"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1879,
+            1749,
+            2447,
+            1833
+          ],
+          "original_text": "09 02 995",
+          "translated_en": "09 02 995"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_31340377345_6781e5f574_k_translated_cleaned.jpg"
+}

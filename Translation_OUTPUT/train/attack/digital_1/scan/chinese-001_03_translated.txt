@@ -1,0 +1,14 @@
+LE1
+OR: 馬
+EN: horse
+EN: DriniTing
+
+E2
+EN: 05 Jan 2044
+
+E3
+EN: 26 Jul 2011
+
+E4
+EN: 700
+EN: 23 Jul 2011

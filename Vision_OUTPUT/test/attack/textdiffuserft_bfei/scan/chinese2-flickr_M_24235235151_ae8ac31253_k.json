@@ -1,0 +1,104 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_24235235151_ae8ac31253_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        395,
+        1193,
+        589
+      ],
+      "lines": [
+        {
+          "text": "吴勇",
+          "box": [
+            677,
+            429,
+            781,
+            477
+          ]
+        },
+        {
+          "text": "Roberg",
+          "box": [
+            683,
+            492,
+            915,
+            548
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1207,
+        658,
+        1672,
+        777
+      ],
+      "lines": [
+        {
+          "text": "08 Jan 1953",
+          "box": [
+            1237,
+            697,
+            1598,
+            743
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1211,
+        843,
+        1690,
+        967
+      ],
+      "lines": [
+        {
+          "text": "21 Sep 2028",
+          "box": [
+            1246,
+            881,
+            1587,
+            934
+          ]
+        },
+        {
+          "text": "00",
+          "box": [
+            1664,
+            929,
+            1686,
+            966
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        642,
+        1044,
+        1119,
+        1177
+      ],
+      "lines": [
+        {
+          "text": "08 Feb 1913",
+          "box": [
+            690,
+            1077,
+            1037,
+            1121
+          ]
+        }
+      ]
+    }
+  ]
+}

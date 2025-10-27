@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\huawei\\usa-016_03.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\usa-016_03.jpg",
+  "width": 3232,
+  "height": 2003,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1049,
+            752,
+            1601,
+            826
+          ],
+          "original_text": "Sauren Boo",
+          "translated_en": "Sauren Boo",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1051,
+            847,
+            1512,
+            910
+          ],
+          "original_text": "891 Oak St",
+          "translated_en": "891 Oak St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1047,
+            940,
+            1706,
+            1006
+          ],
+          "original_text": "Miami FL 33101",
+          "translated_en": "Miami FL 33101",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2422,
+            1247,
+            3008,
+            1319
+          ],
+          "original_text": "DOB : 07-04-0",
+          "translated_en": "DOB : 07-04-0",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-016_03_translated.jpg"
+}

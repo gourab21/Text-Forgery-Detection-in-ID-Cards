@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_F_21668538829_2fb67bd5fd_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        618,
+        395,
+        1192,
+        589
+      ],
+      "lines": [
+        {
+          "text": "胡 霞",
+          "box": [
+            687,
+            423,
+            798,
+            474
+          ]
+        },
+        {
+          "text": "Ashley",
+          "box": [
+            682,
+            488,
+            864,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1205,
+        657,
+        1670,
+        776
+      ],
+      "lines": [
+        {
+          "text": "08 Mar 1938",
+          "box": [
+            1238,
+            707,
+            1605,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1209,
+        842,
+        1687,
+        966
+      ],
+      "lines": [
+        {
+          "text": "06 Sep 1978 110",
+          "box": [
+            1235,
+            890,
+            1682,
+            965
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        641,
+        1043,
+        1118,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "17 Aug 1925",
+          "box": [
+            676,
+            1074,
+            1043,
+            1125
+          ]
+        }
+      ]
+    }
+  ]
+}

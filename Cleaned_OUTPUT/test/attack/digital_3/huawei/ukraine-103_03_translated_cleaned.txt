@@ -1,0 +1,18 @@
+LE1
+EN: Kovalenko /
+OR: Коваленко /
+EN: Kovalenko
+
+LE2
+EN: Oleksandr Mykhaylov
+OR: Олександр Михайлов
+EN: Courtnes
+
+E3
+EN: 25.11.1960
+
+E4
+EN: 21.02.2018
+
+E5
+EN: 04.03.2058

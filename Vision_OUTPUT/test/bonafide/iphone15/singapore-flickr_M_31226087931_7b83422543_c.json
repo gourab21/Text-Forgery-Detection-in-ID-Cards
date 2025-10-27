@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_31226087931_7b83422543_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        578,
+        2088,
+        856
+      ],
+      "lines": [
+        {
+          "text": "Eko Prasetyo",
+          "box": [
+            713,
+            660,
+            1336,
+            732
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1240,
+        1438,
+        1411
+      ],
+      "lines": [
+        {
+          "text": "1964-08-07",
+          "box": [
+            728,
+            1294,
+            1231,
+            1365
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1505,
+        2306,
+        1671
+      ],
+      "lines": [
+        {
+          "text": "1974-08-07",
+          "box": [
+            1649,
+            1536,
+            2160,
+            1609
+          ]
+        }
+      ]
+    }
+  ]
+}

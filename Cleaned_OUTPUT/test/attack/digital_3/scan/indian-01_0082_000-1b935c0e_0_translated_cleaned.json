@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\indian-01_0082_000-1b935c0e_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\indian-01_0082_000-1b935c0e_0.jpg",
+  "width": 1994,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            697,
+            459,
+            807,
+            497
+          ],
+          "original_text": "ROY",
+          "translated_en": "ROY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            700,
+            610,
+            1078,
+            658
+          ],
+          "original_text": "DIANE DINESH",
+          "translated_en": "DIANE DINESH"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            692,
+            773,
+            1000,
+            819
+          ],
+          "original_text": "25/11/2054",
+          "translated_en": "25/11/2054"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            682,
+            1068,
+            999,
+            1112
+          ],
+          "original_text": "22/08/2012",
+          "translated_en": "22/08/2012"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1405,
+            1076,
+            1716,
+            1123
+          ],
+          "original_text": "11/01/2041",
+          "translated_en": "11/01/2041"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-01_0082_000-1b935c0e_0_translated_cleaned.jpg"
+}

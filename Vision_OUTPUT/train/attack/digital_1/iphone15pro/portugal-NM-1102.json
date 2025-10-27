@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        431,
+        2077,
+        683
+      ],
+      "lines": [
+        {
+          "text": "BRRYSAFERREIRA",
+          "box": [
+            973,
+            492,
+            1680,
+            559
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            974,
+            582,
+            1482,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2343,
+        830,
+        2842,
+        970
+      ],
+      "lines": [
+        {
+          "text": "15 09 2021",
+          "box": [
+            2423,
+            833,
+            2825,
+            884
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1765,
+        1054,
+        2376,
+        1220
+      ],
+      "lines": [
+        {
+          "text": "30 11 2023",
+          "box": [
+            1862,
+            1077,
+            2286,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

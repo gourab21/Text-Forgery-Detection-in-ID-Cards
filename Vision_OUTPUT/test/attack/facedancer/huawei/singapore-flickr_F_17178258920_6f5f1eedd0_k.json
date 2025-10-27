@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\singapore-flickr_F_17178258920_6f5f1eedd0_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        662,
+        657,
+        2392,
+        974
+      ],
+      "lines": [
+        {
+          "text": "Elena Petrova",
+          "box": [
+            807,
+            753,
+            1567,
+            831
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        738,
+        1410,
+        1647,
+        1605
+      ],
+      "lines": [
+        {
+          "text": "1982-05-28",
+          "box": [
+            830,
+            1479,
+            1404,
+            1557
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1791,
+        1712,
+        2643,
+        1901
+      ],
+      "lines": [
+        {
+          "text": "1992-05-28",
+          "box": [
+            1895,
+            1758,
+            2477,
+            1838
+          ]
+        }
+      ]
+    }
+  ]
+}

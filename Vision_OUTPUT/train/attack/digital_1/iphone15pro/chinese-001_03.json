@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\chinese-001_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        888,
+        559,
+        1538,
+        823
+      ],
+      "lines": [
+        {
+          "text": "Zemifferg",
+          "box": [
+            946,
+            697,
+            1275,
+            754
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1668,
+        932,
+        2241,
+        1120
+      ],
+      "lines": [
+        {
+          "text": "05 Jan 1995",
+          "box": [
+            1727,
+            984,
+            2186,
+            1045
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1644,
+        1201,
+        2273,
+        1383
+      ],
+      "lines": [
+        {
+          "text": "26 Jul 2011",
+          "box": [
+            1737,
+            1244,
+            2145,
+            1299
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        860,
+        1471,
+        1516,
+        1644
+      ],
+      "lines": [
+        {
+          "text": "23 Jul 2008",
+          "box": [
+            964,
+            1523,
+            1400,
+            1584
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\portugal-143_03.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-143_03.jpg",
+  "width": 2633,
+  "height": 1621,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            916,
+            431,
+            1494,
+            504
+          ],
+          "original_text": "PARAHRGY PRO",
+          "translated_en": "PARAHRGY PRO",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            912,
+            516,
+            1331,
+            568
+          ],
+          "original_text": "Luis Antonio",
+          "translated_en": "Luis Antonio",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2253,
+            773,
+            2631,
+            822
+          ],
+          "original_text": "03 01 1985",
+          "translated_en": "03 01 1985",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1722,
+            991,
+            2118,
+            1039
+          ],
+          "original_text": "17 08 2036",
+          "translated_en": "17 08 2036",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-143_03_translated.jpg"
+}

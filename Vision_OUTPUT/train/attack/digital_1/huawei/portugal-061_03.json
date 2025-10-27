@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-061_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        988,
+        473,
+        2333,
+        750
+      ],
+      "lines": [
+        {
+          "text": "GARTHARIBEIRO",
+          "box": [
+            1094,
+            542,
+            1749,
+            605
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            1097,
+            639,
+            1333,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2632,
+        911,
+        3192,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "03 06 1993",
+          "box": [
+            2739,
+            955,
+            3191,
+            1021
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1981,
+        1157,
+        2669,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "01 06 2024",
+          "box": [
+            2083,
+            1223,
+            2566,
+            1288
+          ]
+        }
+      ]
+    }
+  ]
+}

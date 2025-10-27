@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\arabic-120_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\arabic-120_03.jpg",
+  "width": 2768,
+  "height": 1737,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1009,
+            649,
+            1611,
+            722
+          ],
+          "original_text": "Sawal baim",
+          "translated_en": "Sawal baim"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            984,
+            456,
+            1535,
+            550
+          ],
+          "original_text": "إبراهيم سلمى",
+          "translated_en": "Ibrahim Salma"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1013,
+            1084,
+            1527,
+            1157
+          ],
+          "original_text": "26 Feb 2015",
+          "translated_en": "26 Feb 2015"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1028,
+            1317,
+            1495,
+            1380
+          ],
+          "original_text": "09 Jul 2023",
+          "translated_en": "09 Jul 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1032,
+            1543,
+            1515,
+            1611
+          ],
+          "original_text": "14 Jun 19vl",
+          "translated_en": "14 Jun 19vl"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1758,
+            1072,
+            2396,
+            1163
+          ],
+          "original_text": "٢٦ / فبراير / ۱۹۹۰ ११",
+          "translated_en": "February 26, 1990"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1765,
+            1299,
+            2333,
+            1394
+          ],
+          "original_text": "٩ / يوليو / ٢٠٢٣",
+          "translated_en": "July 9, 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1769,
+            1533,
+            2380,
+            1624
+          ],
+          "original_text": "١٤ / يونيو / ۲۰۳۰",
+          "translated_en": "June 14, 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-120_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_31294646850_53ce869b2e_b.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        579,
+        2088,
+        857
+      ],
+      "lines": [
+        {
+          "text": "Siti binti Hassan",
+          "box": [
+            706,
+            660,
+            1489,
+            729
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1243,
+        1438,
+        1415
+      ],
+      "lines": [
+        {
+          "text": "1981-02-28",
+          "box": [
+            732,
+            1299,
+            1231,
+            1372
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1509,
+        2306,
+        1676
+      ],
+      "lines": [
+        {
+          "text": "1991-02-28",
+          "box": [
+            1654,
+            1543,
+            2159,
+            1614
+          ]
+        }
+      ]
+    }
+  ]
+}

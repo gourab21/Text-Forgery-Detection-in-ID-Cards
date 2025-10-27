@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\arabic-NF-1049_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\arabic-NF-1049.jpg",
+  "width": 3184,
+  "height": 1964,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1199,
+            751,
+            1720,
+            828
+          ],
+          "original_text": "BrianXlaled",
+          "translated_en": "BrianXlaled"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1156,
+            515,
+            1593,
+            624
+          ],
+          "original_text": "خالد سارة",
+          "translated_en": "Khaled Sarah"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1175,
+            1235,
+            1772,
+            1323
+          ],
+          "original_text": "30 Aug 2073",
+          "translated_en": "30 Aug 2073"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1165,
+            1500,
+            1756,
+            1579
+          ],
+          "original_text": "20 Aug 2023",
+          "translated_en": "20 Aug 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1166,
+            1766,
+            1746,
+            1840
+          ],
+          "original_text": "25 Feb 2000",
+          "translated_en": "25 Feb 2000"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2027,
+            1250,
+            2710,
+            1345
+          ],
+          "original_text": "٠٥ / مايو / / ۱۹۳۲",
+          "translated_en": "May 5, 1932"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2019,
+            1505,
+            2946,
+            1586
+          ],
+          "original_text": "٢٠ / أغسطس / ٢٠٢٣",
+          "translated_en": "August 20, 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2006,
+            1763,
+            2959,
+            1858
+          ],
+          "original_text": "٢٠ / أغسطس / ٢٠٢٣",
+          "translated_en": "August 20, 2023"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1049_translated_cleaned.jpg"
+}

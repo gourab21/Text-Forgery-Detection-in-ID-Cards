@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\chinese-102_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\chinese-102_03.jpg",
+  "width": 2794,
+  "height": 1764,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            967,
+            613,
+            1106,
+            681
+          ],
+          "original_text": "刘颖",
+          "translated_en": "Liu Ying"
+        },
+        {
+          "box": [
+            960,
+            701,
+            1254,
+            763
+          ],
+          "original_text": "LuisYing",
+          "translated_en": "LuisYing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1746,
+            989,
+            2200,
+            1055
+          ],
+          "original_text": "20 Dec 2078",
+          "translated_en": "20 Dec 2078"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1751,
+            1248,
+            2182,
+            1304
+          ],
+          "original_text": "14 Jan 2015",
+          "translated_en": "14 Jan 2015"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            975,
+            1528,
+            1418,
+            1599
+          ],
+          "original_text": "07 Aug 2073",
+          "translated_en": "07 Aug 2073"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-102_03_translated_cleaned.jpg"
+}

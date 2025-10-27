@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-NF-1065.json",
+  "image_relative": "train\\bonafide\\scan\\usa-NF-1065.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            653,
+            467,
+            964,
+            507
+          ],
+          "original_text": "Anna Rivera",
+          "translated_en": "Anna Rivera",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            655,
+            524,
+            1084,
+            568
+          ],
+          "original_text": "1325 Cedar Lane",
+          "translated_en": "1325 Cedar Lane",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            651,
+            582,
+            1132,
+            626
+          ],
+          "original_text": "Tacoma WA 98402",
+          "translated_en": "Tacoma WA 98402",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1493,
+            777,
+            1887,
+            822
+          ],
+          "original_text": "DOB : 06-11-95",
+          "translated_en": "DOB : 06-11-95",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1065_translated.jpg"
+}

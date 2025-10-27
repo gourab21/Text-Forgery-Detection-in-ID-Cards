@@ -1,0 +1,19 @@
+LE1
+OR: Коваль /
+EN: Blacksmith /
+EN: Koval
+
+LE2
+OR: Наталія Вікторівна /
+EN: Natalia Viktorivna /
+OR: Kristiya
+EN: Kristya
+
+E3
+EN: 04.08.2017
+
+E4
+EN: 23.01.2013
+
+E5
+EN: 18.02.1983

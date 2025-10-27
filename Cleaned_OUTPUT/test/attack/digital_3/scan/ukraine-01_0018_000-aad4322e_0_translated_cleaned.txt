@@ -1,0 +1,19 @@
+LE1
+EN: Sydorenko /
+OR: Сидоренко /
+EN: Sydorenko
+
+LE2
+EN: Vasyl Igorovych /
+OR: Василь Ігорович /
+EN: Everything
+OR: Dena
+
+E3
+EN: 31.04.2031
+
+E4
+EN: 12.01.2005 NOT
+
+E5
+EN: 31.02.2021

@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\arabic-NF-1048_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\arabic-NF-1048.jpg",
+  "width": 2629,
+  "height": 1605,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            982,
+            603,
+            1453,
+            665
+          ],
+          "original_text": "Hattoriassef",
+          "translated_en": "Hattoriassef"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            957,
+            426,
+            1365,
+            509
+          ],
+          "original_text": "يوسف هناء",
+          "translated_en": "Youssef Hanaa"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            974,
+            1005,
+            1460,
+            1059
+          ],
+          "original_text": "31 Dec 2037",
+          "translated_en": "31 Dec 2037"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            970,
+            1214,
+            1437,
+            1275
+          ],
+          "original_text": "07 Oct 2023",
+          "translated_en": "07 Oct 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            969,
+            1426,
+            1437,
+            1487
+          ],
+          "original_text": "19 Feb 2005",
+          "translated_en": "19 Feb 2005"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1672,
+            1005,
+            2369,
+            1088
+          ],
+          "original_text": "۳۱ / ديسمبر دیسمبر / / ۱۹۸۳",
+          "translated_en": "۳۱ / December دیسمبر / / ۱۹۸۳"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1663,
+            1209,
+            2238,
+            1292
+          ],
+          "original_text": "٧ / أكتوبر / ۲۰۲۳",
+          "translated_en": "October 7, 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1665,
+            1434,
+            2279,
+            1511
+          ],
+          "original_text": "۱۹ / فبراير / ۲۰۲۹",
+          "translated_en": "February 19, 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1048_translated_cleaned.jpg"
+}

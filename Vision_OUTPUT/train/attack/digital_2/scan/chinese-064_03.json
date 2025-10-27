@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-064_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        397,
+        1102,
+        583
+      ],
+      "lines": [
+        {
+          "text": "张 刺",
+          "box": [
+            696,
+            430,
+            794,
+            476
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1196,
+        661,
+        1605,
+        795
+      ],
+      "lines": [
+        {
+          "text": "30 Nov 1908",
+          "box": [
+            1242,
+            713,
+            1569,
+            752
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1178,
+        853,
+        1629,
+        980
+      ],
+      "lines": [
+        {
+          "text": "22 Jan 2014",
+          "box": [
+            1238,
+            895,
+            1546,
+            936
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        616,
+        1043,
+        1086,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "20 Jan 2023",
+          "box": [
+            679,
+            1079,
+            1006,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

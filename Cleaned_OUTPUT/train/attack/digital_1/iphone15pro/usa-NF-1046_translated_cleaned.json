@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\usa-NF-1046_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1046.jpg",
+  "width": 2832,
+  "height": 1796,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            924,
+            670,
+            1448,
+            748
+          ],
+          "original_text": "Karylite White e",
+          "translated_en": "Karylite White e"
+        },
+        {
+          "box": [
+            927,
+            747,
+            1621,
+            842
+          ],
+          "original_text": "881 Willow Dr RATE",
+          "translated_en": "881 Willow Dr RATE"
+        },
+        {
+          "box": [
+            928,
+            837,
+            1669,
+            919
+          ],
+          "original_text": "Burlington VT 05401",
+          "translated_en": "Burlington VT 05401"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2124,
+            1091,
+            2704,
+            1150
+          ],
+          "original_text": "08-15-13",
+          "translated_en": "08-15-13"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1046_translated_cleaned.jpg"
+}

@@ -1,0 +1,22 @@
+E1
+EN: Fianaa
+
+E2
+EN: Najafi
+
+L1
+EN: Fatima
+OR: فاطمه
+
+L2
+EN: Najafi
+OR: نجفی
+
+E3
+EN: 07/11/12014
+
+E4
+EN: 22/10/2024
+
+E5
+EN: 22/10/12000

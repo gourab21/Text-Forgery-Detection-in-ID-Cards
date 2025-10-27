@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_9641749325_1a753f74b2_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1500,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Patriciati Ayan",
+          "box": [
+            511,
+            465,
+            998,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "14-09-8-85",
+          "box": [
+            525,
+            921,
+            884,
+            976
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "28 11.7-88",
+          "box": [
+            1186,
+            1090,
+            1545,
+            1147
+          ]
+        }
+      ]
+    }
+  ]
+}

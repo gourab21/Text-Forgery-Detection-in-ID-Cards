@@ -1,0 +1,29 @@
+E1
+EN: Shery - Sharif
+
+L1
+OR: الشريف منى
+EN: Sharif Mona
+
+E2
+EN: 23 Feb 1900
+
+E3
+EN: 17 Jun 2018
+
+E4
+EN: 12 Sep 2039
+
+L2
+OR: تاریخ
+EN: History
+OR: ٢١ / ديسمبر /
+EN: December 21
+
+L3
+OR: ١٧ / يونيو / ۲۰۱۸
+EN: June 17, 2018
+
+L4
+OR: ١٤ / أكتوبر / ٢٠٣٣
+EN: October 14, 2033

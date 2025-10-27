@@ -1,0 +1,27 @@
+E1
+EN: Michael - Fayed
+
+L1
+OR: الفايد رانيا
+EN: Al Fayed Rania
+
+E2
+EN: 16 Jul 1943
+
+E3
+EN: 12 Jan 2020
+
+E4
+EN: 10 Oct 1955
+
+L2
+OR: ٤ / فبراير / ۱۹۹۰ ११
+EN: February 4, 1990
+
+L3
+OR: ١٢ / يناير / ٢٠٢۰
+EN: January 12, 2020
+
+L4
+OR: ٥ / سبتمبر / ١ ٢٠ ۲۹
+EN: September 5, 2029

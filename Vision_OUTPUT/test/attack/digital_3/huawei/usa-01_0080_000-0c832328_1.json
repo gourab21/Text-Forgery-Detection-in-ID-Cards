@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-01_0080_000-0c832328_1.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        965,
+        674,
+        1982,
+        1048
+      ],
+      "lines": [
+        {
+          "text": "Todiam Brown",
+          "box": [
+            1043,
+            745,
+            1637,
+            805
+          ]
+        },
+        {
+          "text": "3714 Maple Av",
+          "box": [
+            1035,
+            814,
+            1666,
+            925
+          ]
+        },
+        {
+          "text": "Dallas TX 75235",
+          "box": [
+            1033,
+            927,
+            1702,
+            999
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2325,
+        1194,
+        3119,
+        1355
+      ],
+      "lines": [
+        {
+          "text": "DOB : 14-07-03",
+          "box": [
+            2394,
+            1238,
+            3026,
+            1308
+          ]
+        }
+      ]
+    }
+  ]
+}

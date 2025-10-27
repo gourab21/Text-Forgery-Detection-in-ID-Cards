@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\french-019_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        265,
+        1181,
+        357
+      ],
+      "lines": [
+        {
+          "text": "BERGER",
+          "box": [
+            661,
+            294,
+            852,
+            329
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        437,
+        1251,
+        548
+      ],
+      "lines": [
+        {
+          "text": "Jilyte Michele",
+          "box": [
+            654,
+            466,
+            1071,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        614,
+        1774,
+        719
+      ],
+      "lines": [
+        {
+          "text": "30 12 12031",
+          "box": [
+            1421,
+            637,
+            1704,
+            673
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1001,
+        1763,
+        1097
+      ],
+      "lines": [
+        {
+          "text": "05 01 2022",
+          "box": [
+            1415,
+            1023,
+            1698,
+            1057
+          ]
+        }
+      ]
+    }
+  ]
+}

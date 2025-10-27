@@ -1,0 +1,13 @@
+LE1
+OR: 吴芳
+EN: Wu Fang
+EN: vephan
+
+E2
+EN: 14 MAY # 312
+
+E3
+EN: 04 JUN 2010
+
+E4
+EN: 03 JUN 1997

@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-NF-1076.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        855,
+        616,
+        1753,
+        957
+      ],
+      "lines": [
+        {
+          "text": "Patricia son",
+          "box": [
+            929,
+            679,
+            1552,
+            749
+          ]
+        },
+        {
+          "text": "1543 Elm St ATE STAT",
+          "box": [
+            926,
+            735,
+            1752,
+            823
+          ]
+        },
+        {
+          "text": "Phoenix AZ 85021",
+          "box": [
+            925,
+            843,
+            1575,
+            903
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2058,
+        1092,
+        2758,
+        1238
+      ],
+      "lines": [
+        {
+          "text": "DOB : 11-12-83",
+          "box": [
+            2124,
+            1095,
+            2679,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

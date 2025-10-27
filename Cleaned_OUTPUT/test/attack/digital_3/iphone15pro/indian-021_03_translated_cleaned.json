@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\indian-021_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\indian-021_03.jpg",
+  "width": 2798,
+  "height": 1775,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            970,
+            665,
+            1202,
+            719
+          ],
+          "original_text": "SINGH",
+          "translated_en": "SINGH"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            987,
+            876,
+            1441,
+            938
+          ],
+          "original_text": "JENNIERTIN",
+          "translated_en": "JENNIERTIN"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            979,
+            1101,
+            1416,
+            1171
+          ],
+          "original_text": "22/01/1993",
+          "translated_en": "22/01/1993"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            986,
+            1519,
+            1422,
+            1585
+          ],
+          "original_text": "22/10/2021",
+          "translated_en": "22/10/2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2001,
+            1507,
+            2432,
+            1574
+          ],
+          "original_text": "10/11/1912",
+          "translated_en": "10/11/1912"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-021_03_translated_cleaned.jpg"
+}

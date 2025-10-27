@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\singapore-flickr_M_31244514601_d2cb0773d7_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        655,
+        2383,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Amit Verma",
+          "box": [
+            793,
+            758,
+            1440,
+            825
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1405,
+        1641,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "2002-07-31",
+          "box": [
+            817,
+            1478,
+            1396,
+            1552
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1783,
+        1706,
+        2632,
+        1895
+      ],
+      "lines": [
+        {
+          "text": "2012-07-31",
+          "box": [
+            1872,
+            1756,
+            2459,
+            1835
+          ]
+        }
+      ]
+    }
+  ]
+}

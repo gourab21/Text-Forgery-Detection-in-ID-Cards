@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\ukraine-025_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\ukraine-025_03.jpg",
+  "width": 3233,
+  "height": 2002,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1051,
+            467,
+            1463,
+            546
+          ],
+          "original_text": "Мельник /",
+          "translated_en": "Miller /"
+        },
+        {
+          "box": [
+            1046,
+            562,
+            1321,
+            622
+          ],
+          "original_text": "Melnyk",
+          "translated_en": "Melnyk"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1039,
+            758,
+            1707,
+            842
+          ],
+          "original_text": "Юлія Сергіївна /",
+          "translated_en": "Yulia Sergiivna /"
+        },
+        {
+          "box": [
+            1038,
+            854,
+            1300,
+            919
+          ],
+          "original_text": "Yaylor",
+          "translated_en": "Yaylor"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1035,
+            1090,
+            1493,
+            1152
+          ],
+          "original_text": "21.02.12039",
+          "translated_en": "21.02.12039"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1028,
+            1534,
+            1462,
+            1597
+          ],
+          "original_text": "25.02.2019",
+          "translated_en": "25.02.2019"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1022,
+            1849,
+            1478,
+            1909
+          ],
+          "original_text": "24.02.1993",
+          "translated_en": "24.02.1993"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-025_03_translated_cleaned.jpg"
+}

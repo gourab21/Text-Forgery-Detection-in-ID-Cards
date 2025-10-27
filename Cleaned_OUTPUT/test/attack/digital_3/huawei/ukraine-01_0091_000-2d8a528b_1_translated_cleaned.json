@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\ukraine-01_0091_000-2d8a528b_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\ukraine-01_0091_000-2d8a528b_1.jpg",
+  "width": 3195,
+  "height": 1970,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1045,
+            461,
+            1431,
+            534
+          ],
+          "original_text": "Кравчук /",
+          "translated_en": "Kravchuk /"
+        },
+        {
+          "box": [
+            1040,
+            552,
+            1395,
+            600
+          ],
+          "original_text": "Kravchuk",
+          "translated_en": "Kravchuk"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1037,
+            747,
+            1902,
+            828
+          ],
+          "original_text": "Сергій Миколайович ,",
+          "translated_en": "Sergey Nikolaevich,"
+        },
+        {
+          "box": [
+            1035,
+            845,
+            1274,
+            905
+          ],
+          "original_text": "Kathry",
+          "translated_en": "Kathry"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1029,
+            1070,
+            1473,
+            1134
+          ],
+          "original_text": "06.06.2070",
+          "translated_en": "06.06.2070"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1022,
+            1513,
+            1452,
+            1574
+          ],
+          "original_text": "28.07.2015",
+          "translated_en": "28.07.2015"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1012,
+            1822,
+            1448,
+            1883
+          ],
+          "original_text": "04.03.1924",
+          "translated_en": "04.03.1924"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-01_0091_000-2d8a528b_1_translated_cleaned.jpg"
+}

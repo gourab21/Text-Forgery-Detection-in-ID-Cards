@@ -1,0 +1,104 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_31969854474_39f84b92eb_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        395,
+        1194,
+        589
+      ],
+      "lines": [
+        {
+          "text": "马勇",
+          "box": [
+            685,
+            430,
+            789,
+            477
+          ]
+        },
+        {
+          "text": "Katieng",
+          "box": [
+            688,
+            491,
+            913,
+            539
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1208,
+        656,
+        1674,
+        775
+      ],
+      "lines": [
+        {
+          "text": "13 Aug 1981",
+          "box": [
+            1247,
+            692,
+            1590,
+            748
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1213,
+        841,
+        1692,
+        965
+      ],
+      "lines": [
+        {
+          "text": "23 Jun 1988",
+          "box": [
+            1251,
+            875,
+            1603,
+            925
+          ]
+        },
+        {
+          "text": "2121 121",
+          "box": [
+            1649,
+            920,
+            1689,
+            964
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        643,
+        1042,
+        1121,
+        1174
+      ],
+      "lines": [
+        {
+          "text": "29 Jan 1953",
+          "box": [
+            694,
+            1072,
+            1046,
+            1122
+          ]
+        }
+      ]
+    }
+  ]
+}

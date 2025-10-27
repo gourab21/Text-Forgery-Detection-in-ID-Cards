@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-026_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        989,
+        471,
+        2335,
+        747
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES RIBEIRO",
+          "box": [
+            1096,
+            533,
+            1996,
+            604
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            1091,
+            629,
+            1321,
+            699
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2634,
+        906,
+        3195,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "01 09 1998",
+          "box": [
+            2733,
+            945,
+            3194,
+            1013
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1983,
+        1151,
+        2671,
+        1333
+      ],
+      "lines": [
+        {
+          "text": "29 08 2008",
+          "box": [
+            2085,
+            1214,
+            2545,
+            1277
+          ]
+        }
+      ]
+    }
+  ]
+}

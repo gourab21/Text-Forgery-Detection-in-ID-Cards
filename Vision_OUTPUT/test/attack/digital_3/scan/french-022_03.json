@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-022_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        266,
+        1178,
+        359
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            660,
+            295,
+            850,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        587,
+        439,
+        1249,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Scott Henri",
+          "box": [
+            652,
+            468,
+            919,
+            506
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1382,
+        615,
+        1770,
+        720
+      ],
+      "lines": [
+        {
+          "text": "27 07 2080",
+          "box": [
+            1424,
+            640,
+            1692,
+            676
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1363,
+        1004,
+        1759,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "03 05 2099",
+          "box": [
+            1411,
+            1023,
+            1679,
+            1061
+          ]
+        }
+      ]
+    }
+  ]
+}

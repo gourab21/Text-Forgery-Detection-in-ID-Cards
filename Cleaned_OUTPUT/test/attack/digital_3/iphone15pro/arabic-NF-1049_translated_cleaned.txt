@@ -1,0 +1,27 @@
+E1
+EN: Vanesaled
+
+L1
+EN: Khaled Sarah
+OR: خالد سارة
+
+E2
+EN: 29 Dec 1946
+
+E3
+EN: 20 Aug 2023
+
+E4
+EN: 03 Jun 2041
+
+L2
+EN: May 5, 1995
+OR: ٥ / مايو / ١٩٩٥
+
+L3
+EN: August 20, 2013
+OR: ٢٠ / أغسطس / ٢٠١٣
+
+L4
+EN: August 20, 2013
+OR: ٢٠ / أغسطس / ۲۰۱۳

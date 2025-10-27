@@ -1,0 +1,20 @@
+LE1
+EN: Kovaleva /
+OR: Ковалева /
+EN: Kovalev
+OR: Kovaleva
+
+LE2
+EN: P
+EN: Elena Sergeevna /
+OR: Елена Сергеевна /
+EN: Eicha
+
+E3
+EN: 28.06.500
+
+E4
+EN: 21.05.2021
+
+E5
+EN: 19.05.2005

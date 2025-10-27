@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\turkiye-083_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        593,
+        613,
+        1211,
+        732
+      ],
+      "lines": [
+        {
+          "text": "Aike",
+          "box": [
+            644,
+            644,
+            765,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        591,
+        448,
+        1211,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Aydın",
+          "box": [
+            651,
+            498,
+            793,
+            540
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        590,
+        769,
+        1188,
+        886
+      ],
+      "lines": [
+        {
+          "text": "29.07.2029",
+          "box": [
+            646,
+            802,
+            944,
+            849
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        595,
+        1090,
+        1180,
+        1215
+      ],
+      "lines": [
+        {
+          "text": "30.01.2025",
+          "box": [
+            640,
+            1119,
+            947,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

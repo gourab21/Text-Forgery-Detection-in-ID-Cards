@@ -1,0 +1,13 @@
+LE1
+EN: Huang Lei
+OR: 黄磊
+EN: Chloe Lei
+
+E2
+EN: 24 Feb 1978
+
+E3
+EN: 15 Mar 2000
+
+E4
+EN: 21 Dec 1917

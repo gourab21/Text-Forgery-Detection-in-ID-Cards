@@ -1,0 +1,22 @@
+E1
+EN: S ranci
+
+E2
+EN: Kazemi
+
+L1
+OR: ثريا
+EN: chandelier
+
+L2
+OR: کاظمی
+EN: Kazemi
+
+E3
+EN: 22/06/2013
+
+E4
+EN: 12/06/2024
+
+E5
+EN: 12 / 06 / -208

@@ -1,0 +1,19 @@
+LE1
+EN: Shevchenko /
+OR: Шевченко /
+EN: Shevchenko
+
+LE2
+EN: Iryna Olegivna /
+OR: Ірина Олегівна /
+EN: I cry.
+OR: I ulie
+
+E3
+EN: 19.03.2041
+
+E4
+EN: 04.08.2020
+
+E5
+EN: 04.08.21955

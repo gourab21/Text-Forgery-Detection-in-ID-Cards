@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-067_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        425,
+        1238,
+        659
+      ],
+      "lines": [
+        {
+          "text": "James Wilson",
+          "box": [
+            653,
+            466,
+            1002,
+            508
+          ]
+        },
+        {
+          "text": "67.84 Creek Rd",
+          "box": [
+            653,
+            524,
+            1028,
+            564
+          ]
+        },
+        {
+          "text": "Dover DE 19901",
+          "box": [
+            654,
+            582,
+            1065,
+            626
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1455,
+        754,
+        1950,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 01-12-84",
+          "box": [
+            1492,
+            776,
+            1888,
+            821
+          ]
+        }
+      ]
+    }
+  ]
+}

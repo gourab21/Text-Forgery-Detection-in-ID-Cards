@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-100_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "ROBERT",
+          "box": [
+            659,
+            295,
+            852,
+            326
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Marie , Noëlle",
+          "box": [
+            656,
+            470,
+            967,
+            509
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1386,
+        616,
+        1775,
+        721
+      ],
+      "lines": [
+        {
+          "text": "17 05 2080",
+          "box": [
+            1425,
+            637,
+            1694,
+            673
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1367,
+        1005,
+        1764,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "09 05 2074",
+          "box": [
+            1412,
+            1024,
+            1678,
+            1061
+          ]
+        }
+      ]
+    }
+  ]
+}

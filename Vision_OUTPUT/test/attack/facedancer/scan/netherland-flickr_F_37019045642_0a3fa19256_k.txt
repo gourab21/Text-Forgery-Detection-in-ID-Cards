@@ -1,0 +1,12 @@
+E1
+VISSER
+Daan Gerardus
+Petra
+
+E2
+OF BIRTH
+03 06 2002
+
+E3
+CARD EXPIRY
+29 09 2030

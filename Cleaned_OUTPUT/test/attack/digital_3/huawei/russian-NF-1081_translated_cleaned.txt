@@ -1,0 +1,20 @@
+LE1
+EN: Popova /
+OR: Попова /
+EN: Popova
+
+LE2
+EN: me
+OR: μο
+EN: Anastasia Vladimirovna
+OR: Анастасия Владимировна
+EN: Brenaniia Vidimifcura
+
+E3
+EN: 18.07.1904
+
+E4
+EN: 23.05.2018
+
+E5
+EN: 16.12.2099

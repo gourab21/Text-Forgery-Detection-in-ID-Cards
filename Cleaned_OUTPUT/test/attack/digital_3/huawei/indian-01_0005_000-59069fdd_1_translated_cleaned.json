@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\indian-01_0005_000-59069fdd_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\indian-01_0005_000-59069fdd_1.jpg",
+  "width": 3204,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1120,
+            729,
+            1290,
+            791
+          ],
+          "original_text": "DAS",
+          "translated_en": "DAS"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1119,
+            971,
+            1765,
+            1041
+          ],
+          "original_text": "ASHLEEKSHORE",
+          "translated_en": "ASHLEEKSHORE"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1114,
+            1225,
+            1619,
+            1298
+          ],
+          "original_text": "03/02/1901",
+          "translated_en": "03/02/1901"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1102,
+            1702,
+            1607,
+            1774
+          ],
+          "original_text": "10/11/2013",
+          "translated_en": "10/11/2013"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2272,
+            1717,
+            2775,
+            1788
+          ],
+          "original_text": "16/06/2051",
+          "translated_en": "16/06/2051"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-01_0005_000-59069fdd_1_translated_cleaned.jpg"
+}

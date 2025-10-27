@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\huawei\\usa-NF-1036.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\usa-NF-1036.jpg",
+  "width": 3211,
+  "height": 1988,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1045,
+            739,
+            1743,
+            824
+          ],
+          "original_text": "Bri ( fara Thomas",
+          "translated_en": "Bri ( fara Thomas",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1044,
+            842,
+            1593,
+            908
+          ],
+          "original_text": "8342 Pine Rd",
+          "translated_en": "8342 Pine Rd",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1043,
+            941,
+            1729,
+            1007
+          ],
+          "original_text": "Naples FL 34102",
+          "translated_en": "Naples FL 34102",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2406,
+            1241,
+            3072,
+            1324
+          ],
+          "original_text": "DOB : 04-07-203",
+          "translated_en": "DOB : 04-07-203",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1036_translated.jpg"
+}

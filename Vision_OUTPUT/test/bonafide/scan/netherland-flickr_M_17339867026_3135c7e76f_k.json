@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_17339867026_3135c7e76f_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        288,
+        1279,
+        537
+      ],
+      "lines": [
+        {
+          "text": "MEIJER",
+          "box": [
+            681,
+            324,
+            893,
+            366
+          ]
+        },
+        {
+          "text": "Hendrik Sophie",
+          "box": [
+            683,
+            380,
+            1127,
+            433
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            684,
+            456,
+            829,
+            498
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        557,
+        1969,
+        655
+      ],
+      "lines": [
+        {
+          "text": "14 10 1972",
+          "box": [
+            1565,
+            579,
+            1895,
+            625
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1462,
+        727,
+        1962,
+        849
+      ],
+      "lines": [
+        {
+          "text": "10 05 2035",
+          "box": [
+            1537,
+            751,
+            1902,
+            799
+          ]
+        }
+      ]
+    }
+  ]
+}

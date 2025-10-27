@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_17178258920_6f5f1eedd0_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        575,
+        576,
+        2080,
+        853
+      ],
+      "lines": [
+        {
+          "text": "Elena Petrova",
+          "box": [
+            710,
+            656,
+            1366,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        642,
+        1235,
+        1431,
+        1406
+      ],
+      "lines": [
+        {
+          "text": "1982-05-28",
+          "box": [
+            727,
+            1287,
+            1228,
+            1359
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1556,
+        1499,
+        2296,
+        1665
+      ],
+      "lines": [
+        {
+          "text": "1992-05-28",
+          "box": [
+            1649,
+            1528,
+            2153,
+            1601
+          ]
+        }
+      ]
+    }
+  ]
+}

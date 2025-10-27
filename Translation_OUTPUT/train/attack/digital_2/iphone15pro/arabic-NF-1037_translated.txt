@@ -1,0 +1,29 @@
+E1
+EN: Lienaclobbad
+
+L1
+OR: محمود لیلی
+EN: Mahmoud Leili
+EN: N
+
+E2
+EN: 23 Feb 2038
+
+E3
+EN: 15 Jan 2020
+
+E4
+EN: 05 Oct
+
+L2
+OR: ۲۲ / فبراير / ۱۹۸۱
+EN: February 22, 1981
+
+L3
+OR: ١٥ / يناير / ۲۰۲۰
+EN: January 15, 2020
+
+L4
+EN: 3
+OR: ٥ / أكتوبر / ٢٠٣٢
+EN: October 5, 2032

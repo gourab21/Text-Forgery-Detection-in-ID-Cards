@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NM-1091.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        472,
+        2345,
+        748
+      ],
+      "lines": [
+        {
+          "text": "GOMES OLIVEIRA",
+          "box": [
+            1095,
+            540,
+            1838,
+            607
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            1092,
+            633,
+            1352,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2646,
+        909,
+        3209,
+        1063
+      ],
+      "lines": [
+        {
+          "text": "04 06 1992",
+          "box": [
+            2745,
+            952,
+            3207,
+            1019
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1992,
+        1155,
+        2683,
+        1337
+      ],
+      "lines": [
+        {
+          "text": "02 06 2002",
+          "box": [
+            2088,
+            1219,
+            2556,
+            1286
+          ]
+        }
+      ]
+    }
+  ]
+}

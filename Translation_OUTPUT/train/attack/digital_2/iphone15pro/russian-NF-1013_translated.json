@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\russian-NF-1013.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\russian-NF-1013.jpg",
+  "width": 2803,
+  "height": 1785,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1001,
+            375,
+            1355,
+            441
+          ],
+          "original_text": "Ковалева /",
+          "translated_en": "Kovaleva /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1002,
+            459,
+            1280,
+            503
+          ],
+          "original_text": "Kovaleva",
+          "translated_en": "Kovalev",
+          "detected_lang": "st"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1012,
+            670,
+            1866,
+            732
+          ],
+          "original_text": "Елена Сергеевна / E",
+          "translated_en": "Elena Sergeevna / E",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            1011,
+            753,
+            1186,
+            795
+          ],
+          "original_text": "Eharl",
+          "translated_en": "Eharl",
+          "detected_lang": "hi-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1014,
+            961,
+            1385,
+            1025
+          ],
+          "original_text": "28.06.200",
+          "translated_en": "28.06.200",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1020,
+            1361,
+            1371,
+            1412
+          ],
+          "original_text": "21.05.2021",
+          "translated_en": "21.05.2021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1631,
+            1399,
+            1679
+          ],
+          "original_text": "19.05.2030",
+          "translated_en": "19.05.2030",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1013_translated.jpg"
+}

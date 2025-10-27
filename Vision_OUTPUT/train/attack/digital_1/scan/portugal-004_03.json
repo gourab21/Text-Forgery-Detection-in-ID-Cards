@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-004_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "OLLANDJAGAMES",
+          "box": [
+            689,
+            342,
+            1123,
+            387
+          ]
+        },
+        {
+          "text": "Francisco Jorge",
+          "box": [
+            690,
+            397,
+            1090,
+            450
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        577,
+        1995,
+        674
+      ],
+      "lines": [
+        {
+          "text": "07 06 2036",
+          "box": [
+            1707,
+            599,
+            1994,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        732,
+        1668,
+        847
+      ],
+      "lines": [
+        {
+          "text": "22 09 2026",
+          "box": [
+            1304,
+            767,
+            1601,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

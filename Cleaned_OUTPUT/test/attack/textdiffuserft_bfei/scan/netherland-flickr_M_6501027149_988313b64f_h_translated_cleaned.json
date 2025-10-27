@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_6501027149_988313b64f_h_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_6501027149_988313b64f_h.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            689,
+            316,
+            913,
+            362
+          ],
+          "original_text": "VISSER",
+          "translated_en": "VISSER"
+        },
+        {
+          "box": [
+            699,
+            377,
+            1120,
+            432
+          ],
+          "original_text": "Brandi Cornelis",
+          "translated_en": "Brandi Cornelis"
+        },
+        {
+          "box": [
+            688,
+            448,
+            955,
+            493
+          ],
+          "original_text": "Gerardus",
+          "translated_en": "Gerardus"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1562,
+            603,
+            1886,
+            650
+          ],
+          "original_text": "29 10 2093",
+          "translated_en": "29 10 2093"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1532,
+            770,
+            1894,
+            824
+          ],
+          "original_text": "15 09 2088",
+          "translated_en": "15 09 2088"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_6501027149_988313b64f_h_translated_cleaned.jpg"
+}

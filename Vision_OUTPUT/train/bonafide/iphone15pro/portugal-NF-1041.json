@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1041.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        432,
+        2083,
+        685
+      ],
+      "lines": [
+        {
+          "text": "SANTOS OLIVEIRA",
+          "box": [
+            969,
+            493,
+            1654,
+            557
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            971,
+            589,
+            1107,
+            637
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2351,
+        833,
+        2851,
+        973
+      ],
+      "lines": [
+        {
+          "text": "31 05 1978",
+          "box": [
+            2434,
+            835,
+            2840,
+            882
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1770,
+        1057,
+        2383,
+        1223
+      ],
+      "lines": [
+        {
+          "text": "28 05 2028",
+          "box": [
+            1872,
+            1082,
+            2273,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

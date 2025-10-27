@@ -1,0 +1,29 @@
+E1
+EN: YillefoMobarak
+
+L1
+OR: مبارك يوسف
+EN: Mubarak Youssef
+
+E2
+EN: 03 Dec 1998
+
+E3
+EN: 25 May 2023
+
+E4
+EN: 25 May 1990
+
+L2
+OR: تاريخ
+EN: History
+OR: / / ديسمبر / ۱۹۸۸
+EN: / / December / 1988
+
+L3
+OR: ٢٥ / مايو / ٢۰۲۳
+EN: May 25, 2023
+
+L4
+OR: ٢٥ / مايو / ٢۰۳۳
+EN: May 25, 2033

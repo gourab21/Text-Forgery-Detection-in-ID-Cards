@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-NF-1060.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "FAWANCESREVEDO",
+          "box": [
+            677,
+            338,
+            1252,
+            391
+          ]
+        },
+        {
+          "text": "Carla",
+          "box": [
+            679,
+            407,
+            812,
+            442
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        575,
+        1995,
+        671
+      ],
+      "lines": [
+        {
+          "text": "08 10 1991",
+          "box": [
+            1704,
+            578,
+            1994,
+            619
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        730,
+        1668,
+        845
+      ],
+      "lines": [
+        {
+          "text": "05 10 2032",
+          "box": [
+            1306,
+            753,
+            1603,
+            799
+          ]
+        }
+      ]
+    }
+  ]
+}

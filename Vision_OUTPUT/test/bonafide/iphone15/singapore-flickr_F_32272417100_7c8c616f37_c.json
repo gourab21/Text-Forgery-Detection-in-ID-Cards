@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_32272417100_7c8c616f37_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        576,
+        575,
+        2083,
+        851
+      ],
+      "lines": [
+        {
+          "text": "Maria Rossi",
+          "box": [
+            702,
+            655,
+            1249,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        642,
+        1233,
+        1434,
+        1404
+      ],
+      "lines": [
+        {
+          "text": "1970-07-26",
+          "box": [
+            720,
+            1285,
+            1223,
+            1356
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1559,
+        1497,
+        2300,
+        1662
+      ],
+      "lines": [
+        {
+          "text": "1980-07-26",
+          "box": [
+            1640,
+            1529,
+            2145,
+            1600
+          ]
+        }
+      ]
+    }
+  ]
+}

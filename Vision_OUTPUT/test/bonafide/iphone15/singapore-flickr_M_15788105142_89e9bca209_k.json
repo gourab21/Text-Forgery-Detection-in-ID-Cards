@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_15788105142_89e9bca209_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        576,
+        572,
+        2084,
+        847
+      ],
+      "lines": [
+        {
+          "text": "Ahmad bin Salleh",
+          "box": [
+            696,
+            640,
+            1536,
+            717
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1227,
+        1436,
+        1397
+      ],
+      "lines": [
+        {
+          "text": "1971-11-04",
+          "box": [
+            721,
+            1279,
+            1223,
+            1347
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1560,
+        1490,
+        2302,
+        1655
+      ],
+      "lines": [
+        {
+          "text": "1981-11-04",
+          "box": [
+            1643,
+            1522,
+            2142,
+            1594
+          ]
+        }
+      ]
+    }
+  ]
+}

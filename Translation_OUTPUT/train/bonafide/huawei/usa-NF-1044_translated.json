@@ -1,0 +1,74 @@
+{
+  "source_json": "train\\bonafide\\huawei\\usa-NF-1044.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-NF-1044.jpg",
+  "width": 3192,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1409,
+            672,
+            1514,
+            764
+          ],
+          "original_text": "20",
+          "translated_en": "20",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1039,
+            739,
+            1554,
+            807
+          ],
+          "original_text": "Emma Stone",
+          "translated_en": "Emma Stone",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1034,
+            831,
+            1557,
+            915
+          ],
+          "original_text": "321 Alder St",
+          "translated_en": "321 Alder St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1036,
+            926,
+            1811,
+            996
+          ],
+          "original_text": "Portland OR 97201",
+          "translated_en": "Portland OR 97201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2391,
+            1232,
+            3019,
+            1300
+          ],
+          "original_text": "DOB : 02-13-94",
+          "translated_en": "DOB : 02-13-94",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1044_translated.jpg"
+}

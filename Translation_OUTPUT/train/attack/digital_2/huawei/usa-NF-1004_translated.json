@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\huawei\\usa-NF-1004.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\usa-NF-1004.jpg",
+  "width": 3201,
+  "height": 2001,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1054,
+            761,
+            1283,
+            824
+          ],
+          "original_text": "Mast",
+          "translated_en": "Mast",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1050,
+            855,
+            1652,
+            922
+          ],
+          "original_text": "6784 Creek Rd",
+          "translated_en": "6784 Creek Rd",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1049,
+            952,
+            1713,
+            1019
+          ],
+          "original_text": "Dover DE 19901",
+          "translated_en": "Dover DE 19901",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2405,
+            1255,
+            3057,
+            1339
+          ],
+          "original_text": "DOB : 10-10-33",
+          "translated_en": "DOB : 10-10-33",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1004_translated.jpg"
+}

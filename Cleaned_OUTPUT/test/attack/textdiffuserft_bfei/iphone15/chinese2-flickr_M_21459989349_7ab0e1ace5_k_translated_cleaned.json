@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_21459989349_7ab0e1ace5_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_21459989349_7ab0e1ace5_k.jpg",
+  "width": 2765,
+  "height": 1733,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            941,
+            598,
+            1085,
+            662
+          ],
+          "original_text": "张 洋",
+          "translated_en": "Zhang Yang"
+        },
+        {
+          "box": [
+            945,
+            679,
+            1381,
+            743
+          ],
+          "original_text": "Dusin Yang",
+          "translated_en": "Dusin Yang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1721,
+            955,
+            2223,
+            1043
+          ],
+          "original_text": "13 Apr 2002",
+          "translated_en": "13 Apr 2002"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1738,
+            1215,
+            2224,
+            1280
+          ],
+          "original_text": "11 Mar 1922",
+          "translated_en": "11 Mar 1922"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            961,
+            1492,
+            1464,
+            1560
+          ],
+          "original_text": "15 Nov 1950",
+          "translated_en": "15 Nov 1950"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_21459989349_7ab0e1ace5_k_translated_cleaned.jpg"
+}

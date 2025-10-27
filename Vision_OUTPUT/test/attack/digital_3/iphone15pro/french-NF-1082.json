@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-NF-1082.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        380,
+        1658,
+        513
+      ],
+      "lines": [
+        {
+          "text": "MASSON",
+          "box": [
+            916,
+            429,
+            1196,
+            480
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        628,
+        1757,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Johne Sabine",
+          "box": [
+            923,
+            673,
+            1378,
+            731
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1944,
+        881,
+        2490,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "11 09 2048",
+          "box": [
+            2006,
+            885,
+            2372,
+            936
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1918,
+        1437,
+        2474,
+        1576
+      ],
+      "lines": [
+        {
+          "text": "ST 60 OZ / C",
+          "box": [
+            2010,
+            1437,
+            2380,
+            1478
+          ]
+        }
+      ]
+    }
+  ]
+}

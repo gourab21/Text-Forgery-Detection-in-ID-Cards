@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\ukraine-030_03.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\ukraine-030_03.jpg",
+  "width": 2815,
+  "height": 1804,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            906,
+            376,
+            1090,
+            419
+          ],
+          "original_text": "Прізви",
+          "translated_en": "Nicknames",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            910,
+            431,
+            1251,
+            508
+          ],
+          "original_text": "Зубенко /",
+          "translated_en": "Zubenko /",
+          "detected_lang": "mk"
+        },
+        {
+          "box": [
+            912,
+            518,
+            1202,
+            567
+          ],
+          "original_text": "Zubenko",
+          "translated_en": "Zubenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            914,
+            688,
+            1578,
+            761
+          ],
+          "original_text": "Тетяна Василівна /",
+          "translated_en": "Tatyana Vasylivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            915,
+            779,
+            1190,
+            830
+          ],
+          "original_text": "Тяѕонта",
+          "translated_en": "Tysonta",
+          "detected_lang": "bg"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            924,
+            985,
+            1324,
+            1042
+          ],
+          "original_text": "25.12.0149",
+          "translated_en": "25.12.0149",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            934,
+            1381,
+            1309,
+            1436
+          ],
+          "original_text": "10.11.2020",
+          "translated_en": "10.11.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            939,
+            1664,
+            1343,
+            1717
+          ],
+          "original_text": "10.11.22022",
+          "translated_en": "10.11.22022",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-030_03_translated.jpg"
+}

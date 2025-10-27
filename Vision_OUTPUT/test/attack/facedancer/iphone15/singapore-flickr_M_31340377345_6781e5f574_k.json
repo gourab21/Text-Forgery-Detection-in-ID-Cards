@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\singapore-flickr_M_31340377345_6781e5f574_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        577,
+        577,
+        2086,
+        854
+      ],
+      "lines": [
+        {
+          "text": "Wei Tsang Ooi",
+          "box": [
+            706,
+            653,
+            1395,
+            730
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1238,
+        1436,
+        1409
+      ],
+      "lines": [
+        {
+          "text": "1973-11-18",
+          "box": [
+            728,
+            1291,
+            1228,
+            1360
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1562,
+        1504,
+        2305,
+        1670
+      ],
+      "lines": [
+        {
+          "text": "1983-11-18",
+          "box": [
+            1649,
+            1535,
+            2156,
+            1608
+          ]
+        }
+      ]
+    }
+  ]
+}

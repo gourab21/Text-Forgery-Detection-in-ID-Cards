@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-042_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        475
+      ],
+      "lines": [
+        {
+          "text": "PETEIRA COSTA",
+          "box": [
+            691,
+            341,
+            1103,
+            385
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            682,
+            397,
+            832,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        577,
+        1997,
+        674
+      ],
+      "lines": [
+        {
+          "text": "31 07 2029",
+          "box": [
+            1702,
+            599,
+            1953,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        732,
+        1669,
+        847
+      ],
+      "lines": [
+        {
+          "text": "27 01 1983",
+          "box": [
+            1299,
+            770,
+            1584,
+            812
+          ]
+        }
+      ]
+    }
+  ]
+}

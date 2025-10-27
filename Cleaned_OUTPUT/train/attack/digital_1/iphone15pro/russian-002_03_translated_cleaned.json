@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\russian-002_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\russian-002_03.jpg",
+  "width": 2832,
+  "height": 1802,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1013,
+            386,
+            1400,
+            445
+          ],
+          "original_text": "Васильева /",
+          "translated_en": "Vasilyeva /"
+        },
+        {
+          "box": [
+            1007,
+            459,
+            1282,
+            521
+          ],
+          "original_text": "Vasilleva",
+          "translated_en": "Vasilleva"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1013,
+            675,
+            1884,
+            751
+          ],
+          "original_text": "Людмила Анатольевна / В",
+          "translated_en": "Lyudmila Anatolyevna / V"
+        },
+        {
+          "box": [
+            1016,
+            763,
+            1639,
+            811
+          ],
+          "original_text": "LarrailiaAnt & atllal",
+          "translated_en": "LarrailiaAnt &amp; atllal"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1022,
+            980,
+            1393,
+            1026
+          ],
+          "original_text": "28.08.:2015",
+          "translated_en": "28.08.:2015"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1372,
+            1376,
+            1424
+          ],
+          "original_text": "20.08.2015",
+          "translated_en": "20.08.2015"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1029,
+            1637,
+            1394,
+            1691
+          ],
+          "original_text": "17.08.1991",
+          "translated_en": "17.08.1991"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-002_03_translated_cleaned.jpg"
+}

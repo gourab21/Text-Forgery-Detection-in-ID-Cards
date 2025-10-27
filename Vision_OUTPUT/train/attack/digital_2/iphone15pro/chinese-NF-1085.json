@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\chinese-NF-1085.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        891,
+        558,
+        1543,
+        822
+      ],
+      "lines": [
+        {
+          "text": "吴芳",
+          "box": [
+            947,
+            611,
+            1089,
+            680
+          ]
+        },
+        {
+          "text": "vennife",
+          "box": [
+            948,
+            688,
+            1285,
+            763
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1674,
+        931,
+        2248,
+        1119
+      ],
+      "lines": [
+        {
+          "text": "14 MAY 2019",
+          "box": [
+            1732,
+            987,
+            2221,
+            1057
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1649,
+        1200,
+        2280,
+        1381
+      ],
+      "lines": [
+        {
+          "text": "04 JUN 2010",
+          "box": [
+            1736,
+            1246,
+            2190,
+            1305
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        862,
+        1470,
+        1522,
+        1643
+      ],
+      "lines": [
+        {
+          "text": "03 JUN 2282",
+          "box": [
+            964,
+            1521,
+            1447,
+            1590
+          ]
+        }
+      ]
+    }
+  ]
+}

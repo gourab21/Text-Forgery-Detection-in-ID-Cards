@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\ukraine-006_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-006_03.jpg",
+  "width": 1994,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            652,
+            292,
+            892,
+            339
+          ],
+          "original_text": "Кравчук /",
+          "translated_en": "Kravchuk /"
+        },
+        {
+          "box": [
+            650,
+            350,
+            873,
+            385
+          ],
+          "original_text": "Kravchuk",
+          "translated_en": "Kravchuk"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            643,
+            472,
+            1162,
+            523
+          ],
+          "original_text": "Тетяна Анатоліївна /",
+          "translated_en": "Tatyana Anatoliivna /"
+        },
+        {
+          "box": [
+            648,
+            527,
+            832,
+            565
+          ],
+          "original_text": "Valerie",
+          "translated_en": "Valerie"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            644,
+            678,
+            912,
+            717
+          ],
+          "original_text": "04.03.2086",
+          "translated_en": "04.03.2086"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            639,
+            954,
+            905,
+            990
+          ],
+          "original_text": "12.02.2019",
+          "translated_en": "12.02.2019"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            632,
+            1149,
+            900,
+            1186
+          ],
+          "original_text": "09.09.2066",
+          "translated_en": "09.09.2066"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-006_03_translated_cleaned.jpg"
+}

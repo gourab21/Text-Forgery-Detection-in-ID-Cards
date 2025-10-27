@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1109.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        996,
+        474,
+        2350,
+        751
+      ],
+      "lines": [
+        {
+          "text": "COSTA SANTOS",
+          "box": [
+            1100,
+            540,
+            1745,
+            610
+          ]
+        },
+        {
+          "text": "Sara",
+          "box": [
+            1098,
+            636,
+            1273,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2652,
+        913,
+        3216,
+        1068
+      ],
+      "lines": [
+        {
+          "text": "09 10 1979",
+          "box": [
+            2752,
+            955,
+            3215,
+            1023
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1997,
+        1159,
+        2690,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "06 10 2029",
+          "box": [
+            2094,
+            1223,
+            2561,
+            1292
+          ]
+        }
+      ]
+    }
+  ]
+}

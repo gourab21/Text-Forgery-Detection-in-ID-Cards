@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\singapore-flickr_M_22942161980_136669b7da_c_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_M_22942161980_136669b7da_c.jpg",
+  "width": 2782,
+  "height": 1745,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            703,
+            660,
+            1279,
+            733
+          ],
+          "original_text": "Suresh Iyer",
+          "translated_en": "Suresh Iyer"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            728,
+            1294,
+            1233,
+            1370
+          ],
+          "original_text": "1976-07-15",
+          "translated_en": "1976-07-15"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1653,
+            1538,
+            2159,
+            1611
+          ],
+          "original_text": "1986-07-15",
+          "translated_en": "1986-07-15"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_22942161980_136669b7da_c_translated_cleaned.jpg"
+}

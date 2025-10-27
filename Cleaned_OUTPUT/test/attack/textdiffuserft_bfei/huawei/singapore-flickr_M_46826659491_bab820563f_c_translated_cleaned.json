@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_46826659491_bab820563f_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_46826659491_bab820563f_c.jpg",
+  "width": 3181,
+  "height": 1978,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            810,
+            738,
+            1450,
+            818
+          ],
+          "original_text": "Amand Saed",
+          "translated_en": "Amand Saed"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            828,
+            1471,
+            1401,
+            1558
+          ],
+          "original_text": "22-05-4599",
+          "translated_en": "22-05-4599"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1894,
+            1745,
+            2472,
+            1833
+          ],
+          "original_text": "30-02-2770",
+          "translated_en": "30-02-2770"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_46826659491_bab820563f_c_translated_cleaned.jpg"
+}

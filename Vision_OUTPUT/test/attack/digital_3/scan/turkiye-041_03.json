@@ -1,0 +1,76 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-041_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        610,
+        1217,
+        728
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        446,
+        1217,
+        569
+      ],
+      "lines": [
+        {
+          "text": "Akgül",
+          "box": [
+            657,
+            494,
+            808,
+            544
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        765,
+        1194,
+        882
+      ],
+      "lines": [
+        {
+          "text": "25.07.2049",
+          "box": [
+            655,
+            803,
+            944,
+            846
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1085,
+        1185,
+        1210
+      ],
+      "lines": [
+        {
+          "text": "11.01.2011",
+          "box": [
+            650,
+            1117,
+            940,
+            1157
+          ]
+        }
+      ]
+    }
+  ]
+}

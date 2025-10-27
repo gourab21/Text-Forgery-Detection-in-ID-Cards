@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\portugal-026_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\portugal-026_03.jpg",
+  "width": 2883,
+  "height": 1794,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            991,
+            497,
+            1784,
+            563
+          ],
+          "original_text": "ERIKANDES RIBEIRO",
+          "translated_en": "ERIKANDES RIBEIRO"
+        },
+        {
+          "box": [
+            974,
+            588,
+            1178,
+            651
+          ],
+          "original_text": "Tiago",
+          "translated_en": "Tiago"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2442,
+            833,
+            2821,
+            898
+          ],
+          "original_text": "09 07 2027",
+          "translated_en": "09 07 2027"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1879,
+            1091,
+            2289,
+            1151
+          ],
+          "original_text": "28 10 2061",
+          "translated_en": "28 10 2061"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-026_03_translated_cleaned.jpg"
+}

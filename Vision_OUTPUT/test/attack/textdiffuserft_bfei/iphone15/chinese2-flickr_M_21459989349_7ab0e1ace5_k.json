@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_21459989349_7ab0e1ace5_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        857,
+        548,
+        1653,
+        819
+      ],
+      "lines": [
+        {
+          "text": "张 洋",
+          "box": [
+            941,
+            598,
+            1085,
+            662
+          ]
+        },
+        {
+          "text": "Dusin Yang",
+          "box": [
+            945,
+            679,
+            1381,
+            743
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1672,
+        913,
+        2317,
+        1078
+      ],
+      "lines": [
+        {
+          "text": "13 Apr 2002",
+          "box": [
+            1721,
+            955,
+            2223,
+            1043
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1677,
+        1169,
+        2343,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "11 Mar 1922",
+          "box": [
+            1738,
+            1215,
+            2224,
+            1280
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        889,
+        1449,
+        1552,
+        1632
+      ],
+      "lines": [
+        {
+          "text": "15 Nov 1950",
+          "box": [
+            961,
+            1492,
+            1464,
+            1560
+          ]
+        }
+      ]
+    }
+  ]
+}

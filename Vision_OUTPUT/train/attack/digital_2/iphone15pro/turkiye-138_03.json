@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\turkiye-138_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        788,
+        791,
+        1609,
+        946
+      ],
+      "lines": [
+        {
+          "text": "Ticha",
+          "box": [
+            869,
+            845,
+            1067,
+            897
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        786,
+        578,
+        1609,
+        739
+      ],
+      "lines": [
+        {
+          "text": "Özden",
+          "box": [
+            872,
+            636,
+            1082,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        784,
+        993,
+        1579,
+        1143
+      ],
+      "lines": [
+        {
+          "text": "04.05 . 2043",
+          "box": [
+            880,
+            1043,
+            1283,
+            1094
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        790,
+        1406,
+        1568,
+        1569
+      ],
+      "lines": [
+        {
+          "text": "21.07.12.09",
+          "box": [
+            888,
+            1455,
+            1292,
+            1506
+          ]
+        }
+      ]
+    }
+  ]
+}

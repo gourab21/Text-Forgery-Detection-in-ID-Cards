@@ -1,0 +1,12 @@
+LE1
+EN: AL
+EN: Nicoleing
+
+E2
+EN: 02 Sep 1973
+
+E3
+EN: 17 Apr 2016
+
+E4
+EN: 26 Sep 1927

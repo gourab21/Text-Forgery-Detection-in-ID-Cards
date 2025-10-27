@@ -1,0 +1,27 @@
+E1
+EN: Kate Ali
+
+L1
+EN: Ali Zahra
+OR: علي زهراء
+
+E2
+EN: 11 Jan 2034
+
+E3
+EN: 18 Feb 2020
+
+E4
+EN: 28 Oct 2011
+
+L2
+EN: 29 June 29, 1995
+OR: ۲۹ ٢٩ / يونيو / ۱۹۹۵ ११०
+
+L3
+EN: February 18, 2020
+OR: ۱۸ / فبراير / ۲۰۲۰
+
+L4
+EN: October 25, 2029
+OR: ٢٥ / أكتوبر / ۲۰۲۹

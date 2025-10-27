@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-NF-1062.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        969,
+        673,
+        1989,
+        1044
+      ],
+      "lines": [
+        {
+          "text": "Laura Brown",
+          "box": [
+            1042,
+            739,
+            1564,
+            804
+          ]
+        },
+        {
+          "text": "337 Lakeview Dr",
+          "box": [
+            1042,
+            830,
+            1736,
+            896
+          ]
+        },
+        {
+          "text": "Medford OR 97501",
+          "box": [
+            1039,
+            921,
+            1814,
+            994
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2334,
+        1192,
+        3130,
+        1353
+      ],
+      "lines": [
+        {
+          "text": "DOB : 07-19-91",
+          "box": [
+            2401,
+            1229,
+            3032,
+            1301
+          ]
+        }
+      ]
+    }
+  ]
+}

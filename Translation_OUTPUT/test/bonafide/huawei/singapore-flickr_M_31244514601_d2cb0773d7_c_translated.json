@@ -1,0 +1,57 @@
+{
+  "source_json": "test\\bonafide\\huawei\\singapore-flickr_M_31244514601_d2cb0773d7_c.json",
+  "image_relative": "test\\bonafide\\huawei\\singapore-flickr_M_31244514601_d2cb0773d7_c.jpg",
+  "width": 3168,
+  "height": 1977,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            793,
+            758,
+            1440,
+            826
+          ],
+          "original_text": "Amit Verma",
+          "translated_en": "Amit Verma",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            817,
+            1478,
+            1396,
+            1552
+          ],
+          "original_text": "2002-07-31",
+          "translated_en": "2002-07-31",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1872,
+            1756,
+            2459,
+            1835
+          ],
+          "original_text": "2012-07-31",
+          "translated_en": "2012-07-31",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_31244514601_d2cb0773d7_c_translated.jpg"
+}

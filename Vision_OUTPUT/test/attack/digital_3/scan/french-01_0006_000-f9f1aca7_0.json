@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-01_0006_000-f9f1aca7_0.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "MARTINEZ",
+          "box": [
+            656,
+            295,
+            910,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        440,
+        1251,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Kimberyamien",
+          "box": [
+            658,
+            468,
+            1001,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        617,
+        1774,
+        722
+      ],
+      "lines": [
+        {
+          "text": "16 02 1939",
+          "box": [
+            1420,
+            636,
+            1687,
+            679
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1006,
+        1763,
+        1103
+      ],
+      "lines": [
+        {
+          "text": "26 01 1990",
+          "box": [
+            1410,
+            1026,
+            1678,
+            1065
+          ]
+        }
+      ]
+    }
+  ]
+}

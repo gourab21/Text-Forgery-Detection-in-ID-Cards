@@ -1,0 +1,22 @@
+E1
+EN: Monnie
+
+E2
+EN: Kermani
+
+L1
+OR: مريم
+EN: Mariam
+
+L2
+OR: قاسمی
+EN: Qasmi
+
+E3
+EN: 23/07/2005
+
+E4
+EN: 15/12/2024
+
+E5
+EN: 17/01/2030

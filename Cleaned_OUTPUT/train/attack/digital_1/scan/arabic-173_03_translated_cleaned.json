@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\arabic-173_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\arabic-173_03.jpg",
+  "width": 2001,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            741,
+            469,
+            1200,
+            515
+          ],
+          "original_text": "Yeaven Mubarak",
+          "translated_en": "Yeaven Mubarak"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            731,
+            329,
+            1072,
+            391
+          ],
+          "original_text": "مبارك يوسف",
+          "translated_en": "Mubarak Youssef"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            736,
+            782,
+            1105,
+            828
+          ],
+          "original_text": "03 Dec 2044",
+          "translated_en": "03 Dec 2044"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            734,
+            947,
+            1108,
+            996
+          ],
+          "original_text": "25 May 2023",
+          "translated_en": "25 May 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            728,
+            1113,
+            1107,
+            1164
+          ],
+          "original_text": "25 May 2004",
+          "translated_en": "25 May 2004"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1273,
+            791,
+            1627,
+            849
+          ],
+          "original_text": "٠٣ / / ديسمبر /",
+          "translated_en": "December 3"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1260,
+            953,
+            1694,
+            1009
+          ],
+          "original_text": "٢٥ / مايو / ٢٠٢٣",
+          "translated_en": "May 25, 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1260,
+            1118,
+            1690,
+            1178
+          ],
+          "original_text": "٢٥ / مايو / ٢٠٣٣",
+          "translated_en": "May 25, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-173_03_translated_cleaned.jpg"
+}

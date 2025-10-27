@@ -1,0 +1,95 @@
+{
+  "image": "test\\bonafide\\iphone15\\chinese2-flickr_M_38999105422_457bedeef7_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        855,
+        547,
+        1649,
+        818
+      ],
+      "lines": [
+        {
+          "text": "张强",
+          "box": [
+            930,
+            594,
+            1081,
+            659
+          ]
+        },
+        {
+          "text": "Zhang Qiang",
+          "box": [
+            930,
+            678,
+            1413,
+            751
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1668,
+        911,
+        2311,
+        1076
+      ],
+      "lines": [
+        {
+          "text": "08 JUN 1984",
+          "box": [
+            1707,
+            957,
+            2194,
+            1019
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1673,
+        1167,
+        2337,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "03 JAN 2006",
+          "box": [
+            1714,
+            1209,
+            2196,
+            1272
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        887,
+        1446,
+        1548,
+        1629
+      ],
+      "lines": [
+        {
+          "text": "03 JAN 2026",
+          "box": [
+            949,
+            1487,
+            1427,
+            1551
+          ]
+        }
+      ]
+    }
+  ]
+}

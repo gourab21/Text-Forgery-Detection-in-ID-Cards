@@ -1,0 +1,95 @@
+{
+  "image": "test\\bonafide\\huawei\\chinese2-flickr_M_21459989349_7ab0e1ace5_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        998,
+        646,
+        1924,
+        966
+      ],
+      "lines": [
+        {
+          "text": "张 洋",
+          "box": [
+            1087,
+            701,
+            1261,
+            783
+          ]
+        },
+        {
+          "text": "Zhang Yang",
+          "box": [
+            1090,
+            809,
+            1610,
+            891
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1946,
+        1077,
+        2697,
+        1271
+      ],
+      "lines": [
+        {
+          "text": "04 MAR 1980",
+          "box": [
+            2006,
+            1140,
+            2600,
+            1217
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1952,
+        1378,
+        2727,
+        1583
+      ],
+      "lines": [
+        {
+          "text": "03 OCT 2005",
+          "box": [
+            2013,
+            1440,
+            2598,
+            1519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1035,
+        1709,
+        1807,
+        1925
+      ],
+      "lines": [
+        {
+          "text": "03 OCT 2025",
+          "box": [
+            1114,
+            1770,
+            1696,
+            1845
+          ]
+        }
+      ]
+    }
+  ]
+}

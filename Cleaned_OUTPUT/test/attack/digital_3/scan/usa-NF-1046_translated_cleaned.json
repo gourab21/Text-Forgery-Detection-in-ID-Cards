@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\usa-NF-1046_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-NF-1046.jpg",
+  "width": 1992,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            647,
+            471,
+            991,
+            513
+          ],
+          "original_text": "Michael White",
+          "translated_en": "Michael White"
+        },
+        {
+          "box": [
+            645,
+            529,
+            1009,
+            570
+          ],
+          "original_text": "881 Willow Dr",
+          "translated_en": "881 Willow Dr"
+        },
+        {
+          "box": [
+            650,
+            583,
+            1173,
+            638
+          ],
+          "original_text": "Burlington VT 05401",
+          "translated_en": "Burlington VT 05401"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1496,
+            757,
+            1888,
+            799
+          ],
+          "original_text": "01-12-99",
+          "translated_en": "01-12-99"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1046_translated_cleaned.jpg"
+}

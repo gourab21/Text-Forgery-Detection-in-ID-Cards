@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\russian-01_0075_000-9bed189a_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-01_0075_000-9bed189a_0.jpg",
+  "width": 3194,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1152,
+            416,
+            1435,
+            485
+          ],
+          "original_text": "Попов /",
+          "translated_en": "Popov /"
+        },
+        {
+          "box": [
+            1148,
+            501,
+            1366,
+            566
+          ],
+          "original_text": "Popov",
+          "translated_en": "Popov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1143,
+            750,
+            2126,
+            830
+          ],
+          "original_text": "Владимир Александровичо",
+          "translated_en": "Vladimir Alexandrovich"
+        },
+        {
+          "box": [
+            1149,
+            840,
+            1443,
+            896
+          ],
+          "original_text": "Barbaar",
+          "translated_en": "Barbarian"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1140,
+            1076,
+            1534,
+            1133
+          ],
+          "original_text": "31.08.1947",
+          "translated_en": "31.08.1947"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1130,
+            1516,
+            1529,
+            1577
+          ],
+          "original_text": "05.10.2023",
+          "translated_en": "05.10.2023"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1129,
+            1816,
+            1524,
+            1872
+          ],
+          "original_text": "16.12.2042",
+          "translated_en": "16.12.2042"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-01_0075_000-9bed189a_0_translated_cleaned.jpg"
+}

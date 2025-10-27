@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\persian-NF-1018_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\persian-NF-1018.jpg",
+  "width": 2806,
+  "height": 1787,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1064,
+            402,
+            1286,
+            462
+          ],
+          "original_text": "Chris",
+          "translated_en": "Chris"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1081,
+            611,
+            1321,
+            667
+          ],
+          "original_text": "Karimi",
+          "translated_en": "Karimi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1892,
+            397,
+            2014,
+            453
+          ],
+          "original_text": "زهرا",
+          "translated_en": "Zahra"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1890,
+            600,
+            2063,
+            676
+          ],
+          "original_text": "كريمى",
+          "translated_en": "Creamy"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1080,
+            840,
+            1465,
+            900
+          ],
+          "original_text": "06/12/1996",
+          "translated_en": "06/12/1996"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1092,
+            1307,
+            1486,
+            1368
+          ],
+          "original_text": "09/09/2019",
+          "translated_en": "09/09/2019"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1918,
+            1294,
+            2301,
+            1351
+          ],
+          "original_text": "13/06/1987",
+          "translated_en": "13/06/1987"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1018_translated_cleaned.jpg"
+}

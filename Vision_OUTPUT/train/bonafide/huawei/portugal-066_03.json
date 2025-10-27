@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        999,
+        479,
+        2356,
+        759
+      ],
+      "lines": [
+        {
+          "text": "SANTOS COSTA",
+          "box": [
+            1103,
+            550,
+            1747,
+            621
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            1102,
+            640,
+            1809,
+            723
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2659,
+        922,
+        3225,
+        1078
+      ],
+      "lines": [
+        {
+          "text": "18 03 1989",
+          "box": [
+            2762,
+            968,
+            3224,
+            1032
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2002,
+        1171,
+        2696,
+        1356
+      ],
+      "lines": [
+        {
+          "text": "04 01 2033",
+          "box": [
+            2098,
+            1236,
+            2569,
+            1304
+          ]
+        }
+      ]
+    }
+  ]
+}

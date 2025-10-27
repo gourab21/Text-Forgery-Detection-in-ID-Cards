@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\netherland-flickr_M_21260956694_6fd7ae0222_k_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\netherland-flickr_M_21260956694_6fd7ae0222_k.jpg",
+  "width": 2777,
+  "height": 1745,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            939,
+            445,
+            1433,
+            512
+          ],
+          "original_text": "STEVENSON",
+          "translated_en": "STEVENSON"
+        },
+        {
+          "box": [
+            946,
+            537,
+            1553,
+            607
+          ],
+          "original_text": "Emma Matthijs",
+          "translated_en": "Emma Matthijs"
+        },
+        {
+          "box": [
+            945,
+            630,
+            1249,
+            692
+          ],
+          "original_text": "Henrike",
+          "translated_en": "Henrike"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2169,
+            808,
+            2635,
+            876
+          ],
+          "original_text": "03 12 1997",
+          "translated_en": "03 12 1997"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2134,
+            1052,
+            2647,
+            1118
+          ],
+          "original_text": "28 07 2030",
+          "translated_en": "28 07 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_21260956694_6fd7ae0222_k_translated_cleaned.jpg"
+}

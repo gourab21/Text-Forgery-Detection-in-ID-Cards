@@ -1,0 +1,27 @@
+E1
+EN: RamantraKhoirry
+
+L1
+EN: Father Rania
+OR: الخوري رانيا
+
+E2
+EN: 15 Jan 1993
+
+E3
+EN: 28 May 2023
+
+E4
+EN: 11 Sep 2020
+
+L2
+EN: January 15, 1983
+OR: ١٥ / يناير / ۱۹۸۳
+
+L3
+EN: May 28, 2023
+OR: ۲۸ / مايو / ٢٠٢٣
+
+L4
+EN: September 11, 2028
+OR: ۱۱ / سبتمبر / ۲۰۲۸

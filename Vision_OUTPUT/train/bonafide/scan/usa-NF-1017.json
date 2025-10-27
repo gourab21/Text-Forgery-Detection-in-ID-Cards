@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-NF-1017.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        427,
+        1238,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Olivia Queen",
+          "box": [
+            648,
+            463,
+            974,
+            517
+          ]
+        },
+        {
+          "text": "345 Cherry Ln",
+          "box": [
+            646,
+            523,
+            1007,
+            573
+          ]
+        },
+        {
+          "text": "Nashville TN 37212",
+          "box": [
+            647,
+            584,
+            1144,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        756,
+        1948,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 11-30-93",
+          "box": [
+            1490,
+            776,
+            1886,
+            820
+          ]
+        }
+      ]
+    }
+  ]
+}

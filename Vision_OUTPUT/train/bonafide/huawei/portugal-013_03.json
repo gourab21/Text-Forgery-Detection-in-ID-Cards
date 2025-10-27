@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-013_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        450,
+        2217,
+        715
+      ],
+      "lines": [
+        {
+          "text": "ALMEIDA ANDRADE",
+          "box": [
+            1031,
+            517,
+            1810,
+            585
+          ]
+        },
+        {
+          "text": "Carla Patrícia",
+          "box": [
+            1033,
+            602,
+            1552,
+            667
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2500,
+        868,
+        3032,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "13 07 1996",
+          "box": [
+            2592,
+            908,
+            3029,
+            967
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1883,
+        1102,
+        2536,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "05 02 2034",
+          "box": [
+            1969,
+            1158,
+            2411,
+            1222
+          ]
+        }
+      ]
+    }
+  ]
+}

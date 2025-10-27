@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\singapore-flickr_M_37019084692_714cba8ac1_k_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_M_37019084692_714cba8ac1_k.jpg",
+  "width": 2786,
+  "height": 1731,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            703,
+            662,
+            1066,
+            722
+          ],
+          "original_text": "Jun Lee",
+          "translated_en": "Jun Lee"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            723,
+            1286,
+            1224,
+            1356
+          ],
+          "original_text": "1987-07-13",
+          "translated_en": "1987-07-13"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1646,
+            1529,
+            2149,
+            1600
+          ],
+          "original_text": "1997-07-13",
+          "translated_en": "1997-07-13"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_37019084692_714cba8ac1_k_translated_cleaned.jpg"
+}

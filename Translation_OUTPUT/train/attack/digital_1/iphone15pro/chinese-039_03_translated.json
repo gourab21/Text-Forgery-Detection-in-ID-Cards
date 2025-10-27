@@ -1,0 +1,84 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\chinese-039_03.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\chinese-039_03.jpg",
+  "width": 2782,
+  "height": 1763,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            944,
+            609,
+            1081,
+            684
+          ],
+          "original_text": "李芳",
+          "translated_en": "Li Fang",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            945,
+            694,
+            1178,
+            755
+          ],
+          "original_text": "Lennife",
+          "translated_en": "Lennife",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1726,
+            992,
+            2183,
+            1049
+          ],
+          "original_text": "19 Feb 2029",
+          "translated_en": "19 Feb 2029",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1728,
+            1249,
+            2162,
+            1305
+          ],
+          "original_text": "08 Jan 2011",
+          "translated_en": "08 Jan 2011",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            956,
+            1527,
+            1409,
+            1586
+          ],
+          "original_text": "05 Jan 2022",
+          "translated_en": "05 Jan 2022",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-039_03_translated.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        815,
+        388,
+        1924,
+        615
+      ],
+      "lines": [
+        {
+          "text": "PELLYRAICASSTO",
+          "box": [
+            914,
+            441,
+            1478,
+            493
+          ]
+        },
+        {
+          "text": "Luis Antonio",
+          "box": [
+            914,
+            518,
+            1332,
+            568
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2171,
+        748,
+        2633,
+        873
+      ],
+      "lines": [
+        {
+          "text": "03 01 1995",
+          "box": [
+            2252,
+            771,
+            2632,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1635,
+        949,
+        2201,
+        1098
+      ],
+      "lines": [
+        {
+          "text": "17 08 2018",
+          "box": [
+            1722,
+            990,
+            2109,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

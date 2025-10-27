@@ -1,0 +1,76 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\turkiye-01_0079_000-01a48f56_0.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        840,
+        881,
+        1713,
+        1052
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        837,
+        643,
+        1713,
+        822
+      ],
+      "lines": [
+        {
+          "text": "Sağlam",
+          "box": [
+            918,
+            718,
+            1180,
+            779
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        835,
+        1105,
+        1681,
+        1273
+      ],
+      "lines": [
+        {
+          "text": "03.02.1996",
+          "box": [
+            931,
+            1157,
+            1341,
+            1217
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        842,
+        1565,
+        1670,
+        1747
+      ],
+      "lines": [
+        {
+          "text": "08.02.2001",
+          "box": [
+            938,
+            1609,
+            1347,
+            1668
+          ]
+        }
+      ]
+    }
+  ]
+}

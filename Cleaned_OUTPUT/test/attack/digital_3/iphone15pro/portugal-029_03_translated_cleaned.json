@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\portugal-029_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\portugal-029_03.jpg",
+  "width": 2835,
+  "height": 1795,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            954,
+            482,
+            1663,
+            552
+          ],
+          "original_text": "JESSICA OLIVIRA",
+          "translated_en": "JESSICA OLIVIRA"
+        },
+        {
+          "box": [
+            953,
+            580,
+            1151,
+            642
+          ],
+          "original_text": "Tiago",
+          "translated_en": "Tiago"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2412,
+            828,
+            2766,
+            879
+          ],
+          "original_text": "18 11 1960",
+          "translated_en": "18 11 1960"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1849,
+            1076,
+            2259,
+            1134
+          ],
+          "original_text": "06 12 2034",
+          "translated_en": "06 12 2034"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-029_03_translated_cleaned.jpg"
+}

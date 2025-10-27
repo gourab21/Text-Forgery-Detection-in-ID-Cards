@@ -1,0 +1,122 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\ukraine-01_0091_000-2d8a528b_1.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-01_0091_000-2d8a528b_1.jpg",
+  "width": 1989,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            639,
+            298,
+            880,
+            346
+          ],
+          "original_text": "Кравчук /",
+          "translated_en": "Kravchuk /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            640,
+            356,
+            861,
+            392
+          ],
+          "original_text": "Kravchuk",
+          "translated_en": "Kravchuk",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            642,
+            472,
+            1147,
+            532
+          ],
+          "original_text": "Сергій Миколайович",
+          "translated_en": "Serhiy Mykolayovych",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            642,
+            539,
+            790,
+            573
+          ],
+          "original_text": "Kriste",
+          "translated_en": "Christ",
+          "detected_lang": "nso"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            649,
+            683,
+            912,
+            723
+          ],
+          "original_text": "14.07.1914",
+          "translated_en": "14.07.1914",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            641,
+            925,
+            840,
+            956
+          ],
+          "original_text": "Дата вида",
+          "translated_en": "Дата вида",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            652,
+            960,
+            920,
+            998
+          ],
+          "original_text": "28.07.2015",
+          "translated_en": "28.07.2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            656,
+            1155,
+            923,
+            1192
+          ],
+          "original_text": "31.09.2015",
+          "translated_en": "31.09.2015",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-01_0091_000-2d8a528b_1_translated.jpg"
+}

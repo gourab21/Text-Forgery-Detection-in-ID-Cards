@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\ukraine-NF-1084.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\ukraine-NF-1084.jpg",
+  "width": 3210,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1043,
+            450,
+            1513,
+            528
+          ],
+          "original_text": "Шевченко /",
+          "translated_en": "Shevchenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1037,
+            547,
+            1503,
+            608
+          ],
+          "original_text": "Shevchenko",
+          "translated_en": "Shevchenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1031,
+            750,
+            1708,
+            825
+          ],
+          "original_text": "Ірина Олегівна /",
+          "translated_en": "Iryna Olegivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1032,
+            843,
+            1256,
+            896
+          ],
+          "original_text": "Ierem",
+          "translated_en": "Jeremiah",
+          "detected_lang": "la"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1033,
+            1076,
+            1463,
+            1136
+          ],
+          "original_text": "19.03.12001",
+          "translated_en": "19.03.12001",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1034,
+            1459,
+            1866,
+            1505
+          ],
+          "original_text": "дата видач Date of issue",
+          "translated_en": "дата видач Date of issue",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1020,
+            1516,
+            1455,
+            1578
+          ],
+          "original_text": "04.08.2020",
+          "translated_en": "04.08.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1015,
+            1828,
+            1466,
+            1891
+          ],
+          "original_text": "04.08.:2020",
+          "translated_en": "04.08.:2020",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1084_translated.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\french-NM-1070.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        953,
+        419,
+        1895,
+        564
+      ],
+      "lines": [
+        {
+          "text": "BERNARD",
+          "box": [
+            1059,
+            456,
+            1427,
+            510
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        944,
+        691,
+        2008,
+        864
+      ],
+      "lines": [
+        {
+          "text": "Maxime , André",
+          "box": [
+            1051,
+            731,
+            1620,
+            796
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2221,
+        968,
+        2847,
+        1135
+      ],
+      "lines": [
+        {
+          "text": "05 10 2026",
+          "box": [
+            2290,
+            999,
+            2755,
+            1066
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2192,
+        1581,
+        2827,
+        1732
+      ],
+      "lines": [
+        {
+          "text": "25 09 202",
+          "box": [
+            2276,
+            1613,
+            2671,
+            1679
+          ]
+        }
+      ]
+    }
+  ]
+}

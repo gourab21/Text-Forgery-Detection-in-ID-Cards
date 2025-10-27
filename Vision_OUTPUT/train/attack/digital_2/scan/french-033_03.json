@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\french-033_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        595,
+        266,
+        1183,
+        359
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            645,
+            300,
+            837,
+            335
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        589,
+        439,
+        1253,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Julien , Émile",
+          "box": [
+            645,
+            457,
+            952,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1387,
+        615,
+        1776,
+        720
+      ],
+      "lines": [
+        {
+          "text": "27 08 12002",
+          "box": [
+            1423,
+            624,
+            1714,
+            660
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1368,
+        1004,
+        1765,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "21 11 2994",
+          "box": [
+            1430,
+            1011,
+            1704,
+            1045
+          ]
+        }
+      ]
+    }
+  ]
+}

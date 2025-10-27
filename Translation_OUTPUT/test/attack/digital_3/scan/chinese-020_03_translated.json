@@ -1,0 +1,84 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\chinese-020_03.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-020_03.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            689,
+            436,
+            789,
+            483
+          ],
+          "original_text": "李晨",
+          "translated_en": "Li Chen",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            684,
+            499,
+            814,
+            530
+          ],
+          "original_text": "David",
+          "translated_en": "David",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1250,
+            702,
+            1573,
+            744
+          ],
+          "original_text": "16 Oct 1932",
+          "translated_en": "16 Oct 1932",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1246,
+            886,
+            1559,
+            927
+          ],
+          "original_text": "07 JUL 2009",
+          "translated_en": "07 JUL 2009",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            694,
+            1083,
+            1010,
+            1125
+          ],
+          "original_text": "21 Nov 1908",
+          "translated_en": "21 Nov 1908",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-020_03_translated.jpg"
+}

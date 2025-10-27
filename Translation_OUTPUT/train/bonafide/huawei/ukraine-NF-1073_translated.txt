@@ -1,0 +1,20 @@
+LE1
+OR: Кириленко /
+EN: Kyrylenko /
+EN: Kyrylenko
+
+LE2
+OR: Анна Павлівна /
+EN: Anna Pavlovna /
+EN: Anna
+
+E3
+EN: 22.10.1988
+
+E4
+EN: Дата вида Date of Issue
+EN: 07.04.2013
+
+E5
+EN: оку д
+EN: 07.04.2018

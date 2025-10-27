@@ -1,0 +1,22 @@
+E1
+EN: Pherry
+
+E2
+EN: Shirazi
+
+L1
+EN: Parisa
+OR: پریسا
+
+L2
+EN: Farmer
+OR: زارع
+
+E3
+EN: 31/10/2024
+
+E4
+EN: 06/02/2024
+
+E5
+EN: 25/07/192

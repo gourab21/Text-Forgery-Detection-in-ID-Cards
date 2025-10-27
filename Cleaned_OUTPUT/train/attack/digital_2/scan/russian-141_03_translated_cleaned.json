@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\russian-141_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\russian-141_03.jpg",
+  "width": 1993,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            716,
+            265,
+            947,
+            309
+          ],
+          "original_text": "Новиков /",
+          "translated_en": "Novikov /"
+        },
+        {
+          "box": [
+            714,
+            317,
+            894,
+            358
+          ],
+          "original_text": "Novikov",
+          "translated_en": "Novikov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            719,
+            473,
+            1158,
+            524
+          ],
+          "original_text": "Кирилл Игоревич /",
+          "translated_en": "Kirill Igorevich /"
+        },
+        {
+          "box": [
+            718,
+            522,
+            1057,
+            575
+          ],
+          "original_text": "Prrlur Igoovich",
+          "translated_en": "Prrlur Igoovich"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            722,
+            684,
+            978,
+            715
+          ],
+          "original_text": "23.05.2008",
+          "translated_en": "23.05.2008"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            727,
+            956,
+            976,
+            992
+          ],
+          "original_text": "23.02.2012",
+          "translated_en": "23.02.2012"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            731,
+            1141,
+            987,
+            1178
+          ],
+          "original_text": "20.02 . 1900",
+          "translated_en": "20.02 . 1900"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-141_03_translated_cleaned.jpg"
+}

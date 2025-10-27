@@ -1,0 +1,73 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-043_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        965,
+        673,
+        1981,
+        1047
+      ],
+      "lines": [
+        {
+          "text": "D",
+          "box": [
+            1436,
+            673,
+            1518,
+            755
+          ]
+        },
+        {
+          "text": "Jacob Wright",
+          "box": [
+            1050,
+            739,
+            1590,
+            818
+          ]
+        },
+        {
+          "text": "15 Cedar Ln",
+          "box": [
+            1039,
+            831,
+            1543,
+            914
+          ]
+        },
+        {
+          "text": "Salem OR 97301",
+          "box": [
+            1037,
+            929,
+            1723,
+            1002
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2324,
+        1193,
+        3117,
+        1354
+      ],
+      "lines": [
+        {
+          "text": "DOB : 04-07-17",
+          "box": [
+            2398,
+            1239,
+            3029,
+            1315
+          ]
+        }
+      ]
+    }
+  ]
+}

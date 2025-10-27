@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-026_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "ANNANDES RIBEIRO",
+          "box": [
+            696,
+            337,
+            1240,
+            382
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            683,
+            398,
+            825,
+            441
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        574,
+        1993,
+        670
+      ],
+      "lines": [
+        {
+          "text": "25 08 1900",
+          "box": [
+            1699,
+            600,
+            1952,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        729,
+        1666,
+        844
+      ],
+      "lines": [
+        {
+          "text": "28 09 1906",
+          "box": [
+            1298,
+            767,
+            1581,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

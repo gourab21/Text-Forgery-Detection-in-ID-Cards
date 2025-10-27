@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\usa-034_03.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-034_03.jpg",
+  "width": 2810,
+  "height": 1794,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            919,
+            674,
+            1379,
+            737
+          ],
+          "original_text": "BrrieCarter d",
+          "translated_en": "BrrieCarter d",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            916,
+            733,
+            1620,
+            840
+          ],
+          "original_text": "456 Pine Road RATE",
+          "translated_en": "456 Pine Road RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            916,
+            837,
+            1707,
+            899
+          ],
+          "original_text": "Winchester MA 01890",
+          "translated_en": "Winchester MA 01890",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2111,
+            1090,
+            2672,
+            1143
+          ],
+          "original_text": "DOB : 05-14-35",
+          "translated_en": "DOB : 05-14-35",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-034_03_translated.jpg"
+}

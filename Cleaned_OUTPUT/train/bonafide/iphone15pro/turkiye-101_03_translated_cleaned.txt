@@ -1,0 +1,12 @@
+E2
+EN: Onur
+
+E1
+EN: Soyaal
+EN: Aktaş
+
+E3
+EN: 06.01.1989
+
+E4
+EN: 22.06.2032

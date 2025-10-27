@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_18042193331_841d026f9a_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        540
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            679,
+            324,
+            979,
+            367
+          ]
+        },
+        {
+          "text": "Megan Corelis",
+          "box": [
+            683,
+            379,
+            1066,
+            432
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            678,
+            455,
+            942,
+            499
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        560,
+        1968,
+        659
+      ],
+      "lines": [
+        {
+          "text": "19 02 2098",
+          "box": [
+            1565,
+            582,
+            1888,
+            626
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        731,
+        1961,
+        854
+      ],
+      "lines": [
+        {
+          "text": "18 12 2078",
+          "box": [
+            1541,
+            751,
+            1893,
+            802
+          ]
+        }
+      ]
+    }
+  ]
+}

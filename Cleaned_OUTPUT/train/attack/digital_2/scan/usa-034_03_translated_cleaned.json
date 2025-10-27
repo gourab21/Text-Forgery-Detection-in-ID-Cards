@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\usa-034_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\usa-034_03.jpg",
+  "width": 1993,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            645,
+            475,
+            974,
+            515
+          ],
+          "original_text": "Eobin Carter",
+          "translated_en": "Eobin Carter"
+        },
+        {
+          "box": [
+            640,
+            531,
+            1013,
+            571
+          ],
+          "original_text": "456 Pine Road",
+          "translated_en": "456 Pine Road"
+        },
+        {
+          "box": [
+            643,
+            586,
+            1209,
+            633
+          ],
+          "original_text": "Winchester MA 01890",
+          "translated_en": "Winchester MA 01890"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1497,
+            764,
+            1901,
+            801
+          ],
+          "original_text": "05-14-08",
+          "translated_en": "05-14-08"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-034_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-137_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        849,
+        609,
+        1742,
+        947
+      ],
+      "lines": [
+        {
+          "text": "Ethan Knight",
+          "box": [
+            911,
+            673,
+            1374,
+            739
+          ]
+        },
+        {
+          "text": "678 Pine Rd RATESTA",
+          "box": [
+            905,
+            721,
+            1726,
+            834
+          ]
+        },
+        {
+          "text": "Denver CO 80203",
+          "box": [
+            912,
+            837,
+            1537,
+            903
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2045,
+        1081,
+        2742,
+        1226
+      ],
+      "lines": [
+        {
+          "text": "DOB : 09-15-85",
+          "box": [
+            2103,
+            1087,
+            2652,
+            1144
+          ]
+        }
+      ]
+    }
+  ]
+}

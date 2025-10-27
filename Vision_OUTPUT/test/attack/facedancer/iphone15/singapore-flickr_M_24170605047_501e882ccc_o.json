@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\singapore-flickr_M_24170605047_501e882ccc_o.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        576,
+        574,
+        2083,
+        850
+      ],
+      "lines": [
+        {
+          "text": "Firdaus bin Ismail",
+          "box": [
+            705,
+            644,
+            1575,
+            718
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        642,
+        1232,
+        1434,
+        1402
+      ],
+      "lines": [
+        {
+          "text": "1967-08-03",
+          "box": [
+            724,
+            1283,
+            1222,
+            1354
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1559,
+        1496,
+        2300,
+        1661
+      ],
+      "lines": [
+        {
+          "text": "1977-08-03",
+          "box": [
+            1644,
+            1526,
+            2151,
+            1596
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1454,
+        475
+      ],
+      "lines": [
+        {
+          "text": "JESSICA MEIRELES",
+          "box": [
+            687,
+            345,
+            1209,
+            393
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            674,
+            405,
+            936,
+            446
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1641,
+        576,
+        1990,
+        673
+      ],
+      "lines": [
+        {
+          "text": "24 08 1901",
+          "box": [
+            1695,
+            579,
+            1944,
+            614
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1235,
+        731,
+        1663,
+        846
+      ],
+      "lines": [
+        {
+          "text": "24 02 1936",
+          "box": [
+            1307,
+            757,
+            1592,
+            797
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\usa-NF-1094_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\usa-NF-1094.jpg",
+  "width": 1992,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            653,
+            459,
+            965,
+            512
+          ],
+          "original_text": "sŋstalker",
+          "translated_en": "sŋstalker"
+        },
+        {
+          "box": [
+            653,
+            525,
+            941,
+            565
+          ],
+          "original_text": "980 Elm Rd",
+          "translated_en": "980 Elm Rd"
+        },
+        {
+          "box": [
+            653,
+            585,
+            1158,
+            629
+          ],
+          "original_text": "Naperville IL 60540",
+          "translated_en": "Naperville IL 60540"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1494,
+            774,
+            1899,
+            824
+          ],
+          "original_text": "12-31-38",
+          "translated_en": "12-31-38"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1094_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        298,
+        1459,
+        471
+      ],
+      "lines": [
+        {
+          "text": "S CHARDIMA",
+          "box": [
+            686,
+            340,
+            1007,
+            383
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            685,
+            399,
+            1069,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "09 02 1995",
+          "box": [
+            1708,
+            600,
+            1997,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        728,
+        1670,
+        843
+      ],
+      "lines": [
+        {
+          "text": "24 06 2033",
+          "box": [
+            1304,
+            763,
+            1600,
+            808
+          ]
+        }
+      ]
+    }
+  ]
+}

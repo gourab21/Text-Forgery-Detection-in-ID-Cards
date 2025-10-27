@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\french-01_0029_000-d00491e2_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\french-01_0029_000-d00491e2_1.jpg",
+  "width": 1994,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            653,
+            297,
+            795,
+            332
+          ],
+          "original_text": "PETIT",
+          "translated_en": "PETIT"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            659,
+            471,
+            977,
+            504
+          ],
+          "original_text": "Patric Nadine",
+          "translated_en": "Patric Nadine"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1422,
+            640,
+            1688,
+            674
+          ],
+          "original_text": "18 04 1940",
+          "translated_en": "18 04 1940"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1412,
+            1023,
+            1683,
+            1064
+          ],
+          "original_text": "20 02 2047",
+          "translated_en": "20 02 2047"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-01_0029_000-d00491e2_1_translated_cleaned.jpg"
+}

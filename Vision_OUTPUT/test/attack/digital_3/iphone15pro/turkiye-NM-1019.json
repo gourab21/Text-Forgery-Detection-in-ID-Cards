@@ -1,0 +1,76 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\turkiye-NM-1019.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        787,
+        790,
+        1607,
+        945
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        785,
+        578,
+        1607,
+        738
+      ],
+      "lines": [
+        {
+          "text": "Yalçın",
+          "box": [
+            862,
+            636,
+            1071,
+            698
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        783,
+        992,
+        1577,
+        1142
+      ],
+      "lines": [
+        {
+          "text": "24.11.1084",
+          "box": [
+            859,
+            1035,
+            1237,
+            1091
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        789,
+        1405,
+        1566,
+        1568
+      ],
+      "lines": [
+        {
+          "text": "07.01.2006",
+          "box": [
+            848,
+            1440,
+            1234,
+            1496
+          ]
+        }
+      ]
+    }
+  ]
+}

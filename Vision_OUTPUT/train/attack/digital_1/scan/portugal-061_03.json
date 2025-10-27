@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-061_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "GCHAELIBEIRO",
+          "box": [
+            680,
+            340,
+            1124,
+            387
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            682,
+            404,
+            829,
+            441
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "03 06 2022",
+          "box": [
+            1707,
+            576,
+            1997,
+            617
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        729,
+        1670,
+        844
+      ],
+      "lines": [
+        {
+          "text": "01 06 1996",
+          "box": [
+            1309,
+            750,
+            1607,
+            795
+          ]
+        }
+      ]
+    }
+  ]
+}

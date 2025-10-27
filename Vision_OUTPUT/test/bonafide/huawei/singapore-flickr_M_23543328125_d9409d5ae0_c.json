@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_23543328125_d9409d5ae0_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        659,
+        2384,
+        977
+      ],
+      "lines": [
+        {
+          "text": "Hsu Long",
+          "box": [
+            804,
+            757,
+            1299,
+            839
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1414,
+        1642,
+        1612
+      ],
+      "lines": [
+        {
+          "text": "1993-07-14",
+          "box": [
+            826,
+            1484,
+            1401,
+            1562
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1785,
+        1718,
+        2634,
+        1908
+      ],
+      "lines": [
+        {
+          "text": "2003-07-14",
+          "box": [
+            1881,
+            1764,
+            2468,
+            1845
+          ]
+        }
+      ]
+    }
+  ]
+}

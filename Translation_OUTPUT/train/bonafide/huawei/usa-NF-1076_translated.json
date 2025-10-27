@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\huawei\\usa-NF-1076.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-NF-1076.jpg",
+  "width": 3202,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1046,
+            734,
+            1398,
+            808
+          ],
+          "original_text": "Patricia",
+          "translated_en": "Patricia",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1041,
+            824,
+            1548,
+            923
+          ],
+          "original_text": "1543 Elm St S",
+          "translated_en": "1543 Elm St S",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1040,
+            920,
+            1787,
+            990
+          ],
+          "original_text": "Phoenix AZ 85021",
+          "translated_en": "Phoenix AZ 85021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2401,
+            1230,
+            3032,
+            1300
+          ],
+          "original_text": "DOB : 11-12-83",
+          "translated_en": "DOB : 11-12-83",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1076_translated.jpg"
+}

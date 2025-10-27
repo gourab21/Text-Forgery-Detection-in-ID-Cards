@@ -1,0 +1,79 @@
+{
+  "source_json": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_17339867026_3135c7e76f_k.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_17339867026_3135c7e76f_k.jpg",
+  "width": 3176,
+  "height": 1990,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1075,
+            517,
+            1412,
+            586
+          ],
+          "original_text": "MEIJER",
+          "translated_en": "MEIJER",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1077,
+            611,
+            1787,
+            695
+          ],
+          "original_text": "Hendrik Sophie",
+          "translated_en": "Hendrik Sophie",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1079,
+            733,
+            1310,
+            793
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2494,
+            932,
+            3021,
+            1008
+          ],
+          "original_text": "14 10 1972",
+          "translated_en": "14 10 1972",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2450,
+            1211,
+            3030,
+            1288
+          ],
+          "original_text": "10 05 2035",
+          "translated_en": "10 05 2035",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_17339867026_3135c7e76f_k_translated.jpg"
+}

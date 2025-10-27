@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\portugal-NF-1026_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1026.jpg",
+  "width": 2852,
+  "height": 1808,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            977,
+            497,
+            1567,
+            566
+          ],
+          "original_text": "SOWARDIBERO",
+          "translated_en": "SOWARDIBERO"
+        },
+        {
+          "box": [
+            982,
+            591,
+            1126,
+            640
+          ],
+          "original_text": "Rita",
+          "translated_en": "Rita"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2441,
+            835,
+            2849,
+            892
+          ],
+          "original_text": "22 04 1970",
+          "translated_en": "22 04 1970"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1873,
+            1091,
+            2298,
+            1154
+          ],
+          "original_text": "19 04 Z'92",
+          "translated_en": "19 04 Z'92"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1026_translated_cleaned.jpg"
+}

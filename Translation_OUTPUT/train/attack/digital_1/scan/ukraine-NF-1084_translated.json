@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\ukraine-NF-1084.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\ukraine-NF-1084.jpg",
+  "width": 1991,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            641,
+            295,
+            929,
+            340
+          ],
+          "original_text": "Шевченко /",
+          "translated_en": "Shevchenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            637,
+            351,
+            927,
+            392
+          ],
+          "original_text": "Shevchenko",
+          "translated_en": "Shevchenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            641,
+            477,
+            1057,
+            529
+          ],
+          "original_text": "Ірина Олегівна /",
+          "translated_en": "Iryna Olegivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            642,
+            534,
+            782,
+            574
+          ],
+          "original_text": "Iacha",
+          "translated_en": "Heal",
+          "detected_lang": "cy"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            648,
+            686,
+            936,
+            722
+          ],
+          "original_text": "19.03.2014",
+          "translated_en": "19.03.2014",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            652,
+            960,
+            920,
+            995
+          ],
+          "original_text": "04.08.2020",
+          "translated_en": "04.08.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            655,
+            1152,
+            947,
+            1194
+          ],
+          "original_text": "04.08.22027",
+          "translated_en": "04.08.22027",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1084_translated.jpg"
+}

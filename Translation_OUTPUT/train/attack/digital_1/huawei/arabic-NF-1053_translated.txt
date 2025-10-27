@@ -1,0 +1,30 @@
+E1
+EN: LictorAllGhonal
+
+L1
+OR: الغامدي ليلى
+EN: Al-Ghamdi Laila
+
+E2
+EN: 16 Feb 2019
+
+E3
+EN: 11 Nov 2024
+
+E4
+EN: 11 Nov 2035
+
+L2
+OR: تاريخ
+EN: History
+OR: ١٦ / فبراير / ۱۹۸۸
+EN: February 16, 1988
+
+L3
+OR: ۱۱ / نوفمبر / ٢٠٢٤
+EN: November 11, 2024
+
+L4
+EN: 3
+OR: ۱۱ / نوفمبر ٢٠٣٤١
+EN: November 11, 20341

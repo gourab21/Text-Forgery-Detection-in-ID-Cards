@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\turkiye-NM-1055.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        841,
+        881,
+        1716,
+        1052
+      ],
+      "lines": [
+        {
+          "text": "Baran",
+          "box": [
+            929,
+            940,
+            1136,
+            992
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        838,
+        644,
+        1718,
+        823
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            924,
+            710,
+            1166,
+            769
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        837,
+        1106,
+        1684,
+        1274
+      ],
+      "lines": [
+        {
+          "text": "14.03.1988",
+          "box": [
+            936,
+            1155,
+            1338,
+            1214
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        843,
+        1566,
+        1673,
+        1748
+      ],
+      "lines": [
+        {
+          "text": "29.11.2025",
+          "box": [
+            942,
+            1605,
+            1349,
+            1666
+          ]
+        }
+      ]
+    }
+  ]
+}

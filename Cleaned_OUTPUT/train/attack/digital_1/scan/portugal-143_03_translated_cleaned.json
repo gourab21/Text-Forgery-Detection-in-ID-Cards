@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\portugal-143_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-143_03.jpg",
+  "width": 1995,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            688,
+            337,
+            1108,
+            384
+          ],
+          "original_text": "PICHARDCASTR",
+          "translated_en": "PICHARDCASTR"
+        },
+        {
+          "box": [
+            687,
+            398,
+            1004,
+            437
+          ],
+          "original_text": "Luis Antônio",
+          "translated_en": "Luis Antônio"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1704,
+            601,
+            1994,
+            641
+          ],
+          "original_text": "03 01 2011",
+          "translated_en": "03 01 2011"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1298,
+            769,
+            1593,
+            807
+          ],
+          "original_text": "17 08 2006",
+          "translated_en": "17 08 2006"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-143_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-NF-1047.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        954,
+        420,
+        1897,
+        566
+      ],
+      "lines": [
+        {
+          "text": "THOMAS",
+          "box": [
+            1046,
+            460,
+            1376,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        945,
+        692,
+        2010,
+        868
+      ],
+      "lines": [
+        {
+          "text": "Élodie , Margot",
+          "box": [
+            1046,
+            728,
+            1599,
+            808
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2224,
+        971,
+        2850,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "18 02 12037",
+          "box": [
+            2291,
+            1008,
+            2744,
+            1064
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2194,
+        1584,
+        2829,
+        1738
+      ],
+      "lines": [
+        {
+          "text": "09 06 1996",
+          "box": [
+            2273,
+            1622,
+            2729,
+            1683
+          ]
+        }
+      ]
+    }
+  ]
+}

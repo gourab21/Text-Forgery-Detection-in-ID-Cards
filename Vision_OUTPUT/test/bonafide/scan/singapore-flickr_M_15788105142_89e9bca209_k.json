@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_15788105142_89e9bca209_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1500,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Ahmad bin Salleh",
+          "box": [
+            501,
+            466,
+            1108,
+            521
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1971-11-04",
+          "box": [
+            519,
+            924,
+            878,
+            975
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "1981-11-04",
+          "box": [
+            1182,
+            1101,
+            1544,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

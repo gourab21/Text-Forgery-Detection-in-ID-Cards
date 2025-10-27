@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\chinese-NF-1023.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        891,
+        563,
+        1543,
+        828
+      ],
+      "lines": [
+        {
+          "text": "赵 婷",
+          "box": [
+            952,
+            614,
+            1097,
+            682
+          ]
+        },
+        {
+          "text": "Zatastang",
+          "box": [
+            954,
+            691,
+            1329,
+            771
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1674,
+        938,
+        2248,
+        1127
+      ],
+      "lines": [
+        {
+          "text": "25 Dec 2037",
+          "box": [
+            1739,
+            983,
+            2212,
+            1059
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1649,
+        1209,
+        2280,
+        1392
+      ],
+      "lines": [
+        {
+          "text": "18 Jun 2012",
+          "box": [
+            1749,
+            1250,
+            2189,
+            1313
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        862,
+        1479,
+        1522,
+        1655
+      ],
+      "lines": [
+        {
+          "text": "16 Jun 2006",
+          "box": [
+            973,
+            1537,
+            1432,
+            1596
+          ]
+        }
+      ]
+    }
+  ]
+}

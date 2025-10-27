@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\netherland-flickr_F_20301931855_4cd18f8166_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1008,
+        476,
+        2070,
+        888
+      ],
+      "lines": [
+        {
+          "text": "VERMEULEN",
+          "box": [
+            1092,
+            538,
+            1667,
+            614
+          ]
+        },
+        {
+          "text": "Thijs Petra",
+          "box": [
+            1093,
+            637,
+            1592,
+            737
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            1106,
+            765,
+            1334,
+            829
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2406,
+        921,
+        3187,
+        1085
+      ],
+      "lines": [
+        {
+          "text": "10 09 1995",
+          "box": [
+            2546,
+            970,
+            3079,
+            1051
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2365,
+        1202,
+        3175,
+        1406
+      ],
+      "lines": [
+        {
+          "text": "0201 2028",
+          "box": [
+            2492,
+            1259,
+            3087,
+            1338
+          ]
+        }
+      ]
+    }
+  ]
+}

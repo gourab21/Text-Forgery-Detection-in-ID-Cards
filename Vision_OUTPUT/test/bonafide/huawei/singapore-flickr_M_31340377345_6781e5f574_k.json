@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_31340377345_6781e5f574_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        657,
+        656,
+        2378,
+        972
+      ],
+      "lines": [
+        {
+          "text": "Wei Tsang Ooi",
+          "box": [
+            799,
+            748,
+            1585,
+            839
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        733,
+        1408,
+        1637,
+        1603
+      ],
+      "lines": [
+        {
+          "text": "1973-11-18",
+          "box": [
+            824,
+            1476,
+            1399,
+            1555
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1779,
+        1710,
+        2626,
+        1899
+      ],
+      "lines": [
+        {
+          "text": "1983-11-18",
+          "box": [
+            1883,
+            1756,
+            2463,
+            1835
+          ]
+        }
+      ]
+    }
+  ]
+}

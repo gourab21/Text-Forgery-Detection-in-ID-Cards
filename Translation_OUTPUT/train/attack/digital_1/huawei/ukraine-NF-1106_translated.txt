@@ -1,0 +1,22 @@
+LE1
+OR: Мороз /
+EN: Frost /
+OR: Moroz
+EN: Frost
+
+LE2
+OR: Ірина Олександрівна
+EN: Iryna Oleksandrivna
+OR: I teve
+EN: I had
+
+E3
+EN: 17.09.11990
+
+E4
+EN: ата вида ate of issuc
+EN: 21.12.2023
+
+E5
+EN: д
+EN: 19.12.12028

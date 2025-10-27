@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\chinese-NF-1050.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1021,
+        624,
+        1771,
+        918
+      ],
+      "lines": [
+        {
+          "text": "黄静",
+          "box": [
+            1098,
+            673,
+            1250,
+            768
+          ]
+        },
+        {
+          "text": "Hacharying",
+          "box": [
+            1096,
+            763,
+            1578,
+            854
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1922,
+        1039,
+        2579,
+        1249
+      ],
+      "lines": [
+        {
+          "text": "15 Jul 1 206",
+          "box": [
+            1986,
+            1131,
+            2488,
+            1193
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1892,
+        1339,
+        2618,
+        1542
+      ],
+      "lines": [
+        {
+          "text": "08 May 2017",
+          "box": [
+            1974,
+            1418,
+            2508,
+            1490
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        989,
+        1640,
+        1745,
+        1834
+      ],
+      "lines": [
+        {
+          "text": "06 May 2014",
+          "box": [
+            1070,
+            1691,
+            1628,
+            1788
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-022_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        952,
+        420,
+        1894,
+        566
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            1053,
+            463,
+            1362,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        943,
+        693,
+        2006,
+        869
+      ],
+      "lines": [
+        {
+          "text": "Paul , Henri",
+          "box": [
+            1050,
+            741,
+            1462,
+            807
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2220,
+        971,
+        2845,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "23 05 1992",
+          "box": [
+            2290,
+            1011,
+            2725,
+            1076
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2191,
+        1585,
+        2825,
+        1739
+      ],
+      "lines": [
+        {
+          "text": "29 09 2033",
+          "box": [
+            2275,
+            1627,
+            2705,
+            1691
+          ]
+        }
+      ]
+    }
+  ]
+}

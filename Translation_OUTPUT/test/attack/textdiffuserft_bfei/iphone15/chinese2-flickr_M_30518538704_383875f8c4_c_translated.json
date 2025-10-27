@@ -1,0 +1,84 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_30518538704_383875f8c4_c.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_30518538704_383875f8c4_c.jpg",
+  "width": 2772,
+  "height": 1737,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            956,
+            596,
+            1095,
+            658
+          ],
+          "original_text": "陈伟",
+          "translated_en": "Chen Wei",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            956,
+            675,
+            1301,
+            748
+          ],
+          "original_text": "Conniel",
+          "translated_en": "Conniel",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1733,
+            965,
+            2217,
+            1026
+          ],
+          "original_text": "12 Mar 2068",
+          "translated_en": "12 Mar 2068",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1733,
+            1215,
+            2215,
+            1296
+          ],
+          "original_text": "21 Apr 1917",
+          "translated_en": "21 Apr 1917",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            968,
+            1497,
+            1450,
+            1562
+          ],
+          "original_text": "17 Nov 1921",
+          "translated_en": "17 Nov 1921",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_30518538704_383875f8c4_c_translated.jpg"
+}

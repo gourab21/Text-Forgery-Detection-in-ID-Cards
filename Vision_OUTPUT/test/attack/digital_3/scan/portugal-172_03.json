@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-172_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "JAMERO SANTOS",
+          "box": [
+            685,
+            341,
+            1135,
+            388
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            679,
+            398,
+            841,
+            440
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        577,
+        1995,
+        674
+      ],
+      "lines": [
+        {
+          "text": "14 08 2024",
+          "box": [
+            1701,
+            607,
+            1954,
+            646
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        733,
+        1668,
+        848
+      ],
+      "lines": [
+        {
+          "text": "25 08 2002",
+          "box": [
+            1294,
+            774,
+            1582,
+            811
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-029_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        878,
+        429,
+        2072,
+        680
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA OLIVEIRA",
+          "box": [
+            955,
+            487,
+            1667,
+            550
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            952,
+            578,
+            1150,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2337,
+        828,
+        2835,
+        967
+      ],
+      "lines": [
+        {
+          "text": "03 06 2003",
+          "box": [
+            2421,
+            829,
+            2827,
+            877
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1760,
+        1051,
+        2370,
+        1216
+      ],
+      "lines": [
+        {
+          "text": "31 05 2013",
+          "box": [
+            1850,
+            1075,
+            2260,
+            1135
+          ]
+        }
+      ]
+    }
+  ]
+}

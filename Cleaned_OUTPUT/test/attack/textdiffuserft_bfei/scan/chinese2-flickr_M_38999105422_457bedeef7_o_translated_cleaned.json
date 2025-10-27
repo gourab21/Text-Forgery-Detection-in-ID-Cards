@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_38999105422_457bedeef7_o_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_38999105422_457bedeef7_o.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            684,
+            421,
+            795,
+            473
+          ],
+          "original_text": "张强",
+          "translated_en": "Zhang Qiang"
+        },
+        {
+          "box": [
+            688,
+            476,
+            1026,
+            543
+          ],
+          "original_text": "Gerad Qiang",
+          "translated_en": "Just Qiang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1234,
+            708,
+            1582,
+            757
+          ],
+          "original_text": "03 May 1916",
+          "translated_en": "03 May 1916"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1237,
+            890,
+            1686,
+            965
+          ],
+          "original_text": "06 Mar 2061 000",
+          "translated_en": "06 Mar 2061 000"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            676,
+            1073,
+            1015,
+            1118
+          ],
+          "original_text": "26 Dec 1971",
+          "translated_en": "26 Dec 1971"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_38999105422_457bedeef7_o_translated_cleaned.jpg"
+}

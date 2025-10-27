@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\portugal-NF-1016_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-NF-1016.jpg",
+  "width": 1990,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            675,
+            344,
+            1216,
+            390
+          ],
+          "original_text": "SCHELEMEIRELES",
+          "translated_en": "SCHELEMEIRELES"
+        },
+        {
+          "box": [
+            675,
+            406,
+            934,
+            444
+          ],
+          "original_text": "Ana Maria",
+          "translated_en": "Ana Maria"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1702,
+            579,
+            1989,
+            618
+          ],
+          "original_text": "06 08 1998",
+          "translated_en": "06 08 1998"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1307,
+            753,
+            1603,
+            800
+          ],
+          "original_text": "28 03 2015",
+          "translated_en": "28 03 2015"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1016_translated_cleaned.jpg"
+}

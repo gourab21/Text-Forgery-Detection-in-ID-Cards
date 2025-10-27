@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\usa-NF-1094_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-NF-1094.jpg",
+  "width": 3215,
+  "height": 1984,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1050,
+            749,
+            1542,
+            814
+          ],
+          "original_text": "John Parker",
+          "translated_en": "John Parker"
+        },
+        {
+          "box": [
+            1046,
+            837,
+            1515,
+            904
+          ],
+          "original_text": "980 Elm Rd",
+          "translated_en": "980 Elm Rd"
+        },
+        {
+          "box": [
+            1043,
+            938,
+            1870,
+            1005
+          ],
+          "original_text": "Naperville IL 60540",
+          "translated_en": "Naperville IL 60540"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2412,
+            1244,
+            3046,
+            1320
+          ],
+          "original_text": "09-01-16",
+          "translated_en": "09-01-16"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1094_translated_cleaned.jpg"
+}

@@ -1,0 +1,27 @@
+E1
+EN: A illiiabbodANHta's
+
+L1
+EN: Rashid Abdul Ahmed /
+OR: الرشيد عبد أحمد /
+
+E2
+EN: 16 Sep 2019
+
+E3
+EN: 21 Jan 2019
+
+E4
+EN: 16 Sep 2037
+
+L2
+EN: September 16, 1981
+OR: ١٦ / سبتمبر / ۱۹۸۱
+
+L3
+EN: 21 / Therefore / 2019
+OR: ۲۱ / بنابر / ۲۰۱۹ د
+
+L4
+EN: September 16, 20
+OR: ١٦ / سبتمبر / ٢٠

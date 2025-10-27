@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_31998389253_0a26f25b0d_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        459,
+        2034,
+        858
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            1066,
+            514,
+            1425,
+            588
+          ]
+        },
+        {
+          "text": "Shawnte Anemarie",
+          "box": [
+            1065,
+            616,
+            1939,
+            679
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            1081,
+            730,
+            1445,
+            808
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2365,
+        888,
+        3132,
+        1046
+      ],
+      "lines": [
+        {
+          "text": "06 09 2032",
+          "box": [
+            2485,
+            931,
+            3006,
+            1007
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2323,
+        1160,
+        3120,
+        1355
+      ],
+      "lines": [
+        {
+          "text": "06 02 1921",
+          "box": [
+            2447,
+            1204,
+            3029,
+            1292
+          ]
+        }
+      ]
+    }
+  ]
+}

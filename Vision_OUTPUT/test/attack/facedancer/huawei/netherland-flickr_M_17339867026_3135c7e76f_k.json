@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_17339867026_3135c7e76f_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        992,
+        461,
+        2036,
+        862
+      ],
+      "lines": [
+        {
+          "text": "MEIJER",
+          "box": [
+            1075,
+            517,
+            1412,
+            586
+          ]
+        },
+        {
+          "text": "Hendrik Sophie",
+          "box": [
+            1077,
+            611,
+            1787,
+            695
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            1079,
+            733,
+            1310,
+            793
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2366,
+        891,
+        3136,
+        1050
+      ],
+      "lines": [
+        {
+          "text": "14 10 1972",
+          "box": [
+            2494,
+            932,
+            3021,
+            1008
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2326,
+        1164,
+        3124,
+        1362
+      ],
+      "lines": [
+        {
+          "text": "10 05 2035",
+          "box": [
+            2450,
+            1211,
+            3030,
+            1288
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+LE1
+OR: 吴勇
+EN: Wu Yong
+EN: Roberg
+
+E2
+EN: 08 Jan 1953
+
+E3
+EN: 21 Sep 2028
+EN: 00
+
+E4
+EN: 08 Feb 1913

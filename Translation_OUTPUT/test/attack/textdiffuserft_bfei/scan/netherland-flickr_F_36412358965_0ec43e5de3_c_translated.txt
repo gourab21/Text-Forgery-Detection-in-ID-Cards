@@ -1,0 +1,12 @@
+E1
+EN: SMITS
+EN: Johnem Ilse
+EN: Matthijs
+
+E2
+EN: TE OF BIRTH
+EN: 31 02 1927
+
+E3
+EN: ELDIG TOD / CARD EXPIRY
+EN: 05 08 2060

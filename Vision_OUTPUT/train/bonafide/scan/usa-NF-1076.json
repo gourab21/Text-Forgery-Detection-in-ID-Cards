@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-NF-1076.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        427,
+        1236,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Patricia Anderson",
+          "box": [
+            657,
+            469,
+            1109,
+            513
+          ]
+        },
+        {
+          "text": "1543 Elm St",
+          "box": [
+            655,
+            528,
+            965,
+            568
+          ]
+        },
+        {
+          "text": "Phoenix AZ 85021",
+          "box": [
+            652,
+            584,
+            1118,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1452,
+        756,
+        1946,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 11-12-83",
+          "box": [
+            1495,
+            777,
+            1888,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

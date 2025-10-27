@@ -1,0 +1,27 @@
+E1
+EN: KiiiAAITMabat
+
+L1
+EN: Mubarak Khalil
+OR: المبارك خليل
+
+E2
+EN: 17 Aug 2008
+
+E3
+EN: 20 Apr 2022
+
+E4
+EN: 10 May 2010
+
+L2
+EN: August 17, 1994
+OR: ١٧ / أغسطس / ١٩٩٤
+
+L3
+EN: April 20, 2023
+OR: ۲۰ / ابريل / ۲۰۲۳
+
+L4
+EN: May 10, 2032
+OR: ۱۰ / مايو / ۲۰۳۲

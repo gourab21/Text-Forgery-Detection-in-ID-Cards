@@ -1,0 +1,111 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\ukraine-NF-1032.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\ukraine-NF-1032.jpg",
+  "width": 2822,
+  "height": 1805,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            912,
+            429,
+            1219,
+            494
+          ],
+          "original_text": "Литвин /",
+          "translated_en": "Lytvyn /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            909,
+            518,
+            1133,
+            573
+          ],
+          "original_text": "Lytvyn",
+          "translated_en": "Lytvyn",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            922,
+            684,
+            1609,
+            759
+          ],
+          "original_text": "Вікторія Андріївна /",
+          "translated_en": "Victoria Andreevna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            912,
+            773,
+            1227,
+            830
+          ],
+          "original_text": "Roberiya",
+          "translated_en": "Roberiya",
+          "detected_lang": "hi-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            922,
+            980,
+            1302,
+            1037
+          ],
+          "original_text": "07.07.2035",
+          "translated_en": "07.07.2035",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            933,
+            1376,
+            1308,
+            1430
+          ],
+          "original_text": "18.07.2015",
+          "translated_en": "18.07.2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            936,
+            1657,
+            1313,
+            1714
+          ],
+          "original_text": "16.04.1983",
+          "translated_en": "16.04.1983",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1032_translated.jpg"
+}

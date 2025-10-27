@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-068_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        834,
+        380,
+        1660,
+        513
+      ],
+      "lines": [
+        {
+          "text": "ROUSSEAU",
+          "box": [
+            917,
+            430,
+            1279,
+            483
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        628,
+        1757,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Teslies Slugo",
+          "box": [
+            917,
+            677,
+            1366,
+            731
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1946,
+        880,
+        2493,
+        1031
+      ],
+      "lines": [
+        {
+          "text": "20 07 2021",
+          "box": [
+            1999,
+            889,
+            2389,
+            943
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1919,
+        1436,
+        2476,
+        1575
+      ],
+      "lines": [
+        {
+          "text": "13 07 2014",
+          "box": [
+            2011,
+            1441,
+            2405,
+            1491
+          ]
+        }
+      ]
+    }
+  ]
+}

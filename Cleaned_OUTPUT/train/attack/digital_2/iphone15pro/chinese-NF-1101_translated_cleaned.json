@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\chinese-NF-1101_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\chinese-NF-1101.jpg",
+  "width": 2634,
+  "height": 1610,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            901,
+            546,
+            1106,
+            609
+          ],
+          "original_text": "刘亦菲",
+          "translated_en": "Liu Yifei"
+        },
+        {
+          "box": [
+            903,
+            621,
+            1189,
+            688
+          ],
+          "original_text": "Luis Pifel",
+          "translated_en": "Luis Pifel"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1629,
+            912,
+            2075,
+            979
+          ],
+          "original_text": "25 Aug 12032",
+          "translated_en": "25 Aug 12032"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1625,
+            1150,
+            2045,
+            1201
+          ],
+          "original_text": "12 Dec 2012",
+          "translated_en": "12 Dec 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            885,
+            1386,
+            1325,
+            1444
+          ],
+          "original_text": "10 Dec 2034",
+          "translated_en": "10 Dec 2034"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1101_translated_cleaned.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\portugal-013_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-013_03.jpg",
+  "width": 1998,
+  "height": 1244,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            685,
+            338,
+            1211,
+            384
+          ],
+          "original_text": "AYITHIKANDDRAE",
+          "translated_en": "AYITHIKANDDRAE"
+        },
+        {
+          "box": [
+            688,
+            396,
+            1029,
+            439
+          ],
+          "original_text": "Carla Patricia",
+          "translated_en": "Carla Patricia"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1708,
+            598,
+            1997,
+            637
+          ],
+          "original_text": "13 07 2018",
+          "translated_en": "13 07 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1301,
+            765,
+            1599,
+            804
+          ],
+          "original_text": "05 02 2006",
+          "translated_en": "05 02 2006"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-013_03_translated_cleaned.jpg"
+}

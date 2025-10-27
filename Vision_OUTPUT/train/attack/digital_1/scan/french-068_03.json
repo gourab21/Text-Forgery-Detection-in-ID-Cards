@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\french-068_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        266,
+        1180,
+        359
+      ],
+      "lines": [
+        {
+          "text": "ROUSSEAU",
+          "box": [
+            660,
+            295,
+            921,
+            331
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        440,
+        1251,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Tamesss Hogo",
+          "box": [
+            651,
+            463,
+            1009,
+            514
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1384,
+        617,
+        1773,
+        722
+      ],
+      "lines": [
+        {
+          "text": "20 07 2021",
+          "box": [
+            1421,
+            637,
+            1710,
+            675
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1365,
+        1006,
+        1761,
+        1103
+      ],
+      "lines": [
+        {
+          "text": "13 07 2014",
+          "box": [
+            1415,
+            1022,
+            1704,
+            1060
+          ]
+        }
+      ]
+    }
+  ]
+}

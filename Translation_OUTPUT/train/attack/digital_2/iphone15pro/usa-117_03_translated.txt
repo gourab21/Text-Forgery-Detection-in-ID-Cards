@@ -1,0 +1,6 @@
+E1
+EN: 1234 Justino Elm St. RATE
+EN: Springfield IL 62704
+
+E2
+EN: DOB : 01-15-93

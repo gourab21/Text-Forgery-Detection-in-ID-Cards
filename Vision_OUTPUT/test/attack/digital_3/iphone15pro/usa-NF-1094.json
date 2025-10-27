@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1094.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        853,
+        616,
+        1750,
+        957
+      ],
+      "lines": [
+        {
+          "text": "Melissaker",
+          "box": [
+            928,
+            676,
+            1340,
+            739
+          ]
+        },
+        {
+          "text": "980 Elm Rd IL co RATE",
+          "box": [
+            924,
+            729,
+            1627,
+            898
+          ]
+        },
+        {
+          "text": "Naperville Naperville IL 60540",
+          "box": [
+            922,
+            774,
+            1637,
+            956
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2055,
+        1091,
+        2754,
+        1237
+      ],
+      "lines": [
+        {
+          "text": "DOB : 31-06-94",
+          "box": [
+            2122,
+            1094,
+            2674,
+            1147
+          ]
+        }
+      ]
+    }
+  ]
+}

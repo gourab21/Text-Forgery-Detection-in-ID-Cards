@@ -1,0 +1,84 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-105_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        470,
+        2339,
+        745
+      ],
+      "lines": [
+        {
+          "text": "REIFIK FRNANIES",
+          "box": [
+            1099,
+            518,
+            2014,
+            621
+          ]
+        },
+        {
+          "text": "Ricardo",
+          "box": [
+            1095,
+            630,
+            1406,
+            684
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2638,
+        906,
+        3200,
+        1057
+      ],
+      "lines": [
+        {
+          "text": "26 11 1997",
+          "box": [
+            2743,
+            944,
+            3199,
+            1007
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1986,
+        1149,
+        2675,
+        1331
+      ],
+      "lines": [
+        {
+          "text": "24 11 200",
+          "box": [
+            2087,
+            1210,
+            2571,
+            1276
+          ]
+        },
+        {
+          "text": "EC",
+          "box": [
+            2507,
+            1281,
+            2553,
+            1298
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\arabic-NF-1100_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\arabic-NF-1100.jpg",
+  "width": 3192,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1183,
+            733,
+            1888,
+            818
+          ],
+          "original_text": "Hichelabah",
+          "translated_en": "Hichelabah"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1166,
+            519,
+            1611,
+            616
+          ],
+          "original_text": "الصباح هنا",
+          "translated_en": "Morning is here"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1178,
+            1230,
+            1745,
+            1335
+          ],
+          "original_text": "03 Sep 294",
+          "translated_en": "03 Sep 294"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1175,
+            1502,
+            1765,
+            1576
+          ],
+          "original_text": "19 Nov 2021",
+          "translated_en": "19 Nov 2021"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1161,
+            1745,
+            1687,
+            1855
+          ],
+          "original_text": "20 Sep 19",
+          "translated_en": "20 Sep 19"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2116,
+            1250,
+            2808,
+            1337
+          ],
+          "original_text": "/ سبتمبر / ۱ ۱۳",
+          "translated_en": "/ September / 1 13"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2026,
+            1512,
+            2802,
+            1593
+          ],
+          "original_text": "۱۹ / نوفمبر / ٢٠٢١",
+          "translated_en": "November 19, 2021"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2313,
+            1688,
+            2392,
+            1731
+          ],
+          "original_text": "6",
+          "translated_en": "6"
+        },
+        {
+          "box": [
+            2019,
+            1782,
+            2722,
+            1861
+          ],
+          "original_text": "۲۰ / سبتمبر / ۲۰",
+          "translated_en": "September 20"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1100_translated_cleaned.jpg"
+}

@@ -1,0 +1,76 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\turkiye-NF-1054.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        784,
+        789,
+        1601,
+        943
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        782,
+        576,
+        1602,
+        736
+      ],
+      "lines": [
+        {
+          "text": "Kara",
+          "box": [
+            859,
+            637,
+            1013,
+            686
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        780,
+        990,
+        1572,
+        1140
+      ],
+      "lines": [
+        {
+          "text": "28.04.2027",
+          "box": [
+            854,
+            1033,
+            1238,
+            1089
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        786,
+        1402,
+        1561,
+        1565
+      ],
+      "lines": [
+        {
+          "text": "25.06.1941",
+          "box": [
+            846,
+            1438,
+            1227,
+            1490
+          ]
+        }
+      ]
+    }
+  ]
+}

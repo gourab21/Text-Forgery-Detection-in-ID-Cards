@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-NF-1023.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        397,
+        1103,
+        583
+      ],
+      "lines": [
+        {
+          "text": "赵 婷",
+          "box": [
+            686,
+            426,
+            786,
+            478
+          ]
+        },
+        {
+          "text": "Michelng",
+          "box": [
+            695,
+            487,
+            930,
+            533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1198,
+        660,
+        1607,
+        794
+      ],
+      "lines": [
+        {
+          "text": "15 Jun 1962",
+          "box": [
+            1242,
+            716,
+            1556,
+            754
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1179,
+        852,
+        1630,
+        979
+      ],
+      "lines": [
+        {
+          "text": "18 Jun 2012",
+          "box": [
+            1237,
+            896,
+            1548,
+            936
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1043,
+        1088,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "23 Dec 1952",
+          "box": [
+            675,
+            1082,
+            989,
+            1122
+          ]
+        }
+      ]
+    }
+  ]
+}

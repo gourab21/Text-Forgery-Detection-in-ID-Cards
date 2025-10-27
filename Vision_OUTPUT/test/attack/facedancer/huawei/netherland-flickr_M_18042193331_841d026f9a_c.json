@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_18042193331_841d026f9a_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        987,
+        459,
+        2026,
+        858
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            1070,
+            516,
+            1552,
+            586
+          ]
+        },
+        {
+          "text": "Tess Cornelis",
+          "box": [
+            1066,
+            614,
+            1675,
+            691
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            1069,
+            726,
+            1493,
+            795
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2356,
+        889,
+        3121,
+        1047
+      ],
+      "lines": [
+        {
+          "text": "04 05 1993",
+          "box": [
+            2477,
+            931,
+            3011,
+            1006
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2315,
+        1160,
+        3110,
+        1358
+      ],
+      "lines": [
+        {
+          "text": "17 08 2028",
+          "box": [
+            2440,
+            1206,
+            3019,
+            1287
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\netherland-flickr_F_31998547103_f617b19dfc_h_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\netherland-flickr_F_31998547103_f617b19dfc_h.jpg",
+  "width": 3225,
+  "height": 2048,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1088,
+            533,
+            1591,
+            610
+          ],
+          "original_text": "HENDRIKS",
+          "translated_en": "HENDRIKS"
+        },
+        {
+          "box": [
+            1086,
+            626,
+            1796,
+            730
+          ],
+          "original_text": "Sjoerd Henrike",
+          "translated_en": "Sjoerd Henrike"
+        },
+        {
+          "box": [
+            1090,
+            750,
+            1510,
+            824
+          ],
+          "original_text": "Elisabeth",
+          "translated_en": "Elisabeth"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2528,
+            965,
+            3071,
+            1042
+          ],
+          "original_text": "21 02 1972",
+          "translated_en": "21 02 1972"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2484,
+            1250,
+            3078,
+            1330
+          ],
+          "original_text": "29 11 2032",
+          "translated_en": "29 11 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_31998547103_f617b19dfc_h_translated_cleaned.jpg"
+}

@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\ukraine-025_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-025_03.jpg",
+  "width": 1995,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            653,
+            291,
+            908,
+            340
+          ],
+          "original_text": "Мельник /",
+          "translated_en": "Miller /"
+        },
+        {
+          "box": [
+            651,
+            349,
+            822,
+            390
+          ],
+          "original_text": "Melnyk",
+          "translated_en": "Melnyk"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            644,
+            466,
+            1057,
+            526
+          ],
+          "original_text": "Юлія Сергіївна /",
+          "translated_en": "Yulia Sergiivna /"
+        },
+        {
+          "box": [
+            648,
+            534,
+            794,
+            566
+          ],
+          "original_text": "Jamea",
+          "translated_en": "Jamea"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            645,
+            675,
+            912,
+            714
+          ],
+          "original_text": "13.07.1930",
+          "translated_en": "13.07.1930"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            637,
+            956,
+            908,
+            991
+          ],
+          "original_text": "25.02.2019",
+          "translated_en": "25.02.2019"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            636,
+            1148,
+            900,
+            1187
+          ],
+          "original_text": "12.10.1937",
+          "translated_en": "12.10.1937"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-025_03_translated_cleaned.jpg"
+}

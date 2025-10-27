@@ -1,0 +1,12 @@
+E2
+EN: Carr
+
+E1
+EN: Soyaal
+EN: Aktaş
+
+E3
+EN: 02.05.1970
+
+E4
+EN: 12.11.1980

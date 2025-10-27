@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_2\\scan\\russian-123_03.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\russian-123_03.jpg",
+  "width": 1998,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            729,
+            263,
+            927,
+            308
+          ],
+          "original_text": "Козлов /",
+          "translated_en": "Kozlov /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            728,
+            317,
+            872,
+            347
+          ],
+          "original_text": "Kozlov",
+          "translated_en": "Kozlov",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            727,
+            464,
+            1150,
+            523
+          ],
+          "original_text": "Никита Юрьевич /",
+          "translated_en": "Nikita Yurevich /",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            723,
+            520,
+            1065,
+            573
+          ],
+          "original_text": "Natik Yurierich",
+          "translated_en": "Natik Yurievich",
+          "detected_lang": "hi-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            721,
+            675,
+            978,
+            712
+          ],
+          "original_text": "05.02.7999",
+          "translated_en": "05.02.7999",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            717,
+            955,
+            964,
+            987
+          ],
+          "original_text": "18.10.2016",
+          "translated_en": "18.10.2016",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            714,
+            1141,
+            969,
+            1175
+          ],
+          "original_text": "16.10.2040",
+          "translated_en": "16.10.2040",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-123_03_translated.jpg"
+}

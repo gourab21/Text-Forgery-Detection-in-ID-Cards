@@ -1,0 +1,57 @@
+{
+  "source_json": "test\\bonafide\\iphone15\\singapore-flickr_M_50611940256_8405427c78_k.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_M_50611940256_8405427c78_k.jpg",
+  "width": 2774,
+  "height": 1740,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            709,
+            652,
+            1183,
+            735
+          ],
+          "original_text": "Arjun Das",
+          "translated_en": "Arjun Das",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            730,
+            1293,
+            1227,
+            1365
+          ],
+          "original_text": "1965-02-28",
+          "translated_en": "1965-02-28",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1651,
+            1535,
+            2155,
+            1605
+          ],
+          "original_text": "1975-02-28",
+          "translated_en": "1975-02-28",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_50611940256_8405427c78_k_translated.jpg"
+}

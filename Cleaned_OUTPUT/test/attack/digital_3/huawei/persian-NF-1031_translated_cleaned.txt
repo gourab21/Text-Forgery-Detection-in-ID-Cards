@@ -1,0 +1,22 @@
+E1
+EN: Heathe
+
+E2
+EN: Shirazi
+
+L1
+EN: Parisa
+OR: پریسا
+
+L2
+EN: Farmer
+OR: زارع
+
+E3
+EN: 17/05/2078
+
+E4
+EN: 06/02/2024
+
+E5
+EN: 04/03/1994

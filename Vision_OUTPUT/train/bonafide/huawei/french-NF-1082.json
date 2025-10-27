@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-NF-1082.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        954,
+        421,
+        1900,
+        567
+      ],
+      "lines": [
+        {
+          "text": "MASSON",
+          "box": [
+            1054,
+            460,
+            1378,
+            517
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        946,
+        693,
+        2011,
+        869
+      ],
+      "lines": [
+        {
+          "text": "Laure , Sabine",
+          "box": [
+            1049,
+            726,
+            1566,
+            805
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2226,
+        972,
+        2853,
+        1140
+      ],
+      "lines": [
+        {
+          "text": "15 10 1990",
+          "box": [
+            2294,
+            1007,
+            2724,
+            1067
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2196,
+        1586,
+        2834,
+        1740
+      ],
+      "lines": [
+        {
+          "text": "02 12 2034",
+          "box": [
+            2277,
+            1623,
+            2712,
+            1681
+          ]
+        }
+      ]
+    }
+  ]
+}

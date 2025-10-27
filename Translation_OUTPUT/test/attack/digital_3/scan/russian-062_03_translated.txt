@@ -1,0 +1,18 @@
+LE1
+OR: Журавлева /
+EN: Zhuravleva /
+EN: Zhuravleva
+
+LE2
+OR: Дарья Сергеевна / K
+EN: Daria Sergeevna / K
+EN: Jennifergena
+
+E3
+EN: 21.09.2027
+
+E4
+EN: 17.12.2014
+
+E5
+EN: 11.11.1986

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-042_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        475
+      ],
+      "lines": [
+        {
+          "text": "PARACOSTA",
+          "box": [
+            683,
+            336,
+            1112,
+            395
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            682,
+            402,
+            830,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        577,
+        1997,
+        674
+      ],
+      "lines": [
+        {
+          "text": "05 08 1991",
+          "box": [
+            1703,
+            597,
+            1993,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        732,
+        1669,
+        847
+      ],
+      "lines": [
+        {
+          "text": "02 08 1995",
+          "box": [
+            1295,
+            768,
+            1594,
+            811
+          ]
+        }
+      ]
+    }
+  ]
+}

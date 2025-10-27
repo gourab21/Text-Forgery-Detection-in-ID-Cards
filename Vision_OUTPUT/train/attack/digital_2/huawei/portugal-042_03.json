@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-042_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        993,
+        470,
+        2343,
+        745
+      ],
+      "lines": [
+        {
+          "text": "PENANPER COST A",
+          "box": [
+            1105,
+            516,
+            1803,
+            605
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            1104,
+            626,
+            1338,
+            684
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2643,
+        906,
+        3206,
+        1057
+      ],
+      "lines": [
+        {
+          "text": "05 08 1991",
+          "box": [
+            2749,
+            945,
+            3205,
+            1011
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1990,
+        1149,
+        2681,
+        1330
+      ],
+      "lines": [
+        {
+          "text": "02 08 2001",
+          "box": [
+            2093,
+            1207,
+            2572,
+            1281
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-119_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "MARIANDES SILVA",
+          "box": [
+            695,
+            340,
+            1172,
+            382
+          ]
+        },
+        {
+          "text": "Luis",
+          "box": [
+            692,
+            397,
+            794,
+            439
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        575,
+        1992,
+        671
+      ],
+      "lines": [
+        {
+          "text": "04 08 1921",
+          "box": [
+            1699,
+            600,
+            1950,
+            637
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1665,
+        845
+      ],
+      "lines": [
+        {
+          "text": "18 02 1939",
+          "box": [
+            1304,
+            768,
+            1589,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

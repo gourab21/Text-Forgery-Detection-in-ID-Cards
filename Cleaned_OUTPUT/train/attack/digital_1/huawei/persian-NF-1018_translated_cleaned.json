@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\persian-NF-1018_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\persian-NF-1018.jpg",
+  "width": 3194,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1225,
+            442,
+            1477,
+            499
+          ],
+          "original_text": "Zawre",
+          "translated_en": "Zawre"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1225,
+            671,
+            1502,
+            734
+          ],
+          "original_text": "Karimi",
+          "translated_en": "Karimi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2175,
+            454,
+            2311,
+            516
+          ],
+          "original_text": "زهرا",
+          "translated_en": "Zahra"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2159,
+            687,
+            2357,
+            761
+          ],
+          "original_text": "كريمى",
+          "translated_en": "Creamy"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1217,
+            934,
+            1672,
+            999
+          ],
+          "original_text": "09/09/2010",
+          "translated_en": "09/09/2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1204,
+            1457,
+            1656,
+            1523
+          ],
+          "original_text": "09/09/2019",
+          "translated_en": "09/09/2019"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2150,
+            1469,
+            2601,
+            1533
+          ],
+          "original_text": "09/09/2011",
+          "translated_en": "09/09/2011"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1018_translated_cleaned.jpg"
+}

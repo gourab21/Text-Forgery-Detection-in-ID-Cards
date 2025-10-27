@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\scan\\netherland-flickr_F_31998771523_784e7e9597_h_translated.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\netherland-flickr_F_31998771523_784e7e9597_h.jpg",
+  "width": 1994,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            687,
+            319,
+            1135,
+            365
+          ],
+          "original_text": "VAN DEN BERG",
+          "translated_en": "VAN DEN BERG"
+        },
+        {
+          "box": [
+            689,
+            383,
+            1131,
+            429
+          ],
+          "original_text": "Daan Johannes",
+          "translated_en": "Daan Johannes"
+        },
+        {
+          "box": [
+            685,
+            450,
+            918,
+            494
+          ],
+          "original_text": "Cornelis",
+          "translated_en": "Cornelis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1560,
+            603,
+            1896,
+            647
+          ],
+          "original_text": "06 11 1976",
+          "translated_en": "06 11 1976"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1529,
+            776,
+            1895,
+            822
+          ],
+          "original_text": "17 02 2027",
+          "translated_en": "17 02 2027"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_31998771523_784e7e9597_h_translated_cleaned.jpg"
+}

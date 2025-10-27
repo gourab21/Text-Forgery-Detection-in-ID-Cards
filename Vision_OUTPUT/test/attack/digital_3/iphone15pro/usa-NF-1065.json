@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1065.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        801,
+        549,
+        1644,
+        852
+      ],
+      "lines": [
+        {
+          "text": "Mathewera",
+          "box": [
+            860,
+            611,
+            1263,
+            659
+          ]
+        },
+        {
+          "text": "1325 Cedar Lane",
+          "box": [
+            863,
+            673,
+            1439,
+            746
+          ]
+        },
+        {
+          "text": "Tacoma WA 98402",
+          "box": [
+            860,
+            757,
+            1494,
+            814
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1929,
+        972,
+        2585,
+        1104
+      ],
+      "lines": [
+        {
+          "text": "DOB : 25-02-34",
+          "box": [
+            1988,
+            985,
+            2512,
+            1034
+          ]
+        }
+      ]
+    }
+  ]
+}

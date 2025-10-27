@@ -1,0 +1,57 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_9641749325_1a753f74b2_c.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_9641749325_1a753f74b2_c.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            511,
+            465,
+            998,
+            524
+          ],
+          "original_text": "Patriciati Ayan",
+          "translated_en": "Patriciati Ayan",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            525,
+            921,
+            884,
+            976
+          ],
+          "original_text": "14-09-8-85",
+          "translated_en": "14-09-8-85",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1186,
+            1090,
+            1545,
+            1147
+          ],
+          "original_text": "28 11.7-88",
+          "translated_en": "28 11.7-88",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_9641749325_1a753f74b2_c_translated.jpg"
+}

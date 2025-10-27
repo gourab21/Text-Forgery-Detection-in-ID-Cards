@@ -1,0 +1,13 @@
+LE1
+EN: Wu Fang
+OR: 吳芳
+EN: Wisaang
+
+E2
+EN: 14 MAY 2029
+
+E3
+EN: 04 JUN 2010
+
+E4
+EN: 03 JUN 2000

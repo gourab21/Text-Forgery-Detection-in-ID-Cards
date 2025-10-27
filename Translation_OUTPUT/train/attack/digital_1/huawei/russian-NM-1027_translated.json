@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\russian-NM-1027.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\russian-NM-1027.jpg",
+  "width": 3204,
+  "height": 1981,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1165,
+            415,
+            1441,
+            487
+          ],
+          "original_text": "Белов /",
+          "translated_en": "Belov /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1162,
+            502,
+            1353,
+            554
+          ],
+          "original_text": "Belov",
+          "translated_en": "Belov",
+          "detected_lang": "eo"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            2077,
+            686,
+            2133,
+            730
+          ],
+          "original_text": "Ρο",
+          "translated_en": "Ro",
+          "detected_lang": "el"
+        },
+        {
+          "box": [
+            1150,
+            752,
+            1895,
+            827
+          ],
+          "original_text": "Артём Васильевич /",
+          "translated_en": "Artem Vasilievich /",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            1150,
+            833,
+            1678,
+            898
+          ],
+          "original_text": "AyanmıVasilevi",
+          "translated_en": "AyanmiVasilevi",
+          "detected_lang": "tr"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1150,
+            1080,
+            1558,
+            1140
+          ],
+          "original_text": "17.05.:2037",
+          "translated_en": "17.05.:2037",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1138,
+            1523,
+            1539,
+            1582
+          ],
+          "original_text": "03.10.2017",
+          "translated_en": "03.10.2017",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1132,
+            1821,
+            1545,
+            1876
+          ],
+          "original_text": "01.10.2038",
+          "translated_en": "01.10.2038",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NM-1027_translated.jpg"
+}

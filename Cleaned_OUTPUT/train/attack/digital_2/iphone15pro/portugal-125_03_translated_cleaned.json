@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\portugal-125_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-125_03.jpg",
+  "width": 2634,
+  "height": 1611,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            906,
+            432,
+            1454,
+            501
+          ],
+          "original_text": "OBAGYRIORD",
+          "translated_en": "OBAGYRIORD"
+        },
+        {
+          "box": [
+            903,
+            514,
+            1291,
+            566
+          ],
+          "original_text": "João Carlos",
+          "translated_en": "João Carlos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2246,
+            771,
+            2628,
+            823
+          ],
+          "original_text": "22 05 1990",
+          "translated_en": "22 05 1990"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1713,
+            988,
+            2103,
+            1040
+          ],
+          "original_text": "15 07 2035",
+          "translated_en": "15 07 2035"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-125_03_translated_cleaned.jpg"
+}

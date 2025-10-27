@@ -1,0 +1,13 @@
+LE1
+EN: Sun Chao
+OR: 孙超
+EN: Andrewao
+
+E2
+EN: 05 Jan 2055
+
+E3
+EN: 03 Dec 1960
+
+E4
+EN: 09 Jan 1931

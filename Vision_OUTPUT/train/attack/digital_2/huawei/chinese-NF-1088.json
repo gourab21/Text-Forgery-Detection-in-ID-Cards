@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\chinese-NF-1088.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        970,
+        598,
+        1682,
+        878
+      ],
+      "lines": [
+        {
+          "text": "豪 咽",
+          "box": [
+            1022,
+            657,
+            1182,
+            734
+          ]
+        },
+        {
+          "text": "BOIneshaj",
+          "box": [
+            1032,
+            743,
+            1409,
+            813
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1824,
+        994,
+        2449,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "25 Nov : 208",
+          "box": [
+            1885,
+            1054,
+            2407,
+            1139
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1796,
+        1283,
+        2485,
+        1476
+      ],
+      "lines": [
+        {
+          "text": "15 Aug 2016",
+          "box": [
+            1893,
+            1331,
+            2383,
+            1409
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        940,
+        1570,
+        1657,
+        1756
+      ],
+      "lines": [
+        {
+          "text": "13 Aug 2037",
+          "box": [
+            1055,
+            1629,
+            1571,
+            1702
+          ]
+        }
+      ]
+    }
+  ]
+}

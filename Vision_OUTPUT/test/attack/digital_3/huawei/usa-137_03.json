@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-137_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        977,
+        677,
+        2004,
+        1053
+      ],
+      "lines": [
+        {
+          "text": "Margaret ht",
+          "box": [
+            1054,
+            748,
+            1594,
+            824
+          ]
+        },
+        {
+          "text": "678 Pine Rd",
+          "box": [
+            1045,
+            840,
+            1544,
+            903
+          ]
+        },
+        {
+          "text": "Denver CO 80203",
+          "box": [
+            1046,
+            935,
+            1777,
+            1000
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        1201,
+        3154,
+        1363
+      ],
+      "lines": [
+        {
+          "text": "DOB : 25-05-91",
+          "box": [
+            2423,
+            1242,
+            3062,
+            1317
+          ]
+        }
+      ]
+    }
+  ]
+}

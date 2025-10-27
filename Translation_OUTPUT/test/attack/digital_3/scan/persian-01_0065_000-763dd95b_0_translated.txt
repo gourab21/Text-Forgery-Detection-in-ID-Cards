@@ -1,0 +1,22 @@
+E1
+EN: Lorrain
+
+E2
+EN: Kermani
+
+L1
+OR: بهروز
+EN: Behrouz
+
+L2
+OR: قاسمی
+EN: Qasmi
+
+E3
+EN: 25/02/2073
+
+E4
+EN: 05/07/2024
+
+E5
+EN: 10/05/2082

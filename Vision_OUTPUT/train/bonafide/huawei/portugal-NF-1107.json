@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        471,
+        2339,
+        747
+      ],
+      "lines": [
+        {
+          "text": "SILVA LIMA",
+          "box": [
+            1100,
+            536,
+            1593,
+            606
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            1098,
+            629,
+            1715,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2639,
+        907,
+        3201,
+        1061
+      ],
+      "lines": [
+        {
+          "text": "09 02 1995",
+          "box": [
+            2747,
+            947,
+            3200,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1987,
+        1152,
+        2677,
+        1334
+      ],
+      "lines": [
+        {
+          "text": "24 06 2027",
+          "box": [
+            2093,
+            1215,
+            2559,
+            1278
+          ]
+        }
+      ]
+    }
+  ]
+}

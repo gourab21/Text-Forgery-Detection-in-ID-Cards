@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-NF-1088.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        637,
+        395,
+        1104,
+        580
+      ],
+      "lines": [
+        {
+          "text": "Jeffreyo",
+          "box": [
+            692,
+            481,
+            918,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1199,
+        658,
+        1609,
+        791
+      ],
+      "lines": [
+        {
+          "text": "25 May 1985",
+          "box": [
+            1233,
+            712,
+            1567,
+            758
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1181,
+        849,
+        1633,
+        976
+      ],
+      "lines": [
+        {
+          "text": "15 Aug 2016",
+          "box": [
+            1233,
+            895,
+            1556,
+            939
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1039,
+        1088,
+        1161
+      ],
+      "lines": [
+        {
+          "text": "28 Aug 2018",
+          "box": [
+            666,
+            1076,
+            993,
+            1126
+          ]
+        }
+      ]
+    }
+  ]
+}

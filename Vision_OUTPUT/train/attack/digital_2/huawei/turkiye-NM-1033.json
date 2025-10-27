@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\turkiye-NM-1033.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        956,
+        968,
+        1952,
+        1156
+      ],
+      "lines": [
+        {
+          "text": "Batrt",
+          "box": [
+            1045,
+            1037,
+            1299,
+            1098
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        953,
+        708,
+        1952,
+        903
+      ],
+      "lines": [
+        {
+          "text": "Arslan",
+          "box": [
+            1044,
+            788,
+            1301,
+            850
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        952,
+        1215,
+        1915,
+        1400
+      ],
+      "lines": [
+        {
+          "text": "14.11.2000",
+          "box": [
+            1042,
+            1278,
+            1525,
+            1351
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        959,
+        1720,
+        1902,
+        1920
+      ],
+      "lines": [
+        {
+          "text": "24.12.2023",
+          "box": [
+            1033,
+            1780,
+            1509,
+            1852
+          ]
+        }
+      ]
+    }
+  ]
+}

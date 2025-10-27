@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\usa-NM-1052_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\usa-NM-1052.jpg",
+  "width": 3239,
+  "height": 1989,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1044,
+            737,
+            1580,
+            832
+          ],
+          "original_text": "Camieopher",
+          "translated_en": "Camieopher"
+        },
+        {
+          "box": [
+            1469,
+            688,
+            1827,
+            983
+          ],
+          "original_text": "www.ren",
+          "translated_en": "www.ren"
+        },
+        {
+          "box": [
+            1048,
+            835,
+            1859,
+            948
+          ],
+          "original_text": "112 Oak St RATE",
+          "translated_en": "112 Oak St RATE"
+        },
+        {
+          "box": [
+            1047,
+            938,
+            1837,
+            1008
+          ],
+          "original_text": "Laramie WY 82070",
+          "translated_en": "Laramie WY 82070"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2421,
+            1242,
+            3088,
+            1326
+          ],
+          "original_text": "10-11-39",
+          "translated_en": "10-11-39"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1052_translated_cleaned.jpg"
+}

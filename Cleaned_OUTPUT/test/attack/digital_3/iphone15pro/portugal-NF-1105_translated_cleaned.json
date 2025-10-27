@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\portugal-NF-1105_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\portugal-NF-1105.jpg",
+  "width": 2850,
+  "height": 1802,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            978,
+            492,
+            1679,
+            557
+          ],
+          "original_text": "JENNFERS COSTA",
+          "translated_en": "JENNFERS COSTA"
+        },
+        {
+          "box": [
+            971,
+            592,
+            1108,
+            636
+          ],
+          "original_text": "Ana",
+          "translated_en": "Ana"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2421,
+            831,
+            2783,
+            886
+          ],
+          "original_text": "13 12 2015",
+          "translated_en": "13 12 2015"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1870,
+            1084,
+            2276,
+            1142
+          ],
+          "original_text": "11 07 1954",
+          "translated_en": "11 07 1954"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1105_translated_cleaned.jpg"
+}

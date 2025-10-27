@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\usa-009_03.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\usa-009_03.jpg",
+  "width": 3204,
+  "height": 1979,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1048,
+            741,
+            1455,
+            807
+          ],
+          "original_text": "LamesClark",
+          "translated_en": "LamesClark",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1042,
+            833,
+            1620,
+            906
+          ],
+          "original_text": "654 Spruce St",
+          "translated_en": "654 Spruce St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1043,
+            929,
+            1976,
+            1006
+          ],
+          "original_text": "Philadelphia PA 19104",
+          "translated_en": "Philadelphia PA 19104",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2405,
+            1237,
+            3036,
+            1305
+          ],
+          "original_text": "DOB : 10-25-17",
+          "translated_en": "DOB : 10-25-17",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-009_03_translated.jpg"
+}

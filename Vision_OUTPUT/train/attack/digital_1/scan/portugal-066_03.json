@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "S ILDSTCCSTA",
+          "box": [
+            680,
+            342,
+            1068,
+            391
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            684,
+            401,
+            1119,
+            450
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        575,
+        1997,
+        671
+      ],
+      "lines": [
+        {
+          "text": "18 03 2016",
+          "box": [
+            1711,
+            577,
+            1996,
+            616
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        730,
+        1669,
+        845
+      ],
+      "lines": [
+        {
+          "text": "04 01 2011",
+          "box": [
+            1309,
+            753,
+            1608,
+            795
+          ]
+        }
+      ]
+    }
+  ]
+}

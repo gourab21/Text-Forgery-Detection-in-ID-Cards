@@ -1,0 +1,12 @@
+E1
+EN: BROUWER
+EN: Noa Elisabeth
+EN: Sophie
+
+E2
+EN: OF BIRTH
+EN: 27 06 1972
+
+E3
+EN: ELDIG TOD ! CARD EXPIRY
+EN: 07 04 2027

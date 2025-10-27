@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-013_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        298,
+        1459,
+        471
+      ],
+      "lines": [
+        {
+          "text": "MICHAEL ANDRADE",
+          "box": [
+            692,
+            340,
+            1199,
+            383
+          ]
+        },
+        {
+          "text": "Carla Patrícia",
+          "box": [
+            687,
+            394,
+            1029,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "16 09 2082",
+          "box": [
+            1702,
+            598,
+            1955,
+            635
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        728,
+        1670,
+        843
+      ],
+      "lines": [
+        {
+          "text": "16 11 2031",
+          "box": [
+            1304,
+            765,
+            1591,
+            804
+          ]
+        }
+      ]
+    }
+  ]
+}

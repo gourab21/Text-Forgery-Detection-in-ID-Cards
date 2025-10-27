@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-017_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        884,
+        434,
+        2086,
+        688
+      ],
+      "lines": [
+        {
+          "text": "ANTOONYSOUSA",
+          "box": [
+            988,
+            504,
+            1567,
+            560
+          ]
+        },
+        {
+          "text": "Eduardo Manuel",
+          "box": [
+            981,
+            584,
+            1572,
+            647
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2354,
+        835,
+        2855,
+        976
+      ],
+      "lines": [
+        {
+          "text": "29 01 1996",
+          "box": [
+            2433,
+            839,
+            2790,
+            896
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1772,
+        1061,
+        2388,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "03 09 2025",
+          "box": [
+            1876,
+            1092,
+            2285,
+            1154
+          ]
+        }
+      ]
+    }
+  ]
+}

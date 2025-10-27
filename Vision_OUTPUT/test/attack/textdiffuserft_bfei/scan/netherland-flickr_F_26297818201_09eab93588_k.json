@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_F_26297818201_09eab93588_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        539
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            675,
+            320,
+            1032,
+            367
+          ]
+        },
+        {
+          "text": "Karen Cornelis",
+          "box": [
+            672,
+            385,
+            1075,
+            428
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            676,
+            452,
+            994,
+            498
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1971,
+        657
+      ],
+      "lines": [
+        {
+          "text": "04 06 2041",
+          "box": [
+            1560,
+            580,
+            1888,
+            626
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1463,
+        729,
+        1963,
+        852
+      ],
+      "lines": [
+        {
+          "text": "25 11 1978",
+          "box": [
+            1540,
+            752,
+            1897,
+            803
+          ]
+        }
+      ]
+    }
+  ]
+}

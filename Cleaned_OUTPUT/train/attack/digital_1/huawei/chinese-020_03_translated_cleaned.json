@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\chinese-020_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\chinese-020_03.jpg",
+  "width": 3188,
+  "height": 1968,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1102,
+            678,
+            1262,
+            754
+          ],
+          "original_text": "李福",
+          "translated_en": "Li Fu"
+        },
+        {
+          "box": [
+            1098,
+            781,
+            1309,
+            834
+          ],
+          "original_text": "Lawna",
+          "translated_en": "Lawna"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1987,
+            1130,
+            2534,
+            1197
+          ],
+          "original_text": "18 MAR 2041",
+          "translated_en": "18 MAR 2041"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1974,
+            1420,
+            2480,
+            1484
+          ],
+          "original_text": "07 JUL 2009",
+          "translated_en": "07 JUL 2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1077,
+            1711,
+            1597,
+            1775
+          ],
+          "original_text": "06 JUL 2028",
+          "translated_en": "06 JUL 2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-020_03_translated_cleaned.jpg"
+}

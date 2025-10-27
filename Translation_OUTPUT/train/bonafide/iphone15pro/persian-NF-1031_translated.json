@@ -1,0 +1,121 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\persian-NF-1031.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\persian-NF-1031.jpg",
+  "width": 2640,
+  "height": 1609,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1019,
+            360,
+            1240,
+            411
+          ],
+          "original_text": "Parisa",
+          "translated_en": "Parisa",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1014,
+            544,
+            1256,
+            598
+          ],
+          "original_text": "Shirazi",
+          "translated_en": "Shirazi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1788,
+            372,
+            1928,
+            428
+          ],
+          "original_text": "پریسا",
+          "translated_en": "Parisa",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1780,
+            561,
+            1908,
+            620
+          ],
+          "original_text": "زارع",
+          "translated_en": "Farmer",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1008,
+            758,
+            1379,
+            813
+          ],
+          "original_text": "31/10/1994",
+          "translated_en": "31/10/1994",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1000,
+            1185,
+            1367,
+            1235
+          ],
+          "original_text": "06/02/2024",
+          "translated_en": "06/02/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1771,
+            1194,
+            2142,
+            1248
+          ],
+          "original_text": "25/07/2029",
+          "translated_en": "25/07/2029",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1031_translated.jpg"
+}

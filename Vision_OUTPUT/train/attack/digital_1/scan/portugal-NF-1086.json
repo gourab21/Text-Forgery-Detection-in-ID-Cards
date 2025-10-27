@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        298,
+        1456,
+        474
+      ],
+      "lines": [
+        {
+          "text": "SDREAPEREIRA",
+          "box": [
+            675,
+            343,
+            1085,
+            389
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            679,
+            403,
+            869,
+            443
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        576,
+        1993,
+        672
+      ],
+      "lines": [
+        {
+          "text": "22 04 2013",
+          "box": [
+            1702,
+            581,
+            1992,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        731,
+        1666,
+        846
+      ],
+      "lines": [
+        {
+          "text": "20 04 2027",
+          "box": [
+            1305,
+            755,
+            1602,
+            797
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\turkiye-101_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        613,
+        1216,
+        732
+      ],
+      "lines": [
+        {
+          "text": "Oatr",
+          "box": [
+            653,
+            650,
+            776,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        448,
+        1216,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Aktaş",
+          "box": [
+            653,
+            498,
+            799,
+            547
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        769,
+        1193,
+        886
+      ],
+      "lines": [
+        {
+          "text": "06.01.2026",
+          "box": [
+            651,
+            809,
+            953,
+            851
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1090,
+        1185,
+        1215
+      ],
+      "lines": [
+        {
+          "text": "22.06.1990",
+          "box": [
+            647,
+            1120,
+            943,
+            1162
+          ]
+        }
+      ]
+    }
+  ]
+}

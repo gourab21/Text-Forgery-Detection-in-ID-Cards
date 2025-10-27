@@ -1,0 +1,18 @@
+LE1
+EN: Miller /
+OR: Мельник /
+EN: Melnyk
+
+LE2
+EN: Yulia Sergiivna /
+OR: Юлія Сергіївна /
+EN: Jamea
+
+E3
+EN: 13.07.1930
+
+E4
+EN: 25.02.2019
+
+E5
+EN: 12.10.1937

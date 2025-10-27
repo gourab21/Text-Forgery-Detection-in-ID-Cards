@@ -1,0 +1,19 @@
+LE1
+OR: Остапенко /
+EN: Ostapenko /
+EN: Ostapenko
+
+LE2
+OR: Наталія Русланівна /
+EN: Natalia Ruslanivna /
+EN: Erinlia
+
+E3
+EN: 28.10.1975
+
+E4
+EN: ата вид Of Issue
+EN: 05.06.2016
+
+E5
+EN: 09.11.2059

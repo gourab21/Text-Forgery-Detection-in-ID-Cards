@@ -1,0 +1,19 @@
+LE1
+OR: Козлова /
+EN: Kozlova /
+EN: Kozlova
+
+LE2
+OR: Тетяна Романівна /
+EN: Tatyana Romanivna /
+EN: Tetiana
+
+E3
+EN: 24.11.1991
+
+E4
+EN: ата вида Date of Issue
+EN: 10.12.2016
+
+E5
+EN: 10.12.2021

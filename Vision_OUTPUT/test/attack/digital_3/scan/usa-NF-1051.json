@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-NF-1051.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        602,
+        426,
+        1234,
+        661
+      ],
+      "lines": [
+        {
+          "text": "Isaia Taylor",
+          "box": [
+            648,
+            459,
+            966,
+            514
+          ]
+        },
+        {
+          "text": "3714 Maple Ave",
+          "box": [
+            647,
+            523,
+            1057,
+            575
+          ]
+        },
+        {
+          "text": "Dallas TX 75235",
+          "box": [
+            646,
+            583,
+            1059,
+            628
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1449,
+        754,
+        1942,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 01-04-94",
+          "box": [
+            1488,
+            777,
+            1878,
+            816
+          ]
+        }
+      ]
+    }
+  ]
+}

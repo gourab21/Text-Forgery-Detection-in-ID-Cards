@@ -1,0 +1,57 @@
+{
+  "source_json": "test\\bonafide\\huawei\\singapore-flickr_F_33552363961_ea0fc80afb_k.json",
+  "image_relative": "test\\bonafide\\huawei\\singapore-flickr_F_33552363961_ea0fc80afb_k.jpg",
+  "width": 3176,
+  "height": 1979,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            796,
+            745,
+            1656,
+            830
+          ],
+          "original_text": "Meera Krishnan",
+          "translated_en": "Meera Krishnan",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            815,
+            1478,
+            1395,
+            1553
+          ],
+          "original_text": "2000-12-02",
+          "translated_en": "2000-12-02",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1873,
+            1757,
+            2461,
+            1836
+          ],
+          "original_text": "2010-12-02",
+          "translated_en": "2010-12-02",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_33552363961_ea0fc80afb_k_translated.jpg"
+}

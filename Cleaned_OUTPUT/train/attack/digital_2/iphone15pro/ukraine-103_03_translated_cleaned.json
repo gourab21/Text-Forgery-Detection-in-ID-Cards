@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\ukraine-103_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\ukraine-103_03.jpg",
+  "width": 2821,
+  "height": 1794,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            883,
+            374,
+            1105,
+            414
+          ],
+          "original_text": "Прізвив",
+          "translated_en": "Called"
+        },
+        {
+          "box": [
+            902,
+            424,
+            1326,
+            494
+          ],
+          "original_text": "Коваленко /",
+          "translated_en": "Kovalenko /"
+        },
+        {
+          "box": [
+            906,
+            511,
+            1253,
+            563
+          ],
+          "original_text": "Kovalenko",
+          "translated_en": "Kovalenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            909,
+            673,
+            1679,
+            758
+          ],
+          "original_text": "Олександр Михайлови",
+          "translated_en": "Alexander Mykhailovy"
+        },
+        {
+          "box": [
+            909,
+            767,
+            1271,
+            827
+          ],
+          "original_text": "Caseyardr",
+          "translated_en": "Caseyardr"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            915,
+            979,
+            1323,
+            1032
+          ],
+          "original_text": "21.08.1894",
+          "translated_en": "21.08.1894"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            924,
+            1372,
+            1300,
+            1428
+          ],
+          "original_text": "21.02.2018",
+          "translated_en": "21.02.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            929,
+            1653,
+            1330,
+            1709
+          ],
+          "original_text": "20.02.2995",
+          "translated_en": "20.02.2995"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-103_03_translated_cleaned.jpg"
+}

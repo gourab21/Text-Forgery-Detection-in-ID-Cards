@@ -1,0 +1,23 @@
+E1
+EN: Nam
+EN: Rona
+
+E2
+EN: Ghasemi
+
+L1
+EN: Especially
+OR: سيما
+
+L2
+EN: Farmer
+OR: زارع
+
+E3
+EN: 18/01/1988
+
+E4
+EN: 24/03/2024
+
+E5
+EN: 16/05/2042

@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\russian-062_03.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\russian-062_03.jpg",
+  "width": 3205,
+  "height": 1973,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1150,
+            413,
+            1633,
+            488
+          ],
+          "original_text": "Журавлева /",
+          "translated_en": "Zhuravleva /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1154,
+            497,
+            1544,
+            553
+          ],
+          "original_text": "Zhuravleva",
+          "translated_en": "Zhuravleva",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1146,
+            744,
+            1840,
+            818
+          ],
+          "original_text": "Дарья Сергеевна /",
+          "translated_en": "Daria Sergeevna /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1150,
+            828,
+            1732,
+            894
+          ],
+          "original_text": "Disaa Sergeena",
+          "translated_en": "Disaa Sergeena",
+          "detected_lang": "so"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1148,
+            1071,
+            1546,
+            1134
+          ],
+          "original_text": "13.05.:2011",
+          "translated_en": "13.05.:2011",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1137,
+            1515,
+            1536,
+            1572
+          ],
+          "original_text": "17.12.2014",
+          "translated_en": "17.12.2014",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1131,
+            1810,
+            1541,
+            1869
+          ],
+          "original_text": "14.12.2040",
+          "translated_en": "14.12.2040",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-062_03_translated.jpg"
+}

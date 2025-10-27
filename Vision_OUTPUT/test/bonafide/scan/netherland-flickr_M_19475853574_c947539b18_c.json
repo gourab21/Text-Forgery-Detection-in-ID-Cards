@@ -1,0 +1,102 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_19475853574_c947539b18_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        540
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            693,
+            320,
+            997,
+            364
+          ]
+        },
+        {
+          "text": "Noa Elisabeth",
+          "box": [
+            690,
+            385,
+            1088,
+            429
+          ]
+        },
+        {
+          "text": "Sophie",
+          "box": [
+            687,
+            449,
+            888,
+            501
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1485,
+        560,
+        1966,
+        659
+      ],
+      "lines": [
+        {
+          "text": "OF BIRTH",
+          "box": [
+            1754,
+            560,
+            1918,
+            582
+          ]
+        },
+        {
+          "text": "27 06 1972",
+          "box": [
+            1564,
+            602,
+            1901,
+            652
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1460,
+        731,
+        1959,
+        854
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD ! CARD EXPIRY",
+          "box": [
+            1460,
+            731,
+            1914,
+            760
+          ]
+        },
+        {
+          "text": "07 04 2027",
+          "box": [
+            1529,
+            776,
+            1898,
+            823
+          ]
+        }
+      ]
+    }
+  ]
+}

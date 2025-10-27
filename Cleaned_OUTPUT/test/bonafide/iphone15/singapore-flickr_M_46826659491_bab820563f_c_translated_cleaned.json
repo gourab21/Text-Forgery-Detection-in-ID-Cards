@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\singapore-flickr_M_46826659491_bab820563f_c_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_M_46826659491_bab820563f_c.jpg",
+  "width": 2778,
+  "height": 1738,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            706,
+            645,
+            1270,
+            735
+          ],
+          "original_text": "Tariq Saeed",
+          "translated_en": "Tariq Saeed"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            719,
+            1288,
+            1227,
+            1356
+          ],
+          "original_text": "2004-12-05",
+          "translated_en": "2004-12-05"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1644,
+            1532,
+            2159,
+            1604
+          ],
+          "original_text": "2014-12-05",
+          "translated_en": "2014-12-05"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_46826659491_bab820563f_c_translated_cleaned.jpg"
+}

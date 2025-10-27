@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\usa-016_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\usa-016_03.jpg",
+  "width": 2827,
+  "height": 1787,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            919,
+            674,
+            1419,
+            747
+          ],
+          "original_text": "Paula Bislop",
+          "translated_en": "Paula Bislop"
+        },
+        {
+          "box": [
+            917,
+            737,
+            1620,
+            840
+          ],
+          "original_text": "891 Oak St RATP",
+          "translated_en": "891 Oak St RATP"
+        },
+        {
+          "box": [
+            921,
+            838,
+            1414,
+            910
+          ],
+          "original_text": "Miami FL 331",
+          "translated_en": "Miami FL 331"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2116,
+            1088,
+            2666,
+            1145
+          ],
+          "original_text": "01-09-27",
+          "translated_en": "01-09-27"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-016_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1026.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        300,
+        1458,
+        477
+      ],
+      "lines": [
+        {
+          "text": "MANUELBERO",
+          "box": [
+            684,
+            350,
+            1076,
+            393
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            683,
+            414,
+            785,
+            448
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        580,
+        1995,
+        677
+      ],
+      "lines": [
+        {
+          "text": "30 04 2040",
+          "box": [
+            1703,
+            588,
+            1950,
+            628
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        736,
+        1668,
+        852
+      ],
+      "lines": [
+        {
+          "text": "05 12 2023",
+          "box": [
+            1310,
+            764,
+            1598,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

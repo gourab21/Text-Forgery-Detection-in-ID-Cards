@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-042_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        993,
+        470,
+        2343,
+        745
+      ],
+      "lines": [
+        {
+          "text": "P RIELRAVCOSTA",
+          "box": [
+            1108,
+            533,
+            1741,
+            595
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            1102,
+            627,
+            1340,
+            684
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2643,
+        906,
+        3206,
+        1057
+      ],
+      "lines": [
+        {
+          "text": "05 08 12003",
+          "box": [
+            2750,
+            946,
+            3205,
+            1014
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1990,
+        1149,
+        2681,
+        1330
+      ],
+      "lines": [
+        {
+          "text": "02 08 1999",
+          "box": [
+            2093,
+            1209,
+            2567,
+            1278
+          ]
+        }
+      ]
+    }
+  ]
+}

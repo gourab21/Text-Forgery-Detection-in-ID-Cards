@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\turkiye-NF-1002_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\turkiye-NF-1002.jpg",
+  "width": 1993,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            654,
+            660,
+            759,
+            693
+          ],
+          "original_text": "Josh",
+          "translated_en": "Josh"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            651,
+            449,
+            758,
+            476
+          ],
+          "original_text": "Soya",
+          "translated_en": "Soya"
+        },
+        {
+          "box": [
+            647,
+            504,
+            825,
+            542
+          ],
+          "original_text": "Tezcan",
+          "translated_en": "Tezcan"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            655,
+            808,
+            942,
+            848
+          ],
+          "original_text": "14.10.1925",
+          "translated_en": "14.10.1925"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            662,
+            1123,
+            949,
+            1161
+          ],
+          "original_text": "06.12.2090",
+          "translated_en": "06.12.2090"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-NF-1002_translated_cleaned.jpg"
+}

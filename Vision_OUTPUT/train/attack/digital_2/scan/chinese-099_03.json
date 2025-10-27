@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-099_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        397,
+        1103,
+        583
+      ],
+      "lines": [
+        {
+          "text": "馬",
+          "box": [
+            677,
+            438,
+            729,
+            483
+          ]
+        },
+        {
+          "text": "zictorlag",
+          "box": [
+            677,
+            492,
+            951,
+            545
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1197,
+        660,
+        1606,
+        794
+      ],
+      "lines": [
+        {
+          "text": "22 Mar 2041",
+          "box": [
+            1241,
+            707,
+            1570,
+            743
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1179,
+        852,
+        1630,
+        979
+      ],
+      "lines": [
+        {
+          "text": "22 Jun 2016",
+          "box": [
+            1244,
+            884,
+            1556,
+            928
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        616,
+        1043,
+        1086,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "20 Jun 1995",
+          "box": [
+            691,
+            1081,
+            1020,
+            1125
+          ]
+        }
+      ]
+    }
+  ]
+}

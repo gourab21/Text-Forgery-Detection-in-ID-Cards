@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\iphone15\\singapore-flickr_M_50611940256_8405427c78_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\iphone15\\singapore-flickr_M_50611940256_8405427c78_k.jpg",
+  "width": 2774,
+  "height": 1740,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            709,
+            653,
+            1183,
+            736
+          ],
+          "original_text": "Arjun Das",
+          "translated_en": "Arjun Das"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            730,
+            1293,
+            1229,
+            1364
+          ],
+          "original_text": "1965-02-28",
+          "translated_en": "1965-02-28"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1651,
+            1535,
+            2154,
+            1605
+          ],
+          "original_text": "1975-02-28",
+          "translated_en": "1975-02-28"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_50611940256_8405427c78_k_translated_cleaned.jpg"
+}

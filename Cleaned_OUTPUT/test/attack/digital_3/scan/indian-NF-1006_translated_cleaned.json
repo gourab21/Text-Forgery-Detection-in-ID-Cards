@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\indian-NF-1006_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\indian-NF-1006.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            698,
+            462,
+            879,
+            501
+          ],
+          "original_text": "GHOSE",
+          "translated_en": "GHOSE"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            699,
+            617,
+            1035,
+            660
+          ],
+          "original_text": "ALLISOSITA",
+          "translated_en": "ALLISOSITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            693,
+            776,
+            1008,
+            822
+          ],
+          "original_text": "30/09/1906",
+          "translated_en": "30/09/1906"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            686,
+            1072,
+            1003,
+            1116
+          ],
+          "original_text": "29/09/2022",
+          "translated_en": "29/09/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1409,
+            1078,
+            1725,
+            1126
+          ],
+          "original_text": "20/03/2095",
+          "translated_en": "20/03/2095"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1006_translated_cleaned.jpg"
+}

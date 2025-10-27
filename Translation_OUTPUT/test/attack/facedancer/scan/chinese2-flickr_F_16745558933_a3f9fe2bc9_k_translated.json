@@ -1,0 +1,84 @@
+{
+  "source_json": "test\\attack\\facedancer\\scan\\chinese2-flickr_F_16745558933_a3f9fe2bc9_k.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\chinese2-flickr_F_16745558933_a3f9fe2bc9_k.jpg",
+  "width": 2001,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            690,
+            432,
+            794,
+            476
+          ],
+          "original_text": "吴艳",
+          "translated_en": "Wu Yan",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            686,
+            494,
+            886,
+            537
+          ],
+          "original_text": "Wu Yan",
+          "translated_en": "Wu Yan",
+          "detected_lang": "zh-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1253,
+            695,
+            1614,
+            741
+          ],
+          "original_text": "12 NOV 1954",
+          "translated_en": "12 NOV 1954",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1252,
+            877,
+            1613,
+            924
+          ],
+          "original_text": "29 MAY 2013",
+          "translated_en": "29 MAY 2013",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            698,
+            1076,
+            1061,
+            1122
+          ],
+          "original_text": "29 MAY 2033",
+          "translated_en": "29 MAY 2033",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_F_16745558933_a3f9fe2bc9_k_translated.jpg"
+}

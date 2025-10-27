@@ -1,0 +1,137 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\arabic-005_03.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\arabic-005_03.jpg",
+  "width": 2743,
+  "height": 1703,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1012,
+            638,
+            1600,
+            716
+          ],
+          "original_text": "Faryala AllSaled",
+          "translated_en": "Faryala AllSaled",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            979,
+            455,
+            1475,
+            541
+          ],
+          "original_text": "السالم فيصل",
+          "translated_en": "Salem Faisal",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1018,
+            1074,
+            1514,
+            1138
+          ],
+          "original_text": "17 Feb 2012",
+          "translated_en": "17 Feb 2012",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1029,
+            1299,
+            1528,
+            1359
+          ],
+          "original_text": "25 Mar 2023",
+          "translated_en": "25 Mar 2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1034,
+            1523,
+            1497,
+            1585
+          ],
+          "original_text": "28 Jul 2043",
+          "translated_en": "28 Jul 2043",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1752,
+            1045,
+            2401,
+            1145
+          ],
+          "original_text": "۱۷ / فبراير / ۱۹۹۵",
+          "translated_en": "February 17, 1995",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1753,
+            1281,
+            2419,
+            1369
+          ],
+          "original_text": "٢٥ / مارس / ٢۰۲۳",
+          "translated_en": "March 25, 2023",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1761,
+            1506,
+            2374,
+            1594
+          ],
+          "original_text": "۲۸ / يوليو / ۲۰۲۹",
+          "translated_en": "July 28, 2029",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-005_03_translated.jpg"
+}

@@ -1,0 +1,22 @@
+E1
+EN: uron
+
+E2
+EN: Hosseini
+
+L1
+EN: At night
+OR: ليلا
+
+L2
+EN: Hosseini
+OR: حسینی
+
+E3
+EN: 29/01/1999
+
+E4
+EN: 29/01/2021
+
+E5
+EN: 29/01/2029

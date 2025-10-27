@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\french-068_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        834,
+        380,
+        1660,
+        513
+      ],
+      "lines": [
+        {
+          "text": "ROUSSEAU",
+          "box": [
+            917,
+            430,
+            1279,
+            483
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        628,
+        1757,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Tinmas Higo",
+          "box": [
+            918,
+            681,
+            1411,
+            740
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1946,
+        880,
+        2493,
+        1031
+      ],
+      "lines": [
+        {
+          "text": "20 07 12033",
+          "box": [
+            2000,
+            889,
+            2403,
+            942
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1919,
+        1436,
+        2476,
+        1575
+      ],
+      "lines": [
+        {
+          "text": "13 07 2016",
+          "box": [
+            2012,
+            1441,
+            2411,
+            1491
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+LE1
+OR: 李晨
+EN: Li Chen
+EN: Lenry
+
+E2
+EN: 18 MAR 2000
+
+E3
+EN: 07 JUL 2009
+
+E4
+EN: 06 JUL 11003

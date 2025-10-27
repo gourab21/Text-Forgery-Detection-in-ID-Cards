@@ -1,0 +1,27 @@
+E1
+EN: Robinf Mubarak
+
+L1
+OR: مبارك يوسف
+EN: Mubarak Youssef
+
+E2
+EN: 05 Oct 2009
+
+E3
+EN: 25 May 2023
+
+E4
+EN: 01 Noy 2089
+
+L2
+OR: ٣ / ديسمبر / ١٩٨٥
+EN: December 3, 1985
+
+L3
+OR: ٢٥ / مايو / ٢٠٢٣
+EN: May 25, 2023
+
+L4
+OR: ٢٥ / مايو / ۲۰۳۳
+EN: May 25, 2033

@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-NM-1011.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        612,
+        1215,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Aust",
+          "box": [
+            652,
+            657,
+            782,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Ergin",
+          "box": [
+            651,
+            503,
+            782,
+            550
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        767,
+        1192,
+        884
+      ],
+      "lines": [
+        {
+          "text": "03.02.1919",
+          "box": [
+            654,
+            809,
+            944,
+            851
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1087,
+        1184,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "06.11.2079",
+          "box": [
+            662,
+            1122,
+            952,
+            1165
+          ]
+        }
+      ]
+    }
+  ]
+}

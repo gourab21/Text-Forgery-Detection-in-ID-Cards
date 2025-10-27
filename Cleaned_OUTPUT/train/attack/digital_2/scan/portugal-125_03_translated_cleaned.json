@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\portugal-125_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\portugal-125_03.jpg",
+  "width": 1999,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            684,
+            335,
+            1117,
+            393
+          ],
+          "original_text": "OF ANDRO",
+          "translated_en": "OF ANDRO"
+        },
+        {
+          "box": [
+            683,
+            396,
+            981,
+            440
+          ],
+          "original_text": "Joao Carlos",
+          "translated_en": "Joao Carlos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1707,
+            601,
+            1996,
+            640
+          ],
+          "original_text": "22 05 1990",
+          "translated_en": "22 05 1990"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1298,
+            768,
+            1595,
+            810
+          ],
+          "original_text": "15 07 2020",
+          "translated_en": "15 07 2020"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-125_03_translated_cleaned.jpg"
+}

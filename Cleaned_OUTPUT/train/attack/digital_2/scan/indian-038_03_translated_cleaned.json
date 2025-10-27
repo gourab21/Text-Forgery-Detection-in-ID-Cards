@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\indian-038_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\indian-038_03.jpg",
+  "width": 1992,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            701,
+            463,
+            835,
+            497
+          ],
+          "original_text": "NAIR",
+          "translated_en": "NAIR"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            699,
+            614,
+            1026,
+            656
+          ],
+          "original_text": "L PRLRCKIA",
+          "translated_en": "L PRLRCKIA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            695,
+            776,
+            1015,
+            819
+          ],
+          "original_text": "24/12/2013",
+          "translated_en": "24/12/2013"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            688,
+            1069,
+            1003,
+            1117
+          ],
+          "original_text": "12/01/2007",
+          "translated_en": "12/01/2007"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1407,
+            1077,
+            1736,
+            1124
+          ],
+          "original_text": "12/01/2032",
+          "translated_en": "12/01/2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-038_03_translated_cleaned.jpg"
+}

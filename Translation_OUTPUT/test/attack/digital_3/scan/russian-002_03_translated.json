@@ -1,0 +1,111 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\russian-002_03.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\russian-002_03.jpg",
+  "width": 1993,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            707,
+            268,
+            980,
+            311
+          ],
+          "original_text": "Васильева /",
+          "translated_en": "Vasilyeva /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            704,
+            324,
+            898,
+            357
+          ],
+          "original_text": "Vasilieva",
+          "translated_en": "Vasilieva",
+          "detected_lang": "yo"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            708,
+            471,
+            1326,
+            523
+          ],
+          "original_text": "Людмила Анатольевна / В",
+          "translated_en": "Lyudmila Anatolyevna / V",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            709,
+            513,
+            1182,
+            590
+          ],
+          "original_text": "Sheryla Sherrya Ana Analiz - 30 ) Uro",
+          "translated_en": "Sheryla Sherrya Ana Analiz - 30 ) Uro",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            718,
+            686,
+            960,
+            719
+          ],
+          "original_text": "14.11.2054",
+          "translated_en": "14.11.2054",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            719,
+            960,
+            967,
+            996
+          ],
+          "original_text": "20.08.2015",
+          "translated_en": "20.08.2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            726,
+            1147,
+            973,
+            1181
+          ],
+          "original_text": "20.05.1967",
+          "translated_en": "20.05.1967",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-002_03_translated.jpg"
+}

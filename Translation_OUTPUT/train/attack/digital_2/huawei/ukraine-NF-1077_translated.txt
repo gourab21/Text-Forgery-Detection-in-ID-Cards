@@ -1,0 +1,20 @@
+LE1
+OR: Ткаченко /
+EN: Tkachenko /
+EN: Tkachenko
+
+LE2
+OR: Олександра Михайлів
+EN: Oleksandra Mykhailiv
+OR: Ovik andça
+EN: Ovik oath
+
+E3
+EN: 14.04.7203
+
+E4
+EN: Вид OT ISSUE
+EN: 29.06.2017
+
+E5
+EN: 29.06.2005

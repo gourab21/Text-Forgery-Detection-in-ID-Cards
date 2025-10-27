@@ -1,0 +1,22 @@
+E1
+EN: sbig
+
+E2
+EN: Kazemi
+
+L1
+EN: Sara
+OR: سارا
+
+L2
+EN: Farmer
+OR: زارع
+
+E3
+EN: 12 / 12 / -193
+
+E4
+EN: 09/12/2024
+
+E5
+EN: 16/06/2091

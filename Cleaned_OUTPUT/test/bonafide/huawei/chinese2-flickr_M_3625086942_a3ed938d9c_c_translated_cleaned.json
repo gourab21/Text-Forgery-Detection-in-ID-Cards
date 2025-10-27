@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\chinese2-flickr_M_3625086942_a3ed938d9c_c_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\chinese2-flickr_M_3625086942_a3ed938d9c_c.jpg",
+  "width": 3235,
+  "height": 2050,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1107,
+            706,
+            1267,
+            782
+          ],
+          "original_text": "徐辉",
+          "translated_en": "Xu Hui"
+        },
+        {
+          "box": [
+            1096,
+            812,
+            1389,
+            883
+          ],
+          "original_text": "Xu Hui",
+          "translated_en": "Xu Hui"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2021,
+            1146,
+            2602,
+            1224
+          ],
+          "original_text": "15 MAY 1987",
+          "translated_en": "15 MAY 1987"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2022,
+            1449,
+            2575,
+            1526
+          ],
+          "original_text": "26 JUL 2009",
+          "translated_en": "26 JUL 2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1119,
+            1780,
+            1669,
+            1852
+          ],
+          "original_text": "26 JUL 2029",
+          "translated_en": "26 JUL 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_3625086942_a3ed938d9c_c_translated_cleaned.jpg"
+}

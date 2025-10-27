@@ -1,0 +1,30 @@
+E1
+EN: Bilal Fares
+
+L1
+OR: فارس بلال
+EN: Fares Bilal
+EN: N
+
+E2
+EN: 11 Nov 1991
+
+E3
+EN: 10 Jul 2025
+
+E4
+EN: 10 Jul 2035
+
+L2
+OR: تاریخ
+EN: History
+OR: ۱۱ / نوفمبر / ۱۹۹۱
+EN: November 11, 1991
+
+L3
+OR: ١٠ / يوليو / ٢٠٢٥
+EN: July 10, 2025
+
+L4
+OR: ١٠ / يوليو / / ۲۰۳۵
+EN: 10/July/2035

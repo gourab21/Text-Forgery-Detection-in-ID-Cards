@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-NF-1004.json",
+  "image_relative": "train\\bonafide\\scan\\usa-NF-1004.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            657,
+            462,
+            939,
+            516
+          ],
+          "original_text": "Mary Davis",
+          "translated_en": "Mary Davis",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            655,
+            525,
+            1029,
+            566
+          ],
+          "original_text": "6784 Creek Rd",
+          "translated_en": "6784 Creek Rd",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            656,
+            583,
+            1066,
+            627
+          ],
+          "original_text": "Dover DE 19901",
+          "translated_en": "Dover DE 19901",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1496,
+            774,
+            1888,
+            819
+          ],
+          "original_text": "DOB : 10-10-99",
+          "translated_en": "DOB : 10-10-99",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1004_translated.jpg"
+}

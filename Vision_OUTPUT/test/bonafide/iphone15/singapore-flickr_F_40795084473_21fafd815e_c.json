@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_40795084473_21fafd815e_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        580,
+        575,
+        2094,
+        851
+      ],
+      "lines": [
+        {
+          "text": "Kavita Reddy",
+          "box": [
+            712,
+            654,
+            1337,
+            729
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        646,
+        1233,
+        1442,
+        1404
+      ],
+      "lines": [
+        {
+          "text": "1984-09-08",
+          "box": [
+            728,
+            1294,
+            1227,
+            1363
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1568,
+        1497,
+        2313,
+        1662
+      ],
+      "lines": [
+        {
+          "text": "1994-09-08",
+          "box": [
+            1646,
+            1535,
+            2153,
+            1604
+          ]
+        }
+      ]
+    }
+  ]
+}

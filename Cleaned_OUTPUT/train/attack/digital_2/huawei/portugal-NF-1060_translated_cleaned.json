@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\portugal-NF-1060_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\portugal-NF-1060.jpg",
+  "width": 3205,
+  "height": 1986,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1096,
+            526,
+            2027,
+            624
+          ],
+          "original_text": "FODDRESS BIEBRO",
+          "translated_en": "FODDRESS BIEBRO"
+        },
+        {
+          "box": [
+            1093,
+            633,
+            1305,
+            698
+          ],
+          "original_text": "Carla",
+          "translated_en": "Carla"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2746,
+            957,
+            3204,
+            1024
+          ],
+          "original_text": "08 10 1986",
+          "translated_en": "08 10 1986"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2088,
+            1228,
+            2576,
+            1294
+          ],
+          "original_text": "05 10 2.033",
+          "translated_en": "05 10 2.033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1060_translated_cleaned.jpg"
+}

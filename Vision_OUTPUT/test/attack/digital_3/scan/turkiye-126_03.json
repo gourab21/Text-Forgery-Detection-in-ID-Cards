@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-126_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        594,
+        611,
+        1213,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Broo",
+          "box": [
+            655,
+            656,
+            772,
+            691
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        447,
+        1213,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Yılmaz",
+          "box": [
+            650,
+            496,
+            824,
+            534
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        591,
+        766,
+        1190,
+        883
+      ],
+      "lines": [
+        {
+          "text": "16.06.1961",
+          "box": [
+            649,
+            805,
+            933,
+            844
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        596,
+        1086,
+        1182,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "05.05.2049",
+          "box": [
+            639,
+            1117,
+            924,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

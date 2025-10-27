@@ -1,0 +1,27 @@
+E1
+EN: Sndewlded
+
+L1
+EN: Khaled Sarah
+OR: خالد سارة
+
+E2
+EN: 05 May 2010
+
+E3
+EN: 20 Aug 2023
+
+E4
+EN: 20 Aug 2032
+
+L2
+EN: May 5, 1995
+OR: ٥ / مايو / ١٩٩٥
+
+L3
+EN: 20 / August / 20
+OR: ٢٠ / أغسطس / ٢٠
+
+L4
+EN: August 20, 2013
+OR: ٢٠ / أغسطس / ۲۰۱۳

@@ -1,0 +1,111 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\ukraine-NF-1032.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-NF-1032.jpg",
+  "width": 1997,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            647,
+            292,
+            870,
+            341
+          ],
+          "original_text": "Литвин /",
+          "translated_en": "Lytvyn /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            646,
+            352,
+            804,
+            395
+          ],
+          "original_text": "Lytvyn",
+          "translated_en": "Lytvyn",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            647,
+            476,
+            1140,
+            526
+          ],
+          "original_text": "Вікторія Андріївна /",
+          "translated_en": "Victoria Andreevna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            640,
+            530,
+            856,
+            571
+          ],
+          "original_text": "Anthonya",
+          "translated_en": "Anthony",
+          "detected_lang": "ny"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            644,
+            679,
+            913,
+            717
+          ],
+          "original_text": "28.07.1981",
+          "translated_en": "28.07.1981",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            639,
+            956,
+            909,
+            995
+          ],
+          "original_text": "18.07.2015",
+          "translated_en": "18.07.2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            635,
+            1156,
+            904,
+            1189
+          ],
+          "original_text": "13.12.2027",
+          "translated_en": "13.12.2027",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1032_translated.jpg"
+}

@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\scan\\indian-037_03_translated.json",
+  "image_relative": "train\\bonafide\\scan\\indian-037_03.jpg",
+  "width": 1992,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            700,
+            463,
+            857,
+            500
+          ],
+          "original_text": "PATEL",
+          "translated_en": "PATEL"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            695,
+            616,
+            1099,
+            659
+          ],
+          "original_text": "RAHUL PRANAV",
+          "translated_en": "RAHUL PRANAV"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            692,
+            777,
+            1004,
+            821
+          ],
+          "original_text": "20/09/1998",
+          "translated_en": "20/09/1998"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            684,
+            1074,
+            1001,
+            1117
+          ],
+          "original_text": "11/04/2022",
+          "translated_en": "11/04/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1402,
+            1080,
+            1719,
+            1126
+          ],
+          "original_text": "08/04/2032",
+          "translated_en": "08/04/2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-037_03_translated_cleaned.jpg"
+}

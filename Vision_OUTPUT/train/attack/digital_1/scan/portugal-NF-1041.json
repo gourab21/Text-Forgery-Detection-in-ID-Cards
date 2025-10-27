@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-NF-1041.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "SATHEVOLIVIRAA",
+          "box": [
+            686,
+            340,
+            1193,
+            384
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            685,
+            400,
+            782,
+            435
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "31 05 2035",
+          "box": [
+            1707,
+            597,
+            1997,
+            639
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        729,
+        1670,
+        844
+      ],
+      "lines": [
+        {
+          "text": "28 05 2004",
+          "box": [
+            1305,
+            765,
+            1603,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

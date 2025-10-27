@@ -1,0 +1,133 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\ukraine-NF-1106.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\ukraine-NF-1106.jpg",
+  "width": 3199,
+  "height": 1962,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1042,
+            455,
+            1345,
+            531
+          ],
+          "original_text": "Мороз /",
+          "translated_en": "Frost /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1036,
+            547,
+            1269,
+            602
+          ],
+          "original_text": "Moroz",
+          "translated_en": "Frost",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1028,
+            744,
+            1880,
+            825
+          ],
+          "original_text": "Ірина Олександрівна",
+          "translated_en": "Iryna Oleksandrivna",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1033,
+            843,
+            1244,
+            906
+          ],
+          "original_text": "Tracy",
+          "translated_en": "Tracy",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1031,
+            1070,
+            1466,
+            1133
+          ],
+          "original_text": "18.04.1944",
+          "translated_en": "18.04.1944",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1048,
+            1452,
+            1860,
+            1499
+          ],
+          "original_text": "ата вида ate of issuc",
+          "translated_en": "ата вида ate of issuc",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1016,
+            1508,
+            1449,
+            1569
+          ],
+          "original_text": "21.12.2023",
+          "translated_en": "21.12.2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1237,
+            1770,
+            1297,
+            1810
+          ],
+          "original_text": "ДІ",
+          "translated_en": "ДІ",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1007,
+            1820,
+            1448,
+            1884
+          ],
+          "original_text": "26.08.1967",
+          "translated_en": "26.08.1967",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1106_translated.jpg"
+}

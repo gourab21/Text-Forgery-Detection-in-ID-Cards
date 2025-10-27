@@ -1,0 +1,31 @@
+E1
+EN: Michele - Khoury
+
+L1
+OR: الخوري رانيا
+EN: Father Rania
+
+E2
+EN: 17 Jan 2001
+
+E3
+EN: 28 May 2023
+
+E4
+EN: 28 Jan 1927
+
+L2
+OR: الميـ تاريخ
+EN: Date
+OR: ١٥ / يناير / ۱۹۸۳
+EN: January 15, 1983
+
+L3
+OR: ۲۸ / مايو / ۲۰۲۲
+EN: May 28, 2022
+
+L4
+OR: ع
+EN: A
+OR: ۱۱ / سبتمبر /
+EN: September 11

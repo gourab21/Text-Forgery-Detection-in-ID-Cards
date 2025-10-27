@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\usa-NF-1036.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-NF-1036.jpg",
+  "width": 2807,
+  "height": 1800,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            925,
+            676,
+            1513,
+            744
+          ],
+          "original_text": "Barbara Thomas",
+          "translated_en": "Barbara Thomas",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            927,
+            727,
+            1736,
+            823
+          ],
+          "original_text": "8342 Pine Rd LATE STA",
+          "translated_en": "8342 Pine Rd LATE STA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            931,
+            838,
+            1523,
+            918
+          ],
+          "original_text": "Naples FL 34102",
+          "translated_en": "Naples FL 34102",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2119,
+            1091,
+            2664,
+            1145
+          ],
+          "original_text": "DOB : 04-07-76",
+          "translated_en": "DOB : 04-07-76",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1036_translated.jpg"
+}

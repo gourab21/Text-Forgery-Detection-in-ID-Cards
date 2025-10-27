@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\russian-NF-1013_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\russian-NF-1013.jpg",
+  "width": 3194,
+  "height": 1970,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1159,
+            414,
+            1566,
+            488
+          ],
+          "original_text": "Ковалева /",
+          "translated_en": "Kovaleva /"
+        },
+        {
+          "box": [
+            1158,
+            501,
+            1477,
+            557
+          ],
+          "original_text": "Kovaleva",
+          "translated_en": "Kovalev"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            2076,
+            683,
+            2115,
+            724
+          ],
+          "original_text": "P",
+          "translated_en": "P"
+        },
+        {
+          "box": [
+            1155,
+            741,
+            1834,
+            829
+          ],
+          "original_text": "Елена Сергеевна /",
+          "translated_en": "Elena Sergeevna /"
+        },
+        {
+          "box": [
+            1152,
+            832,
+            1359,
+            886
+          ],
+          "original_text": "Embe",
+          "translated_en": "Mango"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1147,
+            1076,
+            1560,
+            1137
+          ],
+          "original_text": "28.06.2006",
+          "translated_en": "28.06.2006"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1135,
+            1517,
+            1536,
+            1577
+          ],
+          "original_text": "21.05.2021",
+          "translated_en": "21.05.2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1131,
+            1813,
+            1539,
+            1872
+          ],
+          "original_text": "19.05.1994",
+          "translated_en": "19.05.1994"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1013_translated_cleaned.jpg"
+}

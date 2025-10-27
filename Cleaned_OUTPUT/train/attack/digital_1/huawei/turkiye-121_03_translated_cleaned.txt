@@ -1,0 +1,12 @@
+E2
+EN: Binda
+
+E1
+EN: Soy
+EN: Balcı
+
+E3
+EN: 14.07.2012
+
+E4
+EN: 20.01.1997

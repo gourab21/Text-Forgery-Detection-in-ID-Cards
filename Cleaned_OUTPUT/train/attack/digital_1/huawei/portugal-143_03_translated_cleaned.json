@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\portugal-143_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\portugal-143_03.jpg",
+  "width": 3026,
+  "height": 1883,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1042,
+            516,
+            1680,
+            586
+          ],
+          "original_text": "PASEYRACCASTR",
+          "translated_en": "PASEYRACCASTR"
+        },
+        {
+          "box": [
+            1042,
+            604,
+            1522,
+            670
+          ],
+          "original_text": "Luis Antonio",
+          "translated_en": "Luis Antonio"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2589,
+            907,
+            3020,
+            970
+          ],
+          "original_text": "03 01 1999",
+          "translated_en": "03 01 1999"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1974,
+            1160,
+            2409,
+            1220
+          ],
+          "original_text": "17 08 2021",
+          "translated_en": "17 08 2021"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-143_03_translated_cleaned.jpg"
+}

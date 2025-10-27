@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\ukraine-NF-1084_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\ukraine-NF-1084.jpg",
+  "width": 2823,
+  "height": 1792,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            887,
+            373,
+            1084,
+            411
+          ],
+          "original_text": "Прізви",
+          "translated_en": "Nicknames"
+        },
+        {
+          "box": [
+            909,
+            424,
+            1315,
+            492
+          ],
+          "original_text": "Шевченко /",
+          "translated_en": "Shevchenko /"
+        },
+        {
+          "box": [
+            908,
+            507,
+            1313,
+            561
+          ],
+          "original_text": "Shevchenko",
+          "translated_en": "Shevchenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            909,
+            676,
+            1495,
+            764
+          ],
+          "original_text": "Ірина Олегівна /",
+          "translated_en": "Iryna Olegivna /"
+        },
+        {
+          "box": [
+            920,
+            772,
+            1093,
+            818
+          ],
+          "original_text": "Denni",
+          "translated_en": "Denni"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            920,
+            976,
+            1296,
+            1032
+          ],
+          "original_text": "12.10.1922",
+          "translated_en": "12.10.1922"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            925,
+            1369,
+            1305,
+            1424
+          ],
+          "original_text": "04.08.2020",
+          "translated_en": "04.08.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            929,
+            1648,
+            1313,
+            1704
+          ],
+          "original_text": "02.10.2070",
+          "translated_en": "02.10.2070"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1084_translated_cleaned.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\chinese-NF-1014_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\chinese-NF-1014.jpg",
+  "width": 2786,
+  "height": 1765,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            950,
+            613,
+            1089,
+            684
+          ],
+          "original_text": "赵 婷",
+          "translated_en": "Zhao Ting"
+        },
+        {
+          "box": [
+            946,
+            695,
+            1274,
+            759
+          ],
+          "original_text": "ZawnȧTing",
+          "translated_en": "ZawnȧTing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1733,
+            995,
+            2197,
+            1048
+          ],
+          "original_text": "22 Dec 2003",
+          "translated_en": "22 Dec 2003"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1737,
+            1246,
+            2199,
+            1318
+          ],
+          "original_text": "31 May 2012",
+          "translated_en": "31 May 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            965,
+            1527,
+            1435,
+            1601
+          ],
+          "original_text": "29 May 2029",
+          "translated_en": "29 May 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1014_translated_cleaned.jpg"
+}

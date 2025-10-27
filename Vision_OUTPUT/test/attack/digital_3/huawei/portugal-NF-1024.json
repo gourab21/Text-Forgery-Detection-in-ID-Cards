@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1024.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        995,
+        473,
+        2347,
+        750
+      ],
+      "lines": [
+        {
+          "text": "MARYS SOUSA",
+          "box": [
+            1096,
+            536,
+            1716,
+            606
+          ]
+        },
+        {
+          "text": "Teresa",
+          "box": [
+            1092,
+            627,
+            1368,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2648,
+        911,
+        3212,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "21 12 1962",
+          "box": [
+            2737,
+            952,
+            3136,
+            1016
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1994,
+        1157,
+        2686,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "27 09 2028",
+          "box": [
+            2092,
+            1217,
+            2557,
+            1282
+          ]
+        }
+      ]
+    }
+  ]
+}

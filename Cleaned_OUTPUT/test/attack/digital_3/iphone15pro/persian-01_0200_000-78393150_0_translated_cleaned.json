@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\persian-01_0200_000-78393150_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\persian-01_0200_000-78393150_0.jpg",
+  "width": 2796,
+  "height": 1797,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1072,
+            422,
+            1253,
+            472
+          ],
+          "original_text": "Debr",
+          "translated_en": "Debr"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1080,
+            624,
+            1394,
+            682
+          ],
+          "original_text": "Mousavi",
+          "translated_en": "Mousavi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1890,
+            408,
+            1972,
+            465
+          ],
+          "original_text": "ليلا",
+          "translated_en": "At night"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1891,
+            606,
+            2062,
+            684
+          ],
+          "original_text": "کاظمی",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1078,
+            856,
+            1471,
+            913
+          ],
+          "original_text": "09/10/1917",
+          "translated_en": "09/10/1917"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1096,
+            1323,
+            1484,
+            1382
+          ],
+          "original_text": "17/04/2024",
+          "translated_en": "17/04/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1908,
+            1311,
+            2300,
+            1368
+          ],
+          "original_text": "20 11/2024",
+          "translated_en": "20 11/2024"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-01_0200_000-78393150_0_translated_cleaned.jpg"
+}

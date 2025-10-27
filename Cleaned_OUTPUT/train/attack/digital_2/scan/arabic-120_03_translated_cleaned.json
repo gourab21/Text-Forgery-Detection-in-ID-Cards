@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\arabic-120_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\arabic-120_03.jpg",
+  "width": 1992,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            743,
+            471,
+            1168,
+            530
+          ],
+          "original_text": "Saula / Ibalim",
+          "translated_en": "Saula / Ibalim"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            731,
+            332,
+            1128,
+            394
+          ],
+          "original_text": "إبراهيم سلمى",
+          "translated_en": "Ibrahim Salma"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            741,
+            781,
+            1106,
+            828
+          ],
+          "original_text": "26 Feb 2004",
+          "translated_en": "26 Feb 2004"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            738,
+            946,
+            1075,
+            992
+          ],
+          "original_text": "09 Jul 2023",
+          "translated_en": "09 Jul 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            734,
+            1106,
+            1080,
+            1166
+          ],
+          "original_text": "14 Jun 197",
+          "translated_en": "14 Jun 197"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1270,
+            790,
+            1727,
+            846
+          ],
+          "original_text": "٢٦ / فبراير / ۱۹۹۰",
+          "translated_en": "February 26, 1990"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1266,
+            953,
+            1675,
+            1007
+          ],
+          "original_text": "٩ / يوليو / ۲۰۲۳",
+          "translated_en": "July 9, 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1264,
+            1117,
+            1697,
+            1176
+          ],
+          "original_text": "١٤ / يونيو / ۲۰۳۰",
+          "translated_en": "June 14, 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-120_03_translated_cleaned.jpg"
+}

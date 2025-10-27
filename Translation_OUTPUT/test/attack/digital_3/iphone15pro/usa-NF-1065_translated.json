@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1065.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1065.jpg",
+  "width": 2647,
+  "height": 1611,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            860,
+            611,
+            1263,
+            659
+          ],
+          "original_text": "Mathewera",
+          "translated_en": "Mathewera",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            863,
+            673,
+            1439,
+            746
+          ],
+          "original_text": "1325 Cedar Lane",
+          "translated_en": "1325 Cedar Lane",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            860,
+            757,
+            1494,
+            814
+          ],
+          "original_text": "Tacoma WA 98402",
+          "translated_en": "Tacoma WA 98402",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1988,
+            985,
+            2512,
+            1034
+          ],
+          "original_text": "DOB : 25-02-34",
+          "translated_en": "DOB : 25-02-34",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1065_translated.jpg"
+}

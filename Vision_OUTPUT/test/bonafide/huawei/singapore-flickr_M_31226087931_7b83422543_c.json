@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_31226087931_7b83422543_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        656,
+        655,
+        2374,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Eko Prasetyo",
+          "box": [
+            801,
+            749,
+            1512,
+            832
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        732,
+        1405,
+        1635,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "1964-08-07",
+          "box": [
+            819,
+            1476,
+            1394,
+            1551
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1776,
+        1706,
+        2622,
+        1895
+      ],
+      "lines": [
+        {
+          "text": "1974-08-07",
+          "box": [
+            1874,
+            1753,
+            2455,
+            1832
+          ]
+        }
+      ]
+    }
+  ]
+}

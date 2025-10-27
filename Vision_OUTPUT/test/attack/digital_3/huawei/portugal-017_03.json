@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-017_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        474,
+        2345,
+        751
+      ],
+      "lines": [
+        {
+          "text": "DIANAS SOUSA",
+          "box": [
+            1110,
+            537,
+            1784,
+            611
+          ]
+        },
+        {
+          "text": "Eduardo Manuel",
+          "box": [
+            1098,
+            628,
+            1767,
+            703
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2646,
+        912,
+        3209,
+        1066
+      ],
+      "lines": [
+        {
+          "text": "30 07 2025",
+          "box": [
+            2735,
+            956,
+            3138,
+            1021
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1992,
+        1158,
+        2683,
+        1341
+      ],
+      "lines": [
+        {
+          "text": "26 02 2089",
+          "box": [
+            2092,
+            1229,
+            2552,
+            1294
+          ]
+        }
+      ]
+    }
+  ]
+}

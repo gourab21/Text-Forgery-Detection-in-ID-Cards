@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\persian-069_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\persian-069_03.jpg",
+  "width": 2801,
+  "height": 1786,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1071,
+            412,
+            1292,
+            460
+          ],
+          "original_text": "Amand",
+          "translated_en": "Amand"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1075,
+            617,
+            1349,
+            672
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1887,
+            389,
+            2016,
+            456
+          ],
+          "original_text": "آرش",
+          "translated_en": "Arash"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1889,
+            598,
+            2054,
+            671
+          ],
+          "original_text": "کاظمی",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1083,
+            846,
+            1473,
+            905
+          ],
+          "original_text": "14/04/1900",
+          "translated_en": "14/04/1900"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1088,
+            1312,
+            1481,
+            1372
+          ],
+          "original_text": "05/03/2020",
+          "translated_en": "05/03/2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1905,
+            1298,
+            2298,
+            1355
+          ],
+          "original_text": "30/07/1955",
+          "translated_en": "30/07/1955"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-069_03_translated_cleaned.jpg"
+}

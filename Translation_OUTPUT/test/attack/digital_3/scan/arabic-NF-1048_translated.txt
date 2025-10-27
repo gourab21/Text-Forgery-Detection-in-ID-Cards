@@ -1,0 +1,29 @@
+E1
+EN: Martinousef
+
+L1
+OR: يوسف هناء
+EN: Youssef Hanaa
+
+E2
+EN: 14 May 1988
+
+E3
+EN: 07 Oct 2023
+
+E4
+EN: 26 Aug 2057
+
+L2
+OR: تاریخ
+EN: History
+OR: ۳۱ / ديسمبر / ۱۹۸۳
+EN: December 31, 1983
+
+L3
+OR: ٧ / أكتوبر ٢٠٢٣
+EN: October 7, 2023
+
+L4
+OR: ۱۹ / فبراير / ۲۰۲۹۲
+EN: February 19, 2022

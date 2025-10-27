@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\bonafide\\huawei\\ukraine-025_03.json",
+  "image_relative": "train\\bonafide\\huawei\\ukraine-025_03.jpg",
+  "width": 3233,
+  "height": 2002,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1051,
+            466,
+            1464,
+            544
+          ],
+          "original_text": "Мельник /",
+          "translated_en": "Miller /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1047,
+            562,
+            1322,
+            622
+          ],
+          "original_text": "Melnyk",
+          "translated_en": "Melnyk",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1035,
+            755,
+            1708,
+            842
+          ],
+          "original_text": "Юлія Сергіївна /",
+          "translated_en": "Yulia Sergiivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1038,
+            856,
+            1275,
+            921
+          ],
+          "original_text": "Yuliya",
+          "translated_en": "Julia",
+          "detected_lang": "az"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1036,
+            1089,
+            1474,
+            1152
+          ],
+          "original_text": "21.02.1973",
+          "translated_en": "21.02.1973",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1028,
+            1534,
+            1462,
+            1597
+          ],
+          "original_text": "25.02.2019",
+          "translated_en": "25.02.2019",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1022,
+            1848,
+            1457,
+            1910
+          ],
+          "original_text": "24.02.2024",
+          "translated_en": "24.02.2024",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-025_03_translated.jpg"
+}

@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_31998818913_b87fd05689_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        403,
+        1777,
+        751
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            941,
+            446,
+            1441,
+            513
+          ]
+        },
+        {
+          "text": "Tyler Matthjs",
+          "box": [
+            944,
+            543,
+            1482,
+            614
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            944,
+            636,
+            1380,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2066,
+        778,
+        2737,
+        916
+      ],
+      "lines": [
+        {
+          "text": "02 04 2027",
+          "box": [
+            2174,
+            807,
+            2623,
+            872
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2031,
+        1016,
+        2727,
+        1187
+      ],
+      "lines": [
+        {
+          "text": "27 12 1927",
+          "box": [
+            2136,
+            1043,
+            2636,
+            1116
+          ]
+        }
+      ]
+    }
+  ]
+}

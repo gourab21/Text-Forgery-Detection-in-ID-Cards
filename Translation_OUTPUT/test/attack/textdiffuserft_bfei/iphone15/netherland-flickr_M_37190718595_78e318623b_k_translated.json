@@ -1,0 +1,79 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_37190718595_78e318623b_k.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_37190718595_78e318623b_k.jpg",
+  "width": 2780,
+  "height": 1734,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            945,
+            450,
+            1283,
+            510
+          ],
+          "original_text": "POSTMA",
+          "translated_en": "POSTMA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            940,
+            528,
+            1486,
+            616
+          ],
+          "original_text": "Caseyke Petra",
+          "translated_en": "Caseyke Petra",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            948,
+            635,
+            1147,
+            691
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2177,
+            807,
+            2632,
+            873
+          ],
+          "original_text": "14 04 2088",
+          "translated_en": "14 04 2088",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2138,
+            1044,
+            2647,
+            1118
+          ],
+          "original_text": "3009 2081",
+          "translated_en": "3009 2081",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_37190718595_78e318623b_k_translated.jpg"
+}

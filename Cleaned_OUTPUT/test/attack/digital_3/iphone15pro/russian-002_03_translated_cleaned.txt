@@ -1,0 +1,19 @@
+LE1
+EN: Vasilyeva /
+OR: Васильева /
+EN: Vasilieva
+
+LE2
+EN: Lyudmila Anatolyevna / V
+OR: Людмила Анатольевна / В
+EN: Lisamla Anatolyevna
+OR: Lisamla Anatolievna
+
+E3
+EN: 09.01.1933
+
+E4
+EN: 20.08.2015
+
+E5
+EN: 24.05.2033

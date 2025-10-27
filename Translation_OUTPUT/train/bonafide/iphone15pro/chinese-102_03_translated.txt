@@ -1,0 +1,13 @@
+LE1
+OR: 刘 暴
+EN: Liu Bao
+EN: Liu Ying
+
+E2
+EN: 20 Nov 1989
+
+E3
+EN: 14 Jan 2015
+
+E4
+EN: 11 Jan 2025

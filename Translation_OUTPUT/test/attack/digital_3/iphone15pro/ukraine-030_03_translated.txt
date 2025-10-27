@@ -1,0 +1,21 @@
+LE1
+OR: Прізви
+EN: Nicknames
+OR: Зубенко /
+EN: Zubenko /
+EN: Zubenko
+
+LE2
+OR: Тетяна Василівна /
+EN: Tatyana Vasylivna /
+OR: Elzabe
+EN: Elizabeth
+
+E3
+EN: 26.04.2092
+
+E4
+EN: 10.11.2020
+
+E5
+EN: 17.07.2078

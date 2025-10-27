@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_33525333882_5cf0c0382a_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        577,
+        578,
+        2086,
+        856
+      ],
+      "lines": [
+        {
+          "text": "Rashid bin Ahmad",
+          "box": [
+            706,
+            653,
+            1570,
+            724
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1239,
+        1437,
+        1410
+      ],
+      "lines": [
+        {
+          "text": "1974-02-07",
+          "box": [
+            723,
+            1293,
+            1226,
+            1365
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1562,
+        1504,
+        2305,
+        1670
+      ],
+      "lines": [
+        {
+          "text": "1984-02-07",
+          "box": [
+            1644,
+            1539,
+            2154,
+            1609
+          ]
+        }
+      ]
+    }
+  ]
+}

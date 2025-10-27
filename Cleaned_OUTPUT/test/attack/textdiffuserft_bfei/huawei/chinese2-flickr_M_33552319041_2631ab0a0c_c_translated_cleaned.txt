@@ -1,0 +1,13 @@
+LE1
+EN: Zhao Chao
+OR: 赵 超
+EN: Amyo Chao
+
+E2
+EN: 28 Jul 2047
+
+E3
+EN: 30 Nov 2092
+
+E4
+EN: 25 Jun 1994

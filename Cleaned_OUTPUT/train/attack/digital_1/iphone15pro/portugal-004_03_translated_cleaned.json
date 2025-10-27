@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\portugal-004_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\portugal-004_03.jpg",
+  "width": 2843,
+  "height": 1797,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            970,
+            500,
+            1597,
+            556
+          ],
+          "original_text": "CAWNIAYGOMES",
+          "translated_en": "CAWNIAYGOMES"
+        },
+        {
+          "box": [
+            973,
+            579,
+            1543,
+            642
+          ],
+          "original_text": "Francisco Jorge",
+          "translated_en": "Francisco Jorge"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2431,
+            837,
+            2840,
+            889
+          ],
+          "original_text": "07 06 2003",
+          "translated_en": "07 06 2003"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1864,
+            1084,
+            2291,
+            1144
+          ],
+          "original_text": "22 09 2018",
+          "translated_en": "22 09 2018"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-004_03_translated_cleaned.jpg"
+}

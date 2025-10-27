@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\usa-134_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        427,
+        1238,
+        662
+      ],
+      "lines": [
+        {
+          "text": "J. chelleiMille",
+          "box": [
+            654,
+            461,
+            1031,
+            506
+          ]
+        },
+        {
+          "text": "9202 Lakeside Ave",
+          "box": [
+            657,
+            524,
+            1136,
+            569
+          ]
+        },
+        {
+          "text": "Orlando FL 32808",
+          "box": [
+            655,
+            583,
+            1112,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        756,
+        1948,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-01-06",
+          "box": [
+            1497,
+            776,
+            1888,
+            817
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\french-019_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        959,
+        422,
+        1910,
+        568
+      ],
+      "lines": [
+        {
+          "text": "BERGER",
+          "box": [
+            1059,
+            465,
+            1360,
+            517
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        951,
+        696,
+        2022,
+        872
+      ],
+      "lines": [
+        {
+          "text": "Tiffanye , Michele",
+          "box": [
+            1050,
+            743,
+            1713,
+            810
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2238,
+        976,
+        2868,
+        1144
+      ],
+      "lines": [
+        {
+          "text": "06 02 1915",
+          "box": [
+            2293,
+            1012,
+            2731,
+            1075
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2208,
+        1592,
+        2849,
+        1746
+      ],
+      "lines": [
+        {
+          "text": "22 02 1914",
+          "box": [
+            2283,
+            1632,
+            2718,
+            1692
+          ]
+        }
+      ]
+    }
+  ]
+}

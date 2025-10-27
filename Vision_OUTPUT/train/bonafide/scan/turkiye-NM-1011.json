@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\turkiye-NM-1011.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        612,
+        1215,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Sami",
+          "box": [
+            650,
+            656,
+            779,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Ergin",
+          "box": [
+            651,
+            503,
+            782,
+            550
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        767,
+        1192,
+        884
+      ],
+      "lines": [
+        {
+          "text": "19.06.1986",
+          "box": [
+            658,
+            810,
+            948,
+            850
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1087,
+        1184,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "05.09.2037",
+          "box": [
+            661,
+            1123,
+            954,
+            1166
+          ]
+        }
+      ]
+    }
+  ]
+}

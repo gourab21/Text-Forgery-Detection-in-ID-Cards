@@ -1,0 +1,111 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\ukraine-01_0083_000-21b44038_0.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-01_0083_000-21b44038_0.jpg",
+  "width": 1995,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            651,
+            288,
+            952,
+            340
+          ],
+          "original_text": "Остапенко /",
+          "translated_en": "Ostapenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            649,
+            348,
+            907,
+            392
+          ],
+          "original_text": "Ostapenko",
+          "translated_en": "Ostapenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            650,
+            467,
+            1167,
+            527
+          ],
+          "original_text": "Наталія Русланівна /",
+          "translated_en": "Natalia Ruslanivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            639,
+            534,
+            830,
+            570
+          ],
+          "original_text": "Heathera",
+          "translated_en": "Heathera",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            645,
+            678,
+            910,
+            716
+          ],
+          "original_text": "28.05.1994",
+          "translated_en": "28.05.1994",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            638,
+            953,
+            908,
+            992
+          ],
+          "original_text": "05.06.2016",
+          "translated_en": "05.06.2016",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            637,
+            1148,
+            904,
+            1188
+          ],
+          "original_text": "12.06.1915",
+          "translated_en": "12.06.1915",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-01_0083_000-21b44038_0_translated.jpg"
+}

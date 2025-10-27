@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1041.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        473,
+        2339,
+        750
+      ],
+      "lines": [
+        {
+          "text": "MARKOS OLIVEIRA",
+          "box": [
+            1100,
+            541,
+            1875,
+            613
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            1091,
+            623,
+            1243,
+            692
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2638,
+        911,
+        3200,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "26 10 2028",
+          "box": [
+            2730,
+            957,
+            3124,
+            1020
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1986,
+        1157,
+        2675,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "21 10 2051",
+          "box": [
+            2086,
+            1223,
+            2549,
+            1290
+          ]
+        }
+      ]
+    }
+  ]
+}

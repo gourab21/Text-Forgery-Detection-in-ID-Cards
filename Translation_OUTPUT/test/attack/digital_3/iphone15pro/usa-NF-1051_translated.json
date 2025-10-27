@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1051.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1051.jpg",
+  "width": 2809,
+  "height": 1793,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            908,
+            675,
+            1349,
+            738
+          ],
+          "original_text": "Tabithayor",
+          "translated_en": "Tabithayor",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            915,
+            734,
+            1725,
+            823
+          ],
+          "original_text": "3714 Maple Ave ATE STA",
+          "translated_en": "3714 Maple Ave ATE STA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            917,
+            838,
+            1496,
+            898
+          ],
+          "original_text": "Dallas TX 75235",
+          "translated_en": "Dallas TX 75235",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2108,
+            1090,
+            2658,
+            1143
+          ],
+          "original_text": "DOB : 25-12-74",
+          "translated_en": "DOB : 25-12-74",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1051_translated.jpg"
+}

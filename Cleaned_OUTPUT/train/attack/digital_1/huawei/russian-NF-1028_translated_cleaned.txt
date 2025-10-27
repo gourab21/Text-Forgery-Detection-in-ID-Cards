@@ -1,0 +1,18 @@
+LE1
+EN: Sokolova /
+OR: Соколова /
+EN: Sokolova
+
+LE2
+EN: Elizaveta Petrovna /
+OR: Елизавета Петровна /
+EN: ErrryyettaPPturia
+
+E3
+EN: 27.05.:2023
+
+E4
+EN: 05.07.2019
+
+E5
+EN: 02.07.1993

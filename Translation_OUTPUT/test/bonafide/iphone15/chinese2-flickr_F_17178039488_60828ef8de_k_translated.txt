@@ -1,0 +1,13 @@
+LE1
+OR: 黄丹
+EN: Yellow ochre
+EN: Huang Dan
+
+E2
+EN: 07 SEP 1997
+
+E3
+EN: 08 AUG 2022 2424212122
+
+E4
+EN: 08 AUG 2042

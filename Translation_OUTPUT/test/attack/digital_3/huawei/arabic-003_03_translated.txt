@@ -1,0 +1,27 @@
+E1
+EN: Allisonl - Ahnad
+
+L1
+OR: الأحمد طارق
+EN: Ahmed Tariq
+
+E2
+EN: 16 Oct 1926
+
+E3
+EN: 09 Jul 2018
+
+E4
+EN: 06 Jan 2008
+
+L2
+OR: ٢٩ ۲۹ / أبريل / ۱۹۸۵
+EN: 29/April/1985
+
+L3
+OR: ٩ / يوليو / ۲۰۱۸
+EN: July 9, 2018
+
+L4
+OR: ٢٤ / ديسمبر / ۲۰۳۳
+EN: December 24, 2033

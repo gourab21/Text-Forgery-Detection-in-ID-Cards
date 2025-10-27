@@ -1,0 +1,93 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_F_31998771523_784e7e9597_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "VAN DEN BERG",
+          "box": [
+            687,
+            319,
+            1135,
+            365
+          ]
+        },
+        {
+          "text": "Daan Johannes",
+          "box": [
+            688,
+            383,
+            1131,
+            430
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            684,
+            450,
+            917,
+            494
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1486,
+        559,
+        1967,
+        658
+      ],
+      "lines": [
+        {
+          "text": "06 11 1976",
+          "box": [
+            1560,
+            603,
+            1896,
+            647
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        730,
+        1961,
+        853
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TODI CARD EXPIRY",
+          "box": [
+            1461,
+            730,
+            1907,
+            756
+          ]
+        },
+        {
+          "text": "17 02 2027",
+          "box": [
+            1529,
+            777,
+            1895,
+            821
+          ]
+        }
+      ]
+    }
+  ]
+}

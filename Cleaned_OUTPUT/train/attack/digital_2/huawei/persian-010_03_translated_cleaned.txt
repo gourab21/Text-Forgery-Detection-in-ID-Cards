@@ -1,0 +1,22 @@
+E1
+EN: Eaheh
+
+E2
+EN: Ahmadi
+
+L1
+EN: Goddess
+OR: الهه
+
+L2
+EN: Mousavi
+OR: موسوی
+
+E3
+EN: 10/01/195
+
+E4
+EN: 27/11/2024
+
+E5
+EN: 11 / 06 / : 194

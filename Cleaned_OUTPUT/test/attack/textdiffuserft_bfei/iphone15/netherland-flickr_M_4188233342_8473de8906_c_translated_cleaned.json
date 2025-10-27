@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_4188233342_8473de8906_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_4188233342_8473de8906_c.jpg",
+  "width": 2776,
+  "height": 1747,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            940,
+            456,
+            1251,
+            519
+          ],
+          "original_text": "JANSEN",
+          "translated_en": "JANSEN"
+        },
+        {
+          "box": [
+            941,
+            530,
+            1616,
+            613
+          ],
+          "original_text": "Johny Gerardus",
+          "translated_en": "Johny Gerardus"
+        },
+        {
+          "box": [
+            949,
+            645,
+            1149,
+            702
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2173,
+            816,
+            2622,
+            881
+          ],
+          "original_text": "02 10 2031",
+          "translated_en": "02 10 2031"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2147,
+            1057,
+            2635,
+            1128
+          ],
+          "original_text": "18 10 2039",
+          "translated_en": "18 10 2039"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_4188233342_8473de8906_c_translated_cleaned.jpg"
+}

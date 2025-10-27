@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-097_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        267,
+        1177,
+        360
+      ],
+      "lines": [
+        {
+          "text": "FONTAINE",
+          "box": [
+            656,
+            297,
+            905,
+            332
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        586,
+        440,
+        1247,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Anaïs , Laura",
+          "box": [
+            649,
+            472,
+            941,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1381,
+        618,
+        1769,
+        724
+      ],
+      "lines": [
+        {
+          "text": "22 02 1911",
+          "box": [
+            1422,
+            638,
+            1687,
+            675
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1362,
+        1008,
+        1758,
+        1105
+      ],
+      "lines": [
+        {
+          "text": "19 08 1975",
+          "box": [
+            1414,
+            1025,
+            1679,
+            1061
+          ]
+        }
+      ]
+    }
+  ]
+}

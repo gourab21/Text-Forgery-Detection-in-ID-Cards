@@ -1,0 +1,85 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\turkiye-NF-1103.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        843,
+        877,
+        1719,
+        1047
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        839,
+        640,
+        1720,
+        818
+      ],
+      "lines": [
+        {
+          "text": "Soyau",
+          "box": [
+            919,
+            640,
+            1103,
+            681
+          ]
+        },
+        {
+          "text": "Durmaz",
+          "box": [
+            920,
+            716,
+            1202,
+            770
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        839,
+        1100,
+        1688,
+        1267
+      ],
+      "lines": [
+        {
+          "text": "30.07.2047",
+          "box": [
+            928,
+            1151,
+            1334,
+            1212
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        845,
+        1558,
+        1676,
+        1739
+      ],
+      "lines": [
+        {
+          "text": "17.10.1994",
+          "box": [
+            936,
+            1602,
+            1340,
+            1662
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+LE1
+EN: riots
+OR: різви
+EN: Petrenko /
+OR: Петренко /
+EN: Petrenko
+
+LE2
+EN: Iryna Oleksandrivna
+OR: Ірина Олександрівна
+EN: John
+OR: Iohna
+
+E3
+EN: 09.09.2002
+
+E4
+EN: 14.08.2017
+
+E5
+EN: 14.08.2008

@@ -1,0 +1,79 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_19475853574_c947539b18_c.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_19475853574_c947539b18_c.jpg",
+  "width": 3160,
+  "height": 1977,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1073,
+            511,
+            1556,
+            585
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1086,
+            615,
+            1704,
+            687
+          ],
+          "original_text": "Denisisabeth",
+          "translated_en": "Denisisabeth",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1074,
+            728,
+            1391,
+            804
+          ],
+          "original_text": "Sophie",
+          "translated_en": "Sophie",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2484,
+            929,
+            3001,
+            997
+          ],
+          "original_text": "15 12 1967",
+          "translated_en": "15 12 1967",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2441,
+            1203,
+            3021,
+            1281
+          ],
+          "original_text": "09 05 1922",
+          "translated_en": "09 05 1922",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_19475853574_c947539b18_c_translated.jpg"
+}

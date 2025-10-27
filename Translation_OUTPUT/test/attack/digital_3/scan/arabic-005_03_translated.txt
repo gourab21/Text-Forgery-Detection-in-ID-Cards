@@ -1,0 +1,27 @@
+E1
+EN: Watson Al - Salem
+
+L1
+OR: السالم فيصل
+EN: Salem Faisal
+
+E2
+EN: 06 Aug 2083
+
+E3
+EN: 25 Mar 2023
+
+E4
+EN: 08 Feb 2015
+
+L2
+OR: ۱۷ / فبراير / ۱۹۹۵
+EN: February 17, 1995
+
+L3
+OR: ٢٥ / مارس / ۲۰۲۳
+EN: March 25, 2023
+
+L4
+OR: ٢٨ / يوليو / / ۲۰۲۹
+EN: July 28, 2029

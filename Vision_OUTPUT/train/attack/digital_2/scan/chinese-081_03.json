@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-081_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        397,
+        1106,
+        583
+      ],
+      "lines": [
+        {
+          "text": "孙悦",
+          "box": [
+            694,
+            427,
+            795,
+            474
+          ]
+        },
+        {
+          "text": "Spitmen SI",
+          "box": [
+            690,
+            482,
+            912,
+            531
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1200,
+        661,
+        1610,
+        795
+      ],
+      "lines": [
+        {
+          "text": "12 Jul 12032",
+          "box": [
+            1246,
+            712,
+            1549,
+            751
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        853,
+        1634,
+        980
+      ],
+      "lines": [
+        {
+          "text": "06 Apr 2014",
+          "box": [
+            1242,
+            896,
+            1555,
+            942
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1044,
+        1089,
+        1167
+      ],
+      "lines": [
+        {
+          "text": "03 Apr 2044",
+          "box": [
+            678,
+            1078,
+            1006,
+            1130
+          ]
+        }
+      ]
+    }
+  ]
+}

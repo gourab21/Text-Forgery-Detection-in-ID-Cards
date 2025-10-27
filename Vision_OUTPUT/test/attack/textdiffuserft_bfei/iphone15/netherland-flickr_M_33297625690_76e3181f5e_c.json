@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_33297625690_76e3181f5e_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        753
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            949,
+            449,
+            1341,
+            514
+          ]
+        },
+        {
+          "text": "Nichousnelis",
+          "box": [
+            953,
+            538,
+            1486,
+            605
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            952,
+            634,
+            1274,
+            696
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2069,
+        781,
+        2741,
+        920
+      ],
+      "lines": [
+        {
+          "text": "23 06 2066",
+          "box": [
+            2180,
+            815,
+            2626,
+            878
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2034,
+        1021,
+        2731,
+        1193
+      ],
+      "lines": [
+        {
+          "text": "17 07 1938",
+          "box": [
+            2151,
+            1054,
+            2637,
+            1122
+          ]
+        }
+      ]
+    }
+  ]
+}

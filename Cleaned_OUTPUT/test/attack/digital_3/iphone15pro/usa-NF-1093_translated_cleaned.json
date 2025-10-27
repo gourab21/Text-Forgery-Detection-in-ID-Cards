@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\usa-NF-1093_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1093.jpg",
+  "width": 2652,
+  "height": 1613,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            862,
+            604,
+            1275,
+            663
+          ],
+          "original_text": "Patricihaw",
+          "translated_en": "Patricihaw"
+        },
+        {
+          "box": [
+            858,
+            652,
+            1599,
+            736
+          ],
+          "original_text": "306 Pine Street EXTE SE",
+          "translated_en": "306 Pine Street EXTE SE"
+        },
+        {
+          "box": [
+            860,
+            761,
+            1381,
+            815
+          ],
+          "original_text": "Reno NV 89501",
+          "translated_en": "Reno NV 89501"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1988,
+            986,
+            2509,
+            1037
+          ],
+          "original_text": "20-06-32",
+          "translated_en": "20-06-32"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1093_translated_cleaned.jpg"
+}

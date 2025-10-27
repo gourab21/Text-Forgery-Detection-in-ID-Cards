@@ -1,0 +1,7 @@
+E1
+EN: AtthmyȧAmsytan
+EN: 1543 Elm St
+EN: Phoenix AZ 85021
+
+E2
+EN: DOB : 11-12-91

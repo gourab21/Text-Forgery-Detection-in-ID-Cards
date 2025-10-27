@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\usa-NF-1065.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        425,
+        1238,
+        659
+      ],
+      "lines": [
+        {
+          "text": "AlerRivera ,",
+          "box": [
+            651,
+            462,
+            978,
+            508
+          ]
+        },
+        {
+          "text": "1325 Cedar Lane",
+          "box": [
+            654,
+            522,
+            1086,
+            568
+          ]
+        },
+        {
+          "text": "Tacoma WA 98402",
+          "box": [
+            651,
+            582,
+            1129,
+            628
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        754,
+        1948,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 06-11-17",
+          "box": [
+            1495,
+            772,
+            1897,
+            823
+          ]
+        }
+      ]
+    }
+  ]
+}

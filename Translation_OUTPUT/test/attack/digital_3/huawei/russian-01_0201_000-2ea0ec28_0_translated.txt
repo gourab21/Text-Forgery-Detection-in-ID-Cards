@@ -1,0 +1,19 @@
+LE1
+OR: Кузнецова /
+EN: Kuznetsova /
+EN: Kuznetsova
+
+LE2
+EN: P
+OR: Ксения Романовна /
+EN: Ksenia Romanovna /
+EN: Markia Romanovna
+
+E3
+EN: 30.04.2042
+
+E4
+EN: 17.05.2018
+
+E5
+EN: 02.11.1996

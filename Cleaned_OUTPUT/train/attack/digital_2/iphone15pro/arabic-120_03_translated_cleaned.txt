@@ -1,0 +1,27 @@
+E1
+EN: Sawal baim
+
+L1
+EN: Ibrahim Salma
+OR: إبراهيم سلمى
+
+E2
+EN: 26 Feb 2015
+
+E3
+EN: 09 Jul 2023
+
+E4
+EN: 14 Jun 19vl
+
+L2
+EN: February 26, 1990
+OR: ٢٦ / فبراير / ۱۹۹۰ ११
+
+L3
+EN: July 9, 2023
+OR: ٩ / يوليو / ٢٠٢٣
+
+L4
+EN: June 14, 2030
+OR: ١٤ / يونيو / ۲۰۳۰

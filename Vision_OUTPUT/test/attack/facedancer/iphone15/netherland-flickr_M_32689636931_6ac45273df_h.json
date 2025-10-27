@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\netherland-flickr_M_32689636931_6ac45273df_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        868,
+        405,
+        1781,
+        757
+      ],
+      "lines": [
+        {
+          "text": "SCHOEMAKER",
+          "box": [
+            950,
+            453,
+            1527,
+            515
+          ]
+        },
+        {
+          "text": "Daan Ilse",
+          "box": [
+            954,
+            543,
+            1332,
+            610
+          ]
+        },
+        {
+          "text": "Ilse",
+          "box": [
+            954,
+            640,
+            1095,
+            699
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2071,
+        784,
+        2743,
+        923
+      ],
+      "lines": [
+        {
+          "text": "17 02 2002",
+          "box": [
+            2180,
+            818,
+            2639,
+            885
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2035,
+        1024,
+        2732,
+        1196
+      ],
+      "lines": [
+        {
+          "text": "16 03 2029",
+          "box": [
+            2142,
+            1060,
+            2644,
+            1127
+          ]
+        }
+      ]
+    }
+  ]
+}

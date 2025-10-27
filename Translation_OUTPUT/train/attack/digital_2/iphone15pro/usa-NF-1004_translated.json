@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1004.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1004.jpg",
+  "width": 2808,
+  "height": 1798,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            922,
+            685,
+            1335,
+            741
+          ],
+          "original_text": "Mura Davis",
+          "translated_en": "Mura Davis",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            923,
+            740,
+            1622,
+            835
+          ],
+          "original_text": "6784 Creek Rd RATE",
+          "translated_en": "6784 Creek Rd RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            923,
+            841,
+            1500,
+            907
+          ],
+          "original_text": "Dover DE 19901",
+          "translated_en": "Dover DE 19901",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2112,
+            1086,
+            2672,
+            1141
+          ],
+          "original_text": "DOB : 10-10-18",
+          "translated_en": "DOB : 10-10-18",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1004_translated.jpg"
+}

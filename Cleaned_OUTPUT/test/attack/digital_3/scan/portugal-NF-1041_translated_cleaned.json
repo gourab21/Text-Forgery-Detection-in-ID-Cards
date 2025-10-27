@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-NF-1041_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-NF-1041.jpg",
+  "width": 1998,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            693,
+            341,
+            1174,
+            381
+          ],
+          "original_text": "LESLIE OLIVEIRA",
+          "translated_en": "LESLIE OLIVEIRA"
+        },
+        {
+          "box": [
+            686,
+            399,
+            784,
+            435
+          ],
+          "original_text": "Ana",
+          "translated_en": "Ana"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1706,
+            598,
+            1952,
+            635
+          ],
+          "original_text": "18 06 1907",
+          "translated_en": "18 06 1907"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1307,
+            766,
+            1588,
+            805
+          ],
+          "original_text": "12 10 1915",
+          "translated_en": "12 10 1915"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1041_translated_cleaned.jpg"
+}

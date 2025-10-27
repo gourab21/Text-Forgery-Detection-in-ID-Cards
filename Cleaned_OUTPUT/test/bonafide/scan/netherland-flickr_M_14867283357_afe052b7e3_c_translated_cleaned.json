@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\netherland-flickr_M_14867283357_afe052b7e3_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "width": 1996,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            321,
+            949,
+            363
+          ],
+          "original_text": "DE JONG",
+          "translated_en": "DE JONG"
+        },
+        {
+          "box": [
+            692,
+            383,
+            1173,
+            432
+          ],
+          "original_text": "Henrike Cornelis",
+          "translated_en": "Henrike Cornelis"
+        },
+        {
+          "box": [
+            689,
+            449,
+            790,
+            495
+          ],
+          "original_text": "Ilse",
+          "translated_en": "Ilse"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1568,
+            604,
+            1898,
+            650
+          ],
+          "original_text": "13 05 1995",
+          "translated_en": "13 05 1995"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1531,
+            774,
+            1900,
+            822
+          ],
+          "original_text": "23 03 2035",
+          "translated_en": "23 03 2035"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_14867283357_afe052b7e3_c_translated_cleaned.jpg"
+}

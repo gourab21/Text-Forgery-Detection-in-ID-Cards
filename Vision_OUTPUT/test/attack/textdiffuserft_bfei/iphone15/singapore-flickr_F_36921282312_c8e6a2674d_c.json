@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_36921282312_c8e6a2674d_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        576,
+        575,
+        2084,
+        851
+      ],
+      "lines": [
+        {
+          "text": "Jason bnti Azman",
+          "box": [
+            704,
+            639,
+            1554,
+            714
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1233,
+        1436,
+        1404
+      ],
+      "lines": [
+        {
+          "text": "21-03-1971",
+          "box": [
+            724,
+            1277,
+            1210,
+            1354
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1560,
+        1498,
+        2302,
+        1663
+      ],
+      "lines": [
+        {
+          "text": "10-00-1145",
+          "box": [
+            1645,
+            1527,
+            2139,
+            1594
+          ]
+        }
+      ]
+    }
+  ]
+}

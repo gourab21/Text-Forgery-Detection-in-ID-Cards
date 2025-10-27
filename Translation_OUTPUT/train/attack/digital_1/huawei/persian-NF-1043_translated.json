@@ -1,0 +1,121 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\persian-NF-1043.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\persian-NF-1043.jpg",
+  "width": 3193,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1226,
+            447,
+            1435,
+            514
+          ],
+          "original_text": "Mona",
+          "translated_en": "Mona",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1214,
+            676,
+            1550,
+            741
+          ],
+          "original_text": "Ahmadi",
+          "translated_en": "Ahmadi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2168,
+            457,
+            2278,
+            516
+          ],
+          "original_text": "مينا",
+          "translated_en": "enamel",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2162,
+            698,
+            2378,
+            752
+          ],
+          "original_text": "محمدی",
+          "translated_en": "Mohammadi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1212,
+            940,
+            1668,
+            1003
+          ],
+          "original_text": "05/02/2016",
+          "translated_en": "05/02/2016",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1199,
+            1462,
+            1647,
+            1526
+          ],
+          "original_text": "08/07/2024",
+          "translated_en": "08/07/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2149,
+            1474,
+            2591,
+            1541
+          ],
+          "original_text": "13/10/12027",
+          "translated_en": "13/10/12027",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1043_translated.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-016_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        978,
+        682,
+        2006,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "Jacquelnhop",
+          "box": [
+            1060,
+            752,
+            1637,
+            832
+          ]
+        },
+        {
+          "text": "891 Oak St",
+          "box": [
+            1051,
+            847,
+            1509,
+            911
+          ]
+        },
+        {
+          "text": "Miami FL 33101",
+          "box": [
+            1048,
+            940,
+            1705,
+            1007
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2355,
+        1210,
+        3158,
+        1373
+      ],
+      "lines": [
+        {
+          "text": "DOB : 30-08-21",
+          "box": [
+            2423,
+            1249,
+            3062,
+            1319
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+LE1
+OR: Попов /
+EN: Popov /
+EN: Popov
+
+LE2
+OR: Владимир Александрович
+EN: Vladimir Alexandrovich
+EN: Nicoleir
+
+E3
+EN: 06.07.2098
+
+E4
+EN: 05.10.2023
+
+E5
+EN: 02.12.1993

@@ -1,0 +1,19 @@
+LE1
+EN: Tkachuk /
+OR: Ткачук /
+EN: Tkachuk
+
+LE2
+EN: Anna Vasylivna /
+OR: Анна Василівна /
+EN: The news
+OR: A hri
+
+E3
+EN: 06.04.2035
+
+E4
+EN: 07.09.2018
+
+E5
+EN: 06.09.2012

@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\indian-NF-1075_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\indian-NF-1075.jpg",
+  "width": 1992,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            695,
+            461,
+            919,
+            501
+          ],
+          "original_text": "SHARMA",
+          "translated_en": "SHARMA"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            697,
+            610,
+            1037,
+            658
+          ],
+          "original_text": "JEFFCE VITA",
+          "translated_en": "JEFFCE VITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            692,
+            776,
+            1004,
+            822
+          ],
+          "original_text": "10/08/1973",
+          "translated_en": "10/08/1973"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            683,
+            1073,
+            999,
+            1115
+          ],
+          "original_text": "16/02/2020",
+          "translated_en": "16/02/2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1403,
+            1080,
+            1720,
+            1123
+          ],
+          "original_text": "01/10/1933",
+          "translated_en": "01/10/1933"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1075_translated_cleaned.jpg"
+}

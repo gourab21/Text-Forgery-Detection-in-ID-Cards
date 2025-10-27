@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_F_17619703551_9705002b22_b.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        995,
+        650,
+        1919,
+        971
+      ],
+      "lines": [
+        {
+          "text": "吴红",
+          "box": [
+            1085,
+            708,
+            1257,
+            785
+          ]
+        },
+        {
+          "text": "Maryong",
+          "box": [
+            1091,
+            812,
+            1499,
+            900
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1941,
+        1082,
+        2690,
+        1277
+      ],
+      "lines": [
+        {
+          "text": "03 Jun 1949",
+          "box": [
+            2002,
+            1149,
+            2586,
+            1226
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1947,
+        1385,
+        2720,
+        1591
+      ],
+      "lines": [
+        {
+          "text": "13 Oct 2097",
+          "box": [
+            2008,
+            1460,
+            2577,
+            1531
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1032,
+        1718,
+        1802,
+        1935
+      ],
+      "lines": [
+        {
+          "text": "07 Dec 2078",
+          "box": [
+            1108,
+            1785,
+            1684,
+            1856
+          ]
+        }
+      ]
+    }
+  ]
+}

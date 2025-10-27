@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-NF-1056.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        952,
+        421,
+        1894,
+        567
+      ],
+      "lines": [
+        {
+          "text": "PERRIN",
+          "box": [
+            1050,
+            460,
+            1337,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        943,
+        694,
+        2006,
+        870
+      ],
+      "lines": [
+        {
+          "text": "Émilie , Pauline",
+          "box": [
+            1044,
+            718,
+            1605,
+            805
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2221,
+        974,
+        2847,
+        1142
+      ],
+      "lines": [
+        {
+          "text": "21 01 1989",
+          "box": [
+            2282,
+            1006,
+            2712,
+            1067
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2192,
+        1589,
+        2827,
+        1743
+      ],
+      "lines": [
+        {
+          "text": "09 05 2028",
+          "box": [
+            2270,
+            1625,
+            2698,
+            1682
+          ]
+        }
+      ]
+    }
+  ]
+}

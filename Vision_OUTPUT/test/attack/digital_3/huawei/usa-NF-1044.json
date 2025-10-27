@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-NF-1044.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        965,
+        672,
+        1982,
+        1043
+      ],
+      "lines": [
+        {
+          "text": "Jame : Sohe",
+          "box": [
+            1054,
+            737,
+            1541,
+            805
+          ]
+        },
+        {
+          "text": "321 Alder St",
+          "box": [
+            1038,
+            826,
+            1547,
+            897
+          ]
+        },
+        {
+          "text": "Portland OR 97201",
+          "box": [
+            1036,
+            926,
+            1813,
+            996
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2325,
+        1191,
+        3119,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-06-80",
+          "box": [
+            2392,
+            1233,
+            3027,
+            1302
+          ]
+        }
+      ]
+    }
+  ]
+}

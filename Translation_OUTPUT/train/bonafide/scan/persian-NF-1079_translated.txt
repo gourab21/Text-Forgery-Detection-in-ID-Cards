@@ -1,0 +1,22 @@
+E1
+EN: Neda
+
+E2
+EN: Ghorbani
+
+L1
+OR: ندا 11
+EN: Neda 11
+
+L2
+OR: قربانی
+EN: Sacrifice
+
+E3
+EN: 16/04/1992
+
+E4
+EN: 16/04/2022
+
+E5
+EN: 16/04/2027

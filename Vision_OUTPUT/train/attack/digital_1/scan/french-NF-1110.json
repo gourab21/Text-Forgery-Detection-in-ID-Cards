@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\french-NF-1110.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        266,
+        1180,
+        359
+      ],
+      "lines": [
+        {
+          "text": "RENAUD",
+          "box": [
+            659,
+            293,
+            860,
+            329
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Cynthiau Juttine",
+          "box": [
+            653,
+            459,
+            1003,
+            509
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1384,
+        616,
+        1773,
+        721
+      ],
+      "lines": [
+        {
+          "text": "22 07 2031",
+          "box": [
+            1419,
+            638,
+            1706,
+            676
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1365,
+        1005,
+        1761,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "05 10 2001",
+          "box": [
+            1412,
+            1022,
+            1695,
+            1061
+          ]
+        }
+      ]
+    }
+  ]
+}

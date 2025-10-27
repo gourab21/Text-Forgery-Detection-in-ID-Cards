@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\chinese-020_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\chinese-020_03.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            685,
+            433,
+            789,
+            486
+          ],
+          "original_text": "李晨",
+          "translated_en": "Li Chen"
+        },
+        {
+          "box": [
+            684,
+            492,
+            831,
+            537
+          ],
+          "original_text": "uron",
+          "translated_en": "WISHES"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1244,
+            704,
+            1597,
+            743
+          ],
+          "original_text": "18 MAR 2032",
+          "translated_en": "18 MAR 2032"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1246,
+            886,
+            1559,
+            927
+          ],
+          "original_text": "07 JUL 2009",
+          "translated_en": "07 JUL 2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            695,
+            1082,
+            1023,
+            1127
+          ],
+          "original_text": "06 JUL 2043",
+          "translated_en": "06 JUL 2043"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-020_03_translated_cleaned.jpg"
+}

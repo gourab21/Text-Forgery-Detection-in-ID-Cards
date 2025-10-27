@@ -1,0 +1,20 @@
+LE1
+EN: Sokolova /
+OR: Соколова /
+EN: Sokolova
+
+LE2
+EN: PS
+EN: Maria Alekseevna / B
+OR: Мария Алексеевна / B
+EN: Robert
+OR: Rober
+
+E3
+EN: 09.04.1936
+
+E4
+EN: 15.08.2020
+
+E5
+EN: 17.07.2034

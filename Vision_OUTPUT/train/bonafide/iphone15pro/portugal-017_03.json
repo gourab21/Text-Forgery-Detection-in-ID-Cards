@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-017_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        884,
+        434,
+        2086,
+        688
+      ],
+      "lines": [
+        {
+          "text": "MENDES SOUSA",
+          "box": [
+            981,
+            501,
+            1562,
+            564
+          ]
+        },
+        {
+          "text": "Eduardo Manuel",
+          "box": [
+            981,
+            586,
+            1570,
+            646
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2354,
+        835,
+        2855,
+        976
+      ],
+      "lines": [
+        {
+          "text": "14 11 1988",
+          "box": [
+            2443,
+            836,
+            2847,
+            893
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1772,
+        1061,
+        2388,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "01 12 2032",
+          "box": [
+            1876,
+            1090,
+            2285,
+            1153
+          ]
+        }
+      ]
+    }
+  ]
+}

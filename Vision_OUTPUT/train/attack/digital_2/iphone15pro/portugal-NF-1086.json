@@ -1,0 +1,65 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        884,
+        426,
+        2086,
+        676
+      ],
+      "lines": [
+        {
+          "text": "SOIN PCEPERA",
+          "box": [
+            946,
+            486,
+            1541,
+            545
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            949,
+            562,
+            1217,
+            621
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2354,
+        821,
+        2855,
+        959
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1772,
+        1042,
+        2388,
+        1206
+      ],
+      "lines": [
+        {
+          "text": "20 0499",
+          "box": [
+            1845,
+            1061,
+            2226,
+            1118
+          ]
+        }
+      ]
+    }
+  ]
+}

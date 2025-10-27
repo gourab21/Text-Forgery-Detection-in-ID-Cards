@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_24235235151_ae8ac31253_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_24235235151_ae8ac31253_k.jpg",
+  "width": 1996,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            677,
+            429,
+            781,
+            477
+          ],
+          "original_text": "吴勇",
+          "translated_en": "Wu Yong"
+        },
+        {
+          "box": [
+            683,
+            492,
+            915,
+            548
+          ],
+          "original_text": "Roberg",
+          "translated_en": "Roberg"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1237,
+            697,
+            1598,
+            743
+          ],
+          "original_text": "08 Jan 1953",
+          "translated_en": "08 Jan 1953"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1246,
+            881,
+            1587,
+            934
+          ],
+          "original_text": "21 Sep 2028",
+          "translated_en": "21 Sep 2028"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            690,
+            1077,
+            1037,
+            1121
+          ],
+          "original_text": "08 Feb 1913",
+          "translated_en": "08 Feb 1913"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_24235235151_ae8ac31253_k_translated_cleaned.jpg"
+}

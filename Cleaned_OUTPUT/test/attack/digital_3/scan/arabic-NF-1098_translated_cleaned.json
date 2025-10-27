@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\arabic-NF-1098_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\arabic-NF-1098.jpg",
+  "width": 2000,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            754,
+            456,
+            1440,
+            533
+          ],
+          "original_text": "Ricky Ali D",
+          "translated_en": "Ricky Ali D"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            734,
+            335,
+            1023,
+            399
+          ],
+          "original_text": "علي زهراء",
+          "translated_en": "Ali Zahra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            741,
+            784,
+            1102,
+            828
+          ],
+          "original_text": "01 Nov 2072",
+          "translated_en": "01 Nov 2072"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            744,
+            948,
+            1101,
+            992
+          ],
+          "original_text": "18 Feb 2020",
+          "translated_en": "18 Feb 2020"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            738,
+            1109,
+            1063,
+            1156
+          ],
+          "original_text": "28 Jul 191",
+          "translated_en": "28 Jul 191"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1273,
+            790,
+            1722,
+            849
+          ],
+          "original_text": "۲۹ / يونيو / ۱۹۹۵",
+          "translated_en": "June 29, 1995"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1271,
+            951,
+            1735,
+            1007
+          ],
+          "original_text": "۱۸ / فبراير / ۲۰۲۰",
+          "translated_en": "February 18, 2020"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1264,
+            1110,
+            1744,
+            1171
+          ],
+          "original_text": "٢٥ / أكتوبر / ٢٠٢٩",
+          "translated_en": "October 25, 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1098_translated_cleaned.jpg"
+}

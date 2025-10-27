@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\usa-NF-1065.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-NF-1065.jpg",
+  "width": 3052,
+  "height": 1893,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            993,
+            723,
+            1461,
+            778
+          ],
+          "original_text": "David Rivera",
+          "translated_en": "David Rivera",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            993,
+            807,
+            1653,
+            866
+          ],
+          "original_text": "1325 Cedar Lane",
+          "translated_en": "1325 Cedar Lane",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            993,
+            892,
+            1722,
+            953
+          ],
+          "original_text": "Tacoma WA 98402",
+          "translated_en": "Tacoma WA 98402",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2299,
+            1158,
+            2893,
+            1217
+          ],
+          "original_text": "DOB : 26-08-17",
+          "translated_en": "DOB : 26-08-17",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1065_translated.jpg"
+}

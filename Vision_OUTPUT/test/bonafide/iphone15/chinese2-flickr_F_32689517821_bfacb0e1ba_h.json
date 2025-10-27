@@ -1,0 +1,95 @@
+{
+  "image": "test\\bonafide\\iphone15\\chinese2-flickr_F_32689517821_bfacb0e1ba_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        857,
+        553,
+        1652,
+        826
+      ],
+      "lines": [
+        {
+          "text": "陈莉",
+          "box": [
+            951,
+            600,
+            1092,
+            664
+          ]
+        },
+        {
+          "text": "Chen Li",
+          "box": [
+            945,
+            689,
+            1224,
+            747
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1671,
+        920,
+        2315,
+        1086
+      ],
+      "lines": [
+        {
+          "text": "10 MAR 2005",
+          "box": [
+            1729,
+            969,
+            2230,
+            1034
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1676,
+        1178,
+        2341,
+        1354
+      ],
+      "lines": [
+        {
+          "text": "18 JAN 2028",
+          "box": [
+            1739,
+            1224,
+            2213,
+            1289
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        888,
+        1461,
+        1551,
+        1646
+      ],
+      "lines": [
+        {
+          "text": "18 JAN 2048",
+          "box": [
+            967,
+            1504,
+            1447,
+            1571
+          ]
+        }
+      ]
+    }
+  ]
+}

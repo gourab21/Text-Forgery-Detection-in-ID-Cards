@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\ukraine-NF-1021.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\ukraine-NF-1021.jpg",
+  "width": 2821,
+  "height": 1786,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            885,
+            372,
+            1078,
+            413
+          ],
+          "original_text": "Прізви",
+          "translated_en": "Nicknames",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            906,
+            427,
+            1248,
+            490
+          ],
+          "original_text": "Лисенко /",
+          "translated_en": "Lysenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            908,
+            510,
+            1181,
+            569
+          ],
+          "original_text": "Lysenko",
+          "translated_en": "Lysenko",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            913,
+            679,
+            1480,
+            759
+          ],
+          "original_text": "Марія Іванівна /",
+          "translated_en": "Maria Ivanovna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            914,
+            762,
+            1144,
+            821
+          ],
+          "original_text": "Monald",
+          "translated_en": "Monald",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            919,
+            979,
+            1300,
+            1029
+          ],
+          "original_text": "29.07.12021",
+          "translated_en": "29.07.12021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            928,
+            1367,
+            1300,
+            1420
+          ],
+          "original_text": "15.02.2011",
+          "translated_en": "15.02.2011",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            930,
+            1646,
+            1326,
+            1701
+          ],
+          "original_text": "15.02.2044",
+          "translated_en": "15.02.2044",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1021_translated.jpg"
+}

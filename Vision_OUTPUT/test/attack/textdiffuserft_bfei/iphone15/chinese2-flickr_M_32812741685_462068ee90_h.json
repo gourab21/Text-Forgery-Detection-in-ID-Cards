@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_32812741685_462068ee90_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        860,
+        546,
+        1658,
+        816
+      ],
+      "lines": [
+        {
+          "text": "赵 钢",
+          "box": [
+            942,
+            591,
+            1092,
+            658
+          ]
+        },
+        {
+          "text": "Donna Gang",
+          "box": [
+            952,
+            678,
+            1369,
+            746
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1678,
+        909,
+        2325,
+        1074
+      ],
+      "lines": [
+        {
+          "text": "24 Aug 2089",
+          "box": [
+            1725,
+            954,
+            2215,
+            1036
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1683,
+        1165,
+        2351,
+        1337
+      ],
+      "lines": [
+        {
+          "text": "18 Jul 2011",
+          "box": [
+            1735,
+            1211,
+            2207,
+            1276
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        892,
+        1443,
+        1557,
+        1626
+      ],
+      "lines": [
+        {
+          "text": "04 Jan 1984",
+          "box": [
+            959,
+            1489,
+            1430,
+            1552
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1076.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1076.jpg",
+  "width": 2824,
+  "height": 1808,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            921,
+            670,
+            1546,
+            758
+          ],
+          "original_text": "Fanecicmeesla",
+          "translated_en": "Fanecicmeesla",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            926,
+            734,
+            1737,
+            847
+          ],
+          "original_text": "1543 Elm St RATE TESTA",
+          "translated_en": "1543 Elm St RATE TESTA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            922,
+            843,
+            1575,
+            902
+          ],
+          "original_text": "Phoenix AZ 85021",
+          "translated_en": "Phoenix AZ 85021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2124,
+            1093,
+            2693,
+            1151
+          ],
+          "original_text": "DOB : 11-12-10",
+          "translated_en": "DOB : 11-12-10",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1076_translated.jpg"
+}

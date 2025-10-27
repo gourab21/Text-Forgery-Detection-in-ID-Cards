@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_3625086942_a3ed938d9c_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        861,
+        552,
+        1660,
+        825
+      ],
+      "lines": [
+        {
+          "text": "徐辉",
+          "box": [
+            948,
+            600,
+            1092,
+            666
+          ]
+        },
+        {
+          "text": "Brandi",
+          "box": [
+            944,
+            690,
+            1194,
+            746
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1680,
+        919,
+        2328,
+        1085
+      ],
+      "lines": [
+        {
+          "text": "27 Dec 2018",
+          "box": [
+            1734,
+            972,
+            2227,
+            1039
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1685,
+        1176,
+        2353,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "03 Feb 2009",
+          "box": [
+            1734,
+            1231,
+            2199,
+            1291
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        893,
+        1459,
+        1559,
+        1644
+      ],
+      "lines": [
+        {
+          "text": "26 Jun 2024",
+          "box": [
+            965,
+            1506,
+            1436,
+            1571
+          ]
+        }
+      ]
+    }
+  ]
+}

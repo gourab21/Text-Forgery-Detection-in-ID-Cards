@@ -1,0 +1,18 @@
+LE1
+EN: Kravchuk /
+OR: Кравчук /
+EN: Kravchuk
+
+LE2
+EN: Tatyana Anatoliivna /
+OR: Тетяна Анатоліївна /
+EN: Trianna
+
+E3
+EN: 15.04.2009
+
+E4
+EN: 12.02.2019
+
+E5
+EN: 11.02.1994

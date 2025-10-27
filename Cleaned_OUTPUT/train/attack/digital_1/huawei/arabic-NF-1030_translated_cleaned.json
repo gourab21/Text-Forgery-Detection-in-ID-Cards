@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\arabic-NF-1030_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\arabic-NF-1030.jpg",
+  "width": 3181,
+  "height": 1962,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1183,
+            742,
+            1768,
+            812
+          ],
+          "original_text": "NavidoFarouk",
+          "translated_en": "NavidoFarouk"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1157,
+            521,
+            1657,
+            614
+          ],
+          "original_text": "فاروق نادية",
+          "translated_en": "Farouk Nadia"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1181,
+            1236,
+            1735,
+            1312
+          ],
+          "original_text": "20 Jan 2033",
+          "translated_en": "20 Jan 2033"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1176,
+            1495,
+            1762,
+            1571
+          ],
+          "original_text": "15 Mar 2022",
+          "translated_en": "15 Mar 2022"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1170,
+            1757,
+            1739,
+            1828
+          ],
+          "original_text": "15 Mar 2011",
+          "translated_en": "15 Mar 2011"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2024,
+            1244,
+            2720,
+            1340
+          ],
+          "original_text": "۲۰ / يناير / ۱۹۹۳",
+          "translated_en": "January 20, 1993"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2023,
+            1508,
+            2535,
+            1585
+          ],
+          "original_text": "١٥ / مارس /",
+          "translated_en": "March 15"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2016,
+            1766,
+            2988,
+            1855
+          ],
+          "original_text": "١٥ / مارس / ٢۰۲۲۲",
+          "translated_en": "March 15, 2022"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1030_translated_cleaned.jpg"
+}

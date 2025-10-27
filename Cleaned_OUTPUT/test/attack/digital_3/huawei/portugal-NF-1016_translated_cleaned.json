@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\portugal-NF-1016_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\portugal-NF-1016.jpg",
+  "width": 3198,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1119,
+            536,
+            1946,
+            610
+          ],
+          "original_text": "GEOGEO MEIRELES",
+          "translated_en": "GEOGEO MEIRELES"
+        },
+        {
+          "box": [
+            1089,
+            628,
+            1508,
+            689
+          ],
+          "original_text": "Ana Maria",
+          "translated_en": "Ana Maria"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2724,
+            949,
+            3127,
+            1014
+          ],
+          "original_text": "02 06 2013",
+          "translated_en": "02 06 2013"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2078,
+            1214,
+            2540,
+            1280
+          ],
+          "original_text": "05 02 2036",
+          "translated_en": "05 02 2036"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1016_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-NF-1083.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "F RAAWEESONNVIAS",
+          "box": [
+            690,
+            334,
+            1268,
+            390
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            687,
+            398,
+            788,
+            434
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "31 07 1995",
+          "box": [
+            1705,
+            597,
+            1994,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "28 07 2004",
+          "box": [
+            1300,
+            765,
+            1596,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

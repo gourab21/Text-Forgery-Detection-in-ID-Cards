@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_F_32868411313_4bb20e41db_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_F_32868411313_4bb20e41db_c.jpg",
+  "width": 3232,
+  "height": 2044,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1099,
+            528,
+            1460,
+            603
+          ],
+          "original_text": "BELSER",
+          "translated_en": "BELSER"
+        },
+        {
+          "box": [
+            1099,
+            632,
+            1717,
+            719
+          ],
+          "original_text": "Benjaminrike",
+          "translated_en": "Benjaminrike"
+        },
+        {
+          "box": [
+            1103,
+            746,
+            1522,
+            816
+          ],
+          "original_text": "Elisabeth",
+          "translated_en": "Elisabeth"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2538,
+            956,
+            3063,
+            1032
+          ],
+          "original_text": "25 08 2020",
+          "translated_en": "25 08 2020"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2503,
+            1243,
+            3080,
+            1328
+          ],
+          "original_text": "17 10 2045",
+          "translated_en": "17 10 2045"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_32868411313_4bb20e41db_c_translated_cleaned.jpg"
+}

@@ -1,0 +1,12 @@
+LE1
+EN: Zhang Ci
+OR: 张 刺
+
+E2
+EN: 30 Nov 1908
+
+E3
+EN: 22 Jan 2014
+
+E4
+EN: 20 Jan 2023

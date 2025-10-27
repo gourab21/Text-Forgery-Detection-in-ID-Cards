@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\indian-038_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\indian-038_03.jpg",
+  "width": 3201,
+  "height": 1980,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1120,
+            738,
+            1333,
+            797
+          ],
+          "original_text": "NAIR",
+          "translated_en": "NAIR"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1113,
+            986,
+            1627,
+            1052
+          ],
+          "original_text": "SAMUELKHA",
+          "translated_en": "SAMUELKHA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1116,
+            1241,
+            1617,
+            1314
+          ],
+          "original_text": "16/09/1976",
+          "translated_en": "16/09/1976"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1101,
+            1708,
+            1606,
+            1784
+          ],
+          "original_text": "12/01/2007",
+          "translated_en": "12/01/2007"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2265,
+            1727,
+            2770,
+            1798
+          ],
+          "original_text": "09/11/1900",
+          "translated_en": "09/11/1900"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-038_03_translated_cleaned.jpg"
+}

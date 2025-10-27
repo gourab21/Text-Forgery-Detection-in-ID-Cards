@@ -1,0 +1,11 @@
+E1
+EN: MASSON
+
+E2
+EN: Johne Sabine
+
+E3
+EN: 11 09 2048
+
+E4
+EN: ST 60 OZ / C

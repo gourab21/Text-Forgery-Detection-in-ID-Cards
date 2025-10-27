@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NF-1041.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        473,
+        2339,
+        750
+      ],
+      "lines": [
+        {
+          "text": "S AYLASOLIVERAA",
+          "box": [
+            1092,
+            542,
+            1841,
+            609
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            1090,
+            639,
+            1245,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2638,
+        911,
+        3200,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "31 05 12019",
+          "box": [
+            2740,
+            953,
+            3199,
+            1022
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1986,
+        1157,
+        2675,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "28 05 2007",
+          "box": [
+            2087,
+            1222,
+            2561,
+            1289
+          ]
+        }
+      ]
+    }
+  ]
+}

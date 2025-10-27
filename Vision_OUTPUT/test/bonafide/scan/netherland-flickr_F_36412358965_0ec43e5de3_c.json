@@ -1,0 +1,102 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_F_36412358965_0ec43e5de3_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        539
+      ],
+      "lines": [
+        {
+          "text": "SMITS",
+          "box": [
+            694,
+            318,
+            880,
+            363
+          ]
+        },
+        {
+          "text": "Willem Ilse",
+          "box": [
+            690,
+            382,
+            1016,
+            431
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            693,
+            450,
+            925,
+            505
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        559,
+        1969,
+        658
+      ],
+      "lines": [
+        {
+          "text": "OF BIRT",
+          "box": [
+            1756,
+            559,
+            1892,
+            581
+          ]
+        },
+        {
+          "text": "10 01 1990",
+          "box": [
+            1572,
+            605,
+            1899,
+            651
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1462,
+        730,
+        1962,
+        853
+      ],
+      "lines": [
+        {
+          "text": "TOD / CARD EXPIRY",
+          "box": [
+            1580,
+            730,
+            1915,
+            759
+          ]
+        },
+        {
+          "text": "11 09 2030",
+          "box": [
+            1536,
+            777,
+            1900,
+            820
+          ]
+        }
+      ]
+    }
+  ]
+}

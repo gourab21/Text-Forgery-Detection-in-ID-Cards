@@ -1,0 +1,121 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\persian-01_0200_000-78393150_0.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\persian-01_0200_000-78393150_0.jpg",
+  "width": 1996,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            764,
+            284,
+            900,
+            319
+          ],
+          "original_text": "Marka",
+          "translated_en": "Marka",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            766,
+            431,
+            990,
+            470
+          ],
+          "original_text": "Mousavi",
+          "translated_en": "Mousavi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1353,
+            289,
+            1413,
+            331
+          ],
+          "original_text": "ليلا",
+          "translated_en": "At night",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1349,
+            434,
+            1471,
+            482
+          ],
+          "original_text": "کاظمی",
+          "translated_en": "Kazemi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            762,
+            595,
+            1045,
+            634
+          ],
+          "original_text": "03/08/1955",
+          "translated_en": "03/08/1955",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            759,
+            923,
+            1036,
+            963
+          ],
+          "original_text": "17/04/2024",
+          "translated_en": "17/04/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1342,
+            930,
+            1625,
+            973
+          ],
+          "original_text": "05/07/1992",
+          "translated_en": "05/07/1992",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-01_0200_000-78393150_0_translated.jpg"
+}

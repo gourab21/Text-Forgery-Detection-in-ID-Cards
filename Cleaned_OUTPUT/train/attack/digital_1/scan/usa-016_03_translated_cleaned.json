@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\usa-016_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\usa-016_03.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            647,
+            458,
+            1028,
+            525
+          ],
+          "original_text": "s UbenaBinhap",
+          "translated_en": "s UbenaBinhap"
+        },
+        {
+          "box": [
+            649,
+            523,
+            932,
+            567
+          ],
+          "original_text": "891 Oak St",
+          "translated_en": "891 Oak St"
+        },
+        {
+          "box": [
+            647,
+            584,
+            1053,
+            627
+          ],
+          "original_text": "Miami FL 33101",
+          "translated_en": "Miami FL 33101"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            772,
+            1893,
+            825
+          ],
+          "original_text": "07-04-97",
+          "translated_en": "07-04-97"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-016_03_translated_cleaned.jpg"
+}

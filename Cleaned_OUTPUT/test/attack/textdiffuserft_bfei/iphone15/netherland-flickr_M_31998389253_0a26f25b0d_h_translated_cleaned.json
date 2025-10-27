@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_31998389253_0a26f25b0d_h_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_31998389253_0a26f25b0d_h.jpg",
+  "width": 2774,
+  "height": 1743,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            943,
+            447,
+            1251,
+            515
+          ],
+          "original_text": "VISSER",
+          "translated_en": "VISSER"
+        },
+        {
+          "box": [
+            945,
+            528,
+            1704,
+            610
+          ],
+          "original_text": "Johnte Anemare",
+          "translated_en": "Johnte Anemare"
+        },
+        {
+          "box": [
+            952,
+            636,
+            1268,
+            704
+          ],
+          "original_text": "Matthijs",
+          "translated_en": "Matthijs"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2172,
+            815,
+            2623,
+            878
+          ],
+          "original_text": "04 07 1910",
+          "translated_en": "04 07 1910"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2137,
+            1050,
+            2642,
+            1124
+          ],
+          "original_text": "25 09 1928",
+          "translated_en": "25 09 1928"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_31998389253_0a26f25b0d_h_translated_cleaned.jpg"
+}

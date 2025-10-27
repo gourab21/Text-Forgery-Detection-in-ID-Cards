@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_30532886723_e55b04664f_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        575,
+        577,
+        2080,
+        854
+      ],
+      "lines": [
+        {
+          "text": "April binti Azman",
+          "box": [
+            728,
+            640,
+            1587,
+            737
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        642,
+        1238,
+        1431,
+        1409
+      ],
+      "lines": [
+        {
+          "text": "13.03-3533",
+          "box": [
+            726,
+            1289,
+            1221,
+            1364
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1557,
+        1504,
+        2298,
+        1670
+      ],
+      "lines": [
+        {
+          "text": "16 07133",
+          "box": [
+            1651,
+            1530,
+            2139,
+            1606
+          ]
+        }
+      ]
+    }
+  ]
+}

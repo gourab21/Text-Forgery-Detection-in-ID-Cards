@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_30518529884_4cf8f091df_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1500,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Zulkifli bin Omar",
+          "box": [
+            514,
+            461,
+            1099,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        885,
+        1031,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "1996-03-25",
+          "box": [
+            510,
+            917,
+            873,
+            966
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1075,
+        1656,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "2006-03-25",
+          "box": [
+            1160,
+            1110,
+            1528,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

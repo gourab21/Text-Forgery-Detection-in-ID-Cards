@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-097_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        829,
+        375,
+        1651,
+        504
+      ],
+      "lines": [
+        {
+          "text": "FONTAINE",
+          "box": [
+            898,
+            420,
+            1244,
+            472
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        822,
+        617,
+        1749,
+        773
+      ],
+      "lines": [
+        {
+          "text": "Anaïs , Laura",
+          "box": [
+            895,
+            663,
+            1305,
+            728
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1935,
+        865,
+        2479,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "07 07 1987",
+          "box": [
+            1978,
+            876,
+            2352,
+            928
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1909,
+        1412,
+        2463,
+        1548
+      ],
+      "lines": [
+        {
+          "text": "25 03 2030",
+          "box": [
+            1984,
+            1423,
+            2362,
+            1475
+          ]
+        }
+      ]
+    }
+  ]
+}

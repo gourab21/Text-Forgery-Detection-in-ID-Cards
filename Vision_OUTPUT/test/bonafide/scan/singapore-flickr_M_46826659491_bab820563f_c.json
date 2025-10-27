@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_46826659491_bab820563f_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1501,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Tariq Saeed",
+          "box": [
+            510,
+            466,
+            918,
+            532
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        886,
+        1033,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "2004-12-05",
+          "box": [
+            522,
+            927,
+            889,
+            979
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1076,
+        1658,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "2014-12-05",
+          "box": [
+            1185,
+            1102,
+            1556,
+            1153
+          ]
+        }
+      ]
+    }
+  ]
+}

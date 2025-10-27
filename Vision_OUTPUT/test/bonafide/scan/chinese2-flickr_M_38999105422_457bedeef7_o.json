@@ -1,0 +1,95 @@
+{
+  "image": "test\\bonafide\\scan\\chinese2-flickr_M_38999105422_457bedeef7_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        618,
+        395,
+        1192,
+        589
+      ],
+      "lines": [
+        {
+          "text": "张强",
+          "box": [
+            686,
+            422,
+            796,
+            472
+          ]
+        },
+        {
+          "text": "Zhang Qiang",
+          "box": [
+            684,
+            486,
+            1033,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1205,
+        657,
+        1670,
+        776
+      ],
+      "lines": [
+        {
+          "text": "08 JUN 1984",
+          "box": [
+            1236,
+            706,
+            1587,
+            752
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1209,
+        842,
+        1687,
+        966
+      ],
+      "lines": [
+        {
+          "text": "03 JAN 2006 000",
+          "box": [
+            1233,
+            887,
+            1686,
+            965
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        641,
+        1043,
+        1118,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "03 JAN 2026",
+          "box": [
+            675,
+            1074,
+            1020,
+            1116
+          ]
+        }
+      ]
+    }
+  ]
+}

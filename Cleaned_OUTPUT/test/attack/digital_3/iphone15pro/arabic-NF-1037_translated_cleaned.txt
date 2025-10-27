@@ -1,0 +1,28 @@
+E1
+EN: Vanessaoud
+
+L1
+EN: Mahmoud Leili
+OR: محمود لیلی
+EN: N
+
+E2
+EN: 16 Jun 2085
+
+E3
+EN: 15 Jan 2020
+
+E4
+EN: 08 Jun 1936
+
+L2
+EN: February 22, 19
+OR: ۲۲ / فبراير / ۱۹
+
+L3
+EN: January 15, 2020
+OR: ١٥ / يناير / ۲۰۲۰
+
+L4
+EN: October 5, 2032
+OR: ٥ / أكتوبر / ٢٠٣٢

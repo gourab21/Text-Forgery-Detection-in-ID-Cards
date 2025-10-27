@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        938,
+        450,
+        2211,
+        715
+      ],
+      "lines": [
+        {
+          "text": "PEREZRA CASTRO",
+          "box": [
+            1052,
+            524,
+            1718,
+            587
+          ]
+        },
+        {
+          "text": "Luis Antônio",
+          "box": [
+            1040,
+            603,
+            1522,
+            669
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2495,
+        868,
+        3026,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "06 06 1952",
+          "box": [
+            2576,
+            914,
+            2961,
+            972
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1879,
+        1103,
+        2530,
+        1276
+      ],
+      "lines": [
+        {
+          "text": "06 09 1938",
+          "box": [
+            1970,
+            1162,
+            2414,
+            1225
+          ]
+        }
+      ]
+    }
+  ]
+}

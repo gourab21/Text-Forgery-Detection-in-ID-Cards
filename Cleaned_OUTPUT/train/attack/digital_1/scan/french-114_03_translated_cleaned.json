@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\french-114_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\french-114_03.jpg",
+  "width": 1995,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            656,
+            294,
+            812,
+            327
+          ],
+          "original_text": "DAVID",
+          "translated_en": "DAVID"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            651,
+            453,
+            1035,
+            516
+          ],
+          "original_text": "Gabriel , Étienne",
+          "translated_en": "Gabriel , Étienne"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1423,
+            636,
+            1705,
+            671
+          ],
+          "original_text": "08 12 2004",
+          "translated_en": "08 12 2004"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1416,
+            1022,
+            1700,
+            1059
+          ],
+          "original_text": "13 02 2032",
+          "translated_en": "13 02 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-114_03_translated_cleaned.jpg"
+}

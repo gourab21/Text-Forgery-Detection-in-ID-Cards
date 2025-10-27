@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-NF-1095.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        901,
+        401,
+        1793,
+        541
+      ],
+      "lines": [
+        {
+          "text": "MOREL",
+          "box": [
+            993,
+            444,
+            1247,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        893,
+        663,
+        1898,
+        830
+      ],
+      "lines": [
+        {
+          "text": "BrieLuurence",
+          "box": [
+            995,
+            699,
+            1455,
+            764
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2102,
+        928,
+        2693,
+        1089
+      ],
+      "lines": [
+        {
+          "text": "05 03 12020",
+          "box": [
+            2159,
+            960,
+            2592,
+            1020
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2073,
+        1515,
+        2674,
+        1661
+      ],
+      "lines": [
+        {
+          "text": "12 04 22000",
+          "box": [
+            2151,
+            1538,
+            2578,
+            1597
+          ]
+        }
+      ]
+    }
+  ]
+}

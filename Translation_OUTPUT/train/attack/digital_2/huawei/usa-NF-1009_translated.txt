@@ -1,0 +1,7 @@
+E1
+EN: Jrin Roe
+EN: 5678 Maple Dr
+EN: Rochester NY 14623
+
+E2
+EN: DOB : 03-22-38

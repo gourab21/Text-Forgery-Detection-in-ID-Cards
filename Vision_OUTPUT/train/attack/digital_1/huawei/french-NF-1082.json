@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-NF-1082.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        954,
+        421,
+        1900,
+        567
+      ],
+      "lines": [
+        {
+          "text": "MASSON",
+          "box": [
+            1053,
+            459,
+            1377,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        946,
+        693,
+        2011,
+        869
+      ],
+      "lines": [
+        {
+          "text": "LatalieSabine",
+          "box": [
+            1050,
+            737,
+            1526,
+            795
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2226,
+        972,
+        2853,
+        1140
+      ],
+      "lines": [
+        {
+          "text": "15 10 1999",
+          "box": [
+            2293,
+            1006,
+            2740,
+            1070
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2196,
+        1586,
+        2834,
+        1740
+      ],
+      "lines": [
+        {
+          "text": "02 12 2043",
+          "box": [
+            2277,
+            1623,
+            2730,
+            1679
+          ]
+        }
+      ]
+    }
+  ]
+}

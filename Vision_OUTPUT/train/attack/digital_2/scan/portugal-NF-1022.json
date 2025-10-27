@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1022.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        298,
+        1458,
+        471
+      ],
+      "lines": [
+        {
+          "text": "CARTNERRIRA",
+          "box": [
+            687,
+            339,
+            1121,
+            392
+          ]
+        },
+        {
+          "text": "Marta",
+          "box": [
+            689,
+            401,
+            838,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "13 01 2002",
+          "box": [
+            1710,
+            601,
+            1994,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "11 01 1194",
+          "box": [
+            1305,
+            765,
+            1597,
+            812
+          ]
+        }
+      ]
+    }
+  ]
+}

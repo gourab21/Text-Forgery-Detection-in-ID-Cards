@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\russian-NM-1027_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-NM-1027.jpg",
+  "width": 3204,
+  "height": 1981,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1165,
+            414,
+            1442,
+            486
+          ],
+          "original_text": "Белов /",
+          "translated_en": "Belov /"
+        },
+        {
+          "box": [
+            1162,
+            502,
+            1353,
+            554
+          ],
+          "original_text": "Belov",
+          "translated_en": "Belov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            2077,
+            686,
+            2133,
+            729
+          ],
+          "original_text": "Ρο",
+          "translated_en": "Ro"
+        },
+        {
+          "box": [
+            1149,
+            752,
+            1896,
+            825
+          ],
+          "original_text": "Артём Васильевич /",
+          "translated_en": "Artem Vasilievich /"
+        },
+        {
+          "box": [
+            1144,
+            836,
+            1734,
+            902
+          ],
+          "original_text": "Stephanleievich",
+          "translated_en": "Stephanleievich"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1144,
+            1082,
+            1541,
+            1138
+          ],
+          "original_text": "08.04.2074",
+          "translated_en": "08.04.2074"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1138,
+            1523,
+            1539,
+            1583
+          ],
+          "original_text": "03.10.2017",
+          "translated_en": "03.10.2017"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1131,
+            1822,
+            1524,
+            1879
+          ],
+          "original_text": "20.01.1914",
+          "translated_en": "20.01.1914"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NM-1027_translated_cleaned.jpg"
+}

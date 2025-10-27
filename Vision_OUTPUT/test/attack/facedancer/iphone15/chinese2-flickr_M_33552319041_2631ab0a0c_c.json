@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\chinese2-flickr_M_33552319041_2631ab0a0c_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        860,
+        548,
+        1658,
+        819
+      ],
+      "lines": [
+        {
+          "text": "赵 超",
+          "box": [
+            933,
+            595,
+            1079,
+            662
+          ]
+        },
+        {
+          "text": "Zhao Chao",
+          "box": [
+            935,
+            684,
+            1345,
+            744
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1678,
+        912,
+        2325,
+        1077
+      ],
+      "lines": [
+        {
+          "text": "30 MAY 1989",
+          "box": [
+            1718,
+            961,
+            2213,
+            1025
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1683,
+        1169,
+        2351,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "03 APR 2009",
+          "box": [
+            1722,
+            1216,
+            2211,
+            1281
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        892,
+        1449,
+        1557,
+        1632
+      ],
+      "lines": [
+        {
+          "text": "03 APR 2029",
+          "box": [
+            953,
+            1493,
+            1443,
+            1558
+          ]
+        }
+      ]
+    }
+  ]
+}

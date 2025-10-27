@@ -1,0 +1,27 @@
+E1
+EN: Mathew - Fayed
+
+L1
+EN: Al Fayed Rania
+OR: الفايد رانيا
+
+E2
+EN: 09 Dec 1928
+
+E3
+EN: 12 Jan 2020
+
+E4
+EN: 29 Jul 2094
+
+L2
+EN: February 4, 1990
+OR: ٤ / فبراير / ۱۹۹۰
+
+L3
+EN: January 12, 2020
+OR: ۱۲ / يناير / ۲۰۲۰
+
+L4
+EN: September 5, 2029
+OR: ٥ / سبتمبر / ۲۰۲۹

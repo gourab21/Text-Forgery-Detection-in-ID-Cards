@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-NF-1093.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        925,
+        648,
+        1899,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "Nicholahaw",
+          "box": [
+            1000,
+            713,
+            1473,
+            776
+          ]
+        },
+        {
+          "text": "306 Pine Street",
+          "box": [
+            990,
+            800,
+            1600,
+            868
+          ]
+        },
+        {
+          "text": "Reno NV 89501",
+          "box": [
+            989,
+            890,
+            1593,
+            956
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2229,
+        1148,
+        2989,
+        1303
+      ],
+      "lines": [
+        {
+          "text": "DOB : 05-11-25",
+          "box": [
+            2284,
+            1180,
+            2893,
+            1263
+          ]
+        }
+      ]
+    }
+  ]
+}

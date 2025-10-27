@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\singapore-flickr_M_31226135201_5aa42a5a13_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        412,
+        1498,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Ravi Menon",
+          "box": [
+            509,
+            476,
+            902,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        885,
+        1031,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "1993-02-08",
+          "box": [
+            520,
+            925,
+            881,
+            975
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1075,
+        1656,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "2003-02-08",
+          "box": [
+            1177,
+            1098,
+            1544,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

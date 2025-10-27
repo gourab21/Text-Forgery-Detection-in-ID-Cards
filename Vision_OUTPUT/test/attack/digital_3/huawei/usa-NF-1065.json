@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-NF-1065.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        923,
+        645,
+        1895,
+        1002
+      ],
+      "lines": [
+        {
+          "text": "David Rivera",
+          "box": [
+            993,
+            723,
+            1461,
+            778
+          ]
+        },
+        {
+          "text": "1325 Cedar Lane",
+          "box": [
+            993,
+            807,
+            1653,
+            866
+          ]
+        },
+        {
+          "text": "Tacoma WA 98402",
+          "box": [
+            993,
+            892,
+            1722,
+            953
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2223,
+        1143,
+        2981,
+        1298
+      ],
+      "lines": [
+        {
+          "text": "DOB : 26-08-17",
+          "box": [
+            2299,
+            1158,
+            2893,
+            1217
+          ]
+        }
+      ]
+    }
+  ]
+}

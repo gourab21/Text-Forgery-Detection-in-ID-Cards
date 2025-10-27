@@ -1,0 +1,16 @@
+LE1
+EN: Popova /
+OR: Попова /
+EN: Popova
+
+LE2
+EN: Selenasia Vladimirovna
+
+E3
+EN: 10.10.2080
+
+E4
+EN: 23.05.2018
+
+E5
+EN: 24.05.1908

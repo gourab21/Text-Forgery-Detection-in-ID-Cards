@@ -1,0 +1,100 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\russian-NF-1069.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\russian-NF-1069.jpg",
+  "width": 2840,
+  "height": 1804,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1014,
+            390,
+            1433,
+            457
+          ],
+          "original_text": "Журавлева /",
+          "translated_en": "Zhuravleva /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1018,
+            466,
+            1362,
+            514
+          ],
+          "original_text": "Zhuravleva",
+          "translated_en": "Zhuravleva",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1023,
+            681,
+            1660,
+            750
+          ],
+          "original_text": "Анна Михайловна /",
+          "translated_en": "Anna Mikhailovna /",
+          "detected_lang": "sah"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1033,
+            984,
+            1381,
+            1037
+          ],
+          "original_text": "19.06.1941",
+          "translated_en": "19.06.1941",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1040,
+            1379,
+            1389,
+            1430
+          ],
+          "original_text": "02.01.2021",
+          "translated_en": "02.01.2021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1045,
+            1643,
+            1399,
+            1696
+          ],
+          "original_text": "20.12.2030",
+          "translated_en": "20.12.2030",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1069_translated.jpg"
+}

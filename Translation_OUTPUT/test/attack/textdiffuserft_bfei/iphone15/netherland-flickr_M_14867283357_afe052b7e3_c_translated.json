@@ -1,0 +1,79 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_14867283357_afe052b7e3_c.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "width": 2776,
+  "height": 1730,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            947,
+            453,
+            1306,
+            517
+          ],
+          "original_text": "DE JONG",
+          "translated_en": "DE JONG",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            956,
+            534,
+            1622,
+            602
+          ],
+          "original_text": "Paulike Cornelis",
+          "translated_en": "Paulike Cornelis",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            947,
+            639,
+            1086,
+            701
+          ],
+          "original_text": "Ilse",
+          "translated_en": "Ilse",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2175,
+            812,
+            2628,
+            877
+          ],
+          "original_text": "06 05 1940",
+          "translated_en": "06 05 1940",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2140,
+            1047,
+            2641,
+            1119
+          ],
+          "original_text": "01 02 1913",
+          "translated_en": "01 02 1913",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_14867283357_afe052b7e3_c_translated.jpg"
+}

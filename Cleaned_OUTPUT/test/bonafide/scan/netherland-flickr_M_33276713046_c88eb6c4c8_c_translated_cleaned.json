@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\netherland-flickr_M_33276713046_c88eb6c4c8_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\netherland-flickr_M_33276713046_c88eb6c4c8_c.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            676,
+            322,
+            1124,
+            371
+          ],
+          "original_text": "VAN DEN BERG",
+          "translated_en": "VAN DEN BERG"
+        },
+        {
+          "box": [
+            681,
+            386,
+            1110,
+            435
+          ],
+          "original_text": "Lotte Elisabeth",
+          "translated_en": "Lotte Elisabeth"
+        },
+        {
+          "box": [
+            681,
+            457,
+            914,
+            501
+          ],
+          "original_text": "Cornelis",
+          "translated_en": "Cornelis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1560,
+            586,
+            1896,
+            634
+          ],
+          "original_text": "26 12 1985",
+          "translated_en": "26 12 1985"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1533,
+            760,
+            1899,
+            807
+          ],
+          "original_text": "08 11 2029",
+          "translated_en": "08 11 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_33276713046_c88eb6c4c8_c_translated_cleaned.jpg"
+}

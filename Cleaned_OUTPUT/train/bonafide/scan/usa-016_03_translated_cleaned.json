@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\scan\\usa-016_03_translated.json",
+  "image_relative": "train\\bonafide\\scan\\usa-016_03.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            648,
+            468,
+            1014,
+            518
+          ],
+          "original_text": "Sophia Bishop",
+          "translated_en": "Sophia Bishop"
+        },
+        {
+          "box": [
+            649,
+            527,
+            933,
+            567
+          ],
+          "original_text": "891 Oak St",
+          "translated_en": "891 Oak St"
+        },
+        {
+          "box": [
+            648,
+            582,
+            1054,
+            628
+          ],
+          "original_text": "Miami FL 33101",
+          "translated_en": "Miami FL 33101"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1491,
+            777,
+            1882,
+            823
+          ],
+          "original_text": "07-04-91",
+          "translated_en": "07-04-91"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-016_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,18 @@
+LE1
+OR: Ткачук /
+EN: Tkachuk /
+EN: Tkachuk
+
+LE2
+OR: Анна Василівна /
+EN: Anna Vasylivna /
+EN: Aroy
+
+E3
+EN: 06.04.2000
+
+E4
+EN: 07.09.2018
+
+E5
+EN: 06.09.2008

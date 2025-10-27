@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\chinese-NF-1050_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\chinese-NF-1050.jpg",
+  "width": 1993,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            688,
+            428,
+            788,
+            480
+          ],
+          "original_text": "黄静",
+          "translated_en": "Huang Jing"
+        },
+        {
+          "box": [
+            686,
+            484,
+            956,
+            543
+          ],
+          "original_text": "Hustinjing",
+          "translated_en": "Hustinjing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1238,
+            716,
+            1548,
+            753
+          ],
+          "original_text": "15 Jul 2015",
+          "translated_en": "15 Jul 2015"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1230,
+            897,
+            1562,
+            942
+          ],
+          "original_text": "08 May 2017",
+          "translated_en": "08 May 2017"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            675,
+            1079,
+            1020,
+            1126
+          ],
+          "original_text": "06 May 1995",
+          "translated_en": "06 May 1995"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1050_translated_cleaned.jpg"
+}

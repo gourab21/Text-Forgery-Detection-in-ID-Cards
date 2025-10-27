@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-NF-1050.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        395,
+        1103,
+        580
+      ],
+      "lines": [
+        {
+          "text": "黄静",
+          "box": [
+            687,
+            427,
+            787,
+            482
+          ]
+        },
+        {
+          "text": "Isabelang",
+          "box": [
+            686,
+            485,
+            969,
+            544
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1198,
+        658,
+        1607,
+        791
+      ],
+      "lines": [
+        {
+          "text": "30 Oct 1910",
+          "box": [
+            1235,
+            713,
+            1533,
+            757
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1179,
+        849,
+        1630,
+        976
+      ],
+      "lines": [
+        {
+          "text": "08 May 2017",
+          "box": [
+            1230,
+            897,
+            1562,
+            942
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1039,
+        1088,
+        1161
+      ],
+      "lines": [
+        {
+          "text": "11 Jul 2046",
+          "box": [
+            679,
+            1080,
+            999,
+            1122
+          ]
+        }
+      ]
+    }
+  ]
+}

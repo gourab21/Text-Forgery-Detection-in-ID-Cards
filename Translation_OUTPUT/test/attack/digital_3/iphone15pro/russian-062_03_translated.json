@@ -1,0 +1,111 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\russian-062_03.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\russian-062_03.jpg",
+  "width": 2825,
+  "height": 1803,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1001,
+            386,
+            1419,
+            452
+          ],
+          "original_text": "Журавлева /",
+          "translated_en": "Zhuravleva /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1006,
+            466,
+            1348,
+            511
+          ],
+          "original_text": "Zhuravleva",
+          "translated_en": "Zhuravleva",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1009,
+            680,
+            1880,
+            751
+          ],
+          "original_text": "Дарья Сергеевна / K",
+          "translated_en": "Daria Sergeevna / K",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1014,
+            755,
+            1529,
+            819
+          ],
+          "original_text": "Gregoryergee'na",
+          "translated_en": "Gregoryergee&#39;na",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1015,
+            980,
+            1363,
+            1032
+          ],
+          "original_text": "05.03.2050",
+          "translated_en": "05.03.2050",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1374,
+            1370,
+            1422
+          ],
+          "original_text": "17.12.2014",
+          "translated_en": "17.12.2014",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1640,
+            1372,
+            1690
+          ],
+          "original_text": "20.10.2050",
+          "translated_en": "20.10.2050",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-062_03_translated.jpg"
+}

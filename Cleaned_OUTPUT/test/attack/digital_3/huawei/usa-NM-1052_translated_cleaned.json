@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\usa-NM-1052_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-NM-1052.jpg",
+  "width": 3239,
+  "height": 1989,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1049,
+            736,
+            1998,
+            830
+          ],
+          "original_text": "Hannazoherr Gren $ 600",
+          "translated_en": "Hannazoherr Gren $ 600"
+        },
+        {
+          "box": [
+            1049,
+            843,
+            1508,
+            906
+          ],
+          "original_text": "112 Oak St",
+          "translated_en": "112 Oak St"
+        },
+        {
+          "box": [
+            1047,
+            938,
+            1838,
+            1007
+          ],
+          "original_text": "Laramie WY 82070",
+          "translated_en": "Laramie WY 82070"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2424,
+            1249,
+            3069,
+            1325
+          ],
+          "original_text": "22-12-94",
+          "translated_en": "22-12-94"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1052_translated_cleaned.jpg"
+}

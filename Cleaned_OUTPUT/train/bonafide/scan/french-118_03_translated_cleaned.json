@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\scan\\french-118_03_translated.json",
+  "image_relative": "train\\bonafide\\scan\\french-118_03.jpg",
+  "width": 1996,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            643,
+            298,
+            860,
+            340
+          ],
+          "original_text": "JACQUET",
+          "translated_en": "JACQUET"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            648,
+            461,
+            1033,
+            519
+          ],
+          "original_text": "Isabelle , Hélène",
+          "translated_en": "Isabelle , Hélène"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1426,
+            619,
+            1690,
+            657
+          ],
+          "original_text": "19 01 1986",
+          "translated_en": "19 01 1986"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1432,
+            1007,
+            1697,
+            1043
+          ],
+          "original_text": "05 11 2030",
+          "translated_en": "05 11 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-118_03_translated_cleaned.jpg"
+}

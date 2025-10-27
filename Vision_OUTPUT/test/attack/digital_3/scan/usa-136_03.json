@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-136_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        425,
+        1238,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Dawnica Hill",
+          "box": [
+            648,
+            473,
+            931,
+            515
+          ]
+        },
+        {
+          "text": "518 Spruce St",
+          "box": [
+            649,
+            530,
+            1008,
+            574
+          ]
+        },
+        {
+          "text": "Portland ME 04101",
+          "box": [
+            650,
+            585,
+            1138,
+            629
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1454,
+        753,
+        1949,
+        853
+      ],
+      "lines": [
+        {
+          "text": "DOB : 13-1-1-67",
+          "box": [
+            1501,
+            760,
+            1892,
+            798
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+E1
+EN: Yradool Mireak
+
+L1
+OR: مبارك يوسف
+EN: Mubarak Youssef
+
+E2
+EN: 03 Dec 2031
+
+E3
+EN: 25 May 2023
+
+E4
+EN: 25 May 2014
+
+L2
+OR: تاريخ
+EN: History
+OR: / / ديسمبر / ۱۹۸۸
+EN: / / December / 1988
+
+L3
+OR: ٢٥ / مايو / ٢۰۲۳
+EN: May 25, 2023
+
+L4
+OR: ٢٥ / مايو / ٢۰۳۳
+EN: May 25, 2033

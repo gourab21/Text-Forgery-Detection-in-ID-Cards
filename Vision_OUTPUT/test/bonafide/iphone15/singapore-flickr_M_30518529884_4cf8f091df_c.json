@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_30518529884_4cf8f091df_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        579,
+        578,
+        2092,
+        856
+      ],
+      "lines": [
+        {
+          "text": "Zulkifli bin Omar",
+          "box": [
+            710,
+            655,
+            1521,
+            723
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        645,
+        1240,
+        1441,
+        1412
+      ],
+      "lines": [
+        {
+          "text": "1996-03-25",
+          "box": [
+            731,
+            1296,
+            1234,
+            1370
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1567,
+        1506,
+        2312,
+        1672
+      ],
+      "lines": [
+        {
+          "text": "2006-03-25",
+          "box": [
+            1649,
+            1541,
+            2162,
+            1612
+          ]
+        }
+      ]
+    }
+  ]
+}

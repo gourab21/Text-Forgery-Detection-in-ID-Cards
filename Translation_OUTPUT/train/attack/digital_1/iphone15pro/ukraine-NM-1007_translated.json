@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\ukraine-NM-1007.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\ukraine-NM-1007.jpg",
+  "width": 2636,
+  "height": 1610,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            857,
+            373,
+            1297,
+            439
+          ],
+          "original_text": "Бондаренко /",
+          "translated_en": "Bondarenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            855,
+            447,
+            1233,
+            494
+          ],
+          "original_text": "Bondarenko",
+          "translated_en": "Bondarenko",
+          "detected_lang": "lv"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            847,
+            606,
+            1467,
+            672
+          ],
+          "original_text": "Андрій Юрійович /",
+          "translated_en": "Andriy Yuriyovych /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            845,
+            681,
+            1067,
+            731
+          ],
+          "original_text": "Ainday",
+          "translated_en": "Ainday",
+          "detected_lang": "hi-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            849,
+            872,
+            1224,
+            918
+          ],
+          "original_text": "11.12 . 2035",
+          "translated_en": "11.12 . 2035",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            838,
+            1226,
+            1195,
+            1276
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            779,
+            1461,
+            1200,
+            1530
+          ],
+          "original_text": "724 22.05.1990",
+          "translated_en": "724 22.05.1990",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NM-1007_translated.jpg"
+}

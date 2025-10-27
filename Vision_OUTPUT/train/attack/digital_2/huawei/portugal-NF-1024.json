@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NF-1024.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        995,
+        473,
+        2347,
+        750
+      ],
+      "lines": [
+        {
+          "text": "GENI CAO CHA",
+          "box": [
+            1097,
+            526,
+            1713,
+            629
+          ]
+        },
+        {
+          "text": "Teresa",
+          "box": [
+            1095,
+            632,
+            1371,
+            696
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2648,
+        911,
+        3212,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "02 05 1979",
+          "box": [
+            2751,
+            951,
+            3211,
+            1017
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1994,
+        1157,
+        2686,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "2904 190",
+          "box": [
+            2095,
+            1219,
+            2573,
+            1290
+          ]
+        }
+      ]
+    }
+  ]
+}

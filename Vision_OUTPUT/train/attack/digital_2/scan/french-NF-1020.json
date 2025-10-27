@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\french-NF-1020.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        267,
+        1181,
+        360
+      ],
+      "lines": [
+        {
+          "text": "ROUX",
+          "box": [
+            664,
+            297,
+            796,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        440,
+        1251,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Céline , Emma",
+          "box": [
+            658,
+            467,
+            979,
+            510
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        618,
+        1774,
+        724
+      ],
+      "lines": [
+        {
+          "text": "14 11 2009",
+          "box": [
+            1429,
+            637,
+            1712,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1008,
+        1763,
+        1105
+      ],
+      "lines": [
+        {
+          "text": "30 03 2006",
+          "box": [
+            1418,
+            1025,
+            1703,
+            1060
+          ]
+        }
+      ]
+    }
+  ]
+}

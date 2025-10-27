@@ -1,0 +1,23 @@
+LE1
+OR: Прізви
+EN: Nicknames
+OR: Бондар /
+EN: Cooper /
+OR: Bondar
+EN: bumble-bee
+
+LE2
+OR: Василь Петрович /
+EN: Vasyl Petrovych /
+EN: Chiarl
+OR: Culs
+EN: Asses
+
+E3
+EN: 08.04.2083
+
+E4
+EN: 17.09.2018
+
+E5
+EN: 06.07.2086

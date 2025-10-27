@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\indian-NF-1025_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\indian-NF-1025.jpg",
+  "width": 1995,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            469,
+            882,
+            505
+          ],
+          "original_text": "KUMAR",
+          "translated_en": "KUMAR"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            697,
+            622,
+            1018,
+            659
+          ],
+          "original_text": "G CHAELITA",
+          "translated_en": "G CHAELITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            699,
+            777,
+            1025,
+            826
+          ],
+          "original_text": "29/03/2034",
+          "translated_en": "29/03/2034"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            703,
+            1073,
+            1018,
+            1121
+          ],
+          "original_text": "03/10/2021",
+          "translated_en": "03/10/2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1425,
+            1062,
+            1754,
+            1113
+          ],
+          "original_text": "01/10/2044",
+          "translated_en": "01/10/2044"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1025_translated_cleaned.jpg"
+}

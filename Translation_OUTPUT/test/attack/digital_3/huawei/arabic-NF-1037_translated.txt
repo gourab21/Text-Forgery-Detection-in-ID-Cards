@@ -1,0 +1,27 @@
+E1
+EN: Corey Mahnoud
+
+L1
+OR: محمود ليلى
+EN: Mahmoud Laila
+
+E2
+EN: 18 Apr 1903
+
+E3
+EN: 15 Jan 2020
+
+E4
+EN: 19 Jun 2078
+
+L2
+OR: ۲۳ ٢٣ / فبراير / ۱۹۸۱
+EN: 23 February 1981
+
+L3
+OR: ١٥ / يناير / ۲۰۲۰
+EN: January 15, 2020
+
+L4
+OR: ٥ / أكتوبر / ۲۰۳۲
+EN: October 5, 2032

@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\portugal-029_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-029_03.jpg",
+  "width": 1992,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            684,
+            341,
+            1203,
+            390
+          ],
+          "original_text": "PATIERADOLITIEAR",
+          "translated_en": "PATIERADOLITIEAR"
+        },
+        {
+          "box": [
+            680,
+            399,
+            820,
+            445
+          ],
+          "original_text": "Tiago",
+          "translated_en": "Tiago"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1700,
+            604,
+            1991,
+            641
+          ],
+          "original_text": "03 06 2034",
+          "translated_en": "03 06 2034"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1294,
+            770,
+            1594,
+            809
+          ],
+          "original_text": "31 05 2025",
+          "translated_en": "31 05 2025"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-029_03_translated_cleaned.jpg"
+}

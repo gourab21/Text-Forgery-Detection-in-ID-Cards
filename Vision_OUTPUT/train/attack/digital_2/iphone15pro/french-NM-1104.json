@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        828,
+        379,
+        1649,
+        512
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            908,
+            425,
+            1175,
+            477
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        821,
+        625,
+        1747,
+        783
+      ],
+      "lines": [
+        {
+          "text": "Vrelnt , Paul",
+          "box": [
+            908,
+            666,
+            1373,
+            729
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1933,
+        877,
+        2477,
+        1028
+      ],
+      "lines": [
+        {
+          "text": "15 01 12002",
+          "box": [
+            1999,
+            885,
+            2400,
+            933
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1907,
+        1430,
+        2460,
+        1568
+      ],
+      "lines": [
+        {
+          "text": "28 02 2 004",
+          "box": [
+            2010,
+            1430,
+            2409,
+            1482
+          ]
+        }
+      ]
+    }
+  ]
+}

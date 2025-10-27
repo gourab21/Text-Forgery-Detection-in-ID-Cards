@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\ukraine-NF-1015_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\ukraine-NF-1015.jpg",
+  "width": 2818,
+  "height": 1801,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            916,
+            375,
+            1090,
+            415
+          ],
+          "original_text": "Прізви",
+          "translated_en": "Nicknames"
+        },
+        {
+          "box": [
+            917,
+            429,
+            1255,
+            492
+          ],
+          "original_text": "Козлова /",
+          "translated_en": "Kozlova /"
+        },
+        {
+          "box": [
+            921,
+            514,
+            1177,
+            565
+          ],
+          "original_text": "Kozlova",
+          "translated_en": "Kozlova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            917,
+            683,
+            1594,
+            756
+          ],
+          "original_text": "Тетяна Романівна /",
+          "translated_en": "Tatyana Romanivna /"
+        },
+        {
+          "box": [
+            921,
+            772,
+            1177,
+            823
+          ],
+          "original_text": "Roberta",
+          "translated_en": "Roberta"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            927,
+            980,
+            1311,
+            1034
+          ],
+          "original_text": "02.08.1951",
+          "translated_en": "02.08.1951"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            937,
+            1377,
+            1311,
+            1434
+          ],
+          "original_text": "10.12.2016",
+          "translated_en": "10.12.2016"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            941,
+            1661,
+            1322,
+            1715
+          ],
+          "original_text": "27.04.2036",
+          "translated_en": "27.04.2036"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1015_translated_cleaned.jpg"
+}

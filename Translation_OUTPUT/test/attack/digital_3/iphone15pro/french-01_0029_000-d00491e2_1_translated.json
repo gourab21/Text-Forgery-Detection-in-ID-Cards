@@ -1,0 +1,73 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\french-01_0029_000-d00491e2_1.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\french-01_0029_000-d00491e2_1.jpg",
+  "width": 2801,
+  "height": 1782,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            908,
+            427,
+            1100,
+            482
+          ],
+          "original_text": "PETIT",
+          "translated_en": "PETIT",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            904,
+            672,
+            1357,
+            738
+          ],
+          "original_text": "Ramsey Nadine",
+          "translated_en": "Ramsey Nadine",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1995,
+            890,
+            2370,
+            937
+          ],
+          "original_text": "13 02 1991",
+          "translated_en": "13 02 1991",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            2005,
+            1437,
+            2372,
+            1484
+          ],
+          "original_text": "13 10 1978",
+          "translated_en": "13 10 1978",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-01_0029_000-d00491e2_1_translated.jpg"
+}

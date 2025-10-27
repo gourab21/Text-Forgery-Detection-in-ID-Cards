@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        619,
+        298,
+        1461,
+        471
+      ],
+      "lines": [
+        {
+          "text": "COSTA RIBEIRO",
+          "box": [
+            686,
+            338,
+            1104,
+            384
+          ]
+        },
+        {
+          "text": "João Carlos",
+          "box": [
+            683,
+            395,
+            981,
+            440
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1648,
+        574,
+        1999,
+        670
+      ],
+      "lines": [
+        {
+          "text": "22 05 1990",
+          "box": [
+            1706,
+            601,
+            1995,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1241,
+        729,
+        1671,
+        844
+      ],
+      "lines": [
+        {
+          "text": "15 07 2028",
+          "box": [
+            1299,
+            769,
+            1585,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_F_31998547103_f617b19dfc_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        756
+      ],
+      "lines": [
+        {
+          "text": "HENDRIKS",
+          "box": [
+            950,
+            453,
+            1380,
+            518
+          ]
+        },
+        {
+          "text": "Sjoerd Henrike",
+          "box": [
+            946,
+            536,
+            1553,
+            619
+          ]
+        },
+        {
+          "text": "Elisabeth",
+          "box": [
+            954,
+            635,
+            1312,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        783,
+        2739,
+        922
+      ],
+      "lines": [
+        {
+          "text": "21 02 1972",
+          "box": [
+            2178,
+            818,
+            2640,
+            884
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2033,
+        1022,
+        2730,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "29 11 2032",
+          "box": [
+            2139,
+            1062,
+            2648,
+            1127
+          ]
+        }
+      ]
+    }
+  ]
+}

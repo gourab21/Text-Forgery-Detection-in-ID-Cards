@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_F_17773666675_1bdbd28a62_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        998,
+        644,
+        1924,
+        962
+      ],
+      "lines": [
+        {
+          "text": "陈红",
+          "box": [
+            1097,
+            703,
+            1263,
+            785
+          ]
+        },
+        {
+          "text": "Jaco Hong",
+          "box": [
+            1091,
+            813,
+            1573,
+            888
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1946,
+        1072,
+        2697,
+        1266
+      ],
+      "lines": [
+        {
+          "text": "25 Feb 2090",
+          "box": [
+            2009,
+            1139,
+            2598,
+            1217
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1952,
+        1372,
+        2727,
+        1577
+      ],
+      "lines": [
+        {
+          "text": "31 Mar 2004",
+          "box": [
+            2015,
+            1444,
+            2583,
+            1517
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1035,
+        1702,
+        1807,
+        1917
+      ],
+      "lines": [
+        {
+          "text": "10 Jul 1943",
+          "box": [
+            1124,
+            1765,
+            1686,
+            1843
+          ]
+        }
+      ]
+    }
+  ]
+}

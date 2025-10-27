@@ -1,0 +1,64 @@
+{
+  "image": "examples\\usa-NF-1004.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        850,
+        613,
+        1743,
+        952
+      ],
+      "lines": [
+        {
+          "text": "Mary Davis",
+          "box": [
+            919,
+            668,
+            1315,
+            756
+          ]
+        },
+        {
+          "text": "6784 Creek Rd RATE",
+          "box": [
+            923,
+            740,
+            1621,
+            836
+          ]
+        },
+        {
+          "text": "Dover DE 19901",
+          "box": [
+            923,
+            842,
+            1500,
+            907
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2046,
+        1086,
+        2743,
+        1232
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-10-99",
+          "box": [
+            2111,
+            1086,
+            2661,
+            1141
+          ]
+        }
+      ]
+    }
+  ]
+}

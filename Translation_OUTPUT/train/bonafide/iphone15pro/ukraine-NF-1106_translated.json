@@ -1,0 +1,155 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\ukraine-NF-1106.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\ukraine-NF-1106.jpg",
+  "width": 2832,
+  "height": 1776,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            920,
+            370,
+            1139,
+            413
+          ],
+          "original_text": "прізвищ",
+          "translated_en": "surname",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            914,
+            427,
+            1181,
+            496
+          ],
+          "original_text": "Мороз /",
+          "translated_en": "Frost /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            915,
+            517,
+            1115,
+            560
+          ],
+          "original_text": "Moroz",
+          "translated_en": "Frost",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            915,
+            678,
+            1653,
+            756
+          ],
+          "original_text": "Ірина Олександрівна",
+          "translated_en": "Iryna Oleksandrivna",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            918,
+            776,
+            1096,
+            827
+          ],
+          "original_text": "Iryna",
+          "translated_en": "Irina",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            906,
+            930,
+            985,
+            966
+          ],
+          "original_text": "Да",
+          "translated_en": "Да",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            927,
+            976,
+            1303,
+            1031
+          ],
+          "original_text": "17.09.1981",
+          "translated_en": "17.09.1981",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            909,
+            1314,
+            1260,
+            1363
+          ],
+          "original_text": "Дата видачі",
+          "translated_en": "Дата видачі",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            931,
+            1366,
+            1308,
+            1426
+          ],
+          "original_text": "21.12.2023",
+          "translated_en": "21.12.2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            919,
+            1603,
+            1203,
+            1646
+          ],
+          "original_text": "строку ди",
+          "translated_en": "строку ди",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            937,
+            1649,
+            1310,
+            1702
+          ],
+          "original_text": "19.12.2028",
+          "translated_en": "19.12.2028",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1106_translated.jpg"
+}

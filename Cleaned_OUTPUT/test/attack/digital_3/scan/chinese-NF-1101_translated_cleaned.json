@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-NF-1101_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-NF-1101.jpg",
+  "width": 1998,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            686,
+            424,
+            841,
+            474
+          ],
+          "original_text": "刘亦菲",
+          "translated_en": "Liu Yifei"
+        },
+        {
+          "box": [
+            688,
+            492,
+            898,
+            527
+          ],
+          "original_text": "Pamela ei",
+          "translated_en": "Pamela does not"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1239,
+            710,
+            1562,
+            752
+          ],
+          "original_text": "05 Mar 1938",
+          "translated_en": "05 Mar 1938"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1236,
+            893,
+            1553,
+            933
+          ],
+          "original_text": "12 Dec 2012",
+          "translated_en": "12 Dec 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            677,
+            1077,
+            989,
+            1124
+          ],
+          "original_text": "31 Apr 1947",
+          "translated_en": "31 Apr 1947"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1101_translated_cleaned.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\usa-NM-1038.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        426,
+        1236,
+        661
+      ],
+      "lines": [
+        {
+          "text": "J'ancaTTaylor",
+          "box": [
+            641,
+            477,
+            1002,
+            522
+          ]
+        },
+        {
+          "text": "204 Pine St",
+          "box": [
+            646,
+            530,
+            939,
+            571
+          ]
+        },
+        {
+          "text": "Bozeman MT 59715",
+          "box": [
+            648,
+            588,
+            1149,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1452,
+        755,
+        1946,
+        856
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-22-07",
+          "box": [
+            1496,
+            766,
+            1893,
+            803
+          ]
+        }
+      ]
+    }
+  ]
+}

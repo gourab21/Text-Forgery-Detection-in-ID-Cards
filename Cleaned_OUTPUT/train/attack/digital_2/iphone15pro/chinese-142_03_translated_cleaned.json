@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\chinese-142_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\chinese-142_03.jpg",
+  "width": 2784,
+  "height": 1762,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            949,
+            617,
+            1094,
+            679
+          ],
+          "original_text": "王 署",
+          "translated_en": "Wang Shu"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1733,
+            989,
+            2193,
+            1057
+          ],
+          "original_text": "18 Apr 12022",
+          "translated_en": "18 Apr 12022"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1736,
+            1248,
+            2176,
+            1301
+          ],
+          "original_text": "25 Feb 2014",
+          "translated_en": "25 Feb 2014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            966,
+            1527,
+            1418,
+            1584
+          ],
+          "original_text": "23 Feb 196",
+          "translated_en": "23 Feb 196"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-142_03_translated_cleaned.jpg"
+}

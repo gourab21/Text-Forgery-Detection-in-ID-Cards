@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\ukraine-01_0083_000-21b44038_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\ukraine-01_0083_000-21b44038_0.jpg",
+  "width": 2825,
+  "height": 1797,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            890,
+            374,
+            1169,
+            417
+          ],
+          "original_text": "Прізвище",
+          "translated_en": "Name"
+        },
+        {
+          "box": [
+            910,
+            429,
+            1330,
+            498
+          ],
+          "original_text": "Остапенко /",
+          "translated_en": "Ostapenko /"
+        },
+        {
+          "box": [
+            911,
+            515,
+            1270,
+            572
+          ],
+          "original_text": "Ostapenko",
+          "translated_en": "Ostapenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            922,
+            686,
+            1646,
+            755
+          ],
+          "original_text": "Наталія Русланівна /",
+          "translated_en": "Natalia Ruslanivna /"
+        },
+        {
+          "box": [
+            912,
+            777,
+            1184,
+            830
+          ],
+          "original_text": "Gabriela",
+          "translated_en": "Gabriela"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            928,
+            980,
+            1303,
+            1036
+          ],
+          "original_text": "18.09.2029",
+          "translated_en": "18.09.2029"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            929,
+            1378,
+            1453,
+            1440
+          ],
+          "original_text": "05.06.2016 等",
+          "translated_en": "05.06.2016 等"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            933,
+            1653,
+            1319,
+            1708
+          ],
+          "original_text": "07.11.1922",
+          "translated_en": "07.11.1922"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-01_0083_000-21b44038_0_translated_cleaned.jpg"
+}

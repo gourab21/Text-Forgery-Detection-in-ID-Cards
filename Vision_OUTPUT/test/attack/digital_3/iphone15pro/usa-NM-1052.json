@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NM-1052.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        857,
+        616,
+        1760,
+        957
+      ],
+      "lines": [
+        {
+          "text": "Oliviaopher Green",
+          "box": [
+            923,
+            676,
+            1583,
+            756
+          ]
+        },
+        {
+          "text": "112 Oak St HATE",
+          "box": [
+            926,
+            741,
+            1625,
+            848
+          ]
+        },
+        {
+          "text": "Laramie WY 82070",
+          "box": [
+            926,
+            845,
+            1612,
+            910
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2066,
+        1093,
+        2771,
+        1239
+      ],
+      "lines": [
+        {
+          "text": "DOB : 29-07-32",
+          "box": [
+            2131,
+            1099,
+            2686,
+            1156
+          ]
+        }
+      ]
+    }
+  ]
+}

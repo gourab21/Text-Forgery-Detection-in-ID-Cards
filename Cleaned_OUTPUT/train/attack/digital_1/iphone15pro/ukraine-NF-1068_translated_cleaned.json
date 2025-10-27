@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\ukraine-NF-1068_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\ukraine-NF-1068.jpg",
+  "width": 2828,
+  "height": 1799,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            900,
+            375,
+            1091,
+            414
+          ],
+          "original_text": "Прізви",
+          "translated_en": "Nicknames"
+        },
+        {
+          "box": [
+            917,
+            429,
+            1342,
+            495
+          ],
+          "original_text": "Коваленко /",
+          "translated_en": "Kovalenko /"
+        },
+        {
+          "box": [
+            919,
+            514,
+            1265,
+            565
+          ],
+          "original_text": "Kovalenko",
+          "translated_en": "Kovalenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            922,
+            686,
+            1590,
+            757
+          ],
+          "original_text": "Олена Григорівна /",
+          "translated_en": "Olena Grigorivna /"
+        },
+        {
+          "box": [
+            921,
+            775,
+            1136,
+            831
+          ],
+          "original_text": "Omyna",
+          "translated_en": "Give"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            925,
+            986,
+            1313,
+            1035
+          ],
+          "original_text": "09.05.12023",
+          "translated_en": "09.05.12023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            929,
+            1377,
+            1308,
+            1429
+          ],
+          "original_text": "09.05.2021",
+          "translated_en": "09.05.2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            932,
+            1661,
+            1327,
+            1710
+          ],
+          "original_text": "08.05.2005",
+          "translated_en": "08.05.2005"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1068_translated_cleaned.jpg"
+}

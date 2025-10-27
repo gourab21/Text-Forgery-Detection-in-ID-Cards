@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1071.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        862,
+        609,
+        1769,
+        946
+      ],
+      "lines": [
+        {
+          "text": "OgelaGomez",
+          "box": [
+            918,
+            675,
+            1392,
+            749
+          ]
+        },
+        {
+          "text": "874 Third Ave RAT",
+          "box": [
+            918,
+            755,
+            1594,
+            841
+          ]
+        },
+        {
+          "text": "Orlando FL 32801",
+          "box": [
+            919,
+            844,
+            1560,
+            901
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2075,
+        1079,
+        2783,
+        1224
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-29-28",
+          "box": [
+            2121,
+            1098,
+            2679,
+            1151
+          ]
+        }
+      ]
+    }
+  ]
+}

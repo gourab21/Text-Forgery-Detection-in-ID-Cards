@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        990,
+        471,
+        2337,
+        747
+      ],
+      "lines": [
+        {
+          "text": "SAMESNOOMEIRELES",
+          "box": [
+            1090,
+            533,
+            1887,
+            596
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            1087,
+            619,
+            1506,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2637,
+        906,
+        3198,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "06 08 12000",
+          "box": [
+            2737,
+            947,
+            3197,
+            1011
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1985,
+        1151,
+        2674,
+        1333
+      ],
+      "lines": [
+        {
+          "text": "28 03 2033",
+          "box": [
+            2085,
+            1209,
+            2560,
+            1278
+          ]
+        }
+      ]
+    }
+  ]
+}

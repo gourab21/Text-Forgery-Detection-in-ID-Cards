@@ -1,0 +1,14 @@
+LE1
+EN: Hu Li
+OR: 胡莉
+EN: Word
+OR: Sanan
+
+E2
+EN: 04 Sep 2026
+
+E3
+EN: 23 Nov 2038
+
+E4
+EN: 09 Mar 2038

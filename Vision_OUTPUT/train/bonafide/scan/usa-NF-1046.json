@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-NF-1046.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        426,
+        1236,
+        661
+      ],
+      "lines": [
+        {
+          "text": "Natalie White",
+          "box": [
+            646,
+            470,
+            993,
+            513
+          ]
+        },
+        {
+          "text": "881 Willow Dr",
+          "box": [
+            647,
+            528,
+            1009,
+            571
+          ]
+        },
+        {
+          "text": "Burlington VT 05401",
+          "box": [
+            649,
+            583,
+            1172,
+            637
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1451,
+        755,
+        1945,
+        856
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-15-93",
+          "box": [
+            1498,
+            760,
+            1889,
+            801
+          ]
+        }
+      ]
+    }
+  ]
+}

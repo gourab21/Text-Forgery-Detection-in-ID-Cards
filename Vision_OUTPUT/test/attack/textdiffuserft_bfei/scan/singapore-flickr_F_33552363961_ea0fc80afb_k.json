@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_33552363961_ea0fc80afb_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1501,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Lesle Krishan",
+          "box": [
+            516,
+            452,
+            1031,
+            513
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        885,
+        1033,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "08-05-1545",
+          "box": [
+            499,
+            914,
+            859,
+            964
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1075,
+        1658,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "09-08-3-88",
+          "box": [
+            1155,
+            1103,
+            1517,
+            1158
+          ]
+        }
+      ]
+    }
+  ]
+}

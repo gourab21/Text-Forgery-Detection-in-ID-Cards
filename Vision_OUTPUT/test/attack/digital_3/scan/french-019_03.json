@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-019_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        265,
+        1181,
+        357
+      ],
+      "lines": [
+        {
+          "text": "BERGER",
+          "box": [
+            662,
+            295,
+            850,
+            329
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        437,
+        1251,
+        548
+      ],
+      "lines": [
+        {
+          "text": "Zachaye , Michele",
+          "box": [
+            659,
+            466,
+            1059,
+            511
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        614,
+        1774,
+        719
+      ],
+      "lines": [
+        {
+          "text": "16 11 1961",
+          "box": [
+            1427,
+            638,
+            1692,
+            675
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1001,
+        1763,
+        1097
+      ],
+      "lines": [
+        {
+          "text": "11 08 1962",
+          "box": [
+            1416,
+            1021,
+            1678,
+            1059
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\turkiye-008_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        593,
+        612,
+        1211,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Mrian",
+          "box": [
+            654,
+            644,
+            808,
+            688
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        447,
+        1212,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            660,
+            484,
+            836,
+            533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        591,
+        767,
+        1189,
+        884
+      ],
+      "lines": [
+        {
+          "text": "09.06.2035",
+          "box": [
+            651,
+            804,
+            955,
+            843
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        595,
+        1087,
+        1180,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "14.11.2003",
+          "box": [
+            647,
+            1117,
+            952,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

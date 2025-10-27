@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_33574462985_422fca6322_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        575,
+        2088,
+        851
+      ],
+      "lines": [
+        {
+          "text": "Gina Lestri",
+          "box": [
+            709,
+            645,
+            1279,
+            724
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1233,
+        1438,
+        1404
+      ],
+      "lines": [
+        {
+          "text": "14.05.8887",
+          "box": [
+            723,
+            1280,
+            1221,
+            1358
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1497,
+        2306,
+        1662
+      ],
+      "lines": [
+        {
+          "text": "29-01.1188",
+          "box": [
+            1644,
+            1520,
+            2150,
+            1598
+          ]
+        }
+      ]
+    }
+  ]
+}

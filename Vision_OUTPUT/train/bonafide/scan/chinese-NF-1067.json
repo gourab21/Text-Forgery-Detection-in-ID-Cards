@@ -1,0 +1,95 @@
+{
+  "image": "train\\bonafide\\scan\\chinese-NF-1067.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        395,
+        1106,
+        580
+      ],
+      "lines": [
+        {
+          "text": "張梦奇",
+          "box": [
+            684,
+            431,
+            840,
+            479
+          ]
+        },
+        {
+          "text": "Zhang Mengqi",
+          "box": [
+            683,
+            489,
+            1049,
+            541
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1200,
+        658,
+        1610,
+        791
+      ],
+      "lines": [
+        {
+          "text": "05 Jan 1990",
+          "box": [
+            1237,
+            715,
+            1548,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        849,
+        1634,
+        976
+      ],
+      "lines": [
+        {
+          "text": "26 Jul 2011",
+          "box": [
+            1235,
+            897,
+            1529,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1039,
+        1089,
+        1161
+      ],
+      "lines": [
+        {
+          "text": "23 3 Jul 2021",
+          "box": [
+            676,
+            1081,
+            970,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

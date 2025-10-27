@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_2\\scan\\ukraine-030_03.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\ukraine-030_03.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            651,
+            289,
+            898,
+            341
+          ],
+          "original_text": "Зубенко /",
+          "translated_en": "Zubenko /",
+          "detected_lang": "mk"
+        },
+        {
+          "box": [
+            651,
+            347,
+            859,
+            382
+          ],
+          "original_text": "Zubenko",
+          "translated_en": "Zubenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            646,
+            472,
+            1122,
+            523
+          ],
+          "original_text": "Тетяна Василівна /",
+          "translated_en": "Tatyana Vasylivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            647,
+            527,
+            831,
+            575
+          ],
+          "original_text": "Teijand",
+          "translated_en": "The other",
+          "detected_lang": "et"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            645,
+            677,
+            922,
+            715
+          ],
+          "original_text": "25.12.18135",
+          "translated_en": "25.12.18135",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            641,
+            954,
+            910,
+            993
+          ],
+          "original_text": "10.11.2020",
+          "translated_en": "10.11.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            636,
+            1146,
+            915,
+            1195
+          ],
+          "original_text": "10.11.2014 .",
+          "translated_en": "10.11.2014 .",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-030_03_translated.jpg"
+}

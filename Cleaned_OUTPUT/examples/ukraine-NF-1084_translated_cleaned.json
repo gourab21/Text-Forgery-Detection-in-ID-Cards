@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\examples\\ukraine-NF-1084_translated.json",
+  "image_relative": "examples\\ukraine-NF-1084.jpg",
+  "width": 2823,
+  "height": 1792,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            887,
+            373,
+            1084,
+            411
+          ],
+          "original_text": "Прізви",
+          "translated_en": "Nicknames"
+        },
+        {
+          "box": [
+            909,
+            424,
+            1315,
+            492
+          ],
+          "original_text": "Шевченко /",
+          "translated_en": "Shevchenko /"
+        },
+        {
+          "box": [
+            908,
+            507,
+            1313,
+            561
+          ],
+          "original_text": "Shevchenko",
+          "translated_en": "Shevchenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            909,
+            677,
+            1494,
+            762
+          ],
+          "original_text": "Ірина Олегівна /",
+          "translated_en": "Iryna Olegivna /"
+        },
+        {
+          "box": [
+            912,
+            775,
+            1092,
+            828
+          ],
+          "original_text": "Iryna",
+          "translated_en": "Irina"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            920,
+            974,
+            1297,
+            1032
+          ],
+          "original_text": "19.03.1995",
+          "translated_en": "19.03.1995"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            925,
+            1369,
+            1305,
+            1424
+          ],
+          "original_text": "04.08.2020",
+          "translated_en": "04.08.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            929,
+            1652,
+            1310,
+            1707
+          ],
+          "original_text": "04.08.2025",
+          "translated_en": "04.08.2025"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1084_translated_cleaned.jpg"
+}

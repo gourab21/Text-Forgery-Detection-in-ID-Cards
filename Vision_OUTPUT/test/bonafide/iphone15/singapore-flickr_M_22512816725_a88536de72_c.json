@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_22512816725_a88536de72_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        578,
+        2088,
+        856
+      ],
+      "lines": [
+        {
+          "text": "Rajesh Assam",
+          "box": [
+            707,
+            651,
+            1369,
+            740
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1240,
+        1438,
+        1411
+      ],
+      "lines": [
+        {
+          "text": "1982-04-21",
+          "box": [
+            723,
+            1295,
+            1227,
+            1366
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1505,
+        2306,
+        1671
+      ],
+      "lines": [
+        {
+          "text": "1992-04-21",
+          "box": [
+            1643,
+            1538,
+            2151,
+            1610
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_6862482951_78a560f107_b.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        405,
+        1779,
+        757
+      ],
+      "lines": [
+        {
+          "text": "POSTMA",
+          "box": [
+            950,
+            457,
+            1290,
+            515
+          ]
+        },
+        {
+          "text": "Kaity ise",
+          "box": [
+            948,
+            544,
+            1371,
+            610
+          ]
+        },
+        {
+          "text": "Henrike",
+          "box": [
+            955,
+            638,
+            1261,
+            698
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        784,
+        2739,
+        923
+      ],
+      "lines": [
+        {
+          "text": "25 07 1981",
+          "box": [
+            2176,
+            821,
+            2628,
+            878
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2032,
+        1024,
+        2728,
+        1196
+      ],
+      "lines": [
+        {
+          "text": "30 04 2010",
+          "box": [
+            2143,
+            1055,
+            2641,
+            1123
+          ]
+        }
+      ]
+    }
+  ]
+}

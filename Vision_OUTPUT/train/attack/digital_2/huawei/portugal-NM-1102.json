@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        998,
+        480,
+        2354,
+        760
+      ],
+      "lines": [
+        {
+          "text": "B LED paksa",
+          "box": [
+            1103,
+            548,
+            1978,
+            637
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            1101,
+            641,
+            1680,
+            723
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2656,
+        924,
+        3221,
+        1080
+      ],
+      "lines": [
+        {
+          "text": "15 09 1991",
+          "box": [
+            2752,
+            971,
+            3214,
+            1037
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2000,
+        1173,
+        2694,
+        1358
+      ],
+      "lines": [
+        {
+          "text": "3011 192",
+          "box": [
+            2094,
+            1237,
+            2566,
+            1311
+          ]
+        }
+      ]
+    }
+  ]
+}

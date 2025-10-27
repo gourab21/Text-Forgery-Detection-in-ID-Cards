@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\french-NM-1070.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "BERNARD",
+          "box": [
+            657,
+            294,
+            886,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        440,
+        1251,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Maxime , André",
+          "box": [
+            651,
+            466,
+            1007,
+            511
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        617,
+        1774,
+        722
+      ],
+      "lines": [
+        {
+          "text": "05 10 2012",
+          "box": [
+            1419,
+            635,
+            1708,
+            676
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1006,
+        1763,
+        1103
+      ],
+      "lines": [
+        {
+          "text": "25 09 2194",
+          "box": [
+            1413,
+            1023,
+            1691,
+            1063
+          ]
+        }
+      ]
+    }
+  ]
+}

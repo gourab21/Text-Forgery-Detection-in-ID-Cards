@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        937,
+        451,
+        2213,
+        716
+      ],
+      "lines": [
+        {
+          "text": "PENNETTH SOSR",
+          "box": [
+            1013,
+            526,
+            1660,
+            584
+          ]
+        },
+        {
+          "text": "João",
+          "box": [
+            1014,
+            614,
+            1192,
+            672
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2495,
+        870,
+        3027,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "07 05 1988",
+          "box": [
+            2579,
+            872,
+            3017,
+            934
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1879,
+        1104,
+        2531,
+        1277
+      ],
+      "lines": [
+        {
+          "text": "05 05 2043",
+          "box": [
+            1972,
+            1140,
+            2429,
+            1204
+          ]
+        }
+      ]
+    }
+  ]
+}

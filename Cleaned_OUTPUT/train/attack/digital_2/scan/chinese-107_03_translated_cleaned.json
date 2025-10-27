@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\chinese-107_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\chinese-107_03.jpg",
+  "width": 1991,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            678,
+            432,
+            787,
+            477
+          ],
+          "original_text": "吳 情",
+          "translated_en": "Wu Qing"
+        },
+        {
+          "box": [
+            679,
+            483,
+            901,
+            530
+          ],
+          "original_text": "vebran",
+          "translated_en": "vebran"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1231,
+            708,
+            1566,
+            760
+          ],
+          "original_text": "15 Mar 2039",
+          "translated_en": "15 Mar 2039"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1230,
+            898,
+            1544,
+            936
+          ],
+          "original_text": "14 Jun 2012",
+          "translated_en": "14 Jun 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            668,
+            1078,
+            987,
+            1124
+          ],
+          "original_text": "12 Jun 2007",
+          "translated_en": "12 Jun 2007"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-107_03_translated_cleaned.jpg"
+}

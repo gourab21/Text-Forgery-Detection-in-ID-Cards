@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\singapore-flickr_M_15788105142_89e9bca209_k_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_M_15788105142_89e9bca209_k.jpg",
+  "width": 2772,
+  "height": 1727,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            696,
+            640,
+            1536,
+            717
+          ],
+          "original_text": "Ahmad bin Salleh",
+          "translated_en": "Ahmad bin Salleh"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            721,
+            1279,
+            1223,
+            1347
+          ],
+          "original_text": "1971-11-04",
+          "translated_en": "1971-11-04"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1643,
+            1522,
+            2142,
+            1594
+          ],
+          "original_text": "1981-11-04",
+          "translated_en": "1981-11-04"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_15788105142_89e9bca209_k_translated_cleaned.jpg"
+}

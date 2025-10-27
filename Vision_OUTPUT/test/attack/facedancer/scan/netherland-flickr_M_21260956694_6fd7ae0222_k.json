@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_21260956694_6fd7ae0222_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        625,
+        288,
+        1281,
+        537
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            677,
+            322,
+            1037,
+            371
+          ]
+        },
+        {
+          "text": "Emma Matthijs",
+          "box": [
+            682,
+            385,
+            1121,
+            439
+          ]
+        },
+        {
+          "text": "Henrike",
+          "box": [
+            683,
+            456,
+            903,
+            498
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1490,
+        557,
+        1974,
+        655
+      ],
+      "lines": [
+        {
+          "text": "03 12 1997",
+          "box": [
+            1562,
+            582,
+            1900,
+            631
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1465,
+        727,
+        1966,
+        849
+      ],
+      "lines": [
+        {
+          "text": "28 07 2030",
+          "box": [
+            1536,
+            755,
+            1905,
+            804
+          ]
+        }
+      ]
+    }
+  ]
+}

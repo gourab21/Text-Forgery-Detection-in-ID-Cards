@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-NF-1002.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        594,
+        612,
+        1213,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Josh",
+          "box": [
+            654,
+            660,
+            759,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        448,
+        1213,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Soya",
+          "box": [
+            651,
+            449,
+            758,
+            476
+          ]
+        },
+        {
+          "text": "Tezcan",
+          "box": [
+            647,
+            504,
+            825,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        768,
+        1191,
+        885
+      ],
+      "lines": [
+        {
+          "text": "14.10.1925",
+          "box": [
+            655,
+            808,
+            942,
+            848
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        596,
+        1088,
+        1182,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "06.12.2090",
+          "box": [
+            662,
+            1123,
+            949,
+            1161
+          ]
+        }
+      ]
+    }
+  ]
+}

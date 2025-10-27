@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\chinese-NM-1092.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        394,
+        1106,
+        579
+      ],
+      "lines": [
+        {
+          "text": "陈杰",
+          "box": [
+            690,
+            426,
+            792,
+            477
+          ]
+        },
+        {
+          "text": "Cercedes",
+          "box": [
+            687,
+            480,
+            911,
+            528
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1200,
+        656,
+        1610,
+        789
+      ],
+      "lines": [
+        {
+          "text": "30 OCT 2023",
+          "box": [
+            1241,
+            709,
+            1583,
+            751
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        847,
+        1634,
+        974
+      ],
+      "lines": [
+        {
+          "text": "09 APR 2013",
+          "box": [
+            1236,
+            892,
+            1563,
+            932
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1037,
+        1089,
+        1159
+      ],
+      "lines": [
+        {
+          "text": "08 APR 2012",
+          "box": [
+            678,
+            1077,
+            1023,
+            1116
+          ]
+        }
+      ]
+    }
+  ]
+}

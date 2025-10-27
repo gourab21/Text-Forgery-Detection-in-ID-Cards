@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_31998955273_5516f4db28_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        861,
+        551,
+        1660,
+        823
+      ],
+      "lines": [
+        {
+          "text": "朱芳",
+          "box": [
+            948,
+            599,
+            1093,
+            660
+          ]
+        },
+        {
+          "text": "Michaelg",
+          "box": [
+            947,
+            686,
+            1300,
+            754
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1680,
+        917,
+        2328,
+        1083
+      ],
+      "lines": [
+        {
+          "text": "24 Sep 1978",
+          "box": [
+            1729,
+            966,
+            2209,
+            1050
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1685,
+        1174,
+        2353,
+        1350
+      ],
+      "lines": [
+        {
+          "text": "06 Apr 1936",
+          "box": [
+            1732,
+            1214,
+            2231,
+            1306
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        893,
+        1456,
+        1559,
+        1640
+      ],
+      "lines": [
+        {
+          "text": "25 Nov 2029",
+          "box": [
+            958,
+            1504,
+            1461,
+            1568
+          ]
+        }
+      ]
+    }
+  ]
+}

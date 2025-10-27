@@ -1,0 +1,27 @@
+E1
+EN: Robertl - Sharf
+
+L1
+EN: Sharif Mona
+OR: الشريف منى
+
+E2
+EN: 25 Dec 1966
+
+E3
+EN: 17 Jun 2018
+
+E4
+EN: 19 Aug 2072
+
+L2
+EN: December 21, 1983
+OR: ۲۱ / ديسمبر / ۱۹۸۳
+
+L3
+EN: June 17, 2018
+OR: ١٧ / يونيو / / ۲۰۱۸
+
+L4
+EN: October 14, 2033
+OR: ١٤ / أكتوبر / ۲۰۳۳

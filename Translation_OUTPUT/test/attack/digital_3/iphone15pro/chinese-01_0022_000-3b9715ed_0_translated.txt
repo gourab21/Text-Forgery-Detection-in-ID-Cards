@@ -1,0 +1,12 @@
+LE1
+EN: N
+EN: Theodoreg
+
+E2
+EN: 10 Dec 1922
+
+E3
+EN: 17 Apr 2016
+
+E4
+EN: 09 Sep 2013

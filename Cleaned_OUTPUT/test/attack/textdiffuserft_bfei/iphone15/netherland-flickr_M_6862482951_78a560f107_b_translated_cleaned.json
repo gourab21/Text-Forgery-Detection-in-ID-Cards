@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_6862482951_78a560f107_b_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_6862482951_78a560f107_b.jpg",
+  "width": 2775,
+  "height": 1749,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            950,
+            457,
+            1290,
+            515
+          ],
+          "original_text": "POSTMA",
+          "translated_en": "POSTMA"
+        },
+        {
+          "box": [
+            948,
+            544,
+            1371,
+            610
+          ],
+          "original_text": "Kaity ise",
+          "translated_en": "Kaity ise"
+        },
+        {
+          "box": [
+            955,
+            638,
+            1261,
+            698
+          ],
+          "original_text": "Henrike",
+          "translated_en": "Henrike"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2176,
+            821,
+            2628,
+            878
+          ],
+          "original_text": "25 07 1981",
+          "translated_en": "25 07 1981"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2143,
+            1055,
+            2641,
+            1123
+          ],
+          "original_text": "30 04 2010",
+          "translated_en": "30 04 2010"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_6862482951_78a560f107_b_translated_cleaned.jpg"
+}

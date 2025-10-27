@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1024.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1454,
+        475
+      ],
+      "lines": [
+        {
+          "text": "MATTHEWOLSA",
+          "box": [
+            675,
+            347,
+            1047,
+            389
+          ]
+        },
+        {
+          "text": "Teresa",
+          "box": [
+            669,
+            412,
+            837,
+            451
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1641,
+        578,
+        1990,
+        675
+      ],
+      "lines": [
+        {
+          "text": "20 02 1970",
+          "box": [
+            1690,
+            584,
+            1946,
+            623
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1235,
+        733,
+        1663,
+        848
+      ],
+      "lines": [
+        {
+          "text": "21 06 2083",
+          "box": [
+            1299,
+            761,
+            1586,
+            802
+          ]
+        }
+      ]
+    }
+  ]
+}

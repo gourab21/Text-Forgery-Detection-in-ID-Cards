@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\chinese-113_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\chinese-113_03.jpg",
+  "width": 3178,
+  "height": 1973,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1075,
+            785,
+            1393,
+            838
+          ],
+          "original_text": "Z avidLin",
+          "translated_en": "From avidLin"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1967,
+            1139,
+            2485,
+            1207
+          ],
+          "original_text": "04 Jan 12021",
+          "translated_en": "04 Jan 12021"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1962,
+            1430,
+            2473,
+            1505
+          ],
+          "original_text": "29 Sep 2010",
+          "translated_en": "29 Sep 2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1058,
+            1719,
+            1581,
+            1789
+          ],
+          "original_text": "26 Sep 2033",
+          "translated_en": "26 Sep 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-113_03_translated_cleaned.jpg"
+}

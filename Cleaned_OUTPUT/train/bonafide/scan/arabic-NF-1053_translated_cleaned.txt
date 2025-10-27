@@ -1,0 +1,27 @@
+E1
+EN: Laila Al - Ghamdi
+
+L1
+EN: Al-Ghamdi Laila
+OR: الغامدي ليلى
+
+E2
+EN: 16 Feb 1988
+
+E3
+EN: 11 Nov 2024
+
+E4
+EN: 11 Nov 2034
+
+L2
+EN: February 16, 1988
+OR: ١٦ / فبراير / ۱۹۸۸
+
+L3
+EN: November 11, 2024
+OR: ۱۱ / نوفمبر / ٢٠٢٤
+
+L4
+EN: November 11, 2034
+OR: ۱۱ / نوفمبر / ۲٠٣٤١

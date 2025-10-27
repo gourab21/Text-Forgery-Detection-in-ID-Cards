@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_31294646850_53ce869b2e_b.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        413,
+        1497,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Mackenzie Hasan",
+          "box": [
+            500,
+            467,
+            1063,
+            514
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        462,
+        887,
+        1029,
+        1010
+      ],
+      "lines": [
+        {
+          "text": "04-05-5446",
+          "box": [
+            518,
+            928,
+            876,
+            974
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1120,
+        1077,
+        1653,
+        1196
+      ],
+      "lines": [
+        {
+          "text": "30-02-2447",
+          "box": [
+            1182,
+            1101,
+            1537,
+            1148
+          ]
+        }
+      ]
+    }
+  ]
+}

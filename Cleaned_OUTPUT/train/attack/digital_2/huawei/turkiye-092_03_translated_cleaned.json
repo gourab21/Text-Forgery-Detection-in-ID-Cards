@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\turkiye-092_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\turkiye-092_03.jpg",
+  "width": 3027,
+  "height": 1889,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            991,
+            989,
+            1175,
+            1044
+          ],
+          "original_text": "Pyee",
+          "translated_en": "Pyee"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            988,
+            757,
+            1196,
+            810
+          ],
+          "original_text": "Tekin",
+          "translated_en": "Tekin"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            985,
+            1218,
+            1433,
+            1281
+          ],
+          "original_text": "25.12.2025",
+          "translated_en": "25.12.2025"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            976,
+            1689,
+            1430,
+            1761
+          ],
+          "original_text": "30.08.:1 197",
+          "translated_en": "30.08.:1 197"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-092_03_translated_cleaned.jpg"
+}

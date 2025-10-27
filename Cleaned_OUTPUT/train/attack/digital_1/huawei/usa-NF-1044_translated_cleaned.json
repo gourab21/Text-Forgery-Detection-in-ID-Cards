@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\usa-NF-1044_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\usa-NF-1044.jpg",
+  "width": 3192,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1041,
+            736,
+            1526,
+            807
+          ],
+          "original_text": "E akotatone",
+          "translated_en": "E akotatone"
+        },
+        {
+          "box": [
+            1038,
+            829,
+            1546,
+            896
+          ],
+          "original_text": "321 Alder St",
+          "translated_en": "321 Alder St"
+        },
+        {
+          "box": [
+            1036,
+            926,
+            1812,
+            996
+          ],
+          "original_text": "Portland OR 97201",
+          "translated_en": "Portland OR 97201"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2393,
+            1232,
+            3034,
+            1301
+          ],
+          "original_text": "02-13-38",
+          "translated_en": "02-13-38"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1044_translated_cleaned.jpg"
+}

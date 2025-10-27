@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\portugal-NF-1060_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1060.jpg",
+  "width": 2867,
+  "height": 1795,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            983,
+            497,
+            1798,
+            564
+          ],
+          "original_text": "FATALEES / ROFLOT",
+          "translated_en": "FATALEES / ROFLOT"
+        },
+        {
+          "box": [
+            980,
+            584,
+            1165,
+            639
+          ],
+          "original_text": "Carla",
+          "translated_en": "Carla"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2442,
+            831,
+            2857,
+            888
+          ],
+          "original_text": "08 10 1986",
+          "translated_en": "08 10 1986"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1874,
+            1084,
+            2303,
+            1143
+          ],
+          "original_text": "05 10 2042",
+          "translated_en": "05 10 2042"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1060_translated_cleaned.jpg"
+}

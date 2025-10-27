@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        817,
+        386,
+        1928,
+        612
+      ],
+      "lines": [
+        {
+          "text": "OUSTIRA MARTINS",
+          "box": [
+            899,
+            436,
+            1597,
+            500
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            897,
+            510,
+            1288,
+            563
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2176,
+        744,
+        2639,
+        868
+      ],
+      "lines": [
+        {
+          "text": "29 04 1992",
+          "box": [
+            2248,
+            771,
+            2630,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1639,
+        944,
+        2206,
+        1092
+      ],
+      "lines": [
+        {
+          "text": "12 10 2009",
+          "box": [
+            1712,
+            984,
+            2108,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-NF-1014.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        397,
+        1102,
+        583
+      ],
+      "lines": [
+        {
+          "text": "赵 婷",
+          "box": [
+            681,
+            435,
+            781,
+            486
+          ]
+        },
+        {
+          "text": "Abigalng",
+          "box": [
+            680,
+            494,
+            932,
+            545
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1196,
+        660,
+        1605,
+        794
+      ],
+      "lines": [
+        {
+          "text": "26 May 1996",
+          "box": [
+            1241,
+            704,
+            1564,
+            752
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1178,
+        852,
+        1629,
+        979
+      ],
+      "lines": [
+        {
+          "text": "31 May 2012",
+          "box": [
+            1246,
+            881,
+            1574,
+            934
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        616,
+        1043,
+        1086,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "02 Mar 1920",
+          "box": [
+            692,
+            1085,
+            1021,
+            1126
+          ]
+        }
+      ]
+    }
+  ]
+}

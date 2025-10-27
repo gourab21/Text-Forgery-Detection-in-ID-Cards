@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-016_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        978,
+        682,
+        2006,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "Sauren Boo",
+          "box": [
+            1049,
+            752,
+            1601,
+            826
+          ]
+        },
+        {
+          "text": "891 Oak St",
+          "box": [
+            1051,
+            847,
+            1512,
+            910
+          ]
+        },
+        {
+          "text": "Miami FL 33101",
+          "box": [
+            1047,
+            940,
+            1706,
+            1006
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2355,
+        1210,
+        3158,
+        1373
+      ],
+      "lines": [
+        {
+          "text": "DOB : 07-04-0",
+          "box": [
+            2422,
+            1247,
+            3008,
+            1319
+          ]
+        }
+      ]
+    }
+  ]
+}

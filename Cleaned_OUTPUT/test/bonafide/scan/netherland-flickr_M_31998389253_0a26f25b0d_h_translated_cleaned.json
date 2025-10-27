@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\netherland-flickr_M_31998389253_0a26f25b0d_h_translated.json",
+  "image_relative": "test\\bonafide\\scan\\netherland-flickr_M_31998389253_0a26f25b0d_h.jpg",
+  "width": 1994,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            676,
+            324,
+            900,
+            367
+          ],
+          "original_text": "VISSER",
+          "translated_en": "VISSER"
+        },
+        {
+          "box": [
+            677,
+            383,
+            1224,
+            434
+          ],
+          "original_text": "Juliëtte Annemarie",
+          "translated_en": "Juliëtte Annemarie"
+        },
+        {
+          "box": [
+            683,
+            457,
+            912,
+            507
+          ],
+          "original_text": "Matthijs",
+          "translated_en": "Matthijs"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1560,
+            585,
+            1894,
+            629
+          ],
+          "original_text": "03 11 1992",
+          "translated_en": "03 11 1992"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1533,
+            756,
+            1899,
+            804
+          ],
+          "original_text": "27 01 2028",
+          "translated_en": "27 01 2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_31998389253_0a26f25b0d_h_translated_cleaned.jpg"
+}

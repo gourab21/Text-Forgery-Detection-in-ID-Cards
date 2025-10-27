@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-NF-1062.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        969,
+        673,
+        1989,
+        1044
+      ],
+      "lines": [
+        {
+          "text": "Lebeccarown",
+          "box": [
+            1042,
+            736,
+            1570,
+            803
+          ]
+        },
+        {
+          "text": "337 Lakeview Dr",
+          "box": [
+            1042,
+            829,
+            1737,
+            896
+          ]
+        },
+        {
+          "text": "Medford OR 97501",
+          "box": [
+            1039,
+            920,
+            1814,
+            993
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2334,
+        1192,
+        3130,
+        1353
+      ],
+      "lines": [
+        {
+          "text": "DOB : 07-19-38",
+          "box": [
+            2401,
+            1228,
+            3058,
+            1307
+          ]
+        }
+      ]
+    }
+  ]
+}

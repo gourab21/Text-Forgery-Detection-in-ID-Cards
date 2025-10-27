@@ -1,0 +1,22 @@
+E1
+EN: Kirst
+
+E2
+EN: Hosseini
+
+L1
+EN: At night
+OR: ليلا
+
+L2
+EN: Hosseini
+OR: حسینی
+
+E3
+EN: 06/02/1901
+
+E4
+EN: 29/01/2021
+
+E5
+EN: 01/02/2059

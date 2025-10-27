@@ -1,0 +1,31 @@
+E1
+EN: wasthampoo
+
+L1
+OR: خیام عمر
+EN: Omar Khayyam
+
+E2
+EN: 09 Oct 201
+
+E3
+EN: 18 Apr 2024
+
+E4
+EN: 18 Apr 2008
+
+L2
+OR: تاریخ
+EN: History
+OR: ٠٩ / أكتوبر / ۱۹۹۰
+EN: October 9, 1990
+
+L3
+OR: ١٨ / أبريل / ٢٠٢٤
+EN: April 18, 2024
+
+L4
+OR: ع
+EN: A
+OR: ١٨ / أبريل / ٢٠٣٤
+EN: April 18, 2034

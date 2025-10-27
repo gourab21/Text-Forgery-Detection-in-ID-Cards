@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_F_32272417100_7c8c616f37_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        658,
+        2384,
+        975
+      ],
+      "lines": [
+        {
+          "text": "Maria Rossi",
+          "box": [
+            795,
+            751,
+            1425,
+            830
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1412,
+        1641,
+        1607
+      ],
+      "lines": [
+        {
+          "text": "1970-07-26",
+          "box": [
+            820,
+            1480,
+            1395,
+            1561
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1784,
+        1715,
+        2633,
+        1904
+      ],
+      "lines": [
+        {
+          "text": "1980-07-26",
+          "box": [
+            1881,
+            1761,
+            2461,
+            1842
+          ]
+        }
+      ]
+    }
+  ]
+}

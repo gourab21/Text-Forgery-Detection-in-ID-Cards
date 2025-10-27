@@ -1,0 +1,18 @@
+LE1
+EN: Ershov /
+OR: Ершов /
+EN: Ershov
+
+LE2
+EN: Roman Fedorovych /
+OR: Роман Федорович /
+EN: Joshua Fedovych
+
+E3
+EN: 08.10.2049
+
+E4
+EN: 03.12.2013
+
+E5
+EN: 14.07.2022

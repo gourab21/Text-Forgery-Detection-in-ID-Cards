@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_F_9641749325_1a753f74b2_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1500,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Siti binti Ayan",
+          "box": [
+            509,
+            467,
+            995,
+            525
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1981-06-27",
+          "box": [
+            526,
+            925,
+            887,
+            974
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "1991-06-27",
+          "box": [
+            1188,
+            1099,
+            1547,
+            1148
+          ]
+        }
+      ]
+    }
+  ]
+}

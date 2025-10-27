@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\portugal-017_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-017_03.jpg",
+  "width": 1992,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            672,
+            343,
+            1061,
+            387
+          ],
+          "original_text": "MOSHUASOUSA",
+          "translated_en": "MOSHUASOUSA"
+        },
+        {
+          "box": [
+            674,
+            399,
+            1088,
+            445
+          ],
+          "original_text": "Eduardo Manuel",
+          "translated_en": "Eduardo Manuel"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1703,
+            578,
+            1991,
+            617
+          ],
+          "original_text": "14 11 2030",
+          "translated_en": "14 11 2030"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1302,
+            754,
+            1604,
+            799
+          ],
+          "original_text": "01 12 2030",
+          "translated_en": "01 12 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-017_03_translated_cleaned.jpg"
+}

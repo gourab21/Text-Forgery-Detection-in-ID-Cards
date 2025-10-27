@@ -1,0 +1,27 @@
+E1
+EN: Franciso Thani
+
+L1
+OR: الثاني زهرة
+EN: The second flower
+
+E2
+EN: 09 Sep 2019
+
+E3
+EN: 26 Feb 2019
+
+E4
+EN: 13 Nov 1973
+
+L2
+OR: ١٢ ۱۲ / يوليو / ١ ٩٨٥
+EN: 12 12 / July / 1985
+
+L3
+OR: ٢٦ / فبراير / ۲۰۱۹ 19
+EN: February 26, 2019 19
+
+L4
+OR: ٦ / أكتوبر / ٢٠٢٨ ۰۲۸
+EN: October 6, 2028 028

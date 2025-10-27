@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-NF-1065.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        923,
+        645,
+        1895,
+        1002
+      ],
+      "lines": [
+        {
+          "text": "Anna Rivera",
+          "box": [
+            985,
+            719,
+            1460,
+            780
+          ]
+        },
+        {
+          "text": "1325 Cedar Lane",
+          "box": [
+            993,
+            805,
+            1655,
+            866
+          ]
+        },
+        {
+          "text": "Tacoma WA 98402",
+          "box": [
+            992,
+            893,
+            1721,
+            953
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2223,
+        1143,
+        2981,
+        1298
+      ],
+      "lines": [
+        {
+          "text": "DOB : 06-11-95",
+          "box": [
+            2297,
+            1155,
+            2898,
+            1216
+          ]
+        }
+      ]
+    }
+  ]
+}

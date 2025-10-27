@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\chinese-113_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\chinese-113_03.jpg",
+  "width": 1990,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            685,
+            431,
+            790,
+            484
+          ],
+          "original_text": "馬琳",
+          "translated_en": "Ma Lin"
+        },
+        {
+          "box": [
+            679,
+            487,
+            907,
+            543
+          ],
+          "original_text": "Ztthonyn",
+          "translated_en": "Ztthonyn"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1233,
+            716,
+            1556,
+            757
+          ],
+          "original_text": "04 Jan 2017",
+          "translated_en": "04 Jan 2017"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1229,
+            899,
+            1548,
+            943
+          ],
+          "original_text": "29 Sep 2010",
+          "translated_en": "29 Sep 2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            670,
+            1079,
+            1003,
+            1130
+          ],
+          "original_text": "26 Sep 2040",
+          "translated_en": "26 Sep 2040"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-113_03_translated_cleaned.jpg"
+}

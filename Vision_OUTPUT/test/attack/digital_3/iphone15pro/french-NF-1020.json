@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-NF-1020.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        829,
+        378,
+        1650,
+        510
+      ],
+      "lines": [
+        {
+          "text": "ROUX",
+          "box": [
+            907,
+            427,
+            1093,
+            475
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        821,
+        624,
+        1747,
+        782
+      ],
+      "lines": [
+        {
+          "text": "Céline , Emma",
+          "box": [
+            908,
+            660,
+            1355,
+            728
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1934,
+        875,
+        2478,
+        1025
+      ],
+      "lines": [
+        {
+          "text": "02:00 2052",
+          "box": [
+            1990,
+            879,
+            2364,
+            932
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1907,
+        1427,
+        2461,
+        1565
+      ],
+      "lines": [
+        {
+          "text": "25 03 2010",
+          "box": [
+            2001,
+            1427,
+            2374,
+            1479
+          ]
+        }
+      ]
+    }
+  ]
+}

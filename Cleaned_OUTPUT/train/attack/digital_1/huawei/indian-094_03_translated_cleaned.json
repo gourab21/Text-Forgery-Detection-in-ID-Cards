@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\indian-094_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\indian-094_03.jpg",
+  "width": 3184,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1111,
+            733,
+            1283,
+            791
+          ],
+          "original_text": "ROY",
+          "translated_en": "ROY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1104,
+            974,
+            1613,
+            1047
+          ],
+          "original_text": "MENDYSITA",
+          "translated_en": "MENDYSITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1099,
+            1228,
+            1602,
+            1302
+          ],
+          "original_text": "23/03/2011",
+          "translated_en": "23/03/2011"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1088,
+            1697,
+            1597,
+            1767
+          ],
+          "original_text": "08/02/2020",
+          "translated_en": "08/02/2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2249,
+            1715,
+            2761,
+            1783
+          ],
+          "original_text": "05/02/2021",
+          "translated_en": "05/02/2021"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-094_03_translated_cleaned.jpg"
+}

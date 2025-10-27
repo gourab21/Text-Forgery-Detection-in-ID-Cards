@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\arabic-005_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\arabic-005_03.jpg",
+  "width": 2001,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            743,
+            461,
+            1189,
+            517
+          ],
+          "original_text": "Watson Al - Salem",
+          "translated_en": "Watson Al - Salem"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            719,
+            334,
+            1082,
+            388
+          ],
+          "original_text": "السالم فيصل",
+          "translated_en": "Salem Faisal"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            746,
+            771,
+            1114,
+            837
+          ],
+          "original_text": "06 Aug 2083",
+          "translated_en": "06 Aug 2083"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            754,
+            943,
+            1118,
+            988
+          ],
+          "original_text": "25 Mar 2023",
+          "translated_en": "25 Mar 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            752,
+            1111,
+            1088,
+            1157
+          ],
+          "original_text": "08 Feb 2015",
+          "translated_en": "08 Feb 2015"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1281,
+            766,
+            1749,
+            830
+          ],
+          "original_text": "۱۷ / فبراير / ۱۹۹۵",
+          "translated_en": "February 17, 1995"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1281,
+            930,
+            1765,
+            993
+          ],
+          "original_text": "٢٥ / مارس / ۲۰۲۳",
+          "translated_en": "March 25, 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1287,
+            1092,
+            1735,
+            1161
+          ],
+          "original_text": "٢٨ / يوليو / / ۲۰۲۹",
+          "translated_en": "July 28, 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-005_03_translated_cleaned.jpg"
+}

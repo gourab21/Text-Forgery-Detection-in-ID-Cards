@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\singapore-flickr_M_31244514601_d2cb0773d7_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        579,
+        573,
+        2091,
+        849
+      ],
+      "lines": [
+        {
+          "text": "Amit Verma",
+          "box": [
+            702,
+            652,
+            1269,
+            716
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        645,
+        1230,
+        1440,
+        1400
+      ],
+      "lines": [
+        {
+          "text": "2002-07-31",
+          "box": [
+            720,
+            1284,
+            1229,
+            1354
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1566,
+        1493,
+        2310,
+        1658
+      ],
+      "lines": [
+        {
+          "text": "2012-07-31",
+          "box": [
+            1641,
+            1527,
+            2154,
+            1598
+          ]
+        }
+      ]
+    }
+  ]
+}

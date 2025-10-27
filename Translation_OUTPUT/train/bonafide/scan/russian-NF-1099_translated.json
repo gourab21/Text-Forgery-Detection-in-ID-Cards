@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\bonafide\\scan\\russian-NF-1099.json",
+  "image_relative": "train\\bonafide\\scan\\russian-NF-1099.jpg",
+  "width": 1995,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            723,
+            262,
+            988,
+            309
+          ],
+          "original_text": "Федорова /",
+          "translated_en": "Fedorova /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            722,
+            315,
+            924,
+            350
+          ],
+          "original_text": "Fedorova",
+          "translated_en": "Fedorova",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            720,
+            471,
+            1241,
+            520
+          ],
+          "original_text": "Полина Геннадиевна /",
+          "translated_en": "Polina Gennadievna /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            719,
+            523,
+            1154,
+            562
+          ],
+          "original_text": "Polina Gennadievna",
+          "translated_en": "Polina Gennadievna",
+          "detected_lang": "bg-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            715,
+            677,
+            963,
+            711
+          ],
+          "original_text": "22.05.2000",
+          "translated_en": "22.05.2000",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            709,
+            955,
+            956,
+            987
+          ],
+          "original_text": "13.09.2014",
+          "translated_en": "13.09.2014",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            707,
+            1138,
+            952,
+            1176
+          ],
+          "original_text": "10.09.2024",
+          "translated_en": "10.09.2024",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1099_translated.jpg"
+}

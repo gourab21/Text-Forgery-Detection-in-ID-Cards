@@ -1,0 +1,18 @@
+LE1
+OR: Кузнецова /
+EN: Kuznetsova /
+EN: Kuznetsova
+
+LE2
+OR: Ксения Романовна / | :
+EN: Ksenia Romanovna / | :
+EN: Cathya Ronanovna
+
+E3
+EN: 17.07.1968
+
+E4
+EN: 17.05.2018
+
+E5
+EN: 28.05.2067

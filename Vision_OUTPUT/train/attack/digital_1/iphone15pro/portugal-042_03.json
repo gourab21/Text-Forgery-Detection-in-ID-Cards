@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-042_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        886,
+        435,
+        2090,
+        689
+      ],
+      "lines": [
+        {
+          "text": "P OLEIRAHCOSTA",
+          "box": [
+            972,
+            497,
+            1540,
+            557
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            976,
+            589,
+            1187,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2359,
+        838,
+        2861,
+        979
+      ],
+      "lines": [
+        {
+          "text": "05 08 2021",
+          "box": [
+            2439,
+            840,
+            2849,
+            892
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1776,
+        1064,
+        2393,
+        1231
+      ],
+      "lines": [
+        {
+          "text": "02 08 1991",
+          "box": [
+            1868,
+            1087,
+            2287,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

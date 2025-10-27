@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-127_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        610,
+        1215,
+        728
+      ],
+      "lines": [
+        {
+          "text": "Denaa",
+          "box": [
+            651,
+            650,
+            809,
+            696
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        446,
+        1214,
+        569
+      ],
+      "lines": [
+        {
+          "text": "Bayar",
+          "box": [
+            653,
+            498,
+            803,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        765,
+        1191,
+        882
+      ],
+      "lines": [
+        {
+          "text": "16.03.2036",
+          "box": [
+            649,
+            804,
+            942,
+            849
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1085,
+        1183,
+        1210
+      ],
+      "lines": [
+        {
+          "text": "27.04.1998",
+          "box": [
+            642,
+            1117,
+            942,
+            1158
+          ]
+        }
+      ]
+    }
+  ]
+}

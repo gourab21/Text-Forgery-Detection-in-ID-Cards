@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-172_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        936,
+        450,
+        2208,
+        715
+      ],
+      "lines": [
+        {
+          "text": "RIBEIRO SANTOS",
+          "box": [
+            1035,
+            517,
+            1722,
+            587
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            1030,
+            604,
+            1276,
+            664
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2492,
+        868,
+        3022,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "15 11 1989",
+          "box": [
+            2587,
+            909,
+            3017,
+            970
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1876,
+        1102,
+        2527,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "13 11 2022",
+          "box": [
+            1969,
+            1162,
+            2406,
+            1220
+          ]
+        }
+      ]
+    }
+  ]
+}

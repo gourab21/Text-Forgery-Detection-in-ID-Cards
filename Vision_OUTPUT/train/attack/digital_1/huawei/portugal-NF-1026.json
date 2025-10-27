@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NF-1026.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        989,
+        474,
+        2335,
+        751
+      ],
+      "lines": [
+        {
+          "text": "S ETERORIBEIRO",
+          "box": [
+            1089,
+            540,
+            1705,
+            605
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            1091,
+            636,
+            1252,
+            692
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2633,
+        912,
+        3194,
+        1066
+      ],
+      "lines": [
+        {
+          "text": "22 04 2005",
+          "box": [
+            2739,
+            954,
+            3193,
+            1018
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1983,
+        1158,
+        2671,
+        1341
+      ],
+      "lines": [
+        {
+          "text": "19 04 2012",
+          "box": [
+            2083,
+            1226,
+            2557,
+            1284
+          ]
+        }
+      ]
+    }
+  ]
+}

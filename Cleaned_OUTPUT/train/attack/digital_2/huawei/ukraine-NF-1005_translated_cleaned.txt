@@ -1,0 +1,19 @@
+LE1
+EN: Petrenko /
+OR: Петренко /
+EN: Petrenko
+
+LE2
+EN: Iryna Oleksandrivna
+OR: Ірина Олександрівна
+EN: Again
+OR: Iara
+
+E3
+EN: 09.09.13035
+
+E4
+EN: 14.08.2017
+
+E5
+EN: 14.08.2022

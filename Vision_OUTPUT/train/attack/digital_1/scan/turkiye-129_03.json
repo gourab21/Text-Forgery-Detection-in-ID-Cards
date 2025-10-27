@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\turkiye-129_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        612,
+        1215,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Sade",
+          "box": [
+            653,
+            645,
+            795,
+            690
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        448,
+        1215,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            658,
+            488,
+            833,
+            534
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        768,
+        1193,
+        885
+      ],
+      "lines": [
+        {
+          "text": "17.02.2007",
+          "box": [
+            653,
+            805,
+            955,
+            848
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1088,
+        1184,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "15.11.2022",
+          "box": [
+            648,
+            1119,
+            954,
+            1158
+          ]
+        }
+      ]
+    }
+  ]
+}

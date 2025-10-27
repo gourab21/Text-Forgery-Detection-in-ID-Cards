@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-NF-1046.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        856,
+        612,
+        1758,
+        951
+      ],
+      "lines": [
+        {
+          "text": "Natalie White",
+          "box": [
+            925,
+            680,
+            1416,
+            741
+          ]
+        },
+        {
+          "text": "881 Willow Dr RATE",
+          "box": [
+            926,
+            740,
+            1631,
+            844
+          ]
+        },
+        {
+          "text": "Burlington VT 05401",
+          "box": [
+            931,
+            837,
+            1667,
+            924
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2063,
+        1085,
+        2767,
+        1230
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-15-93",
+          "box": [
+            2126,
+            1093,
+            2676,
+            1150
+          ]
+        }
+      ]
+    }
+  ]
+}

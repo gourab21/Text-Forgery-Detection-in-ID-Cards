@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        817,
+        386,
+        1928,
+        612
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA COSTA",
+          "box": [
+            910,
+            438,
+            1456,
+            493
+          ]
+        },
+        {
+          "text": "João",
+          "box": [
+            906,
+            512,
+            1063,
+            562
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2175,
+        744,
+        2638,
+        868
+      ],
+      "lines": [
+        {
+          "text": "07 05 1988",
+          "box": [
+            2249,
+            770,
+            2630,
+            825
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1638,
+        944,
+        2205,
+        1092
+      ],
+      "lines": [
+        {
+          "text": "05 05 2027",
+          "box": [
+            1716,
+            988,
+            2097,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

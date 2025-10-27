@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_22911363774_20c12ce7ec_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        860,
+        544,
+        1658,
+        813
+      ],
+      "lines": [
+        {
+          "text": "周 辉",
+          "box": [
+            944,
+            593,
+            1092,
+            655
+          ]
+        },
+        {
+          "text": "Robertul",
+          "box": [
+            960,
+            680,
+            1281,
+            736
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1677,
+        907,
+        2323,
+        1071
+      ],
+      "lines": [
+        {
+          "text": "19 Sep 1953",
+          "box": [
+            1732,
+            959,
+            2208,
+            1033
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1682,
+        1161,
+        2349,
+        1333
+      ],
+      "lines": [
+        {
+          "text": "24 Oct 2046",
+          "box": [
+            1733,
+            1215,
+            2209,
+            1276
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        892,
+        1439,
+        1557,
+        1621
+      ],
+      "lines": [
+        {
+          "text": "25 May 2096",
+          "box": [
+            967,
+            1484,
+            1435,
+            1560
+          ]
+        }
+      ]
+    }
+  ]
+}

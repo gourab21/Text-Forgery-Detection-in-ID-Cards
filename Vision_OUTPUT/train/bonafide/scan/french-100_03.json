@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-100_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "ROBERT",
+          "box": [
+            659,
+            295,
+            852,
+            326
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Marie , Noëlle",
+          "box": [
+            656,
+            470,
+            967,
+            509
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1386,
+        616,
+        1775,
+        721
+      ],
+      "lines": [
+        {
+          "text": "25 10 0 1989",
+          "box": [
+            1423,
+            635,
+            1690,
+            676
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1367,
+        1005,
+        1764,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "30 01 2035",
+          "box": [
+            1414,
+            1024,
+            1680,
+            1061
+          ]
+        }
+      ]
+    }
+  ]
+}

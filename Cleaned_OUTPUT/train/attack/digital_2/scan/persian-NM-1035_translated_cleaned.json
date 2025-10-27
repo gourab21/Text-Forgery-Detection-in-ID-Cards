@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\persian-NM-1035_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\persian-NM-1035.jpg",
+  "width": 1994,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            771,
+            280,
+            943,
+            329
+          ],
+          "original_text": "Jinmy",
+          "translated_en": "Jinmy"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            767,
+            426,
+            1013,
+            467
+          ],
+          "original_text": "Shahbazi",
+          "translated_en": "Shahbazi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1354,
+            288,
+            1442,
+            329
+          ],
+          "original_text": "جواد",
+          "translated_en": "Javad"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1350,
+            434,
+            1503,
+            479
+          ],
+          "original_text": "شهبازی",
+          "translated_en": "Shahbazi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            768,
+            591,
+            1043,
+            632
+          ],
+          "original_text": "18/11/208",
+          "translated_en": "18/11/208"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            762,
+            920,
+            1036,
+            961
+          ],
+          "original_text": "18/11/2022",
+          "translated_en": "18/11/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1345,
+            925,
+            1616,
+            967
+          ],
+          "original_text": "18/11/194",
+          "translated_en": "18/11/194"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NM-1035_translated_cleaned.jpg"
+}

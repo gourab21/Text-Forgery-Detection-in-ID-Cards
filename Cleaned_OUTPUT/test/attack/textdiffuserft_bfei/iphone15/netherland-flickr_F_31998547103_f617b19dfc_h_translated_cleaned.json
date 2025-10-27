@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_31998547103_f617b19dfc_h_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_31998547103_f617b19dfc_h.jpg",
+  "width": 2776,
+  "height": 1747,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            949,
+            453,
+            1379,
+            518
+          ],
+          "original_text": "HENDRIKS",
+          "translated_en": "HENDRIKS"
+        },
+        {
+          "box": [
+            948,
+            540,
+            1556,
+            599
+          ],
+          "original_text": "Thomas Henrike",
+          "translated_en": "Thomas Henrike"
+        },
+        {
+          "box": [
+            953,
+            638,
+            1312,
+            702
+          ],
+          "original_text": "Elisabeth",
+          "translated_en": "Elisabeth"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2182,
+            815,
+            2630,
+            881
+          ],
+          "original_text": "2005 2011",
+          "translated_en": "2005 2011"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2147,
+            1056,
+            2649,
+            1123
+          ],
+          "original_text": "29 08 2037",
+          "translated_en": "29 08 2037"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_31998547103_f617b19dfc_h_translated_cleaned.jpg"
+}

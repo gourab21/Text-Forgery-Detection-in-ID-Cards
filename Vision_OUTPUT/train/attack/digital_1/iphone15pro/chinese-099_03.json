@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\chinese-099_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        896,
+        563,
+        1552,
+        828
+      ],
+      "lines": [
+        {
+          "text": "馬",
+          "box": [
+            950,
+            616,
+            1023,
+            675
+          ]
+        },
+        {
+          "text": "Zinanting",
+          "box": [
+            949,
+            696,
+            1285,
+            750
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1684,
+        938,
+        2262,
+        1127
+      ],
+      "lines": [
+        {
+          "text": "22 Mar 2014",
+          "box": [
+            1742,
+            990,
+            2210,
+            1041
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1660,
+        1209,
+        2295,
+        1392
+      ],
+      "lines": [
+        {
+          "text": "22 Jun 2016",
+          "box": [
+            1746,
+            1243,
+            2186,
+            1301
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        867,
+        1479,
+        1530,
+        1655
+      ],
+      "lines": [
+        {
+          "text": "20 Jun 2005",
+          "box": [
+            974,
+            1522,
+            1426,
+            1585
+          ]
+        }
+      ]
+    }
+  ]
+}

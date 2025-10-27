@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\netherland-flickr_M_23559454676_4919252d67_c_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\netherland-flickr_M_23559454676_4919252d67_c.jpg",
+  "width": 3178,
+  "height": 1985,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1067,
+            512,
+            1426,
+            584
+          ],
+          "original_text": "JANSEN",
+          "translated_en": "JANSEN"
+        },
+        {
+          "box": [
+            1072,
+            612,
+            1693,
+            691
+          ],
+          "original_text": "Koen Henrike",
+          "translated_en": "Koen Henrike"
+        },
+        {
+          "box": [
+            1070,
+            721,
+            1446,
+            796
+          ],
+          "original_text": "Cornelis",
+          "translated_en": "Cornelis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2487,
+            924,
+            3023,
+            1006
+          ],
+          "original_text": "30 07 1976",
+          "translated_en": "30 07 1976"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2443,
+            1206,
+            3034,
+            1283
+          ],
+          "original_text": "24 07 2034",
+          "translated_en": "24 07 2034"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_23559454676_4919252d67_c_translated_cleaned.jpg"
+}

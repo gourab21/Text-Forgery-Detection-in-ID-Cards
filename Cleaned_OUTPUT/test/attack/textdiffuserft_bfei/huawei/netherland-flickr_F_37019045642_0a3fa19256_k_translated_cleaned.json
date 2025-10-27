@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_F_37019045642_0a3fa19256_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_F_37019045642_0a3fa19256_k.jpg",
+  "width": 3235,
+  "height": 2041,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1086,
+            528,
+            1451,
+            602
+          ],
+          "original_text": "VISSER",
+          "translated_en": "VISSER"
+        },
+        {
+          "box": [
+            1105,
+            629,
+            1804,
+            706
+          ],
+          "original_text": "John Gerardus",
+          "translated_en": "John Gerardus"
+        },
+        {
+          "box": [
+            1098,
+            752,
+            1331,
+            816
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2535,
+            956,
+            3063,
+            1039
+          ],
+          "original_text": "15 09 2004",
+          "translated_en": "15 09 2004"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2492,
+            1238,
+            3082,
+            1327
+          ],
+          "original_text": "1305 2089",
+          "translated_en": "1305 2089"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_37019045642_0a3fa19256_k_translated_cleaned.jpg"
+}

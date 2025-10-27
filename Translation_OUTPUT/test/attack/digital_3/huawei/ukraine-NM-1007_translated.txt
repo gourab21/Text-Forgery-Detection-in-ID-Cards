@@ -1,0 +1,18 @@
+LE1
+OR: Бондаренко /
+EN: Bondarenko /
+EN: Bondarenko
+
+LE2
+OR: Андрій Юрійович /
+EN: Andriy Yuriyovych /
+EN: Kathle
+
+E3
+EN: 01.03.2047
+
+E4
+EN: 23.05.2018
+
+E5
+EN: 01.08.1993

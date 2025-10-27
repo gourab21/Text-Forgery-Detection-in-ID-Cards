@@ -1,0 +1,7 @@
+E1
+EN: 3 prilDoe Elm St RATE ...
+EN: 1234
+EN: Springfield IL 62704
+
+E2
+EN: DOB : 01-15-38

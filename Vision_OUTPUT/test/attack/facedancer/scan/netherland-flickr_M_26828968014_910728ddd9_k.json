@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_26828968014_910728ddd9_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            677,
+            325,
+            953,
+            368
+          ]
+        },
+        {
+          "text": "Henrike Henrike",
+          "box": [
+            679,
+            385,
+            1147,
+            435
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            678,
+            457,
+            912,
+            499
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1485,
+        559,
+        1966,
+        658
+      ],
+      "lines": [
+        {
+          "text": "14 03 2002",
+          "box": [
+            1564,
+            584,
+            1893,
+            631
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1460,
+        730,
+        1959,
+        853
+      ],
+      "lines": [
+        {
+          "text": "15 07 2027",
+          "box": [
+            1536,
+            758,
+            1901,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

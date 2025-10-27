@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1026.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        300,
+        1458,
+        477
+      ],
+      "lines": [
+        {
+          "text": "SOY EDINS",
+          "box": [
+            677,
+            348,
+            1088,
+            401
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            684,
+            414,
+            786,
+            450
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        580,
+        1995,
+        677
+      ],
+      "lines": [
+        {
+          "text": "22 04 1970",
+          "box": [
+            1711,
+            589,
+            1994,
+            628
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        736,
+        1668,
+        852
+      ],
+      "lines": [
+        {
+          "text": "19 04 2 044",
+          "box": [
+            1312,
+            766,
+            1603,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1083.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "JEANETES OLIVEIRA",
+          "box": [
+            693,
+            342,
+            1273,
+            394
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            687,
+            401,
+            788,
+            433
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "22 03 1914",
+          "box": [
+            1698,
+            601,
+            1949,
+            637
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "03 02 2025",
+          "box": [
+            1302,
+            767,
+            1587,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

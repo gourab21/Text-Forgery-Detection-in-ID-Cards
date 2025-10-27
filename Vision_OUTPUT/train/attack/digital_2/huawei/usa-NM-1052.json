@@ -1,0 +1,73 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-NM-1052.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        980,
+        677,
+        2010,
+        1053
+      ],
+      "lines": [
+        {
+          "text": "Camieopher",
+          "box": [
+            1044,
+            737,
+            1580,
+            832
+          ]
+        },
+        {
+          "text": "www.ren",
+          "box": [
+            1469,
+            688,
+            1827,
+            983
+          ]
+        },
+        {
+          "text": "112 Oak St RATE",
+          "box": [
+            1048,
+            835,
+            1859,
+            948
+          ]
+        },
+        {
+          "text": "Laramie WY 82070",
+          "box": [
+            1047,
+            938,
+            1837,
+            1008
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2360,
+        1201,
+        3164,
+        1363
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-11-39",
+          "box": [
+            2421,
+            1242,
+            3088,
+            1326
+          ]
+        }
+      ]
+    }
+  ]
+}

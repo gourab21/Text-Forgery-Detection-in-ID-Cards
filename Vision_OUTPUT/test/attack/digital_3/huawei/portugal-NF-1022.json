@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1022.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        988,
+        471,
+        2333,
+        747
+      ],
+      "lines": [
+        {
+          "text": "SARAH PEREIRA",
+          "box": [
+            1100,
+            534,
+            1762,
+            605
+          ]
+        },
+        {
+          "text": "Marta",
+          "box": [
+            1086,
+            621,
+            1324,
+            686
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2633,
+        907,
+        3193,
+        1061
+      ],
+      "lines": [
+        {
+          "text": "04 02 1982",
+          "box": [
+            2719,
+            950,
+            3124,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1982,
+        1152,
+        2670,
+        1334
+      ],
+      "lines": [
+        {
+          "text": "17 07 1943",
+          "box": [
+            2078,
+            1216,
+            2546,
+            1281
+          ]
+        }
+      ]
+    }
+  ]
+}

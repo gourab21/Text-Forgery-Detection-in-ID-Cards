@@ -1,0 +1,20 @@
+LE1
+OR: Прізви
+EN: Nicknames
+OR: Шевченко /
+EN: Shevchenko /
+EN: Shevchenko
+
+LE2
+OR: Ірина Олегівна /
+EN: Iryna Olegivna /
+EN: Denni
+
+E3
+EN: 12.10.1922
+
+E4
+EN: 04.08.2020
+
+E5
+EN: 02.10.2070

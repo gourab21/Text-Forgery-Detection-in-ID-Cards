@@ -1,0 +1,22 @@
+E1
+EN: Chery
+
+E2
+EN: Ahmadi
+
+L1
+EN: joy
+OR: فرح
+
+L2
+EN: Hosseini
+OR: حسینی
+
+E3
+EN: 01/09/2078
+
+E4
+EN: 30/06/2024
+
+E5
+EN: 27/02/1908

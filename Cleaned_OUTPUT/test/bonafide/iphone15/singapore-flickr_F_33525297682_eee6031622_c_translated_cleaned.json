@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\singapore-flickr_F_33525297682_eee6031622_c_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_F_33525297682_eee6031622_c.jpg",
+  "width": 2768,
+  "height": 1739,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            699,
+            648,
+            1467,
+            734
+          ],
+          "original_text": "Angelica Ramos",
+          "translated_en": "Angelica Ramos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            721,
+            1287,
+            1225,
+            1356
+          ],
+          "original_text": "1998-12-05",
+          "translated_en": "1998-12-05"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1640,
+            1530,
+            2153,
+            1604
+          ],
+          "original_text": "2008-12-05",
+          "translated_en": "2008-12-05"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_33525297682_eee6031622_c_translated_cleaned.jpg"
+}

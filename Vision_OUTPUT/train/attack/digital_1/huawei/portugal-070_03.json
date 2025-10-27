@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        937,
+        451,
+        2213,
+        716
+      ],
+      "lines": [
+        {
+          "text": "PAVIDRAHKCOSTA",
+          "box": [
+            1016,
+            527,
+            1601,
+            581
+          ]
+        },
+        {
+          "text": "João",
+          "box": [
+            1015,
+            614,
+            1194,
+            670
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2495,
+        870,
+        3027,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "07 05 12017",
+          "box": [
+            2579,
+            875,
+            3021,
+            936
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1879,
+        1104,
+        2531,
+        1277
+      ],
+      "lines": [
+        {
+          "text": "05 05 2028",
+          "box": [
+            1973,
+            1137,
+            2426,
+            1205
+          ]
+        }
+      ]
+    }
+  ]
+}

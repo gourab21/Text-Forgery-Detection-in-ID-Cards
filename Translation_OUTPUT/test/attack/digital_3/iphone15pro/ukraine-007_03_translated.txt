@@ -1,0 +1,21 @@
+LE1
+OR: пр
+EN: pr
+OR: Кузьменко /
+EN: Kuzmenko /
+EN: Kuzmenko
+
+LE2
+OR: Вікторія Сергіївна /
+EN: Victoria Sergiivna /
+OR: Dennisia
+EN: Dennis
+
+E3
+EN: 05.06.1974
+
+E4
+EN: 28.12.2015
+
+E5
+EN: 09.08.1920

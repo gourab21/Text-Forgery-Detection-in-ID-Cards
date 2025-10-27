@@ -1,0 +1,155 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\ukraine-NF-1106.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\ukraine-NF-1106.jpg",
+  "width": 2832,
+  "height": 1776,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            912,
+            370,
+            1135,
+            412
+          ],
+          "original_text": "Прізвищ",
+          "translated_en": "Last name",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            915,
+            427,
+            1180,
+            496
+          ],
+          "original_text": "Мороз /",
+          "translated_en": "Frost /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            915,
+            517,
+            1116,
+            560
+          ],
+          "original_text": "Moroz",
+          "translated_en": "Frost",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            915,
+            679,
+            1655,
+            756
+          ],
+          "original_text": "Ірина Олександрівна",
+          "translated_en": "Iryna Oleksandrivna",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            914,
+            773,
+            1108,
+            834
+          ],
+          "original_text": "I isty",
+          "translated_en": "I am",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            904,
+            929,
+            985,
+            968
+          ],
+          "original_text": "Да",
+          "translated_en": "Да",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            927,
+            977,
+            1315,
+            1030
+          ],
+          "original_text": "17.09.1202.5",
+          "translated_en": "17.09.1202.5",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            909,
+            1314,
+            1260,
+            1363
+          ],
+          "original_text": "Дата видачі",
+          "translated_en": "Дата видачі",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            930,
+            1368,
+            1308,
+            1424
+          ],
+          "original_text": "21.12.2023",
+          "translated_en": "21.12.2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            919,
+            1603,
+            1204,
+            1647
+          ],
+          "original_text": "строку ди",
+          "translated_en": "строку ди",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            937,
+            1647,
+            1341,
+            1703
+          ],
+          "original_text": "19.12.2JI 03",
+          "translated_en": "19.12.2JI 03",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1106_translated.jpg"
+}

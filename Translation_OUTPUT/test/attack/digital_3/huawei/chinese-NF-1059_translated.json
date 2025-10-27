@@ -1,0 +1,84 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\chinese-NF-1059.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\chinese-NF-1059.jpg",
+  "width": 3030,
+  "height": 1886,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1025,
+            653,
+            1261,
+            727
+          ],
+          "original_text": "武則天",
+          "translated_en": "Wu Zetian",
+          "detected_lang": "zh-TW"
+        },
+        {
+          "box": [
+            1043,
+            745,
+            1424,
+            822
+          ],
+          "original_text": "Joseptian",
+          "translated_en": "Joseptian",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1891,
+            1055,
+            2376,
+            1130
+          ],
+          "original_text": "15 Jan 1944",
+          "translated_en": "15 Jan 1944",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1893,
+            1331,
+            2379,
+            1393
+          ],
+          "original_text": "12 Dec 2012",
+          "translated_en": "12 Dec 2012",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1057,
+            1627,
+            1550,
+            1695
+          ],
+          "original_text": "01 Feb 2034",
+          "translated_en": "01 Feb 2034",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1059_translated.jpg"
+}

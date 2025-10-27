@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_22911363774_20c12ce7ec_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_22911363774_20c12ce7ec_c.jpg",
+  "width": 2773,
+  "height": 1721,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            944,
+            593,
+            1092,
+            655
+          ],
+          "original_text": "周 辉",
+          "translated_en": "Zhou Hui"
+        },
+        {
+          "box": [
+            960,
+            680,
+            1281,
+            736
+          ],
+          "original_text": "Robertul",
+          "translated_en": "Robert"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1732,
+            959,
+            2208,
+            1033
+          ],
+          "original_text": "19 Sep 1953",
+          "translated_en": "19 Sep 1953"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1733,
+            1215,
+            2209,
+            1276
+          ],
+          "original_text": "24 Oct 2046",
+          "translated_en": "24 Oct 2046"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            967,
+            1484,
+            1435,
+            1560
+          ],
+          "original_text": "25 May 2096",
+          "translated_en": "25 May 2096"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_22911363774_20c12ce7ec_c_translated_cleaned.jpg"
+}

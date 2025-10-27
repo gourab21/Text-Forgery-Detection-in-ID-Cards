@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\persian-010_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\persian-010_03.jpg",
+  "width": 2801,
+  "height": 1785,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1079,
+            409,
+            1316,
+            478
+          ],
+          "original_text": "Elizab",
+          "translated_en": "Elizab"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1063,
+            610,
+            1353,
+            669
+          ],
+          "original_text": "Ahmadi",
+          "translated_en": "Ahmadi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1882,
+            398,
+            1985,
+            458
+          ],
+          "original_text": "الهه",
+          "translated_en": "Goddess"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1882,
+            622,
+            2089,
+            661
+          ],
+          "original_text": "موسوی",
+          "translated_en": "Mousavi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1076,
+            844,
+            1462,
+            902
+          ],
+          "original_text": "22/01/1990",
+          "translated_en": "22/01/1990"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1081,
+            1308,
+            1469,
+            1368
+          ],
+          "original_text": "27/11/2024",
+          "translated_en": "27/11/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1903,
+            1297,
+            2282,
+            1354
+          ],
+          "original_text": "18/06/1917",
+          "translated_en": "18/06/1917"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-010_03_translated_cleaned.jpg"
+}

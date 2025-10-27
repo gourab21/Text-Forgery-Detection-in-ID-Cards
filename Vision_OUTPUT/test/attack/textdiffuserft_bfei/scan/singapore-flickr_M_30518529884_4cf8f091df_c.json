@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_30518529884_4cf8f091df_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1500,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Jennafl bin Omar",
+          "box": [
+            521,
+            454,
+            1101,
+            514
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        885,
+        1031,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "05.11.1933",
+          "box": [
+            505,
+            916,
+            869,
+            964
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1075,
+        1656,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "03.04-8-310",
+          "box": [
+            1162,
+            1107,
+            1522,
+            1156
+          ]
+        }
+      ]
+    }
+  ]
+}

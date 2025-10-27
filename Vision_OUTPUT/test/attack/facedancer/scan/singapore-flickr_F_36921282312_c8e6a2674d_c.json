@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\singapore-flickr_F_36921282312_c8e6a2674d_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1501,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Nurul binti Azman",
+          "box": [
+            517,
+            461,
+            1138,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        884,
+        1033,
+        1006
+      ],
+      "lines": [
+        {
+          "text": "1999-01-20",
+          "box": [
+            510,
+            916,
+            875,
+            964
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1074,
+        1658,
+        1192
+      ],
+      "lines": [
+        {
+          "text": "2009-01-20",
+          "box": [
+            1162,
+            1107,
+            1534,
+            1154
+          ]
+        }
+      ]
+    }
+  ]
+}

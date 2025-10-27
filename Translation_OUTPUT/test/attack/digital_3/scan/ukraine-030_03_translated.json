@@ -1,0 +1,111 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\ukraine-030_03.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-030_03.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            650,
+            288,
+            897,
+            341
+          ],
+          "original_text": "Зубенко /",
+          "translated_en": "Zubenko /",
+          "detected_lang": "mk"
+        },
+        {
+          "box": [
+            651,
+            348,
+            859,
+            382
+          ],
+          "original_text": "Zubenko",
+          "translated_en": "Zubenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            645,
+            472,
+            1121,
+            522
+          ],
+          "original_text": "Тетяна Василівна /",
+          "translated_en": "Tatyana Vasylivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            656,
+            532,
+            818,
+            570
+          ],
+          "original_text": "Patrici",
+          "translated_en": "Patricius",
+          "detected_lang": "ca"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            647,
+            676,
+            912,
+            715
+          ],
+          "original_text": "19.05.2033",
+          "translated_en": "19.05.2033",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            641,
+            955,
+            909,
+            993
+          ],
+          "original_text": "10.11.2020",
+          "translated_en": "10.11.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            634,
+            1148,
+            902,
+            1188
+          ],
+          "original_text": "02.03.1935",
+          "translated_en": "02.03.1935",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-030_03_translated.jpg"
+}

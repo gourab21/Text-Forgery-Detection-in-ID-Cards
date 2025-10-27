@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_15788104622_be592061dc_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1002,
+        478,
+        2055,
+        891
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            1088,
+            532,
+            1575,
+            612
+          ]
+        },
+        {
+          "text": "Davidke Petra",
+          "box": [
+            1085,
+            645,
+            1735,
+            713
+          ]
+        },
+        {
+          "text": "Sophie",
+          "box": [
+            1087,
+            756,
+            1408,
+            841
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2390,
+        923,
+        3167,
+        1087
+      ],
+      "lines": [
+        {
+          "text": "09 02 2091",
+          "box": [
+            2518,
+            964,
+            3048,
+            1041
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2349,
+        1205,
+        3154,
+        1409
+      ],
+      "lines": [
+        {
+          "text": "05 02 1985",
+          "box": [
+            2479,
+            1247,
+            3068,
+            1334
+          ]
+        }
+      ]
+    }
+  ]
+}

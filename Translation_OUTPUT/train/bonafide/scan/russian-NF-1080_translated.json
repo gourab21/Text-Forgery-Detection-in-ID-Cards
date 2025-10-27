@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\bonafide\\scan\\russian-NF-1080.json",
+  "image_relative": "train\\bonafide\\scan\\russian-NF-1080.jpg",
+  "width": 1998,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            723,
+            261,
+            1020,
+            306
+          ],
+          "original_text": "Михайлова /",
+          "translated_en": "Mihaylova /",
+          "detected_lang": "bg"
+        },
+        {
+          "box": [
+            722,
+            316,
+            959,
+            352
+          ],
+          "original_text": "Mikhailova",
+          "translated_en": "Mikhailova",
+          "detected_lang": "haw"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1291,
+            432,
+            1328,
+            459
+          ],
+          "original_text": "ре",
+          "translated_en": "re",
+          "detected_lang": "sr"
+        },
+        {
+          "box": [
+            720,
+            474,
+            1328,
+            517
+          ],
+          "original_text": "Вера Николаевна / F",
+          "translated_en": "Vera Nikolaevna / F",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            715,
+            524,
+            1076,
+            562
+          ],
+          "original_text": "Vera Nikolaevna",
+          "translated_en": "Vera Nikolaevna",
+          "detected_lang": "is"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            717,
+            677,
+            964,
+            712
+          ],
+          "original_text": "18.12.1991",
+          "translated_en": "18.12.1991",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            709,
+            955,
+            956,
+            988
+          ],
+          "original_text": "02.04.2019",
+          "translated_en": "02.04.2019",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            705,
+            1138,
+            954,
+            1174
+          ],
+          "original_text": "30.03.2029",
+          "translated_en": "30.03.2029",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1080_translated.jpg"
+}

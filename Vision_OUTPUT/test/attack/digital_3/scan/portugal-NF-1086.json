@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        298,
+        1456,
+        474
+      ],
+      "lines": [
+        {
+          "text": "STEPHANIERA",
+          "box": [
+            685,
+            342,
+            1077,
+            388
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            678,
+            402,
+            868,
+            443
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        576,
+        1993,
+        672
+      ],
+      "lines": [
+        {
+          "text": "27 12 2095",
+          "box": [
+            1695,
+            580,
+            1948,
+            616
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        731,
+        1666,
+        846
+      ],
+      "lines": [
+        {
+          "text": "27 05 2078",
+          "box": [
+            1305,
+            752,
+            1587,
+            796
+          ]
+        }
+      ]
+    }
+  ]
+}

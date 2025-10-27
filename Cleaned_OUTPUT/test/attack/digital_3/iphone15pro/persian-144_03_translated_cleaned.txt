@@ -1,0 +1,20 @@
+E1
+EN: Tere
+
+E2
+EN: Rahimi
+
+L1
+
+L2
+EN: Rahimi
+OR: رحيمي
+
+E3
+EN: 17/11/2030
+
+E4
+EN: 22/12/2016
+
+E5
+EN: 31/12/2012

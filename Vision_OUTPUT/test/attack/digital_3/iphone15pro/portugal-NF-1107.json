@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        431,
+        2077,
+        684
+      ],
+      "lines": [
+        {
+          "text": "HANNAHIMA",
+          "box": [
+            970,
+            496,
+            1402,
+            559
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            963,
+            578,
+            1507,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2343,
+        831,
+        2842,
+        971
+      ],
+      "lines": [
+        {
+          "text": "19 09 1964",
+          "box": [
+            2417,
+            831,
+            2775,
+            884
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1765,
+        1056,
+        2376,
+        1222
+      ],
+      "lines": [
+        {
+          "text": "2907 1901",
+          "box": [
+            1860,
+            1083,
+            2266,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

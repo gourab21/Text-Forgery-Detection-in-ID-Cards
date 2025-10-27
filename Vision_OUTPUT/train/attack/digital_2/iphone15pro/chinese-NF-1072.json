@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\chinese-NF-1072.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        892,
+        560,
+        1545,
+        824
+      ],
+      "lines": [
+        {
+          "text": "吳 情",
+          "box": [
+            945,
+            612,
+            1090,
+            671
+          ]
+        },
+        {
+          "text": "weanor",
+          "box": [
+            949,
+            691,
+            1272,
+            752
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1676,
+        933,
+        2251,
+        1121
+      ],
+      "lines": [
+        {
+          "text": "10 Mar 191",
+          "box": [
+            1734,
+            982,
+            2208,
+            1047
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1651,
+        1202,
+        2283,
+        1384
+      ],
+      "lines": [
+        {
+          "text": "17 Apr 2016",
+          "box": [
+            1740,
+            1241,
+            2173,
+            1314
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        863,
+        1473,
+        1523,
+        1646
+      ],
+      "lines": [
+        {
+          "text": "15 Apr 22001",
+          "box": [
+            965,
+            1521,
+            1414,
+            1598
+          ]
+        }
+      ]
+    }
+  ]
+}

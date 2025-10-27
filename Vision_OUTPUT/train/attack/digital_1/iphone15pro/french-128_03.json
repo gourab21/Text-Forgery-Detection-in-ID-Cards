@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-128_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        834,
+        380,
+        1660,
+        513
+      ],
+      "lines": [
+        {
+          "text": "LEROY",
+          "box": [
+            917,
+            430,
+            1137,
+            482
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        827,
+        628,
+        1759,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Anangonaniiche",
+          "box": [
+            916,
+            675,
+            1403,
+            731
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1946,
+        881,
+        2493,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "02 03 1999",
+          "box": [
+            2004,
+            890,
+            2404,
+            941
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1920,
+        1437,
+        2477,
+        1576
+      ],
+      "lines": [
+        {
+          "text": "18 08 1993",
+          "box": [
+            2020,
+            1439,
+            2407,
+            1489
+          ]
+        }
+      ]
+    }
+  ]
+}

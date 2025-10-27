@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-091_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        950,
+        419,
+        1890,
+        564
+      ],
+      "lines": [
+        {
+          "text": "ROCHE",
+          "box": [
+            1043,
+            464,
+            1307,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        941,
+        691,
+        2002,
+        864
+      ],
+      "lines": [
+        {
+          "text": "Cécile , Marie",
+          "box": [
+            1035,
+            738,
+            1524,
+            804
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2215,
+        968,
+        2839,
+        1135
+      ],
+      "lines": [
+        {
+          "text": "08 09 1992",
+          "box": [
+            2274,
+            1008,
+            2706,
+            1070
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2186,
+        1581,
+        2819,
+        1732
+      ],
+      "lines": [
+        {
+          "text": "15 10 2031",
+          "box": [
+            2265,
+            1625,
+            2693,
+            1684
+          ]
+        }
+      ]
+    }
+  ]
+}

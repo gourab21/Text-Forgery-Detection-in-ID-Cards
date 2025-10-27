@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\chinese-NF-1085.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        637,
+        397,
+        1104,
+        583
+      ],
+      "lines": [
+        {
+          "text": "吴芳",
+          "box": [
+            678,
+            437,
+            786,
+            484
+          ]
+        },
+        {
+          "text": "vaulang",
+          "box": [
+            679,
+            487,
+            921,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1198,
+        660,
+        1608,
+        794
+      ],
+      "lines": [
+        {
+          "text": "14 MAY 2031",
+          "box": [
+            1245,
+            703,
+            1590,
+            746
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1180,
+        852,
+        1631,
+        979
+      ],
+      "lines": [
+        {
+          "text": "04 JUN 2010",
+          "box": [
+            1247,
+            885,
+            1570,
+            928
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1043,
+        1088,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "03 JUN 2003",
+          "box": [
+            693,
+            1085,
+            1039,
+            1126
+          ]
+        }
+      ]
+    }
+  ]
+}

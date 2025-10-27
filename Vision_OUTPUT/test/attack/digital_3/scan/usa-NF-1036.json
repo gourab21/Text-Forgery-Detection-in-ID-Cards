@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-NF-1036.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        605,
+        424,
+        1240,
+        658
+      ],
+      "lines": [
+        {
+          "text": "Saraara Thomas",
+          "box": [
+            654,
+            468,
+            1078,
+            512
+          ]
+        },
+        {
+          "text": "8342 Pine Rd",
+          "box": [
+            651,
+            523,
+            993,
+            567
+          ]
+        },
+        {
+          "text": "Naples FL 34102",
+          "box": [
+            651,
+            587,
+            1077,
+            628
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1456,
+        752,
+        1952,
+        852
+      ],
+      "lines": [
+        {
+          "text": "DOB : 25-03-50",
+          "box": [
+            1492,
+            777,
+            1885,
+            825
+          ]
+        }
+      ]
+    }
+  ]
+}

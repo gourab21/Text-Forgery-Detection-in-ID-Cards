@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\chinese2-flickr_F_33552328531_f6d5dd17b8_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        867,
+        555,
+        1670,
+        829
+      ],
+      "lines": [
+        {
+          "text": "孙 萍",
+          "box": [
+            960,
+            601,
+            1100,
+            663
+          ]
+        },
+        {
+          "text": "Sun Ping",
+          "box": [
+            957,
+            689,
+            1288,
+            754
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1690,
+        925,
+        2341,
+        1092
+      ],
+      "lines": [
+        {
+          "text": "29 APR 1988",
+          "box": [
+            1740,
+            973,
+            2237,
+            1038
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1695,
+        1183,
+        2367,
+        1360
+      ],
+      "lines": [
+        {
+          "text": "19 JAN 2012",
+          "box": [
+            1754,
+            1231,
+            2235,
+            1295
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        899,
+        1468,
+        1568,
+        1654
+      ],
+      "lines": [
+        {
+          "text": "19 JAN 2032",
+          "box": [
+            973,
+            1513,
+            1458,
+            1579
+          ]
+        }
+      ]
+    }
+  ]
+}

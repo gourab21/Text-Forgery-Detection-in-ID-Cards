@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\russian-082_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\russian-082_03.jpg",
+  "width": 2830,
+  "height": 1798,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1007,
+            387,
+            1260,
+            449
+          ],
+          "original_text": "Ершов /",
+          "translated_en": "Ershov /"
+        },
+        {
+          "box": [
+            1001,
+            461,
+            1214,
+            511
+          ],
+          "original_text": "Ershov",
+          "translated_en": "Ershov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1012,
+            680,
+            1644,
+            742
+          ],
+          "original_text": "Роман Федорович /",
+          "translated_en": "Roman Fedorovych /"
+        },
+        {
+          "box": [
+            1018,
+            752,
+            1593,
+            822
+          ],
+          "original_text": "Joshua Fedovych",
+          "translated_en": "Joshua Fedovych"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1022,
+            979,
+            1368,
+            1028
+          ],
+          "original_text": "08.10.2049",
+          "translated_en": "08.10.2049"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1369,
+            1375,
+            1422
+          ],
+          "original_text": "03.12.2013",
+          "translated_en": "03.12.2013"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1030,
+            1635,
+            1382,
+            1687
+          ],
+          "original_text": "14.07.2022",
+          "translated_en": "14.07.2022"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-082_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,18 @@
+LE1
+EN: Popov /
+OR: Попов /
+EN: Popov
+
+LE2
+EN: Vladimir Alexandrovich
+OR: Владимир Александровича
+EN: Edwardir
+
+E3
+EN: 09.11.1906
+
+E4
+EN: 05.10.2023
+
+E5
+EN: 02.04.1933

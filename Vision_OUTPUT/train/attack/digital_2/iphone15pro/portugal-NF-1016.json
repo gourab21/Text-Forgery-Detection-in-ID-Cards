@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        433,
+        2084,
+        687
+      ],
+      "lines": [
+        {
+          "text": "SEREM YO MERELES",
+          "box": [
+            967,
+            493,
+            1742,
+            566
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            968,
+            590,
+            1339,
+            645
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        835,
+        2852,
+        976
+      ],
+      "lines": [
+        {
+          "text": "06 08 1997",
+          "box": [
+            2431,
+            837,
+            2841,
+            893
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1060,
+        2384,
+        1227
+      ],
+      "lines": [
+        {
+          "text": "28 03 1396",
+          "box": [
+            1868,
+            1088,
+            2297,
+            1153
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_25164805428_423bc49285_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        858,
+        545,
+        1654,
+        815
+      ],
+      "lines": [
+        {
+          "text": "胡莉",
+          "box": [
+            950,
+            596,
+            1101,
+            662
+          ]
+        },
+        {
+          "text": "Thoma",
+          "box": [
+            936,
+            691,
+            1146,
+            736
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1674,
+        909,
+        2319,
+        1074
+      ],
+      "lines": [
+        {
+          "text": "22 Nov 2051",
+          "box": [
+            1729,
+            963,
+            2223,
+            1026
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1679,
+        1164,
+        2345,
+        1336
+      ],
+      "lines": [
+        {
+          "text": "24 Jun 1969",
+          "box": [
+            1734,
+            1216,
+            2212,
+            1279
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        890,
+        1443,
+        1554,
+        1626
+      ],
+      "lines": [
+        {
+          "text": "22 Dec 2080",
+          "box": [
+            962,
+            1493,
+            1446,
+            1556
+          ]
+        }
+      ]
+    }
+  ]
+}

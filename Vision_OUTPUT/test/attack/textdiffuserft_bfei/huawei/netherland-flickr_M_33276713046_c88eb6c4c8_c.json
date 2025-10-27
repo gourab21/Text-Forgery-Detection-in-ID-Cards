@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_33276713046_c88eb6c4c8_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        458,
+        2033,
+        856
+      ],
+      "lines": [
+        {
+          "text": "VAN DEN BERG",
+          "box": [
+            1063,
+            505,
+            1780,
+            584
+          ]
+        },
+        {
+          "text": "David Elisabeth",
+          "box": [
+            1075,
+            609,
+            1758,
+            675
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            1071,
+            723,
+            1444,
+            789
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2364,
+        885,
+        3131,
+        1043
+      ],
+      "lines": [
+        {
+          "text": "18 09 2097",
+          "box": [
+            2487,
+            924,
+            3007,
+            995
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2323,
+        1157,
+        3120,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "18 12 1956",
+          "box": [
+            2452,
+            1200,
+            3021,
+            1282
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+E1
+EN: Lawman Hartmá
+
+L1
+OR: محمود لیلی
+EN: Mahmoud Leili
+
+E2
+EN: 23 Feb 2018
+
+E3
+EN: 15 Jan 2020
+
+E4
+EN: 05 Oct 2036
+
+L2
+OR: ٢٣ / فبراير / ۱۹۸۱
+EN: February 23, 1981
+
+L3
+OR: ١٥ / يناير / ۲۰۲۰
+EN: January 15, 2020
+
+L4
+OR: ٥ / أكتوبر / ٢٠٣٢
+EN: October 5, 2032

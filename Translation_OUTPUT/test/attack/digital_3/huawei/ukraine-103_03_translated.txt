@@ -1,0 +1,20 @@
+LE1
+OR: Коваленко /
+EN: Kovalenko /
+EN: Kovalenko
+
+LE2
+OR: Олександр Михайлов
+EN: Oleksandr Mykhaylov
+EN: Courtnes
+
+E3
+EN: 25.11.1960
+
+E4
+EN: Дата вида Date of Issue
+EN: 21.02.2018
+
+E5
+EN: לון
+EN: 04.03.2058

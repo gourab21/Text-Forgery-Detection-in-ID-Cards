@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        990,
+        471,
+        2337,
+        747
+      ],
+      "lines": [
+        {
+          "text": "GEOGEO MEIRELES",
+          "box": [
+            1119,
+            536,
+            1946,
+            610
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            1089,
+            628,
+            1508,
+            689
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2637,
+        906,
+        3198,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "02 06 2013",
+          "box": [
+            2724,
+            949,
+            3127,
+            1014
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1985,
+        1151,
+        2674,
+        1333
+      ],
+      "lines": [
+        {
+          "text": "05 02 2036",
+          "box": [
+            2078,
+            1214,
+            2540,
+            1280
+          ]
+        }
+      ]
+    }
+  ]
+}

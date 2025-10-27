@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\portugal-143_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\portugal-143_03.jpg",
+  "width": 1995,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            687,
+            337,
+            1151,
+            384
+          ],
+          "original_text": "PANNAHA CASRO",
+          "translated_en": "PANNAHA CASRO"
+        },
+        {
+          "box": [
+            687,
+            398,
+            1004,
+            438
+          ],
+          "original_text": "Luis Antônio",
+          "translated_en": "Luis Antônio"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1705,
+            601,
+            1992,
+            641
+          ],
+          "original_text": "03 01 1985",
+          "translated_en": "03 01 1985"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1298,
+            767,
+            1599,
+            807
+          ],
+          "original_text": "17 08 2004",
+          "translated_en": "17 08 2004"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-143_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-NF-1088.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        637,
+        395,
+        1104,
+        580
+      ],
+      "lines": [
+        {
+          "text": "BBIEWS",
+          "box": [
+            683,
+            485,
+            922,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1199,
+        658,
+        1609,
+        791
+      ],
+      "lines": [
+        {
+          "text": "25 Nov 2057",
+          "box": [
+            1235,
+            709,
+            1577,
+            755
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1181,
+        849,
+        1633,
+        976
+      ],
+      "lines": [
+        {
+          "text": "15 Aug 2016",
+          "box": [
+            1233,
+            895,
+            1556,
+            939
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1039,
+        1088,
+        1161
+      ],
+      "lines": [
+        {
+          "text": "13 Aug 2043",
+          "box": [
+            670,
+            1075,
+            1005,
+            1127
+          ]
+        }
+      ]
+    }
+  ]
+}

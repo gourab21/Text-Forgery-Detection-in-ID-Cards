@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_15788105142_89e9bca209_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        657,
+        651,
+        2377,
+        965
+      ],
+      "lines": [
+        {
+          "text": "Ahmad bin Salleh",
+          "box": [
+            790,
+            739,
+            1757,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        733,
+        1398,
+        1636,
+        1592
+      ],
+      "lines": [
+        {
+          "text": "1971-11-04",
+          "box": [
+            820,
+            1470,
+            1395,
+            1544
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1778,
+        1698,
+        2625,
+        1886
+      ],
+      "lines": [
+        {
+          "text": "1981-11-04",
+          "box": [
+            1874,
+            1743,
+            2453,
+            1827
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\arabic-NM-1029_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\arabic-NM-1029.jpg",
+  "width": 1998,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            744,
+            471,
+            1239,
+            517
+          ],
+          "original_text": "Ncholaskhated",
+          "translated_en": "Ncholaskhated"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            731,
+            330,
+            1084,
+            393
+          ],
+          "original_text": "الخالدي نواف",
+          "translated_en": "Khalidi Nawaf"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            741,
+            780,
+            1076,
+            825
+          ],
+          "original_text": "12 Jul 1990",
+          "translated_en": "12 Jul 1990"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            738,
+            944,
+            1104,
+            991
+          ],
+          "original_text": "11 Mar 2020",
+          "translated_en": "11 Mar 2020"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            732,
+            1109,
+            1083,
+            1159
+          ],
+          "original_text": "06 Oct 1998",
+          "translated_en": "06 Oct 1998"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1270,
+            787,
+            1718,
+            846
+          ],
+          "original_text": "١٢ / يوليو / ۱۹۸۳",
+          "translated_en": "12 / July / 1983"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1265,
+            952,
+            1740,
+            1008
+          ],
+          "original_text": "١١ / مارس / ٢٠٠",
+          "translated_en": "March 11, 200"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1261,
+            1108,
+            1702,
+            1172
+          ],
+          "original_text": "٦ / أكتوبر / ٢٠٣٣",
+          "translated_en": "October 6, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NM-1029_translated_cleaned.jpg"
+}

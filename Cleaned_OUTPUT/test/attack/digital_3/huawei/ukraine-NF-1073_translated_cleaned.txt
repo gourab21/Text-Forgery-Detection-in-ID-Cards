@@ -1,0 +1,18 @@
+LE1
+EN: Kyrylenko /
+OR: Кириленко /
+EN: Kyrylenko
+
+LE2
+EN: Anna Pavlovna /
+OR: Анна Павлівна /
+EN: Mela
+
+E3
+EN: 14.07.1937
+
+E4
+EN: 07.04.2013
+
+E5
+EN: 25.01.1968

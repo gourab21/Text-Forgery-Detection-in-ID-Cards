@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-01_0014_000-6f7ea414_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-01_0014_000-6f7ea414_0.jpg",
+  "width": 1999,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            691,
+            339,
+            1028,
+            386
+          ],
+          "original_text": "PATRICIAVA",
+          "translated_en": "PATRICIAVA"
+        },
+        {
+          "box": [
+            687,
+            395,
+            790,
+            439
+          ],
+          "original_text": "Rita",
+          "translated_en": "Rita"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1701,
+            603,
+            1951,
+            643
+          ],
+          "original_text": "01 10 1915",
+          "translated_en": "01 10 1915"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1302,
+            771,
+            1585,
+            810
+          ],
+          "original_text": "20 11 2015",
+          "translated_en": "20 11 2015"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-01_0014_000-6f7ea414_0_translated_cleaned.jpg"
+}

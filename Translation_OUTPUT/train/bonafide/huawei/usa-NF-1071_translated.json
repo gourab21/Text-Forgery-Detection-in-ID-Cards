@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\huawei\\usa-NF-1071.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-NF-1071.jpg",
+  "width": 3219,
+  "height": 1988,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1045,
+            748,
+            1567,
+            815
+          ],
+          "original_text": "Carla Gomez",
+          "translated_en": "Carla Gomez",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1041,
+            842,
+            1621,
+            909
+          ],
+          "original_text": "874 Third Ave",
+          "translated_en": "874 Third Ave",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1040,
+            934,
+            1778,
+            1005
+          ],
+          "original_text": "Orlando FL 32801",
+          "translated_en": "Orlando FL 32801",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2411,
+            1246,
+            3046,
+            1317
+          ],
+          "original_text": "DOB : 08-29-93",
+          "translated_en": "DOB : 08-29-93",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1071_translated.jpg"
+}

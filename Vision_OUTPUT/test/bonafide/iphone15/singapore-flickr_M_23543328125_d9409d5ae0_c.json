@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_23543328125_d9409d5ae0_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        579,
+        580,
+        2092,
+        859
+      ],
+      "lines": [
+        {
+          "text": "Hsu Long",
+          "box": [
+            718,
+            665,
+            1157,
+            738
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        645,
+        1245,
+        1440,
+        1417
+      ],
+      "lines": [
+        {
+          "text": "1993-07-14",
+          "box": [
+            733,
+            1301,
+            1239,
+            1374
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1566,
+        1511,
+        2311,
+        1678
+      ],
+      "lines": [
+        {
+          "text": "2003-07-14",
+          "box": [
+            1653,
+            1546,
+            2165,
+            1617
+          ]
+        }
+      ]
+    }
+  ]
+}

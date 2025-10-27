@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_21459989349_7ab0e1ace5_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        618,
+        395,
+        1192,
+        589
+      ],
+      "lines": [
+        {
+          "text": "张 洋",
+          "box": [
+            680,
+            430,
+            787,
+            477
+          ]
+        },
+        {
+          "text": "Danieleng",
+          "box": [
+            691,
+            491,
+            1007,
+            537
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1206,
+        656,
+        1671,
+        775
+      ],
+      "lines": [
+        {
+          "text": "11 Oct 2072",
+          "box": [
+            1252,
+            693,
+            1599,
+            741
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1210,
+        841,
+        1689,
+        965
+      ],
+      "lines": [
+        {
+          "text": "16 Apr 2007",
+          "box": [
+            1247,
+            869,
+            1601,
+            935
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        642,
+        1042,
+        1119,
+        1174
+      ],
+      "lines": [
+        {
+          "text": "01 Aug 1910",
+          "box": [
+            692,
+            1068,
+            1049,
+            1126
+          ]
+        }
+      ]
+    }
+  ]
+}

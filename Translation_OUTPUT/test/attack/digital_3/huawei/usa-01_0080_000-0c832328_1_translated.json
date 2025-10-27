@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\usa-01_0080_000-0c832328_1.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-01_0080_000-0c832328_1.jpg",
+  "width": 3192,
+  "height": 1978,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1043,
+            745,
+            1637,
+            805
+          ],
+          "original_text": "Todiam Brown",
+          "translated_en": "Todiam Brown",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1035,
+            814,
+            1666,
+            925
+          ],
+          "original_text": "3714 Maple Av",
+          "translated_en": "3714 Maple Av",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1033,
+            927,
+            1702,
+            999
+          ],
+          "original_text": "Dallas TX 75235",
+          "translated_en": "Dallas TX 75235",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2394,
+            1238,
+            3026,
+            1308
+          ],
+          "original_text": "DOB : 14-07-03",
+          "translated_en": "DOB : 14-07-03",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-01_0080_000-0c832328_1_translated.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\chinese2-flickr_M_24235235151_ae8ac31253_k_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\chinese2-flickr_M_24235235151_ae8ac31253_k.jpg",
+  "width": 3218,
+  "height": 2053,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1086,
+            710,
+            1251,
+            789
+          ],
+          "original_text": "吴勇",
+          "translated_en": "Wu Yong"
+        },
+        {
+          "box": [
+            1082,
+            809,
+            1467,
+            895
+          ],
+          "original_text": "Wu Ming",
+          "translated_en": "Wu Ming"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1999,
+            1150,
+            2568,
+            1227
+          ],
+          "original_text": "01 JUN 1973",
+          "translated_en": "01 JUN 1973"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2010,
+            1452,
+            2559,
+            1528
+          ],
+          "original_text": "14 JUL 1993",
+          "translated_en": "14 JUL 1993"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1111,
+            1778,
+            1657,
+            1854
+          ],
+          "original_text": "14 JUL 2013",
+          "translated_en": "14 JUL 2013"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_24235235151_ae8ac31253_k_translated_cleaned.jpg"
+}

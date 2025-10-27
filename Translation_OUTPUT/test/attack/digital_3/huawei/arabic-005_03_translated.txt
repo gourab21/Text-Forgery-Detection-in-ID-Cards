@@ -1,0 +1,27 @@
+E1
+EN: Joshua A - Salem-
+
+L1
+OR: السالم فيصل
+EN: Salem Faisal
+
+E2
+EN: 14 Jun 2001
+
+E3
+EN: 25 Mar 2023
+
+E4
+EN: 23 Feb 2012-
+
+L2
+OR: ۱۷ / فبراير / ۱۹۹۵
+EN: February 17, 1995
+
+L3
+OR: ٢٥ / مارس / ٢۰۲۳
+EN: March 25, 2023
+
+L4
+OR: ۲۸ / يوليو / ۲۰۲۹
+EN: July 28, 2029

@@ -1,0 +1,29 @@
+E1
+EN: Wency A Thani
+
+L1
+OR: الثاني زهرة
+EN: The second flower
+
+E2
+EN: 11 Aug 2063
+
+E3
+EN: 26 Feb 2019
+
+E4
+EN: 20 Oct 2094
+
+L2
+OR: ريح
+EN: wind
+OR: ١٢ / يوليو / ۱۹۸۵
+EN: 12 / July / 1985
+
+L3
+OR: ٢٦ / فبراير / ٢٠١
+EN: February 26, 201
+
+L4
+OR: ٦ / أكتوبر / ٢٠٢٨
+EN: October 6, 2028

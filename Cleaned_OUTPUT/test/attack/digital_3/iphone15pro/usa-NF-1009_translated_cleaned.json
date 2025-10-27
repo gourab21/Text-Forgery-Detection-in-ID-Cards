@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\usa-NF-1009_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1009.jpg",
+  "width": 2797,
+  "height": 1779,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            913,
+            672,
+            1239,
+            721
+          ],
+          "original_text": "Scot Roe",
+          "translated_en": "Scot Roe"
+        },
+        {
+          "box": [
+            912,
+            721,
+            1717,
+            828
+          ],
+          "original_text": "5678 Maple Dr RATE TESTA",
+          "translated_en": "5678 Maple Dr RATE TESTA"
+        },
+        {
+          "box": [
+            917,
+            828,
+            1650,
+            892
+          ],
+          "original_text": "Rochester NY 14623",
+          "translated_en": "Rochester NY 14623"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2106,
+            1074,
+            2656,
+            1131
+          ],
+          "original_text": "08-01-57",
+          "translated_en": "08-01-57"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1009_translated_cleaned.jpg"
+}

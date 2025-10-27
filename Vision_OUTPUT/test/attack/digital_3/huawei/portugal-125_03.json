@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        449,
+        2217,
+        713
+      ],
+      "lines": [
+        {
+          "text": "JAMES RIBERO",
+          "box": [
+            1046,
+            516,
+            1684,
+            586
+          ]
+        },
+        {
+          "text": "João Carlos",
+          "box": [
+            1032,
+            601,
+            1483,
+            662
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2500,
+        867,
+        3033,
+        1012
+      ],
+      "lines": [
+        {
+          "text": "18 03 2034",
+          "box": [
+            2586,
+            911,
+            2961,
+            976
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1883,
+        1100,
+        2536,
+        1272
+      ],
+      "lines": [
+        {
+          "text": "06 07 1925",
+          "box": [
+            1976,
+            1159,
+            2414,
+            1226
+          ]
+        }
+      ]
+    }
+  ]
+}

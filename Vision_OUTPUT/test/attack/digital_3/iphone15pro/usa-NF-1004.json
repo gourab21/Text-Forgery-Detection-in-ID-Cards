@@ -1,0 +1,73 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1004.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        850,
+        613,
+        1743,
+        952
+      ],
+      "lines": [
+        {
+          "text": "10",
+          "box": [
+            1245,
+            613,
+            1336,
+            697
+          ]
+        },
+        {
+          "text": "Caleb Davis",
+          "box": [
+            923,
+            681,
+            1312,
+            741
+          ]
+        },
+        {
+          "text": "6784 Creek Rd RATE",
+          "box": [
+            922,
+            740,
+            1621,
+            836
+          ]
+        },
+        {
+          "text": "Dover DE 19901",
+          "box": [
+            924,
+            840,
+            1500,
+            908
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2046,
+        1086,
+        2743,
+        1232
+      ],
+      "lines": [
+        {
+          "text": "DOB : 27-07-13",
+          "box": [
+            2112,
+            1090,
+            2659,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

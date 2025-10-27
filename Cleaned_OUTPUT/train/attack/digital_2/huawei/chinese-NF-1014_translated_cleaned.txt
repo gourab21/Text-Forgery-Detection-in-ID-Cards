@@ -1,0 +1,13 @@
+LE1
+EN: Starting from
+OR: 起算 越
+EN: Zennferg
+
+E2
+EN: 22 Dec 11024
+
+E3
+EN: 31 May 2012
+
+E4
+EN: 29 May 493

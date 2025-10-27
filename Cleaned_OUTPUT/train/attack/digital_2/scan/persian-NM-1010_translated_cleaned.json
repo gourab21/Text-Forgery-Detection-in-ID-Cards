@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\persian-NM-1010_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\persian-NM-1010.jpg",
+  "width": 1991,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            762,
+            285,
+            988,
+            327
+          ],
+          "original_text": "Pindrea",
+          "translated_en": "Pindrea"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            757,
+            430,
+            922,
+            472
+          ],
+          "original_text": "Salehi",
+          "translated_en": "Salehi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1347,
+            293,
+            1444,
+            339
+          ],
+          "original_text": "پیمان",
+          "translated_en": "alliance"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1336,
+            435,
+            1474,
+            482
+          ],
+          "original_text": "صالحی",
+          "translated_en": "Salehi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            755,
+            597,
+            1036,
+            636
+          ],
+          "original_text": "02/02/2028",
+          "translated_en": "02/02/2028"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            748,
+            925,
+            1028,
+            965
+          ],
+          "original_text": "02/02/2015",
+          "translated_en": "02/02/2015"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1333,
+            930,
+            1615,
+            971
+          ],
+          "original_text": "02/02/2008",
+          "translated_en": "02/02/2008"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NM-1010_translated_cleaned.jpg"
+}

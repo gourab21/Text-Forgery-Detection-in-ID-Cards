@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_30532886723_e55b04664f_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_30532886723_e55b04664f_k.jpg",
+  "width": 1994,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            513,
+            451,
+            1147,
+            514
+          ],
+          "original_text": "Jessicainti Azman",
+          "translated_en": "Jessicainti Azman"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            507,
+            913,
+            868,
+            963
+          ],
+          "original_text": "04-03-1217",
+          "translated_en": "04-03-1217"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1166,
+            1105,
+            1522,
+            1155
+          ],
+          "original_text": "24-01-1158",
+          "translated_en": "24-01-1158"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_30532886723_e55b04664f_k_translated_cleaned.jpg"
+}

@@ -1,0 +1,20 @@
+LE1
+OR: Литвин /
+EN: Lytvyn /
+EN: Lytvyn
+
+LE2
+OR: Вікторія Андріївна /
+EN: Victoria Andreevna /
+OR: Vhristoph
+EN: Vchristoph
+
+E3
+EN: 03.06.12033
+
+E4
+EN: ата вид Date of ISSUE
+EN: 18.07.2015
+
+E5
+EN: 18.07.:2014

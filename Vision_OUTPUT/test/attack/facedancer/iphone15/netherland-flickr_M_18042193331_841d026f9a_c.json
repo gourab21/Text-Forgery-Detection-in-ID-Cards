@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\netherland-flickr_M_18042193331_841d026f9a_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        868,
+        405,
+        1781,
+        757
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            947,
+            455,
+            1370,
+            516
+          ]
+        },
+        {
+          "text": "Tess Cornelis",
+          "box": [
+            943,
+            541,
+            1474,
+            607
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            949,
+            637,
+            1316,
+            702
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2071,
+        784,
+        2743,
+        923
+      ],
+      "lines": [
+        {
+          "text": "04 05 1993",
+          "box": [
+            2171,
+            818,
+            2639,
+            883
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2035,
+        1024,
+        2732,
+        1196
+      ],
+      "lines": [
+        {
+          "text": "17 08 2028",
+          "box": [
+            2138,
+            1061,
+            2644,
+            1129
+          ]
+        }
+      ]
+    }
+  ]
+}

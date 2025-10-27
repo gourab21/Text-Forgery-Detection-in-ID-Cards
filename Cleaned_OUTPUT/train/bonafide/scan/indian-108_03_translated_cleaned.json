@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\scan\\indian-108_03_translated.json",
+  "image_relative": "train\\bonafide\\scan\\indian-108_03.jpg",
+  "width": 1996,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            688,
+            473,
+            845,
+            509
+          ],
+          "original_text": "DESAI",
+          "translated_en": "DESAI"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            685,
+            623,
+            1048,
+            664
+          ],
+          "original_text": "AJAY PRANAV",
+          "translated_en": "AJAY PRANAV"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            693,
+            784,
+            1007,
+            831
+          ],
+          "original_text": "21/06/1993",
+          "translated_en": "21/06/1993"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            697,
+            1080,
+            1016,
+            1124
+          ],
+          "original_text": "07/04/2022",
+          "translated_en": "07/04/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1420,
+            1068,
+            1737,
+            1117
+          ],
+          "original_text": "04/04/2032",
+          "translated_en": "04/04/2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-108_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-172_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-172_03.jpg",
+  "width": 1995,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            685,
+            341,
+            1135,
+            388
+          ],
+          "original_text": "JAMERO SANTOS",
+          "translated_en": "JAMERO SANTOS"
+        },
+        {
+          "box": [
+            679,
+            398,
+            841,
+            440
+          ],
+          "original_text": "Carlos",
+          "translated_en": "Carlos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1701,
+            607,
+            1954,
+            646
+          ],
+          "original_text": "14 08 2024",
+          "translated_en": "14 08 2024"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1294,
+            774,
+            1582,
+            811
+          ],
+          "original_text": "25 08 2002",
+          "translated_en": "25 08 2002"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-172_03_translated_cleaned.jpg"
+}

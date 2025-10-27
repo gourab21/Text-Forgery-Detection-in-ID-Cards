@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\chinese2-flickr_F_17178039488_60828ef8de_k_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\chinese2-flickr_F_17178039488_60828ef8de_k.jpg",
+  "width": 3228,
+  "height": 2042,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1092,
+            702,
+            1258,
+            782
+          ],
+          "original_text": "黄丹",
+          "translated_en": "Yellow ochre"
+        },
+        {
+          "box": [
+            1095,
+            796,
+            1586,
+            894
+          ],
+          "original_text": "Huang Dan",
+          "translated_en": "Huang Dan"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2006,
+            1141,
+            2575,
+            1215
+          ],
+          "original_text": "07 SEP 1997",
+          "translated_en": "07 SEP 1997"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2013,
+            1443,
+            2607,
+            1517
+          ],
+          "original_text": "08 AUG 2022",
+          "translated_en": "08 AUG 2022"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1113,
+            1771,
+            1701,
+            1842
+          ],
+          "original_text": "08 AUG 2042",
+          "translated_en": "08 AUG 2042"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_F_17178039488_60828ef8de_k_translated_cleaned.jpg"
+}

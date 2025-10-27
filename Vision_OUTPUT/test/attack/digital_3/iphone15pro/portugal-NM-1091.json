@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-NM-1091.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        878,
+        429,
+        2072,
+        680
+      ],
+      "lines": [
+        {
+          "text": "LUISS OLIVERA",
+          "box": [
+            964,
+            492,
+            1591,
+            560
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            953,
+            584,
+            1175,
+            635
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2337,
+        827,
+        2835,
+        966
+      ],
+      "lines": [
+        {
+          "text": "13 10 1987",
+          "box": [
+            2399,
+            831,
+            2764,
+            884
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1760,
+        1050,
+        2370,
+        1215
+      ],
+      "lines": [
+        {
+          "text": "26 12 1900",
+          "box": [
+            1837,
+            1080,
+            2241,
+            1140
+          ]
+        }
+      ]
+    }
+  ]
+}

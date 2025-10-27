@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\russian-NF-1081.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\russian-NF-1081.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            708,
+            273,
+            911,
+            316
+          ],
+          "original_text": "Попова /",
+          "translated_en": "Popova /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            707,
+            329,
+            868,
+            368
+          ],
+          "original_text": "Popova",
+          "translated_en": "Popova",
+          "detected_lang": "hr"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            708,
+            480,
+            1326,
+            524
+          ],
+          "original_text": "Анастасия Владимировна 4",
+          "translated_en": "Anastasia Vladimirovna 4",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            707,
+            524,
+            1234,
+            578
+          ],
+          "original_text": "Aentferrà VПlandaN",
+          "translated_en": "Aentferrà VПlandaN",
+          "detected_lang": "it"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            716,
+            684,
+            981,
+            722
+          ],
+          "original_text": "19.01.:2017",
+          "translated_en": "19.01.:2017",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            720,
+            964,
+            965,
+            998
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            725,
+            1145,
+            986,
+            1185
+          ],
+          "original_text": "20.05.1993",
+          "translated_en": "20.05.1993",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1081_translated.jpg"
+}

@@ -1,0 +1,12 @@
+E1
+EN: BELSER
+EN: Thijs Henrike
+EN: Elisabeth
+
+E2
+EN: OF BIRTH
+EN: 09 01 1973
+
+E3
+EN: ELDIG TOD ! CARD EXPIRY
+EN: 18 04 2032

@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-029_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA OLIVEIRA",
+          "box": [
+            686,
+            341,
+            1186,
+            386
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            681,
+            401,
+            821,
+            444
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        575,
+        1992,
+        671
+      ],
+      "lines": [
+        {
+          "text": "03 06 2003",
+          "box": [
+            1701,
+            602,
+            1991,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1665,
+        845
+      ],
+      "lines": [
+        {
+          "text": "31 05 2013",
+          "box": [
+            1293,
+            768,
+            1581,
+            812
+          ]
+        }
+      ]
+    }
+  ]
+}

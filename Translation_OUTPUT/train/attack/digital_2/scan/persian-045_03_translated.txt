@@ -1,0 +1,22 @@
+E1
+EN: ForDi
+
+E2
+EN: Kazemi
+
+L1
+OR: فرهاد
+EN: Farhad
+
+L2
+OR: رحیمی يمى
+EN: Rahimi Yami
+
+E3
+EN: 21/04/2034
+
+E4
+EN: 21/02/2024
+
+E5
+EN: 06/05/1994

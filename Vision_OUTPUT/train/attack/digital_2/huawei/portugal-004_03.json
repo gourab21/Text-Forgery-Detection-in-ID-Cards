@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-004_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        474,
+        2339,
+        751
+      ],
+      "lines": [
+        {
+          "text": "CMHLEYA GOMES",
+          "box": [
+            1096,
+            539,
+            1829,
+            624
+          ]
+        },
+        {
+          "text": "Francisco Jorge",
+          "box": [
+            1101,
+            632,
+            1741,
+            717
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2639,
+        913,
+        3201,
+        1068
+      ],
+      "lines": [
+        {
+          "text": "07 06 1983",
+          "box": [
+            2746,
+            956,
+            3200,
+            1022
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1987,
+        1160,
+        2677,
+        1343
+      ],
+      "lines": [
+        {
+          "text": "22 09 2011",
+          "box": [
+            2090,
+            1223,
+            2552,
+            1291
+          ]
+        }
+      ]
+    }
+  ]
+}

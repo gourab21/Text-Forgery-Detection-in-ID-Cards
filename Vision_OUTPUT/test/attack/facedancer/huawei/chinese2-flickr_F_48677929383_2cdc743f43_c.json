@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_F_48677929383_2cdc743f43_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        999,
+        649,
+        1927,
+        970
+      ],
+      "lines": [
+        {
+          "text": "孙 萍",
+          "box": [
+            1093,
+            702,
+            1263,
+            785
+          ]
+        },
+        {
+          "text": "Sun Ping",
+          "box": [
+            1094,
+            811,
+            1480,
+            890
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1949,
+        1080,
+        2701,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "29 JAN 1972",
+          "box": [
+            2009,
+            1143,
+            2578,
+            1224
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1955,
+        1383,
+        2731,
+        1589
+      ],
+      "lines": [
+        {
+          "text": "19 SEP 1994",
+          "box": [
+            2023,
+            1446,
+            2587,
+            1523
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1036,
+        1715,
+        1809,
+        1931
+      ],
+      "lines": [
+        {
+          "text": "19 SEP 2014",
+          "box": [
+            1120,
+            1777,
+            1682,
+            1849
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_4188233342_8473de8906_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_4188233342_8473de8906_c.jpg",
+  "width": 3224,
+  "height": 2049,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1086,
+            531,
+            1450,
+            606
+          ],
+          "original_text": "JANSEN",
+          "translated_en": "JANSEN"
+        },
+        {
+          "box": [
+            1099,
+            636,
+            1872,
+            711
+          ],
+          "original_text": "Lisaem Geradus",
+          "translated_en": "Lisaem Geradus"
+        },
+        {
+          "box": [
+            1094,
+            752,
+            1328,
+            823
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2527,
+            965,
+            3065,
+            1030
+          ],
+          "original_text": "07 04 2043",
+          "translated_en": "07 04 2043"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2492,
+            1242,
+            3076,
+            1328
+          ],
+          "original_text": "12 02 1971",
+          "translated_en": "12 02 1971"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_4188233342_8473de8906_c_translated_cleaned.jpg"
+}

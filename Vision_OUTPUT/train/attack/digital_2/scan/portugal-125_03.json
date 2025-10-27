@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        619,
+        298,
+        1461,
+        471
+      ],
+      "lines": [
+        {
+          "text": "OF ANDRO",
+          "box": [
+            684,
+            335,
+            1117,
+            393
+          ]
+        },
+        {
+          "text": "Joao Carlos",
+          "box": [
+            683,
+            396,
+            981,
+            440
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1648,
+        574,
+        1999,
+        670
+      ],
+      "lines": [
+        {
+          "text": "22 05 1990",
+          "box": [
+            1707,
+            601,
+            1996,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1241,
+        729,
+        1671,
+        844
+      ],
+      "lines": [
+        {
+          "text": "15 07 2020",
+          "box": [
+            1298,
+            768,
+            1595,
+            810
+          ]
+        }
+      ]
+    }
+  ]
+}

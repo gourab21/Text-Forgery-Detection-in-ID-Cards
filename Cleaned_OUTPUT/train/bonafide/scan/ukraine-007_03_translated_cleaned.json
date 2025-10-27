@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\scan\\ukraine-007_03_translated.json",
+  "image_relative": "train\\bonafide\\scan\\ukraine-007_03.jpg",
+  "width": 1991,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            636,
+            296,
+            936,
+            346
+          ],
+          "original_text": "Кузьменко /",
+          "translated_en": "Kuzmenko /"
+        },
+        {
+          "box": [
+            635,
+            355,
+            882,
+            390
+          ],
+          "original_text": "Kuzmenko",
+          "translated_en": "Kuzmenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            640,
+            478,
+            1121,
+            527
+          ],
+          "original_text": "Вікторія Сергіївна /",
+          "translated_en": "Victoria Sergiivna /"
+        },
+        {
+          "box": [
+            636,
+            537,
+            835,
+            573
+          ],
+          "original_text": "Viktorija",
+          "translated_en": "Victoria"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            643,
+            685,
+            911,
+            720
+          ],
+          "original_text": "12.11.1990",
+          "translated_en": "12.11.1990"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            646,
+            961,
+            914,
+            997
+          ],
+          "original_text": "28.12.2015",
+          "translated_en": "28.12.2015"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            650,
+            1156,
+            919,
+            1193
+          ],
+          "original_text": "28.12.2020",
+          "translated_en": "28.12.2020"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-007_03_translated_cleaned.jpg"
+}

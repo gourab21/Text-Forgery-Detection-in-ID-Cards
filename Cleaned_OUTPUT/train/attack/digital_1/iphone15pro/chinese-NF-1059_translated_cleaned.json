@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\chinese-NF-1059_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\chinese-NF-1059.jpg",
+  "width": 2636,
+  "height": 1608,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            905,
+            551,
+            1107,
+            613
+          ],
+          "original_text": "武則天",
+          "translated_en": "Wu Zetian"
+        },
+        {
+          "box": [
+            903,
+            629,
+            1208,
+            682
+          ],
+          "original_text": "Vicoleian",
+          "translated_en": "Vicoleian"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1633,
+            916,
+            2061,
+            967
+          ],
+          "original_text": "16 Dec 1997",
+          "translated_en": "16 Dec 1997"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1627,
+            1150,
+            2047,
+            1201
+          ],
+          "original_text": "12 Dec 2012",
+          "translated_en": "12 Dec 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            890,
+            1391,
+            1321,
+            1444
+          ],
+          "original_text": "10 Dec 1995",
+          "translated_en": "10 Dec 1995"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1059_translated_cleaned.jpg"
+}

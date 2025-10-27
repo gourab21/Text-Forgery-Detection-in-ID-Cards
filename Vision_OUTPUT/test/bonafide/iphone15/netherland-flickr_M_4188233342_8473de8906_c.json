@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_M_4188233342_8473de8906_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        756
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            940,
+            457,
+            1250,
+            519
+          ]
+        },
+        {
+          "text": "Willem Gerardus",
+          "box": [
+            938,
+            540,
+            1617,
+            609
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            948,
+            646,
+            1150,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        783,
+        2739,
+        922
+      ],
+      "lines": [
+        {
+          "text": "30 11 1990",
+          "box": [
+            2175,
+            817,
+            2643,
+            883
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2033,
+        1022,
+        2730,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "24 06 2027",
+          "box": [
+            2134,
+            1058,
+            2647,
+            1126
+          ]
+        }
+      ]
+    }
+  ]
+}

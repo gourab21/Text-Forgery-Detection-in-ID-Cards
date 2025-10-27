@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-004_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        474,
+        2339,
+        751
+      ],
+      "lines": [
+        {
+          "text": "JAREDIA GOMES",
+          "box": [
+            1115,
+            543,
+            1814,
+            618
+          ]
+        },
+        {
+          "text": "Francisco Jorge",
+          "box": [
+            1097,
+            628,
+            1741,
+            716
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2639,
+        913,
+        3201,
+        1068
+      ],
+      "lines": [
+        {
+          "text": "19 09 2028",
+          "box": [
+            2737,
+            954,
+            3130,
+            1021
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1987,
+        1160,
+        2677,
+        1343
+      ],
+      "lines": [
+        {
+          "text": "15 09 1980",
+          "box": [
+            2093,
+            1227,
+            2558,
+            1287
+          ]
+        }
+      ]
+    }
+  ]
+}

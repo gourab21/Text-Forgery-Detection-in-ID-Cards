@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-136_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        978,
+        683,
+        2006,
+        1062
+      ],
+      "lines": [
+        {
+          "text": "Christoherl",
+          "box": [
+            1043,
+            757,
+            1512,
+            829
+          ]
+        },
+        {
+          "text": "518 Spruce St",
+          "box": [
+            1044,
+            851,
+            1623,
+            929
+          ]
+        },
+        {
+          "text": "Portland ME 04101",
+          "box": [
+            1045,
+            946,
+            1832,
+            1016
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2355,
+        1211,
+        3158,
+        1374
+      ],
+      "lines": [
+        {
+          "text": "DOB : 04-20-88",
+          "box": [
+            2415,
+            1254,
+            3068,
+            1334
+          ]
+        }
+      ]
+    }
+  ]
+}

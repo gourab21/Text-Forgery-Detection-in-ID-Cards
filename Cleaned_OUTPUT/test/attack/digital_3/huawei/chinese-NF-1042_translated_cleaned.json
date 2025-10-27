@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\chinese-NF-1042_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\chinese-NF-1042.jpg",
+  "width": 3063,
+  "height": 1860,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1029,
+            647,
+            1262,
+            738
+          ],
+          "original_text": "章 子 怕",
+          "translated_en": "Zhang Zi is afraid"
+        },
+        {
+          "box": [
+            1043,
+            737,
+            1450,
+            814
+          ],
+          "original_text": "Melissang .",
+          "translated_en": "Melissang ."
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1888,
+            1081,
+            2333,
+            1148
+          ],
+          "original_text": "22 Apr 2030",
+          "translated_en": "22 Apr 2030"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1878,
+            1353,
+            2362,
+            1419
+          ],
+          "original_text": "05 Apr 2021",
+          "translated_en": "05 Apr 2021"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1021,
+            1622,
+            1496,
+            1682
+          ],
+          "original_text": "22 Dec 2043",
+          "translated_en": "22 Dec 2043"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1042_translated_cleaned.jpg"
+}

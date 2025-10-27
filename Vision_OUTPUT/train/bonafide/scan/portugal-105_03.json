@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-105_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "RIBEIRO FERNANDES",
+          "box": [
+            676,
+            343,
+            1234,
+            386
+          ]
+        },
+        {
+          "text": "Ricardo",
+          "box": [
+            677,
+            405,
+            870,
+            441
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        575,
+        1992,
+        671
+      ],
+      "lines": [
+        {
+          "text": "26 11 1997",
+          "box": [
+            1703,
+            578,
+            1988,
+            619
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1665,
+        845
+      ],
+      "lines": [
+        {
+          "text": "24 11 2027",
+          "box": [
+            1304,
+            757,
+            1590,
+            796
+          ]
+        }
+      ]
+    }
+  ]
+}

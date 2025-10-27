@@ -1,0 +1,22 @@
+E1
+EN: Monic
+
+E2
+EN: Ahmadi
+
+L1
+EN: joy
+OR: فرح
+
+L2
+EN: Hosseini
+OR: حسینی
+
+E3
+EN: 13/02/2031
+
+E4
+EN: 30/06/2024
+
+E5
+EN: 01/01/2084

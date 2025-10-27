@@ -1,0 +1,18 @@
+LE1
+EN: Shevchenko /
+OR: Шевченко /
+EN: Shevchenko
+
+LE2
+EN: Iryna Olegivna /
+OR: Ірина Олегівна /
+EN: Brian
+
+E3
+EN: 21.01.2022
+
+E4
+EN: 04.08.2020
+
+E5
+EN: 29.04.1965

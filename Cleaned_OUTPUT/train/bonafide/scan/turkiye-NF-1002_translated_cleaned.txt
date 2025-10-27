@@ -1,0 +1,12 @@
+E2
+EN: Esra
+
+E1
+EN: Soya
+EN: Tezcan
+
+E3
+EN: 17.09.1990
+
+E4
+EN: 27.10.2030

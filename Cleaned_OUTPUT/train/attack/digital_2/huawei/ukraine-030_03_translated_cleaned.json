@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\ukraine-030_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\ukraine-030_03.jpg",
+  "width": 3193,
+  "height": 1971,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1032,
+            460,
+            1423,
+            534
+          ],
+          "original_text": "Зубенко /",
+          "translated_en": "Zubenko /"
+        },
+        {
+          "box": [
+            1032,
+            553,
+            1363,
+            608
+          ],
+          "original_text": "Zubenko",
+          "translated_en": "Zubenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1022,
+            747,
+            1790,
+            829
+          ],
+          "original_text": "Тетяна Василівна /",
+          "translated_en": "Tatyana Vasylivna /"
+        },
+        {
+          "box": [
+            1024,
+            845,
+            1327,
+            901
+          ],
+          "original_text": "Tire cma",
+          "translated_en": "Tire cma"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1077,
+            1472,
+            1143
+          ],
+          "original_text": "25.12.2011",
+          "translated_en": "25.12.2011"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1019,
+            1517,
+            1445,
+            1580
+          ],
+          "original_text": "10.11.2020",
+          "translated_en": "10.11.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1153,
+            1778,
+            1315,
+            1821
+          ],
+          "original_text": "ку ди",
+          "translated_en": "ку ди"
+        },
+        {
+          "box": [
+            1010,
+            1825,
+            1467,
+            1888
+          ],
+          "original_text": "10.11.2 99",
+          "translated_en": "10.11.2 99"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-030_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_31304800026_59e0161aba_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_31304800026_59e0161aba_c.jpg",
+  "width": 2767,
+  "height": 1732,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            948,
+            595,
+            1087,
+            660
+          ],
+          "original_text": "刘明",
+          "translated_en": "Liu Ming"
+        },
+        {
+          "box": [
+            948,
+            678,
+            1243,
+            739
+          ],
+          "original_text": "Brianing",
+          "translated_en": "Brianing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1723,
+            958,
+            2216,
+            1023
+          ],
+          "original_text": "22 Mar 2013",
+          "translated_en": "22 Mar 2013"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1722,
+            1208,
+            2204,
+            1285
+          ],
+          "original_text": "04 Apr 1996",
+          "translated_en": "04 Apr 1996"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            959,
+            1484,
+            1444,
+            1566
+          ],
+          "original_text": "21 Sep 1936",
+          "translated_en": "21 Sep 1936"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_31304800026_59e0161aba_c_translated_cleaned.jpg"
+}

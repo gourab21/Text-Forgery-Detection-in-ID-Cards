@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\turkiye-101_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\turkiye-101_03.jpg",
+  "width": 2818,
+  "height": 1790,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            927,
+            941,
+            1109,
+            992
+          ],
+          "original_text": "Carr",
+          "translated_en": "Carr"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            930,
+            640,
+            1142,
+            679
+          ],
+          "original_text": "Soyaal",
+          "translated_en": "Soyaal"
+        },
+        {
+          "box": [
+            923,
+            720,
+            1130,
+            776
+          ],
+          "original_text": "Aktaş",
+          "translated_en": "Aktaş"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            934,
+            1157,
+            1344,
+            1219
+          ],
+          "original_text": "02.05.1970",
+          "translated_en": "02.05.1970"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            949,
+            1608,
+            1353,
+            1670
+          ],
+          "original_text": "12.11.1980",
+          "translated_en": "12.11.1980"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-101_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,20 @@
+LE1
+EN: Prizvysh
+OR: Прізвиш
+EN: Tkachenko /
+OR: Ткаченко /
+EN: Tkachenko
+
+LE2
+EN: Oleksandra Mykhailiv
+OR: Олександра Михайлів
+EN: Order
+
+E3
+EN: 14.04.:2014
+
+E4
+EN: 29.06.2017 G
+
+E5
+EN: 29.06.27440

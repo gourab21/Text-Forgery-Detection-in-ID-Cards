@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\turkiye-NF-1008.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        788,
+        789,
+        1609,
+        943
+      ],
+      "lines": [
+        {
+          "text": "Seda",
+          "box": [
+            869,
+            832,
+            1036,
+            884
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        785,
+        576,
+        1608,
+        736
+      ],
+      "lines": [
+        {
+          "text": "Çelik",
+          "box": [
+            876,
+            634,
+            1039,
+            686
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        784,
+        990,
+        1579,
+        1140
+      ],
+      "lines": [
+        {
+          "text": "05.12.1994",
+          "box": [
+            867,
+            1033,
+            1249,
+            1090
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        790,
+        1402,
+        1568,
+        1565
+      ],
+      "lines": [
+        {
+          "text": "17.02.2034 A",
+          "box": [
+            862,
+            1435,
+            1567,
+            1496
+          ]
+        }
+      ]
+    }
+  ]
+}

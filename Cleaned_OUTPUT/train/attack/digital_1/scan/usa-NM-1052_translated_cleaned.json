@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\usa-NM-1052_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\usa-NM-1052.jpg",
+  "width": 1995,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            649,
+            461,
+            1134,
+            520
+          ],
+          "original_text": "anielopherrgher",
+          "translated_en": "anielopherrgher"
+        },
+        {
+          "box": [
+            648,
+            525,
+            934,
+            567
+          ],
+          "original_text": "112 Oak St",
+          "translated_en": "112 Oak St"
+        },
+        {
+          "box": [
+            647,
+            586,
+            1133,
+            630
+          ],
+          "original_text": "Laramie WY 82070",
+          "translated_en": "Laramie WY 82070"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1490,
+            773,
+            1893,
+            821
+          ],
+          "original_text": "10-11-27",
+          "translated_en": "10-11-27"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1052_translated_cleaned.jpg"
+}

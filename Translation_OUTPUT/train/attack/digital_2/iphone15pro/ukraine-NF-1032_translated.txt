@@ -1,0 +1,19 @@
+LE1
+OR: Литвин /
+EN: Lytvyn /
+EN: Lytvyn
+
+LE2
+OR: Вікторія Андріївна /
+EN: Victoria Andreevna /
+OR: Тлогуа
+EN: Tlogua
+
+E3
+EN: 03.06.12041
+
+E4
+EN: 18.07.2015
+
+E5
+EN: 18.07.2000

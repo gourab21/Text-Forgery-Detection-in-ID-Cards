@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\persian-NF-1079_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\persian-NF-1079.jpg",
+  "width": 2789,
+  "height": 1788,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1055,
+            399,
+            1255,
+            471
+          ],
+          "original_text": "Nhri",
+          "translated_en": "Nhri"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1068,
+            616,
+            1413,
+            675
+          ],
+          "original_text": "Ghorbani",
+          "translated_en": "Ghorbani"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1883,
+            403,
+            1948,
+            448
+          ],
+          "original_text": "ندا",
+          "translated_en": "Neda"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1880,
+            600,
+            2053,
+            676
+          ],
+          "original_text": "قربانی",
+          "translated_en": "Sacrifice"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1077,
+            846,
+            1463,
+            916
+          ],
+          "original_text": "16/04/203",
+          "translated_en": "16/04/203"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1088,
+            1312,
+            1476,
+            1373
+          ],
+          "original_text": "16/04/2022",
+          "translated_en": "16/04/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1902,
+            1300,
+            2298,
+            1360
+          ],
+          "original_text": "16/04/2021",
+          "translated_en": "16/04/2021"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1079_translated_cleaned.jpg"
+}

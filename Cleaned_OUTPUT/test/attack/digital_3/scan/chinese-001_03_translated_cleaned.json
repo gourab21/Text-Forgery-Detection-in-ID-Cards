@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-001_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-001_03.jpg",
+  "width": 1991,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            685,
+            495,
+            932,
+            542
+          ],
+          "original_text": "LauraTing",
+          "translated_en": "LauraTing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1242,
+            701,
+            1552,
+            744
+          ],
+          "original_text": "26 Oct 1902",
+          "translated_en": "26 Oct 1902"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1242,
+            884,
+            1535,
+            927
+          ],
+          "original_text": "26 Jul 2011",
+          "translated_en": "26 Jul 2011"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            692,
+            1084,
+            990,
+            1127
+          ],
+          "original_text": "11 Apr 2022",
+          "translated_en": "11 Apr 2022"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-001_03_translated_cleaned.jpg"
+}

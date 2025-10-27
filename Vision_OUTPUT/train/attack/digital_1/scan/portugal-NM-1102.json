@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1455,
+        475
+      ],
+      "lines": [
+        {
+          "text": "BREASA FERRGRA",
+          "box": [
+            689,
+            335,
+            1177,
+            385
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            688,
+            396,
+            1048,
+            450
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        576,
+        1991,
+        673
+      ],
+      "lines": [
+        {
+          "text": "15 09 2039",
+          "box": [
+            1703,
+            599,
+            1990,
+            645
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1236,
+        731,
+        1664,
+        846
+      ],
+      "lines": [
+        {
+          "text": "30 11 1992",
+          "box": [
+            1300,
+            767,
+            1592,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_38999105422_457bedeef7_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        618,
+        395,
+        1192,
+        589
+      ],
+      "lines": [
+        {
+          "text": "张强",
+          "box": [
+            684,
+            421,
+            795,
+            473
+          ]
+        },
+        {
+          "text": "Gerad Qiang",
+          "box": [
+            688,
+            476,
+            1026,
+            543
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1205,
+        657,
+        1670,
+        776
+      ],
+      "lines": [
+        {
+          "text": "03 May 1916",
+          "box": [
+            1234,
+            708,
+            1582,
+            757
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1209,
+        842,
+        1687,
+        966
+      ],
+      "lines": [
+        {
+          "text": "06 Mar 2061 000",
+          "box": [
+            1237,
+            890,
+            1686,
+            965
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        641,
+        1043,
+        1118,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "26 Dec 1971",
+          "box": [
+            676,
+            1073,
+            1015,
+            1118
+          ]
+        }
+      ]
+    }
+  ]
+}

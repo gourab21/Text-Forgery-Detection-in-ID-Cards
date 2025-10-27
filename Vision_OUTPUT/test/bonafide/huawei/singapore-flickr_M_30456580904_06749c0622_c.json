@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_30456580904_06749c0622_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        655,
+        2383,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Hafiz bin Rahman",
+          "box": [
+            797,
+            745,
+            1760,
+            825
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1405,
+        1641,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "1975-02-22",
+          "box": [
+            817,
+            1476,
+            1392,
+            1549
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1783,
+        1706,
+        2632,
+        1895
+      ],
+      "lines": [
+        {
+          "text": "1985-02-22",
+          "box": [
+            1871,
+            1754,
+            2455,
+            1833
+          ]
+        }
+      ]
+    }
+  ]
+}

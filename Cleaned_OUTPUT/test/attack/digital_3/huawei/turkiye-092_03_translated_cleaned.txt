@@ -1,0 +1,11 @@
+E2
+EN: Brand
+
+E1
+EN: Tekin
+
+E3
+EN: 17.01.1999
+
+E4
+EN: 22.06.2090 A

@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\arabic-NF-1003_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\arabic-NF-1003.jpg",
+  "width": 3190,
+  "height": 1963,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1204,
+            729,
+            1911,
+            825
+          ],
+          "original_text": "Jennifer - Sayed",
+          "translated_en": "Jennifer - Sayed"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1175,
+            508,
+            1673,
+            613
+          ],
+          "original_text": "السيد أميرة",
+          "translated_en": "Mr. Amira"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1188,
+            1234,
+            1757,
+            1320
+          ],
+          "original_text": "21 Sep 2090",
+          "translated_en": "21 Sep 2090"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1182,
+            1494,
+            1750,
+            1575
+          ],
+          "original_text": "07 Jan 2025",
+          "translated_en": "07 Jan 2025"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1170,
+            1756,
+            1724,
+            1831
+          ],
+          "original_text": "05 Nov 203",
+          "translated_en": "05 Nov 203"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2040,
+            1251,
+            2673,
+            1336
+          ],
+          "original_text": "٢٢ / سبتمبر / /",
+          "translated_en": "September 22"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2039,
+            1508,
+            2719,
+            1585
+          ],
+          "original_text": "٠٧ / يناير / ۲۰۲۵",
+          "translated_en": "January 7, 2025"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2031,
+            1769,
+            2711,
+            1856
+          ],
+          "original_text": "٠٧ / يناير / ۲۰۳۵",
+          "translated_en": "January 7, 2035"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1003_translated_cleaned.jpg"
+}

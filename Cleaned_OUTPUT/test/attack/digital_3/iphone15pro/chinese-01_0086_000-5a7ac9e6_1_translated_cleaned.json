@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\chinese-01_0086_000-5a7ac9e6_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\chinese-01_0086_000-5a7ac9e6_1.jpg",
+  "width": 2769,
+  "height": 1768,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            945,
+            616,
+            1083,
+            677
+          ],
+          "original_text": "陈悦",
+          "translated_en": "Chen Yue"
+        },
+        {
+          "box": [
+            949,
+            694,
+            1289,
+            753
+          ],
+          "original_text": "Scot Yue",
+          "translated_en": "Scot Yue"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1735,
+            982,
+            2198,
+            1059
+          ],
+          "original_text": "13 May 1980",
+          "translated_en": "13 May 1980"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1733,
+            1245,
+            2199,
+            1302
+          ],
+          "original_text": "12 NOV 2014",
+          "translated_en": "12 NOV 2014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            970,
+            1524,
+            1425,
+            1588
+          ],
+          "original_text": "10 Oc 1994",
+          "translated_en": "10 Oc 1994"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-01_0086_000-5a7ac9e6_1_translated_cleaned.jpg"
+}

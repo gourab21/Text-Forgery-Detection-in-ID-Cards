@@ -1,0 +1,27 @@
+E1
+EN: K milyl 1l Mubrak
+
+L1
+EN: Mubarak Khalil
+OR: المبارك خليل
+
+E2
+EN: 17 Aug 2101
+
+E3
+EN: 20 Apr 2022
+
+E4
+EN: 10 May 2031
+
+L2
+EN: August 17, 1994
+OR: ١٧ / أغسطس / ١٩٩٤
+
+L3
+EN: April 20, 2022
+OR: ۲۰ / أبريل / ۲۰۲۲
+
+L4
+EN: May 10, 2032
+OR: ١٠ / مايو / ٢۰۳۲

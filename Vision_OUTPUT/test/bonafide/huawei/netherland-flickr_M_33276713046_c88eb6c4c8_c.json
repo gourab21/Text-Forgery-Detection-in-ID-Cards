@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\huawei\\netherland-flickr_M_33276713046_c88eb6c4c8_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        458,
+        2033,
+        856
+      ],
+      "lines": [
+        {
+          "text": "VAN DEN BERG",
+          "box": [
+            1063,
+            504,
+            1782,
+            580
+          ]
+        },
+        {
+          "text": "Lotte Elisabeth",
+          "box": [
+            1070,
+            608,
+            1758,
+            684
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            1071,
+            720,
+            1443,
+            790
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2364,
+        885,
+        3131,
+        1043
+      ],
+      "lines": [
+        {
+          "text": "26 12 1985",
+          "box": [
+            2484,
+            923,
+            3026,
+            1002
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2323,
+        1157,
+        3120,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "08 11 2029",
+          "box": [
+            2439,
+            1200,
+            3024,
+            1280
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_46826659491_bab820563f_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        662,
+        655,
+        2392,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Amand Saed",
+          "box": [
+            810,
+            738,
+            1450,
+            818
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        738,
+        1405,
+        1647,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "22-05-4599",
+          "box": [
+            828,
+            1471,
+            1401,
+            1558
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1790,
+        1706,
+        2642,
+        1895
+      ],
+      "lines": [
+        {
+          "text": "30-02-2770",
+          "box": [
+            1894,
+            1745,
+            2472,
+            1833
+          ]
+        }
+      ]
+    }
+  ]
+}

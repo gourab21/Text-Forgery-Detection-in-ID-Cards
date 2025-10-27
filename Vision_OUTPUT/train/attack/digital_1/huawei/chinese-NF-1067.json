@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\chinese-NF-1067.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        969,
+        601,
+        1680,
+        882
+      ],
+      "lines": [
+        {
+          "text": "張梦奇",
+          "box": [
+            1021,
+            658,
+            1257,
+            733
+          ]
+        },
+        {
+          "text": "Zelanieengqii",
+          "box": [
+            1028,
+            755,
+            1540,
+            815
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1823,
+        999,
+        2448,
+        1201
+      ],
+      "lines": [
+        {
+          "text": "05 Jan 12003",
+          "box": [
+            1885,
+            1066,
+            2385,
+            1127
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1796,
+        1289,
+        2485,
+        1483
+      ],
+      "lines": [
+        {
+          "text": "26 Jul 2011",
+          "box": [
+            1895,
+            1340,
+            2340,
+            1400
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        939,
+        1578,
+        1656,
+        1765
+      ],
+      "lines": [
+        {
+          "text": "23 Jul 1998",
+          "box": [
+            1056,
+            1635,
+            1525,
+            1701
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_23559454676_4919252d67_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        753
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            937,
+            449,
+            1252,
+            512
+          ]
+        },
+        {
+          "text": "David Henrike",
+          "box": [
+            946,
+            540,
+            1482,
+            599
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            941,
+            631,
+            1268,
+            696
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        781,
+        2739,
+        920
+      ],
+      "lines": [
+        {
+          "text": "26 11 2004",
+          "box": [
+            2169,
+            813,
+            2616,
+            871
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2033,
+        1021,
+        2730,
+        1193
+      ],
+      "lines": [
+        {
+          "text": "13 10 2019",
+          "box": [
+            2140,
+            1053,
+            2628,
+            1121
+          ]
+        }
+      ]
+    }
+  ]
+}

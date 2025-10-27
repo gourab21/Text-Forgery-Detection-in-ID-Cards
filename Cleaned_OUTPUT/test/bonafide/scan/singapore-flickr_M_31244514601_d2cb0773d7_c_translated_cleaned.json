@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\singapore-flickr_M_31244514601_d2cb0773d7_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\singapore-flickr_M_31244514601_d2cb0773d7_c.jpg",
+  "width": 1994,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            503,
+            474,
+            911,
+            516
+          ],
+          "original_text": "Amit Verma",
+          "translated_en": "Amit Verma"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            516,
+            926,
+            881,
+            973
+          ],
+          "original_text": "2002-07-31",
+          "translated_en": "2002-07-31"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1176,
+            1098,
+            1542,
+            1147
+          ],
+          "original_text": "2012-07-31",
+          "translated_en": "2012-07-31"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_31244514601_d2cb0773d7_c_translated_cleaned.jpg"
+}

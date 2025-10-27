@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-118_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        421,
+        1892,
+        567
+      ],
+      "lines": [
+        {
+          "text": "JACQUET",
+          "box": [
+            1041,
+            465,
+            1389,
+            525
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        695,
+        2004,
+        871
+      ],
+      "lines": [
+        {
+          "text": "Isabelle , Hélène",
+          "box": [
+            1038,
+            735,
+            1655,
+            811
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2217,
+        974,
+        2842,
+        1142
+      ],
+      "lines": [
+        {
+          "text": "1901 1995",
+          "box": [
+            2281,
+            1009,
+            2728,
+            1073
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2188,
+        1589,
+        2822,
+        1743
+      ],
+      "lines": [
+        {
+          "text": "05 11 2031",
+          "box": [
+            2262,
+            1630,
+            2718,
+            1687
+          ]
+        }
+      ]
+    }
+  ]
+}

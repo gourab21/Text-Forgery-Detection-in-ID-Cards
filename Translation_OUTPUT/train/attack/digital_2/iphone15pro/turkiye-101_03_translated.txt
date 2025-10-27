@@ -1,0 +1,13 @@
+E2
+EN: Ohri
+
+E1
+EN: Soyaar
+EN: Aktaş
+
+E3
+EN: 06.01.120 7
+
+E4
+EN: 司
+EN: 22.06.2006

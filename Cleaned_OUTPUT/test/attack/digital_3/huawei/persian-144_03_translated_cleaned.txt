@@ -1,0 +1,20 @@
+E1
+EN: Cynt
+
+E2
+EN: Rahimi
+
+L1
+
+L2
+EN: Rahimi
+OR: رحيمي
+
+E3
+EN: 25/07/2045
+
+E4
+EN: 22/12/2016
+
+E5
+EN: 10/10/2000

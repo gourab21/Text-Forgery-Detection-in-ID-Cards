@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-NF-1059.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        637,
+        396,
+        1104,
+        582
+      ],
+      "lines": [
+        {
+          "text": "武則天",
+          "box": [
+            683,
+            428,
+            838,
+            482
+          ]
+        },
+        {
+          "text": "vhawntian",
+          "box": [
+            683,
+            485,
+            956,
+            529
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1198,
+        658,
+        1608,
+        791
+      ],
+      "lines": [
+        {
+          "text": "16 Dec 7199",
+          "box": [
+            1234,
+            714,
+            1552,
+            756
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1180,
+        850,
+        1631,
+        977
+      ],
+      "lines": [
+        {
+          "text": "12 Dec 2012",
+          "box": [
+            1231,
+            897,
+            1550,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1040,
+        1088,
+        1162
+      ],
+      "lines": [
+        {
+          "text": "10 Dec 2044",
+          "box": [
+            671,
+            1080,
+            1002,
+            1121
+          ]
+        }
+      ]
+    }
+  ]
+}

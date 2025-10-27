@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\turkiye-129_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        851,
+        872,
+        1737,
+        1041
+      ],
+      "lines": [
+        {
+          "text": "Sess",
+          "box": [
+            926,
+            930,
+            1123,
+            984
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        848,
+        637,
+        1737,
+        814
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            923,
+            703,
+            1166,
+            762
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        846,
+        1094,
+        1704,
+        1260
+      ],
+      "lines": [
+        {
+          "text": "17.02.1998",
+          "box": [
+            938,
+            1149,
+            1365,
+            1205
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        853,
+        1549,
+        1693,
+        1729
+      ],
+      "lines": [
+        {
+          "text": "15.11.2040",
+          "box": [
+            947,
+            1591,
+            1383,
+            1656
+          ]
+        }
+      ]
+    }
+  ]
+}

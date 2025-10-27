@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-090_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        901,
+        402,
+        1793,
+        542
+      ],
+      "lines": [
+        {
+          "text": "DURAND",
+          "box": [
+            999,
+            444,
+            1312,
+            497
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        893,
+        664,
+        1898,
+        831
+      ],
+      "lines": [
+        {
+          "text": "Isabelle , Marie",
+          "box": [
+            995,
+            703,
+            1528,
+            769
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2101,
+        929,
+        2692,
+        1090
+      ],
+      "lines": [
+        {
+          "text": "24 06 1991",
+          "box": [
+            2162,
+            962,
+            2570,
+            1016
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2073,
+        1518,
+        2674,
+        1664
+      ],
+      "lines": [
+        {
+          "text": "21 12 2027",
+          "box": [
+            2150,
+            1540,
+            2555,
+            1596
+          ]
+        }
+      ]
+    }
+  ]
+}

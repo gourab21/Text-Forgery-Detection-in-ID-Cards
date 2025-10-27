@@ -1,0 +1,27 @@
+E1
+EN: Cindy Arubank
+
+L1
+OR: المبارك خليل
+EN: Mubarak Khalil
+
+E2
+EN: 09 Sep 2020
+
+E3
+EN: 20 Apr 2022
+
+E4
+EN: 21 May 2021
+
+L2
+OR: ١٧ YV / أغسطس / ١٩٩٤
+EN: 17 YV / August / 1994
+
+L3
+OR: ٢٠ / أبريل / ٢٠٢٢
+EN: April 20, 2022
+
+L4
+OR: ١٠ / مايو / ۲۰۳۲
+EN: May 10, 2032

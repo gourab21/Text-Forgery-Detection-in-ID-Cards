@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\portugal-172_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\portugal-172_03.jpg",
+  "width": 3022,
+  "height": 1882,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1036,
+            521,
+            1728,
+            585
+          ],
+          "original_text": "MARY RO SANTOS",
+          "translated_en": "MARY RO SANTOS"
+        },
+        {
+          "box": [
+            1030,
+            601,
+            1274,
+            665
+          ],
+          "original_text": "Carlos",
+          "translated_en": "Carlos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2574,
+            910,
+            2951,
+            974
+          ],
+          "original_text": "14 11 1939",
+          "translated_en": "14 11 1939"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1969,
+            1161,
+            2403,
+            1223
+          ],
+          "original_text": "16 02 1900",
+          "translated_en": "16 02 1900"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-172_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,103 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\persian-122_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\persian-122_03.jpg",
+  "width": 1992,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            777,
+            281,
+            988,
+            331
+          ],
+          "original_text": "Tonyam",
+          "translated_en": "Tonyam"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            773,
+            428,
+            994,
+            469
+          ],
+          "original_text": "Kermani",
+          "translated_en": "Kermani"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1354,
+            304,
+            1438,
+            334
+          ],
+          "original_text": "مريم",
+          "translated_en": "Mariam"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": []
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            767,
+            592,
+            1047,
+            635
+          ],
+          "original_text": "23/08/1992",
+          "translated_en": "23/08/1992"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            764,
+            921,
+            1040,
+            963
+          ],
+          "original_text": "15/12/2024",
+          "translated_en": "15/12/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1343,
+            929,
+            1617,
+            972
+          ],
+          "original_text": "18/09/1951",
+          "translated_en": "18/09/1951"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-122_03_translated_cleaned.jpg"
+}

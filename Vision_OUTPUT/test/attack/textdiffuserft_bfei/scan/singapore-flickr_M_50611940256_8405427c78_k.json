@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_50611940256_8405427c78_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        414,
+        1498,
+        614
+      ],
+      "lines": [
+        {
+          "text": "Crystaas",
+          "box": [
+            510,
+            472,
+            850,
+            533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        889,
+        1031,
+        1012
+      ],
+      "lines": [
+        {
+          "text": "15-02-251",
+          "box": [
+            524,
+            925,
+            879,
+            980
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1121,
+        1079,
+        1655,
+        1198
+      ],
+      "lines": [
+        {
+          "text": "23-02-239",
+          "box": [
+            1186,
+            1099,
+            1549,
+            1152
+          ]
+        }
+      ]
+    }
+  ]
+}

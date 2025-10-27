@@ -1,0 +1,21 @@
+LE1
+OR: Коваленко /
+EN: Kovalenko /
+EN: Kovalenko
+
+LE2
+OR: Олександр Михайлови
+EN: Alexander Mykhailovy
+EN: Oleksandr
+
+E3
+EN: Дата
+EN: 21.08.1971
+
+E4
+EN: Дата вида
+EN: 21.02.2018
+
+E5
+EN: строку д
+EN: 20.02.2023

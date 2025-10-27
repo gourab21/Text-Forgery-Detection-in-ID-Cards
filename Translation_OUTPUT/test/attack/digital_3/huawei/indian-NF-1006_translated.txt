@@ -1,0 +1,15 @@
+E1
+EN: GHOSE
+
+E2
+EN: VIRG NIATA
+
+E3
+EN: 15/03/1911
+
+E4
+EN: ate c
+EN: 29/09/2022
+
+E5
+EN: 24/03/1980

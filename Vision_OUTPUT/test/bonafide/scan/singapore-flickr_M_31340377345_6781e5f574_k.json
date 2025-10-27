@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_31340377345_6781e5f574_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        414,
+        1498,
+        614
+      ],
+      "lines": [
+        {
+          "text": "Wei Tsang Ooi",
+          "box": [
+            516,
+            464,
+            1014,
+            523
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        889,
+        1031,
+        1012
+      ],
+      "lines": [
+        {
+          "text": "1973-11-18",
+          "box": [
+            517,
+            920,
+            877,
+            973
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1080,
+        1656,
+        1199
+      ],
+      "lines": [
+        {
+          "text": "1983-11-18",
+          "box": [
+            1173,
+            1113,
+            1533,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

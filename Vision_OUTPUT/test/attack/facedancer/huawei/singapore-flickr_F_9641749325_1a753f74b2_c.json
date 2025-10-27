@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\singapore-flickr_F_9641749325_1a753f74b2_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        652,
+        2384,
+        967
+      ],
+      "lines": [
+        {
+          "text": "Siti binti Ayan",
+          "box": [
+            801,
+            746,
+            1580,
+            837
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1400,
+        1642,
+        1594
+      ],
+      "lines": [
+        {
+          "text": "1981-06-27",
+          "box": [
+            834,
+            1473,
+            1410,
+            1545
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1785,
+        1700,
+        2634,
+        1888
+      ],
+      "lines": [
+        {
+          "text": "1991-06-27",
+          "box": [
+            1894,
+            1750,
+            2473,
+            1829
+          ]
+        }
+      ]
+    }
+  ]
+}

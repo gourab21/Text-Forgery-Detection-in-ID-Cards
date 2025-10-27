@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-01_0022_000-3b9715ed_0.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        635,
+        397,
+        1101,
+        583
+      ],
+      "lines": [
+        {
+          "text": "AL",
+          "box": [
+            681,
+            425,
+            793,
+            480
+          ]
+        },
+        {
+          "text": "Nicoleing",
+          "box": [
+            694,
+            489,
+            941,
+            540
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1196,
+        661,
+        1605,
+        795
+      ],
+      "lines": [
+        {
+          "text": "02 Sep 1973",
+          "box": [
+            1239,
+            717,
+            1554,
+            763
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1178,
+        853,
+        1629,
+        980
+      ],
+      "lines": [
+        {
+          "text": "17 Apr 2016",
+          "box": [
+            1234,
+            899,
+            1544,
+            943
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        616,
+        1043,
+        1086,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "26 Sep 1927",
+          "box": [
+            673,
+            1084,
+            985,
+            1131
+          ]
+        }
+      ]
+    }
+  ]
+}

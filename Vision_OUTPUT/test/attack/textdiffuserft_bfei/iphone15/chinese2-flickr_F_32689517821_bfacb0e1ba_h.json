@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_32689517821_bfacb0e1ba_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        857,
+        553,
+        1652,
+        826
+      ],
+      "lines": [
+        {
+          "text": "陈莉",
+          "box": [
+            949,
+            599,
+            1093,
+            663
+          ]
+        },
+        {
+          "text": "Amandai",
+          "box": [
+            941,
+            694,
+            1222,
+            742
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1671,
+        920,
+        2315,
+        1086
+      ],
+      "lines": [
+        {
+          "text": "09 Feb 1969",
+          "box": [
+            1728,
+            967,
+            2218,
+            1036
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1676,
+        1178,
+        2341,
+        1354
+      ],
+      "lines": [
+        {
+          "text": "27 May 2024",
+          "box": [
+            1730,
+            1225,
+            2207,
+            1294
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        888,
+        1461,
+        1551,
+        1646
+      ],
+      "lines": [
+        {
+          "text": "01 Jun 2018",
+          "box": [
+            961,
+            1504,
+            1447,
+            1566
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_37190875605_735b3fca0d_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        860,
+        551,
+        1658,
+        823
+      ],
+      "lines": [
+        {
+          "text": "杨军",
+          "box": [
+            949,
+            595,
+            1095,
+            662
+          ]
+        },
+        {
+          "text": "Stephani",
+          "box": [
+            949,
+            682,
+            1284,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1678,
+        917,
+        2325,
+        1083
+      ],
+      "lines": [
+        {
+          "text": "13 May 2016",
+          "box": [
+            1729,
+            965,
+            2220,
+            1035
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1683,
+        1174,
+        2351,
+        1350
+      ],
+      "lines": [
+        {
+          "text": "15 May 2015",
+          "box": [
+            1737,
+            1214,
+            2240,
+            1292
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        892,
+        1456,
+        1557,
+        1640
+      ],
+      "lines": [
+        {
+          "text": "31 Jun 1983",
+          "box": [
+            971,
+            1498,
+            1475,
+            1562
+          ]
+        },
+        {
+          "text": "296",
+          "box": [
+            919,
+            1579,
+            949,
+            1628
+          ]
+        }
+      ]
+    }
+  ]
+}

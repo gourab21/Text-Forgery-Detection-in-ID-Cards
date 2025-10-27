@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_31196390972_be24a6067c_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_31196390972_be24a6067c_k.jpg",
+  "width": 2778,
+  "height": 1744,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            956,
+            594,
+            1101,
+            666
+          ],
+          "original_text": "黄 芳",
+          "translated_en": "Huang Fang"
+        },
+        {
+          "box": [
+            959,
+            685,
+            1393,
+            754
+          ],
+          "original_text": "Robin Fang",
+          "translated_en": "Robin Fang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1731,
+            969,
+            2208,
+            1041
+          ],
+          "original_text": "22 May 1905",
+          "translated_en": "22 May 1905"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1743,
+            1222,
+            2244,
+            1285
+          ],
+          "original_text": "05 Mar 1927",
+          "translated_en": "05 Mar 1927"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            973,
+            1503,
+            1474,
+            1572
+          ],
+          "original_text": "28 Mar 1946",
+          "translated_en": "28 Mar 1946"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_F_31196390972_be24a6067c_k_translated_cleaned.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-063_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        425,
+        1236,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Alex King",
+          "box": [
+            654,
+            464,
+            895,
+            515
+          ]
+        },
+        {
+          "text": "910 Apple Blvd",
+          "box": [
+            655,
+            525,
+            1034,
+            572
+          ]
+        },
+        {
+          "text": "Austin TX 78701",
+          "box": [
+            651,
+            583,
+            1071,
+            626
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1452,
+        754,
+        1946,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 05-08-88",
+          "box": [
+            1495,
+            774,
+            1888,
+            819
+          ]
+        }
+      ]
+    }
+  ]
+}

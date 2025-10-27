@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\turkiye-NM-1011.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        909,
+        927,
+        1857,
+        1108
+      ],
+      "lines": [
+        {
+          "text": "Shrit",
+          "box": [
+            993,
+            978,
+            1204,
+            1039
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        907,
+        678,
+        1858,
+        866
+      ],
+      "lines": [
+        {
+          "text": "Ergin",
+          "box": [
+            999,
+            745,
+            1203,
+            826
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        906,
+        1163,
+        1822,
+        1341
+      ],
+      "lines": [
+        {
+          "text": "19.06.:2034",
+          "box": [
+            994,
+            1210,
+            1452,
+            1277
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        912,
+        1649,
+        1809,
+        1840
+      ],
+      "lines": [
+        {
+          "text": "05.09.2001",
+          "box": [
+            980,
+            1678,
+            1446,
+            1759
+          ]
+        }
+      ]
+    }
+  ]
+}

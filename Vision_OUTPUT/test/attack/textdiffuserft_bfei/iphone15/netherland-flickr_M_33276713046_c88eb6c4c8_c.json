@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_33276713046_c88eb6c4c8_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        753
+      ],
+      "lines": [
+        {
+          "text": "VAN DEN BERG",
+          "box": [
+            945,
+            446,
+            1567,
+            515
+          ]
+        },
+        {
+          "text": "Erine Elisabeth",
+          "box": [
+            950,
+            532,
+            1541,
+            596
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            948,
+            635,
+            1272,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2069,
+        780,
+        2741,
+        919
+      ],
+      "lines": [
+        {
+          "text": "08 05 2034",
+          "box": [
+            2174,
+            818,
+            2618,
+            882
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2034,
+        1019,
+        2731,
+        1190
+      ],
+      "lines": [
+        {
+          "text": "14 12 1989",
+          "box": [
+            2148,
+            1055,
+            2633,
+            1127
+          ]
+        }
+      ]
+    }
+  ]
+}

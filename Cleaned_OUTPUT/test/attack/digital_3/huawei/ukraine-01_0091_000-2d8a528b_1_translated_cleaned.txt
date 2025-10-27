@@ -1,0 +1,18 @@
+LE1
+EN: Kravchuk /
+OR: Кравчук /
+EN: Kravchuk
+
+LE2
+EN: Sergey Nikolaevich,
+OR: Сергій Миколайович ,
+EN: Kathry
+
+E3
+EN: 06.06.2070
+
+E4
+EN: 28.07.2015
+
+E5
+EN: 04.03.1924

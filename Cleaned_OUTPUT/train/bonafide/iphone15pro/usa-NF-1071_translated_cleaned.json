@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\iphone15pro\\usa-NF-1071_translated.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-NF-1071.jpg",
+  "width": 2849,
+  "height": 1787,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            917,
+            665,
+            1252,
+            751
+          ],
+          "original_text": "Carla Go",
+          "translated_en": "Carla Go"
+        },
+        {
+          "box": [
+            918,
+            730,
+            1711,
+            815
+          ],
+          "original_text": "874 Third Ave TEST",
+          "translated_en": "874 Third Ave TEST"
+        },
+        {
+          "box": [
+            919,
+            843,
+            1560,
+            902
+          ],
+          "original_text": "Orlando FL 32801",
+          "translated_en": "Orlando FL 32801"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2120,
+            1098,
+            2679,
+            1151
+          ],
+          "original_text": "08-29-93",
+          "translated_en": "08-29-93"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1071_translated_cleaned.jpg"
+}

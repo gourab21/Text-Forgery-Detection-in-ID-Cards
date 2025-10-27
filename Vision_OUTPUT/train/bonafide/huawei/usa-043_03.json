@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-043_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        965,
+        673,
+        1981,
+        1047
+      ],
+      "lines": [
+        {
+          "text": "Ethan Wright",
+          "box": [
+            1048,
+            744,
+            1594,
+            821
+          ]
+        },
+        {
+          "text": "15 Cedar L",
+          "box": [
+            1039,
+            838,
+            1490,
+            909
+          ]
+        },
+        {
+          "text": "Salem OR 97301",
+          "box": [
+            1038,
+            928,
+            1723,
+            1001
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2324,
+        1193,
+        3117,
+        1354
+      ],
+      "lines": [
+        {
+          "text": "DOB : 02-08-83",
+          "box": [
+            2399,
+            1238,
+            3031,
+            1308
+          ]
+        }
+      ]
+    }
+  ]
+}

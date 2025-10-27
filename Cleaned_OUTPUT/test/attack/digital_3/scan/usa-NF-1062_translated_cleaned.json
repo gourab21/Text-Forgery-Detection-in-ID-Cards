@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\usa-NF-1062_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-NF-1062.jpg",
+  "width": 1996,
+  "height": 1244,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            647,
+            464,
+            977,
+            510
+          ],
+          "original_text": "Amyra Brown",
+          "translated_en": "Amyra Brown"
+        },
+        {
+          "box": [
+            655,
+            524,
+            1085,
+            567
+          ],
+          "original_text": "337 Lakeview Dr",
+          "translated_en": "337 Lakeview Dr"
+        },
+        {
+          "box": [
+            651,
+            582,
+            1132,
+            627
+          ],
+          "original_text": "Medford OR 97501",
+          "translated_en": "Medford OR 97501"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1491,
+            775,
+            1882,
+            825
+          ],
+          "original_text": "30-02-28",
+          "translated_en": "30-02-28"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1062_translated_cleaned.jpg"
+}

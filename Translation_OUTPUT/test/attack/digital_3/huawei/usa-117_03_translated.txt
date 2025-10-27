@@ -1,0 +1,7 @@
+E1
+EN: Michaele D
+EN: 1234 Elm St RATE
+EN: Springfield IL 62704
+
+E2
+EN: DOB : 09-11-51

@@ -1,0 +1,22 @@
+LE1
+OR: різви
+EN: riots
+OR: Петренко /
+EN: Petrenko /
+EN: Petrenko
+
+LE2
+OR: Ірина Олександрівна
+EN: Iryna Oleksandrivna
+EN: I teph
+
+E3
+EN: 09.09.12032
+
+E4
+EN: Дата вида
+EN: 14.08.2017
+
+E5
+EN: строку д
+EN: 14.08.2035

@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\indian-01_0082_000-1b935c0e_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\indian-01_0082_000-1b935c0e_0.jpg",
+  "width": 2629,
+  "height": 1609,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            915,
+            590,
+            1062,
+            637
+          ],
+          "original_text": "ROY",
+          "translated_en": "ROY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            915,
+            784,
+            1417,
+            847
+          ],
+          "original_text": "PARKEDINSH",
+          "translated_en": "PARKEDINSH"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            907,
+            994,
+            1323,
+            1054
+          ],
+          "original_text": "14/06/1956",
+          "translated_en": "14/06/1956"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            896,
+            1374,
+            1314,
+            1434
+          ],
+          "original_text": "22/08/2012",
+          "translated_en": "22/08/2012"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1848,
+            1387,
+            2253,
+            1443
+          ],
+          "original_text": "15/10/1997",
+          "translated_en": "15/10/1997"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-01_0082_000-1b935c0e_0_translated_cleaned.jpg"
+}

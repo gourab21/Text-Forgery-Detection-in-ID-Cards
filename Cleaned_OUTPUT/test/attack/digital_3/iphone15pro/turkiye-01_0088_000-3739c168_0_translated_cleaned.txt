@@ -1,0 +1,11 @@
+E2
+EN: Kristi
+
+E1
+EN: Karaman
+
+E3
+EN: 16.03.1967
+
+E4
+EN: 19.10.1921

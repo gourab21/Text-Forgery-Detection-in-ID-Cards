@@ -1,0 +1,18 @@
+LE1
+EN: Zhuravleva /
+OR: Журавлева /
+EN: Zhuravleva
+
+LE2
+EN: Daria Sergeevna /
+OR: Дарья Сергеевна /
+EN: Tracey Sergeevna
+
+E3
+EN: 20.10.1922
+
+E4
+EN: 17.12.2014
+
+E5
+EN: 24.09.1984

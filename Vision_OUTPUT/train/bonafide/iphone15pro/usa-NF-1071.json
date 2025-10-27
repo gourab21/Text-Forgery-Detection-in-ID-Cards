@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-NF-1071.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        862,
+        609,
+        1769,
+        946
+      ],
+      "lines": [
+        {
+          "text": "Carla Go",
+          "box": [
+            917,
+            665,
+            1252,
+            751
+          ]
+        },
+        {
+          "text": "874 Third Ave TEST",
+          "box": [
+            918,
+            730,
+            1711,
+            815
+          ]
+        },
+        {
+          "text": "Orlando FL 32801",
+          "box": [
+            919,
+            843,
+            1560,
+            902
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2075,
+        1079,
+        2783,
+        1224
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-29-93",
+          "box": [
+            2120,
+            1098,
+            2679,
+            1151
+          ]
+        }
+      ]
+    }
+  ]
+}

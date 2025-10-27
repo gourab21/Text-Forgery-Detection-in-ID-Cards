@@ -1,0 +1,95 @@
+{
+  "image": "test\\bonafide\\scan\\chinese2-flickr_F_40837237721_dedac367d4_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        618,
+        395,
+        1192,
+        589
+      ],
+      "lines": [
+        {
+          "text": "赵萍",
+          "box": [
+            681,
+            427,
+            786,
+            479
+          ]
+        },
+        {
+          "text": "Zhao Ping",
+          "box": [
+            685,
+            494,
+            955,
+            543
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1206,
+        657,
+        1671,
+        776
+      ],
+      "lines": [
+        {
+          "text": "24 MAR 1974",
+          "box": [
+            1246,
+            697,
+            1610,
+            742
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1211,
+        842,
+        1690,
+        966
+      ],
+      "lines": [
+        {
+          "text": "20 JAN 2012",
+          "box": [
+            1251,
+            876,
+            1595,
+            925
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        642,
+        1043,
+        1119,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "20 JAN 2032",
+          "box": [
+            697,
+            1078,
+            1041,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

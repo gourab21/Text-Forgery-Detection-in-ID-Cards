@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-NF-1109.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        433,
+        2076,
+        686
+      ],
+      "lines": [
+        {
+          "text": "CEBORAHANTOS",
+          "box": [
+            959,
+            495,
+            1520,
+            556
+          ]
+        },
+        {
+          "text": "Sara",
+          "box": [
+            959,
+            583,
+            1119,
+            635
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2342,
+        835,
+        2841,
+        975
+      ],
+      "lines": [
+        {
+          "text": "09 10 2001",
+          "box": [
+            2419,
+            836,
+            2835,
+            889
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1764,
+        1060,
+        2375,
+        1226
+      ],
+      "lines": [
+        {
+          "text": "06 10 2036",
+          "box": [
+            1849,
+            1080,
+            2283,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

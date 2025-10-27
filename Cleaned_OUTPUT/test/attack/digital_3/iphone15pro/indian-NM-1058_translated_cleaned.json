@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\indian-NM-1058_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\indian-NM-1058.jpg",
+  "width": 2814,
+  "height": 1768,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            970,
+            664,
+            1459,
+            718
+          ],
+          "original_text": "CHOWDHURY",
+          "translated_en": "CHOWDHURY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            977,
+            882,
+            1326,
+            934
+          ],
+          "original_text": "JAMESRAJ",
+          "translated_en": "JAMESRAJ"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            985,
+            1105,
+            1418,
+            1172
+          ],
+          "original_text": "14/01/2001",
+          "translated_en": "14/01/2001"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            985,
+            1521,
+            1422,
+            1585
+          ],
+          "original_text": "29/04/2008",
+          "translated_en": "29/04/2008"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1999,
+            1510,
+            2438,
+            1580
+          ],
+          "original_text": "03/04/2039",
+          "translated_en": "03/04/2039"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NM-1058_translated_cleaned.jpg"
+}

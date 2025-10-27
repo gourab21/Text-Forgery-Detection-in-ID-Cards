@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\arabic-NF-1040_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\arabic-NF-1040.jpg",
+  "width": 2790,
+  "height": 1764,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1037,
+            670,
+            1660,
+            738
+          ],
+          "original_text": "Manes Al - Sharif",
+          "translated_en": "Manes Al - Sharif"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1003,
+            477,
+            1494,
+            557
+          ],
+          "original_text": "الشريف منى",
+          "translated_en": "Sharif Mona"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1046,
+            1109,
+            1548,
+            1168
+          ],
+          "original_text": "21 Dec 2024",
+          "translated_en": "21 Dec 2024"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1053,
+            1334,
+            1547,
+            1400
+          ],
+          "original_text": "17 Jun 2018",
+          "translated_en": "17 Jun 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1058,
+            1570,
+            1554,
+            1629
+          ],
+          "original_text": "14 Oct 2028",
+          "translated_en": "14 Oct 2028"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1782,
+            1087,
+            2511,
+            1178
+          ],
+          "original_text": "۲۱ / ديسمبر / ۱۹۸۳",
+          "translated_en": "December 21, 1983"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1789,
+            1319,
+            2406,
+            1413
+          ],
+          "original_text": "١٧ / يونيو / ۲۰۱۸ ٢٠١٨",
+          "translated_en": "June 17, 2018"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1792,
+            1543,
+            2447,
+            1639
+          ],
+          "original_text": "١٤ / أكتوبر / ٢٠٣٣",
+          "translated_en": "October 14, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1040_translated_cleaned.jpg"
+}

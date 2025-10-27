@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-044_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        958,
+        423,
+        1908,
+        570
+      ],
+      "lines": [
+        {
+          "text": "MOREAU",
+          "box": [
+            1053,
+            465,
+            1389,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        950,
+        697,
+        2020,
+        874
+      ],
+      "lines": [
+        {
+          "text": "Louis , Alain",
+          "box": [
+            1049,
+            741,
+            1481,
+            807
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2235,
+        977,
+        2864,
+        1146
+      ],
+      "lines": [
+        {
+          "text": "16 07 1987",
+          "box": [
+            2302,
+            1011,
+            2733,
+            1074
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2205,
+        1594,
+        2845,
+        1749
+      ],
+      "lines": [
+        {
+          "text": "07 11 2026",
+          "box": [
+            2283,
+            1630,
+            2716,
+            1690
+          ]
+        }
+      ]
+    }
+  ]
+}

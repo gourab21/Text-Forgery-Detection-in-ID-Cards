@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_F_36921282312_c8e6a2674d_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        662,
+        655,
+        2392,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Jeremahtti Azman",
+          "box": [
+            812,
+            729,
+            1794,
+            811
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        738,
+        1406,
+        1647,
+        1601
+      ],
+      "lines": [
+        {
+          "text": "1612204 )",
+          "box": [
+            832,
+            1462,
+            1397,
+            1548
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1790,
+        1707,
+        2642,
+        1896
+      ],
+      "lines": [
+        {
+          "text": "08-07-9-90",
+          "box": [
+            1891,
+            1752,
+            2457,
+            1836
+          ]
+        }
+      ]
+    }
+  ]
+}

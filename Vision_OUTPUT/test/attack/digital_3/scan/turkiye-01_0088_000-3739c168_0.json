@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-01_0088_000-3739c168_0.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        611,
+        1215,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Raynon",
+          "box": [
+            652,
+            651,
+            832,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Karaman",
+          "box": [
+            656,
+            497,
+            887,
+            537
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        767,
+        1193,
+        884
+      ],
+      "lines": [
+        {
+          "text": "21.11.1950",
+          "box": [
+            653,
+            804,
+            942,
+            848
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1086,
+        1184,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "23.06.1973",
+          "box": [
+            650,
+            1119,
+            940,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

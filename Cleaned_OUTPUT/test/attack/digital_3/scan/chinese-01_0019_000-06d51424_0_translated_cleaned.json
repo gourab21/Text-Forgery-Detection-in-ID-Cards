@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-01_0019_000-06d51424_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-01_0019_000-06d51424_0.jpg",
+  "width": 1991,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            687,
+            431,
+            785,
+            479
+          ],
+          "original_text": "王芳",
+          "translated_en": "Wang Fang"
+        },
+        {
+          "box": [
+            690,
+            483,
+            970,
+            539
+          ],
+          "original_text": "Allen Fng",
+          "translated_en": "Allen Fng"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1239,
+            712,
+            1570,
+            757
+          ],
+          "original_text": "11 Dec 2072",
+          "translated_en": "11 Dec 2072"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1233,
+            895,
+            1553,
+            933
+          ],
+          "original_text": "20 Dec 2012",
+          "translated_en": "20 Dec 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            671,
+            1081,
+            988,
+            1133
+          ],
+          "original_text": "03 Sep 1979",
+          "translated_en": "03 Sep 1979"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-01_0019_000-06d51424_0_translated_cleaned.jpg"
+}

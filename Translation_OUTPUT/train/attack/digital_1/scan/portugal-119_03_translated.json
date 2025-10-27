@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\portugal-119_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-119_03.jpg",
+  "width": 1992,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            691,
+            342,
+            1152,
+            387
+          ],
+          "original_text": "FRIENDESSSLA",
+          "translated_en": "FRIENDESSSLA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            690,
+            400,
+            794,
+            435
+          ],
+          "original_text": "Luis",
+          "translated_en": "Luis",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1703,
+            598,
+            1991,
+            641
+          ],
+          "original_text": "06 02 2023",
+          "translated_en": "06 02 2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1299,
+            767,
+            1590,
+            806
+          ],
+          "original_text": "03 02 2001",
+          "translated_en": "03 02 2001",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-119_03_translated.jpg"
+}

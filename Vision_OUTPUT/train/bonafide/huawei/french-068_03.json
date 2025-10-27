@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-068_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        423,
+        1892,
+        570
+      ],
+      "lines": [
+        {
+          "text": "ROUSSEAU",
+          "box": [
+            1049,
+            469,
+            1461,
+            527
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        697,
+        2004,
+        874
+      ],
+      "lines": [
+        {
+          "text": "Thomas , Hugo",
+          "box": [
+            1037,
+            742,
+            1588,
+            813
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2217,
+        977,
+        2842,
+        1146
+      ],
+      "lines": [
+        {
+          "text": "2007 1983",
+          "box": [
+            2282,
+            1016,
+            2716,
+            1079
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2188,
+        1594,
+        2822,
+        1749
+      ],
+      "lines": [
+        {
+          "text": "13 07 2031",
+          "box": [
+            2269,
+            1635,
+            2698,
+            1695
+          ]
+        }
+      ]
+    }
+  ]
+}

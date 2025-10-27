@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        998,
+        480,
+        2354,
+        760
+      ],
+      "lines": [
+        {
+          "text": "BARBOSA FERREIRA",
+          "box": [
+            1105,
+            553,
+            1959,
+            623
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            1101,
+            640,
+            1680,
+            726
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2656,
+        924,
+        3221,
+        1080
+      ],
+      "lines": [
+        {
+          "text": "15 09 1991",
+          "box": [
+            2752,
+            971,
+            3214,
+            1037
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2000,
+        1173,
+        2694,
+        1358
+      ],
+      "lines": [
+        {
+          "text": "30 11 2034",
+          "box": [
+            2096,
+            1240,
+            2560,
+            1307
+          ]
+        }
+      ]
+    }
+  ]
+}

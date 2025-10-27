@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_F_26297818201_09eab93588_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        539
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            675,
+            320,
+            1035,
+            367
+          ]
+        },
+        {
+          "text": "Luuk Cornelis",
+          "box": [
+            679,
+            385,
+            1073,
+            432
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            676,
+            454,
+            992,
+            497
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1971,
+        657
+      ],
+      "lines": [
+        {
+          "text": "2007 1992",
+          "box": [
+            1560,
+            580,
+            1895,
+            628
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1463,
+        729,
+        1963,
+        852
+      ],
+      "lines": [
+        {
+          "text": "28 01 2030",
+          "box": [
+            1534,
+            754,
+            1903,
+            802
+          ]
+        }
+      ]
+    }
+  ]
+}

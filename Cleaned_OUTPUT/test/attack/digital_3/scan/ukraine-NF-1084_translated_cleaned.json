@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\ukraine-NF-1084_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-NF-1084.jpg",
+  "width": 1991,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            641,
+            295,
+            929,
+            340
+          ],
+          "original_text": "Шевченко /",
+          "translated_en": "Shevchenko /"
+        },
+        {
+          "box": [
+            637,
+            351,
+            927,
+            392
+          ],
+          "original_text": "Shevchenko",
+          "translated_en": "Shevchenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            640,
+            475,
+            1057,
+            533
+          ],
+          "original_text": "Ірина Олегівна /",
+          "translated_en": "Iryna Olegivna /"
+        },
+        {
+          "box": [
+            638,
+            540,
+            768,
+            577
+          ],
+          "original_text": "Brian",
+          "translated_en": "Brian"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            647,
+            683,
+            918,
+            721
+          ],
+          "original_text": "21.01.2022",
+          "translated_en": "21.01.2022"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            652,
+            960,
+            920,
+            995
+          ],
+          "original_text": "04.08.2020",
+          "translated_en": "04.08.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            658,
+            1158,
+            927,
+            1193
+          ],
+          "original_text": "29.04.1965",
+          "translated_en": "29.04.1965"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1084_translated_cleaned.jpg"
+}

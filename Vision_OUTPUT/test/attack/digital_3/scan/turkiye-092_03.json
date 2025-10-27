@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-092_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        611,
+        1215,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Brian",
+          "box": [
+            655,
+            661,
+            771,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Tekin",
+          "box": [
+            648,
+            503,
+            787,
+            540
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        766,
+        1192,
+        883
+      ],
+      "lines": [
+        {
+          "text": "18.02.1910",
+          "box": [
+            658,
+            805,
+            945,
+            851
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1086,
+        1184,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "19.09.1964",
+          "box": [
+            664,
+            1123,
+            951,
+            1164
+          ]
+        }
+      ]
+    }
+  ]
+}

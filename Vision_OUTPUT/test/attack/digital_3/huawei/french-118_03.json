@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\french-118_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        421,
+        1892,
+        567
+      ],
+      "lines": [
+        {
+          "text": "JACQUET",
+          "box": [
+            1041,
+            465,
+            1390,
+            525
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        695,
+        2004,
+        871
+      ],
+      "lines": [
+        {
+          "text": "Isabelle , Hélène",
+          "box": [
+            1038,
+            735,
+            1654,
+            811
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2217,
+        974,
+        2842,
+        1142
+      ],
+      "lines": [
+        {
+          "text": "30 10 1939",
+          "box": [
+            2278,
+            1013,
+            2704,
+            1076
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2188,
+        1589,
+        2822,
+        1743
+      ],
+      "lines": [
+        {
+          "text": "08 05 1913",
+          "box": [
+            2261,
+            1634,
+            2692,
+            1692
+          ]
+        }
+      ]
+    }
+  ]
+}

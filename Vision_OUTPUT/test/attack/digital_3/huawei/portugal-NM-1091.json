@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NM-1091.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        472,
+        2345,
+        748
+      ],
+      "lines": [
+        {
+          "text": "KATHERNEVERIA",
+          "box": [
+            1111,
+            542,
+            1846,
+            613
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            1092,
+            633,
+            1351,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2646,
+        909,
+        3209,
+        1063
+      ],
+      "lines": [
+        {
+          "text": "12 10 1999",
+          "box": [
+            2735,
+            954,
+            3139,
+            1015
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1992,
+        1155,
+        2683,
+        1337
+      ],
+      "lines": [
+        {
+          "text": "06 07 1949",
+          "box": [
+            2089,
+            1220,
+            2551,
+            1287
+          ]
+        }
+      ]
+    }
+  ]
+}

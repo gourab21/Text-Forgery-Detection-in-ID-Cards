@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\french-135_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        834,
+        380,
+        1659,
+        513
+      ],
+      "lines": [
+        {
+          "text": "LACROIX",
+          "box": [
+            913,
+            428,
+            1213,
+            482
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        628,
+        1757,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Valérie , Denise",
+          "box": [
+            915,
+            668,
+            1413,
+            735
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1945,
+        881,
+        2492,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "26 05 2005",
+          "box": [
+            1995,
+            885,
+            2394,
+            940
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1919,
+        1437,
+        2476,
+        1576
+      ],
+      "lines": [
+        {
+          "text": "11 11 2002",
+          "box": [
+            2012,
+            1439,
+            2401,
+            1488
+          ]
+        }
+      ]
+    }
+  ]
+}

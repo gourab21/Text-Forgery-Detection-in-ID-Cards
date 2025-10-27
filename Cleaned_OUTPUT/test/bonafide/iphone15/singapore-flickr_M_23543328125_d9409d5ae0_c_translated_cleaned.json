@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\singapore-flickr_M_23543328125_d9409d5ae0_c_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_M_23543328125_d9409d5ae0_c.jpg",
+  "width": 2783,
+  "height": 1752,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            718,
+            665,
+            1157,
+            738
+          ],
+          "original_text": "Hsu Long",
+          "translated_en": "Hsu Long"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            733,
+            1301,
+            1239,
+            1374
+          ],
+          "original_text": "1993-07-14",
+          "translated_en": "1993-07-14"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1653,
+            1546,
+            2165,
+            1617
+          ],
+          "original_text": "2003-07-14",
+          "translated_en": "2003-07-14"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_23543328125_d9409d5ae0_c_translated_cleaned.jpg"
+}

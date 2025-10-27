@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\singapore-flickr_M_22512816725_a88536de72_c_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_M_22512816725_a88536de72_c.jpg",
+  "width": 2777,
+  "height": 1745,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            707,
+            651,
+            1369,
+            740
+          ],
+          "original_text": "Rajesh Assam",
+          "translated_en": "Rajesh Assam"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            723,
+            1295,
+            1227,
+            1366
+          ],
+          "original_text": "1982-04-21",
+          "translated_en": "1982-04-21"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1643,
+            1538,
+            2151,
+            1610
+          ],
+          "original_text": "1992-04-21",
+          "translated_en": "1992-04-21"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_22512816725_a88536de72_c_translated_cleaned.jpg"
+}

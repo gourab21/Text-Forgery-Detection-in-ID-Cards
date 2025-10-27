@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1036.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        849,
+        613,
+        1742,
+        952
+      ],
+      "lines": [
+        {
+          "text": "BJegory Thoma",
+          "box": [
+            924,
+            678,
+            1493,
+            759
+          ]
+        },
+        {
+          "text": "8342 Pine Rd KATE STA",
+          "box": [
+            928,
+            725,
+            1739,
+            835
+          ]
+        },
+        {
+          "text": "Naples FL 34102",
+          "box": [
+            931,
+            838,
+            1524,
+            918
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2045,
+        1087,
+        2742,
+        1233
+      ],
+      "lines": [
+        {
+          "text": "DOB : 04-07-",
+          "box": [
+            2119,
+            1091,
+            2579,
+            1145
+          ]
+        }
+      ]
+    }
+  ]
+}

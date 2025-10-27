@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\turkiye-104_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\turkiye-104_03.jpg",
+  "width": 1997,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            651,
+            657,
+            806,
+            697
+          ],
+          "original_text": "Yiane",
+          "translated_en": "Yiane"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            651,
+            504,
+            787,
+            538
+          ],
+          "original_text": "Altun",
+          "translated_en": "Altun"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            660,
+            809,
+            965,
+            849
+          ],
+          "original_text": "14.07.2021",
+          "translated_en": "14.07.2021"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            665,
+            1119,
+            968,
+            1164
+          ],
+          "original_text": "21.09.2015",
+          "translated_en": "21.09.2015"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-104_03_translated_cleaned.jpg"
+}

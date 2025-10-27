@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-063_03.json",
+  "image_relative": "train\\bonafide\\scan\\usa-063_03.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            654,
+            464,
+            895,
+            515
+          ],
+          "original_text": "Alex King",
+          "translated_en": "Alex King",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            655,
+            525,
+            1034,
+            572
+          ],
+          "original_text": "910 Apple Blvd",
+          "translated_en": "910 Apple Blvd",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            651,
+            583,
+            1071,
+            626
+          ],
+          "original_text": "Austin TX 78701",
+          "translated_en": "Austin TX 78701",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1495,
+            774,
+            1888,
+            819
+          ],
+          "original_text": "DOB : 05-08-88",
+          "translated_en": "DOB : 05-08-88",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-063_03_translated.jpg"
+}

@@ -1,0 +1,11 @@
+E2
+EN: Ryanan
+
+E1
+EN: Karaman
+
+E3
+EN: 03.11.1937
+
+E4
+EN: 11.03.2035

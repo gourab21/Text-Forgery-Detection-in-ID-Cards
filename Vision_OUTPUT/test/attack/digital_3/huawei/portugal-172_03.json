@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-172_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        936,
+        450,
+        2208,
+        715
+      ],
+      "lines": [
+        {
+          "text": "MARY RO SANTOS",
+          "box": [
+            1036,
+            521,
+            1728,
+            585
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            1030,
+            601,
+            1274,
+            665
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2492,
+        868,
+        3022,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "14 11 1939",
+          "box": [
+            2574,
+            910,
+            2951,
+            974
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1876,
+        1102,
+        2527,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "16 02 1900",
+          "box": [
+            1969,
+            1161,
+            2403,
+            1223
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-136_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        978,
+        683,
+        2006,
+        1062
+      ],
+      "lines": [
+        {
+          "text": "Nichots Hil",
+          "box": [
+            1033,
+            760,
+            1482,
+            821
+          ]
+        },
+        {
+          "text": "518 Spruce St",
+          "box": [
+            1044,
+            850,
+            1624,
+            928
+          ]
+        },
+        {
+          "text": "Portland ME 04101",
+          "box": [
+            1043,
+            946,
+            1830,
+            1015
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2355,
+        1211,
+        3158,
+        1374
+      ],
+      "lines": [
+        {
+          "text": "DOB : 17-03-50",
+          "box": [
+            2415,
+            1256,
+            3057,
+            1330
+          ]
+        }
+      ]
+    }
+  ]
+}

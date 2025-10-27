@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\arabic-003_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\arabic-003_03.jpg",
+  "width": 3023,
+  "height": 1884,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1116,
+            701,
+            1825,
+            791
+          ],
+          "original_text": "Tria y Almad",
+          "translated_en": "Tria y Almad"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1093,
+            499,
+            1607,
+            595
+          ],
+          "original_text": "الأحمد طارق",
+          "translated_en": "Ahmed Tariq"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1138,
+            1184,
+            1613,
+            1252
+          ],
+          "original_text": "29 Apr 20",
+          "translated_en": "29 Apr 20"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1144,
+            1426,
+            1654,
+            1497
+          ],
+          "original_text": "09 Jul 2018",
+          "translated_en": "09 Jul 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1149,
+            1668,
+            1699,
+            1749
+          ],
+          "original_text": "24 Dec 2029",
+          "translated_en": "24 Dec 2029"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1941,
+            1154,
+            2626,
+            1261
+          ],
+          "original_text": "٢٩ ۲۹ / أبريل / ١٩٨٥",
+          "translated_en": "April 29, 1985"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1949,
+            1409,
+            2565,
+            1511
+          ],
+          "original_text": "٩ / يوليو / ۲۰۱۸",
+          "translated_en": "July 9, 2018"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1949,
+            1659,
+            2748,
+            1757
+          ],
+          "original_text": "٢٤ / ديسمبر / ۲۰۳۳",
+          "translated_en": "December 24, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-003_03_translated_cleaned.jpg"
+}

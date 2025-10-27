@@ -1,0 +1,93 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_33297625690_76e3181f5e_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        288,
+        1279,
+        538
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            696,
+            320,
+            975,
+            362
+          ]
+        },
+        {
+          "text": "Tess Cornelis",
+          "box": [
+            692,
+            383,
+            1073,
+            429
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            688,
+            449,
+            924,
+            494
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1971,
+        656
+      ],
+      "lines": [
+        {
+          "text": "24 06 2001",
+          "box": [
+            1566,
+            602,
+            1901,
+            649
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1463,
+        728,
+        1963,
+        850
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD ! CARD EXPIRY",
+          "box": [
+            1463,
+            728,
+            1915,
+            758
+          ]
+        },
+        {
+          "text": "18 03 2028",
+          "box": [
+            1535,
+            775,
+            1898,
+            819
+          ]
+        }
+      ]
+    }
+  ]
+}

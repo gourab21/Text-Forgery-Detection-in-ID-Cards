@@ -1,0 +1,73 @@
+{
+  "source_json": "train\\bonafide\\huawei\\french-091_03.json",
+  "image_relative": "train\\bonafide\\huawei\\french-091_03.jpg",
+  "width": 3192,
+  "height": 1963,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1043,
+            464,
+            1307,
+            520
+          ],
+          "original_text": "ROCHE",
+          "translated_en": "ROCHE",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1035,
+            738,
+            1524,
+            804
+          ],
+          "original_text": "Cécile , Marie",
+          "translated_en": "Cécile , Marie",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2274,
+            1008,
+            2706,
+            1070
+          ],
+          "original_text": "08 09 1992",
+          "translated_en": "08 09 1992",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            2265,
+            1625,
+            2693,
+            1684
+          ],
+          "original_text": "15 10 2031",
+          "translated_en": "15 10 2031",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-091_03_translated.jpg"
+}

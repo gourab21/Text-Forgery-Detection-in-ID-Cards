@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-019_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        828,
+        376,
+        1648,
+        508
+      ],
+      "lines": [
+        {
+          "text": "BERGER",
+          "box": [
+            904,
+            427,
+            1165,
+            474
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        820,
+        621,
+        1745,
+        778
+      ],
+      "lines": [
+        {
+          "text": "Jatterinel Michiee",
+          "box": [
+            902,
+            669,
+            1465,
+            722
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1932,
+        871,
+        2475,
+        1021
+      ],
+      "lines": [
+        {
+          "text": "30 12 12033",
+          "box": [
+            1982,
+            880,
+            2380,
+            934
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1905,
+        1421,
+        2458,
+        1558
+      ],
+      "lines": [
+        {
+          "text": "05 01 2005",
+          "box": [
+            1992,
+            1428,
+            2392,
+            1484
+          ]
+        }
+      ]
+    }
+  ]
+}

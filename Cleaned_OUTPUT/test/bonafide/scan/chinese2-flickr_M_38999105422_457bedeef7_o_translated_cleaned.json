@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\chinese2-flickr_M_38999105422_457bedeef7_o_translated.json",
+  "image_relative": "test\\bonafide\\scan\\chinese2-flickr_M_38999105422_457bedeef7_o.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            686,
+            422,
+            796,
+            472
+          ],
+          "original_text": "张强",
+          "translated_en": "Zhang Qiang"
+        },
+        {
+          "box": [
+            684,
+            486,
+            1033,
+            542
+          ],
+          "original_text": "Zhang Qiang",
+          "translated_en": "Zhang Qiang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1236,
+            706,
+            1587,
+            752
+          ],
+          "original_text": "08 JUN 1984",
+          "translated_en": "08 JUN 1984"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1233,
+            887,
+            1686,
+            965
+          ],
+          "original_text": "03 JAN 2006 000",
+          "translated_en": "03 JAN 2006 000"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            675,
+            1074,
+            1020,
+            1116
+          ],
+          "original_text": "03 JAN 2026",
+          "translated_en": "03 JAN 2026"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_38999105422_457bedeef7_o_translated_cleaned.jpg"
+}

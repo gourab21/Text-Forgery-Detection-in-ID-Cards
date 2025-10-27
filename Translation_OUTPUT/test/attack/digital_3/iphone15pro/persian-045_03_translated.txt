@@ -1,0 +1,23 @@
+E1
+EN: Name
+EN: Dillon
+
+E2
+EN: Kazemi
+
+L1
+OR: فرهاد
+EN: Farhad
+
+L2
+OR: رحيمي
+EN: Rahimi
+
+E3
+EN: 03/03/2034
+
+E4
+EN: 21/02/2024
+
+E5
+EN: 24/11/2007

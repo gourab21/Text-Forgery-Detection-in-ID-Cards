@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\scan\\chinese2-flickr_M_33525327222_f112b468ed_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\chinese2-flickr_M_33525327222_f112b468ed_k.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            689,
+            426,
+            789,
+            478
+          ],
+          "original_text": "孙超",
+          "translated_en": "Sun Chao"
+        },
+        {
+          "box": [
+            683,
+            494,
+            944,
+            536
+          ],
+          "original_text": "Sun Chao",
+          "translated_en": "Sun Chao"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1251,
+            697,
+            1594,
+            741
+          ],
+          "original_text": "19 JUN 1971",
+          "translated_en": "19 JUN 1971"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1249,
+            876,
+            1615,
+            922
+          ],
+          "original_text": "28 MAR 1993",
+          "translated_en": "28 MAR 1993"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            696,
+            1077,
+            1065,
+            1124
+          ],
+          "original_text": "28 MAR 2013",
+          "translated_en": "28 MAR 2013"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_33525327222_f112b468ed_k_translated_cleaned.jpg"
+}

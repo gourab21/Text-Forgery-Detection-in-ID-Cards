@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        937,
+        451,
+        2213,
+        716
+      ],
+      "lines": [
+        {
+          "text": "AMANDA COSTA",
+          "box": [
+            1018,
+            523,
+            1646,
+            582
+          ]
+        },
+        {
+          "text": "João",
+          "box": [
+            1010,
+            610,
+            1196,
+            671
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2495,
+        870,
+        3027,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "13 02 1918",
+          "box": [
+            2569,
+            879,
+            2950,
+            936
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1879,
+        1104,
+        2531,
+        1277
+      ],
+      "lines": [
+        {
+          "text": "22 07 1911",
+          "box": [
+            1974,
+            1141,
+            2411,
+            1202
+          ]
+        }
+      ]
+    }
+  ]
+}

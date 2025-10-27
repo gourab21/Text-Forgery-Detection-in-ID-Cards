@@ -1,0 +1,29 @@
+E1
+EN: Seth dosliau
+
+L1
+OR: إبراهيم سلمى
+EN: Ibrahim Salma
+
+E2
+EN: 26 Feb 97
+
+E3
+EN: 09 Jul 2023
+
+E4
+EN: 14 Jun 2007
+
+L2
+OR: تاريخ
+EN: History
+OR: ٢٦ / فبراير / ۱۹۹۰
+EN: February 26, 1990
+
+L3
+OR: // / يوليو / ١٢ ۲۰۲۳
+EN: // / July / 12 2023
+
+L4
+OR: ١٤ / يونيو / ۲۰۳۰
+EN: June 14, 2030

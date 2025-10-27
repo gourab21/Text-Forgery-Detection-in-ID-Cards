@@ -1,0 +1,27 @@
+E1
+EN: Sebeccabrahiim
+
+L1
+EN: Ibrahim Salma
+OR: إبراهيم سلمى
+
+E2
+EN: 26 Feb 2016
+
+E3
+EN: 09 Jul 2023
+
+E4
+EN: 14 Jun 2023
+
+L2
+EN: February 26, 1990
+OR: ٢٦ / فبراير / ۱۹۹۰
+
+L3
+EN: // / July / 12 2023
+OR: // / يوليو / ١٢ ۲۰۲۳
+
+L4
+EN: June 14, 2030
+OR: ١٤ / يونيو / ۲۰۳۰

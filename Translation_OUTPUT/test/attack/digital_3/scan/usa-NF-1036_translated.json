@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\usa-NF-1036.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-NF-1036.jpg",
+  "width": 1999,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            654,
+            468,
+            1078,
+            512
+          ],
+          "original_text": "Saraara Thomas",
+          "translated_en": "Saraara Thomas",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            651,
+            523,
+            993,
+            567
+          ],
+          "original_text": "8342 Pine Rd",
+          "translated_en": "8342 Pine Rd",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            651,
+            587,
+            1077,
+            628
+          ],
+          "original_text": "Naples FL 34102",
+          "translated_en": "Naples FL 34102",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            777,
+            1885,
+            825
+          ],
+          "original_text": "DOB : 25-03-50",
+          "translated_en": "DOB : 25-03-50",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1036_translated.jpg"
+}

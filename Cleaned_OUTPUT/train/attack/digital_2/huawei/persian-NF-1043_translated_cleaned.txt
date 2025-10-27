@@ -1,0 +1,20 @@
+E1
+EN: Meat
+
+E2
+EN: Ahmadi
+
+L1
+
+L2
+EN: Mohammadi
+OR: محمدی
+
+E3
+EN: 05/02/190
+
+E4
+EN: 08/07/2024
+
+E5
+EN: 13 / 10 / 2-036

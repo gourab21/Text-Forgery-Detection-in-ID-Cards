@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\turkiye-041_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        610,
+        1217,
+        728
+      ],
+      "lines": [
+        {
+          "text": "Eyl",
+          "box": [
+            657,
+            647,
+            754,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        446,
+        1217,
+        569
+      ],
+      "lines": [
+        {
+          "text": "Akgül",
+          "box": [
+            657,
+            494,
+            808,
+            545
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        765,
+        1194,
+        882
+      ],
+      "lines": [
+        {
+          "text": "30.10.2014",
+          "box": [
+            656,
+            805,
+            955,
+            845
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1085,
+        1185,
+        1210
+      ],
+      "lines": [
+        {
+          "text": "15.12.2016",
+          "box": [
+            649,
+            1119,
+            954,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

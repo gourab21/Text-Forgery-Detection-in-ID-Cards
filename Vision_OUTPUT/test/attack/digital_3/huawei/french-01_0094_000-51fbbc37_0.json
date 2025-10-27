@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\french-01_0094_000-51fbbc37_0.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        949,
+        421,
+        1888,
+        567
+      ],
+      "lines": [
+        {
+          "text": "LAFONT",
+          "box": [
+            1047,
+            463,
+            1345,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        940,
+        694,
+        2000,
+        870
+      ],
+      "lines": [
+        {
+          "text": "Virginia Marc",
+          "box": [
+            1035,
+            741,
+            1526,
+            804
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2212,
+        973,
+        2835,
+        1141
+      ],
+      "lines": [
+        {
+          "text": "31 02 1977",
+          "box": [
+            2278,
+            1004,
+            2710,
+            1066
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2183,
+        1588,
+        2815,
+        1742
+      ],
+      "lines": [
+        {
+          "text": "07 10 2072",
+          "box": [
+            2262,
+            1627,
+            2691,
+            1689
+          ]
+        }
+      ]
+    }
+  ]
+}

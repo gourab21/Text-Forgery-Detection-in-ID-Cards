@@ -1,0 +1,20 @@
+LE1
+OR: Мороз /
+EN: Frost /
+OR: Moroz
+EN: Frost
+
+LE2
+OR: Ірина Олександрівна
+EN: Iryna Oleksandrivna
+OR: Iryst
+EN: I&#39;m shaking.
+
+E3
+EN: 17.09.1998
+
+E4
+EN: 21.12.2023
+
+E5
+EN: 19.12.2036

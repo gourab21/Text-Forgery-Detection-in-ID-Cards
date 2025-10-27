@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_32272417100_7c8c616f37_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        576,
+        575,
+        2083,
+        851
+      ],
+      "lines": [
+        {
+          "text": "Sananthssi",
+          "box": [
+            705,
+            645,
+            1239,
+            723
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        642,
+        1233,
+        1434,
+        1404
+      ],
+      "lines": [
+        {
+          "text": "09-044-88",
+          "box": [
+            717,
+            1284,
+            1209,
+            1359
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1559,
+        1497,
+        2300,
+        1662
+      ],
+      "lines": [
+        {
+          "text": "25 11.1-21",
+          "box": [
+            1640,
+            1524,
+            2131,
+            1603
+          ]
+        }
+      ]
+    }
+  ]
+}

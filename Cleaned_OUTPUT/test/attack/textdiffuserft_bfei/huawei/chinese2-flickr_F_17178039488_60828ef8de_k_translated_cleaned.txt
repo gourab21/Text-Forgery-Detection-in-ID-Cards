@@ -1,0 +1,13 @@
+LE1
+EN: Yellow ochre
+OR: 黄丹
+EN: Christoph
+
+E2
+EN: 11 Jul 194
+
+E3
+EN: 15 Oct 2073
+
+E4
+EN: 21 Mar 2072

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\chinese-102_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\chinese-102_03.jpg",
+  "width": 1995,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            675,
+            435,
+            782,
+            483
+          ],
+          "original_text": "刘颖",
+          "translated_en": "Liu Ying"
+        },
+        {
+          "box": [
+            679,
+            494,
+            894,
+            540
+          ],
+          "original_text": "UseYing",
+          "translated_en": "You are in Ying."
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1236,
+            699,
+            1579,
+            745
+          ],
+          "original_text": "20 Nov 1994",
+          "translated_en": "20 Nov 1994"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1241,
+            887,
+            1552,
+            929
+          ],
+          "original_text": "14 Jan 2015",
+          "translated_en": "14 Jan 2015"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            691,
+            1081,
+            1014,
+            1125
+          ],
+          "original_text": "11 Jan 2007",
+          "translated_en": "11 Jan 2007"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-102_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1083.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        816,
+        387,
+        1925,
+        614
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES OLIVEIRA",
+          "box": [
+            899,
+            442,
+            1672,
+            501
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            897,
+            519,
+            1031,
+            564
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2172,
+        746,
+        2634,
+        871
+      ],
+      "lines": [
+        {
+          "text": "31 07 2003",
+          "box": [
+            2244,
+            775,
+            2627,
+            826
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1636,
+        947,
+        2202,
+        1095
+      ],
+      "lines": [
+        {
+          "text": "28 07 2033",
+          "box": [
+            1706,
+            990,
+            2087,
+            1044
+          ]
+        }
+      ]
+    }
+  ]
+}

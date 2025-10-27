@@ -1,0 +1,84 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_38999105422_457bedeef7_o.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_38999105422_457bedeef7_o.jpg",
+  "width": 2758,
+  "height": 1729,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            932,
+            594,
+            1077,
+            657
+          ],
+          "original_text": "张强",
+          "translated_en": "Zhang Qiang",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            951,
+            676,
+            1402,
+            744
+          ],
+          "original_text": "Karen Qiang",
+          "translated_en": "Karen Qiang",
+          "detected_lang": "zh-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1713,
+            956,
+            2196,
+            1020
+          ],
+          "original_text": "25 Dec 1982",
+          "translated_en": "25 Dec 1982",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1719,
+            1212,
+            2192,
+            1274
+          ],
+          "original_text": "19 Oct 1973",
+          "translated_en": "19 Oct 1973",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            887,
+            1488,
+            1425,
+            1556
+          ],
+          "original_text": "# 31 Nov 1904",
+          "translated_en": "# 31 Nov 1904",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_38999105422_457bedeef7_o_translated.jpg"
+}

@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\ukraine-NM-1007_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\ukraine-NM-1007.jpg",
+  "width": 3041,
+  "height": 1890,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            963,
+            446,
+            1473,
+            522
+          ],
+          "original_text": "Бондаренко /",
+          "translated_en": "Bondarenko /"
+        },
+        {
+          "box": [
+            967,
+            539,
+            1401,
+            587
+          ],
+          "original_text": "Bondarenko",
+          "translated_en": "Bondarenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            966,
+            720,
+            1680,
+            797
+          ],
+          "original_text": "Андрій Юрійович /",
+          "translated_en": "Andriy Yuriyovych /"
+        },
+        {
+          "box": [
+            968,
+            813,
+            1228,
+            863
+          ],
+          "original_text": "A ather",
+          "translated_en": "A ather"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            983,
+            1034,
+            1416,
+            1088
+          ],
+          "original_text": "11.12.2024",
+          "translated_en": "11.12.2024"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            991,
+            1446,
+            1399,
+            1505
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            994,
+            1749,
+            1424,
+            1803
+          ],
+          "original_text": "22.05.12025",
+          "translated_en": "22.05.12025"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NM-1007_translated_cleaned.jpg"
+}

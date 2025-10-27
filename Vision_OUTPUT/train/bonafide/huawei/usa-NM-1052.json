@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-NM-1052.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        980,
+        677,
+        2010,
+        1053
+      ],
+      "lines": [
+        {
+          "text": "Christopher",
+          "box": [
+            1045,
+            737,
+            1539,
+            832
+          ]
+        },
+        {
+          "text": "112 Oak St Areena RATE",
+          "box": [
+            1046,
+            681,
+            2003,
+            1015
+          ]
+        },
+        {
+          "text": "Laramie WY 82070",
+          "box": [
+            1046,
+            937,
+            1838,
+            1007
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2360,
+        1201,
+        3164,
+        1363
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-11-87",
+          "box": [
+            2422,
+            1247,
+            3061,
+            1318
+          ]
+        }
+      ]
+    }
+  ]
+}

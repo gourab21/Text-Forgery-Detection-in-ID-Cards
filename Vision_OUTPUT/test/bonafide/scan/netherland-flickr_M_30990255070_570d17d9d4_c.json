@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_30990255070_570d17d9d4_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            678,
+            324,
+            950,
+            366
+          ]
+        },
+        {
+          "text": "Henrike Elisabeth",
+          "box": [
+            680,
+            383,
+            1185,
+            435
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            678,
+            456,
+            912,
+            499
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1968,
+        657
+      ],
+      "lines": [
+        {
+          "text": "04 01 1977",
+          "box": [
+            1559,
+            582,
+            1895,
+            631
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        729,
+        1961,
+        852
+      ],
+      "lines": [
+        {
+          "text": "08 09 2032",
+          "box": [
+            1532,
+            755,
+            1900,
+            803
+          ]
+        }
+      ]
+    }
+  ]
+}

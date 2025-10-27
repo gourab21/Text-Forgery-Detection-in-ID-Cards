@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\persian-NF-1108_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\persian-NF-1108.jpg",
+  "width": 3205,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1232,
+            447,
+            1498,
+            525
+          ],
+          "original_text": "Foger",
+          "translated_en": "Foger"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1222,
+            680,
+            1558,
+            745
+          ],
+          "original_text": "Ahmadi",
+          "translated_en": "Ahmadi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2176,
+            448,
+            2303,
+            539
+          ],
+          "original_text": "فرح",
+          "translated_en": "joy"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2166,
+            692,
+            2381,
+            774
+          ],
+          "original_text": "حسینی",
+          "translated_en": "Hosseini"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1222,
+            938,
+            1672,
+            1020
+          ],
+          "original_text": "14/11/205",
+          "translated_en": "14/11/205"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1211,
+            1466,
+            1661,
+            1533
+          ],
+          "original_text": "30/06/2024",
+          "translated_en": "30/06/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2156,
+            1480,
+            2608,
+            1547
+          ],
+          "original_text": "23/04/2014",
+          "translated_en": "23/04/2014"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1108_translated_cleaned.jpg"
+}

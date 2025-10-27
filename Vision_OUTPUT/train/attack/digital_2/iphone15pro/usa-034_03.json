@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\usa-034_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        850,
+        611,
+        1744,
+        949
+      ],
+      "lines": [
+        {
+          "text": "E uttilarter",
+          "box": [
+            919,
+            682,
+            1386,
+            734
+          ]
+        },
+        {
+          "text": "456 Pine Road RATE",
+          "box": [
+            916,
+            732,
+            1620,
+            838
+          ]
+        },
+        {
+          "text": "Winchester MA 01890",
+          "box": [
+            916,
+            837,
+            1708,
+            899
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2047,
+        1084,
+        2744,
+        1229
+      ],
+      "lines": [
+        {
+          "text": "DOB : 05-14-92",
+          "box": [
+            2113,
+            1084,
+            2685,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

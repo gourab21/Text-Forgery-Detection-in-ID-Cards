@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\chinese-142_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\chinese-142_03.jpg",
+  "width": 1996,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            689,
+            434,
+            792,
+            475
+          ],
+          "original_text": "王 署",
+          "translated_en": "Wang Shu"
+        },
+        {
+          "box": [
+            686,
+            483,
+            937,
+            531
+          ],
+          "original_text": "veninfai",
+          "translated_en": "venomous"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1240,
+            716,
+            1569,
+            759
+          ],
+          "original_text": "18 Apr 12018",
+          "translated_en": "18 Apr 12018"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1237,
+            897,
+            1551,
+            936
+          ],
+          "original_text": "25 Feb 2014",
+          "translated_en": "25 Feb 2014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            677,
+            1079,
+            1008,
+            1121
+          ],
+          "original_text": "23 Feb 2039",
+          "translated_en": "23 Feb 2039"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-142_03_translated_cleaned.jpg"
+}

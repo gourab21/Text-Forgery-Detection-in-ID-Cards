@@ -1,0 +1,27 @@
+E1
+EN: Muint Al - Ka4 ,
+
+L1
+OR: الخالدي نواف
+EN: Khalidi Nawaf
+
+E2
+EN: 12 Jul 12037
+
+E3
+EN: 11 Mar 2020
+
+E4
+EN: 06 Oct 2022
+
+L2
+OR: ١٢ ۱۲ / يوليو / ۱۹۸۳
+EN: 12/12/July/1983
+
+L3
+OR: ١١ / مارس / ۲۰۲۰
+EN: March 11, 2020
+
+L4
+OR: ٦ / أكتوبر / ٢٠٣٣
+EN: October 6, 2033

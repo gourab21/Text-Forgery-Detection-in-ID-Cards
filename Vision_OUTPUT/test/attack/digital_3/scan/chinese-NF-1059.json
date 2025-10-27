@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-NF-1059.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        637,
+        396,
+        1104,
+        582
+      ],
+      "lines": [
+        {
+          "text": "武則天",
+          "box": [
+            683,
+            428,
+            840,
+            480
+          ]
+        },
+        {
+          "text": "Lindsyan",
+          "box": [
+            696,
+            491,
+            941,
+            539
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1198,
+        658,
+        1608,
+        791
+      ],
+      "lines": [
+        {
+          "text": "10 Nov 1902",
+          "box": [
+            1236,
+            715,
+            1552,
+            756
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1180,
+        850,
+        1631,
+        977
+      ],
+      "lines": [
+        {
+          "text": "12 Dec 2012",
+          "box": [
+            1231,
+            897,
+            1550,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1040,
+        1088,
+        1162
+      ],
+      "lines": [
+        {
+          "text": "24 Mar 2011",
+          "box": [
+            671,
+            1081,
+            990,
+            1121
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\arabic-112_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\arabic-112_03.jpg",
+  "width": 1999,
+  "height": 1244,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            748,
+            474,
+            1127,
+            528
+          ],
+          "original_text": "Kimberyohra",
+          "translated_en": "Kimberyohra"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            722,
+            325,
+            1097,
+            394
+          ],
+          "original_text": "الزهراء فاطمة",
+          "translated_en": "Zahra Fatima"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            751,
+            781,
+            1108,
+            829
+          ],
+          "original_text": "21 Jan 1997",
+          "translated_en": "21 Jan 1997"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            755,
+            946,
+            1107,
+            1001
+          ],
+          "original_text": "15 Apr 2023",
+          "translated_en": "15 Apr 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            764,
+            1116,
+            1118,
+            1163
+          ],
+          "original_text": "21 Jun 2027",
+          "translated_en": "21 Jun 2027"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1275,
+            760,
+            1747,
+            835
+          ],
+          "original_text": "٣٠ / أكتوبر / ١٩٨٦",
+          "translated_en": "October 30, 1986"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1280,
+            927,
+            1734,
+            996
+          ],
+          "original_text": "١٥ / أبريل / ۲۰۲۳",
+          "translated_en": "April 15, 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1285,
+            1089,
+            1738,
+            1162
+          ],
+          "original_text": "١٥ / أبريل / ٢٠٣٣",
+          "translated_en": "April 15, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-112_03_translated_cleaned.jpg"
+}

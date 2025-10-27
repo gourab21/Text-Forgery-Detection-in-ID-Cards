@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-009_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        969,
+        674,
+        1989,
+        1048
+      ],
+      "lines": [
+        {
+          "text": "Leginaar",
+          "box": [
+            1048,
+            734,
+            1408,
+            815
+          ]
+        },
+        {
+          "text": "654 Spruce St",
+          "box": [
+            1042,
+            835,
+            1620,
+            905
+          ]
+        },
+        {
+          "text": "Philadelphia PA 19104",
+          "box": [
+            1043,
+            929,
+            1976,
+            1006
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2334,
+        1195,
+        3130,
+        1356
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-25-80",
+          "box": [
+            2406,
+            1238,
+            3055,
+            1305
+          ]
+        }
+      ]
+    }
+  ]
+}

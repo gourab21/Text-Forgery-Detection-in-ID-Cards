@@ -1,0 +1,27 @@
+E1
+EN: Mady Al Sharif
+
+L1
+EN: Sharif Mona
+OR: الشريف منى
+
+E2
+EN: 21 Dec 2031
+
+E3
+EN: 17 Jun 2018
+
+E4
+EN: 14 Oct 2006
+
+L2
+EN: December 21
+OR: ٢١ / ديسمبر /
+
+L3
+EN: June 17, 2018
+OR: ١٧ / يونيو / ۲۰۱۸
+
+L4
+EN: October 14, 2033 2
+OR: ١٤ / أكتوبر / ٢٠٣٣ ٢

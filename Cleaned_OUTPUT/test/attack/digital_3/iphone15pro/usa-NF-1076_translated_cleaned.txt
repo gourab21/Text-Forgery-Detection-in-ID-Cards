@@ -1,0 +1,8 @@
+E1
+EN: XX
+EN: Josephia Anderson
+EN: 1543 Elm St ATE STAT
+EN: Phoenix AZ 85021
+
+E2
+EN: 02-07-74

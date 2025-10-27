@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        420,
+        1892,
+        566
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            1052,
+            462,
+            1357,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        693,
+        2004,
+        869
+      ],
+      "lines": [
+        {
+          "text": "Viristopheruil",
+          "box": [
+            1038,
+            735,
+            1521,
+            803
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2218,
+        971,
+        2843,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "15 01 12021",
+          "box": [
+            2290,
+            1012,
+            2740,
+            1069
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2189,
+        1585,
+        2823,
+        1739
+      ],
+      "lines": [
+        {
+          "text": "28 02 1998",
+          "box": [
+            2269,
+            1626,
+            2718,
+            1683
+          ]
+        }
+      ]
+    }
+  ]
+}

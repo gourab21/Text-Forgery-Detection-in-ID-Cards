@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1109.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        433,
+        2076,
+        686
+      ],
+      "lines": [
+        {
+          "text": "COSTA SANTOS",
+          "box": [
+            959,
+            493,
+            1517,
+            552
+          ]
+        },
+        {
+          "text": "Sara",
+          "box": [
+            960,
+            582,
+            1119,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2342,
+        835,
+        2841,
+        975
+      ],
+      "lines": [
+        {
+          "text": "09 10 1979",
+          "box": [
+            2417,
+            836,
+            2829,
+            886
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1764,
+        1060,
+        2375,
+        1226
+      ],
+      "lines": [
+        {
+          "text": "06 10 2029",
+          "box": [
+            1849,
+            1082,
+            2259,
+            1141
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-042_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        475
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA COSTA",
+          "box": [
+            686,
+            341,
+            1102,
+            385
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            683,
+            403,
+            829,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        577,
+        1997,
+        674
+      ],
+      "lines": [
+        {
+          "text": "05 08 1991",
+          "box": [
+            1703,
+            598,
+            1993,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        732,
+        1669,
+        847
+      ],
+      "lines": [
+        {
+          "text": "02 08 2031",
+          "box": [
+            1296,
+            771,
+            1584,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

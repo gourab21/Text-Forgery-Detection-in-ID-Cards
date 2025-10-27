@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_F_25164805428_423bc49285_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1008,
+        653,
+        1943,
+        976
+      ],
+      "lines": [
+        {
+          "text": "胡莉",
+          "box": [
+            1107,
+            718,
+            1277,
+            793
+          ]
+        },
+        {
+          "text": "Patri",
+          "box": [
+            1108,
+            831,
+            1325,
+            890
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1966,
+        1087,
+        2724,
+        1285
+      ],
+      "lines": [
+        {
+          "text": "22 Jul 1958",
+          "box": [
+            2037,
+            1153,
+            2615,
+            1242
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1972,
+        1392,
+        2754,
+        1599
+      ],
+      "lines": [
+        {
+          "text": "16 Apr 2000",
+          "box": [
+            2038,
+            1461,
+            2606,
+            1551
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1045,
+        1726,
+        1824,
+        1946
+      ],
+      "lines": [
+        {
+          "text": "05 Dec 2050",
+          "box": [
+            1131,
+            1791,
+            1711,
+            1865
+          ]
+        }
+      ]
+    }
+  ]
+}

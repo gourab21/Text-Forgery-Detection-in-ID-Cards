@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\russian-027_03.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\russian-027_03.jpg",
+  "width": 3195,
+  "height": 1981,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1149,
+            414,
+            1558,
+            489
+          ],
+          "original_text": "Соколова /",
+          "translated_en": "Sokolova /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1146,
+            500,
+            1465,
+            557
+          ],
+          "original_text": "Sokolova",
+          "translated_en": "Sokolova",
+          "detected_lang": "cs"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            2064,
+            686,
+            2127,
+            728
+          ],
+          "original_text": "PS",
+          "translated_en": "PS",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1147,
+            756,
+            2127,
+            825
+          ],
+          "original_text": "Мария Алексеевна / B",
+          "translated_en": "Maria Alekseevna / B",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            1142,
+            838,
+            1360,
+            896
+          ],
+          "original_text": "Myana",
+          "translated_en": "Myana",
+          "detected_lang": "ha"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1139,
+            1077,
+            1552,
+            1137
+          ],
+          "original_text": "12.01.2013",
+          "translated_en": "12.01.2013",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1132,
+            1521,
+            1529,
+            1583
+          ],
+          "original_text": "15.08.2020",
+          "translated_en": "15.08.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1125,
+            1816,
+            1533,
+            1878
+          ],
+          "original_text": "13.08.2010",
+          "translated_en": "13.08.2010",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-027_03_translated.jpg"
+}

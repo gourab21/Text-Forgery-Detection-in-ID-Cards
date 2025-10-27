@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\portugal-125_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\portugal-125_03.jpg",
+  "width": 3033,
+  "height": 1879,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1035,
+            513,
+            1688,
+            590
+          ],
+          "original_text": "CTACY & BIETTO",
+          "translated_en": "CTACY & BIETTO"
+        },
+        {
+          "box": [
+            1035,
+            603,
+            1484,
+            668
+          ],
+          "original_text": "João Carlos",
+          "translated_en": "João Carlos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2590,
+            908,
+            3026,
+            966
+          ],
+          "original_text": "22 05 1990",
+          "translated_en": "22 05 1990"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1972,
+            1157,
+            2436,
+            1225
+          ],
+          "original_text": "15 07 2990",
+          "translated_en": "15 07 2990"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-125_03_translated_cleaned.jpg"
+}

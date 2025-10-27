@@ -1,0 +1,100 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\indian-NF-1075.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\indian-NF-1075.jpg",
+  "width": 3203,
+  "height": 1979,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1113,
+            735,
+            1474,
+            797
+          ],
+          "original_text": "SHARMA",
+          "translated_en": "SHARMA",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1109,
+            982,
+            1635,
+            1048
+          ],
+          "original_text": "S HALLESVITA",
+          "translated_en": "S HALLESVITA",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1106,
+            1237,
+            1616,
+            1312
+          ],
+          "original_text": "09/01/2007",
+          "translated_en": "09/01/2007",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1217,
+            1629,
+            1721,
+            1667
+          ],
+          "original_text": "रातिथ् Date c",
+          "translated_en": "रातिथ् Date c",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1097,
+            1711,
+            1605,
+            1779
+          ],
+          "original_text": "16/02/2020",
+          "translated_en": "16/02/2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2260,
+            1724,
+            2778,
+            1797
+          ],
+          "original_text": "13/02/1996",
+          "translated_en": "13/02/1996",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1075_translated.jpg"
+}

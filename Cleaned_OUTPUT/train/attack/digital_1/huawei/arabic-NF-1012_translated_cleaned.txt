@@ -1,0 +1,27 @@
+E1
+EN: ▶ Fenniferassan
+
+L1
+EN: Hassan Fatima
+OR: حسن فاطمة
+
+E2
+EN: 04 Oct 1996
+
+E3
+EN: 17 Sep 2022
+
+E4
+EN: 28 Jul 2027
+
+L2
+EN: October 4, 189
+OR: ٤ أكتوبر / ١٨٩
+
+L3
+EN: 17 / September / 2022
+OR: ۱۷ / ستمبر / ٢٠٢٢
+
+L4
+EN: July 28, 2033
+OR: ۲۸ / يوليو / ۲۰۳۳

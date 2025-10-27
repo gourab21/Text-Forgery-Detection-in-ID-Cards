@@ -1,0 +1,76 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\turkiye-129_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        851,
+        872,
+        1737,
+        1041
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        848,
+        637,
+        1737,
+        814
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            923,
+            703,
+            1166,
+            763
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        846,
+        1094,
+        1704,
+        1260
+      ],
+      "lines": [
+        {
+          "text": "03.03.1938",
+          "box": [
+            939,
+            1147,
+            1347,
+            1204
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        853,
+        1549,
+        1693,
+        1729
+      ],
+      "lines": [
+        {
+          "text": "26.04.1914",
+          "box": [
+            950,
+            1594,
+            1362,
+            1652
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_31226135201_5aa42a5a13_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        577,
+        579,
+        2086,
+        857
+      ],
+      "lines": [
+        {
+          "text": "Ravi Menon",
+          "box": [
+            707,
+            665,
+            1257,
+            722
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1242,
+        1437,
+        1414
+      ],
+      "lines": [
+        {
+          "text": "1993-02-08",
+          "box": [
+            726,
+            1293,
+            1227,
+            1364
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1562,
+        1508,
+        2305,
+        1674
+      ],
+      "lines": [
+        {
+          "text": "2003-02-08",
+          "box": [
+            1640,
+            1539,
+            2154,
+            1610
+          ]
+        }
+      ]
+    }
+  ]
+}

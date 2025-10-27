@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\usa-137_03.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-137_03.jpg",
+  "width": 2807,
+  "height": 1789,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            911,
+            673,
+            1374,
+            739
+          ],
+          "original_text": "Ethan Knight",
+          "translated_en": "Ethan Knight",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            905,
+            721,
+            1726,
+            834
+          ],
+          "original_text": "678 Pine Rd RATESTA",
+          "translated_en": "678 Pine Rd RATESTA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            912,
+            837,
+            1537,
+            903
+          ],
+          "original_text": "Denver CO 80203",
+          "translated_en": "Denver CO 80203",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2103,
+            1087,
+            2652,
+            1144
+          ],
+          "original_text": "DOB : 09-15-85",
+          "translated_en": "DOB : 09-15-85",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-137_03_translated.jpg"
+}

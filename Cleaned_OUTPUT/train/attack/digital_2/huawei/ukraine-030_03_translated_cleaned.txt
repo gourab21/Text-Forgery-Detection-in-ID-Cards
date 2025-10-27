@@ -1,0 +1,19 @@
+LE1
+EN: Zubenko /
+OR: Зубенко /
+EN: Zubenko
+
+LE2
+EN: Tatyana Vasylivna /
+OR: Тетяна Василівна /
+EN: Tire cma
+
+E3
+EN: 25.12.2011
+
+E4
+EN: 10.11.2020
+
+E5
+EN: ку ди
+EN: 10.11.2 99

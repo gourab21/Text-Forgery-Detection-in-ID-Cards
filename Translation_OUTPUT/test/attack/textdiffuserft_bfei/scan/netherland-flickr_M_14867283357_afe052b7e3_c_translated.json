@@ -1,0 +1,101 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_14867283357_afe052b7e3_c.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "width": 1996,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            320,
+            950,
+            364
+          ],
+          "original_text": "DE JONG",
+          "translated_en": "DE JONG",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            700,
+            380,
+            1171,
+            432
+          ],
+          "original_text": "Davidke Cornelis",
+          "translated_en": "Davidke Cornelis",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            689,
+            444,
+            792,
+            495
+          ],
+          "original_text": "Ilse",
+          "translated_en": "Ilse",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1813,
+            561,
+            1918,
+            582
+          ],
+          "original_text": "BIRTH",
+          "translated_en": "BIRTH",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1572,
+            604,
+            1892,
+            648
+          ],
+          "original_text": "19 02 2065",
+          "translated_en": "19 02 2065",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1462,
+            732,
+            1912,
+            757
+          ],
+          "original_text": "ELDI CARD EXPIRY",
+          "translated_en": "ELDI CARD EXPIRY",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1534,
+            773,
+            1889,
+            822
+          ],
+          "original_text": "05 01 2071",
+          "translated_en": "05 01 2071",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_14867283357_afe052b7e3_c_translated.jpg"
+}

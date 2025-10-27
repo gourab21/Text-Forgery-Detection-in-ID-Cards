@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\bonafide\\huawei\\portugal-172_03.json",
+  "image_relative": "train\\bonafide\\huawei\\portugal-172_03.jpg",
+  "width": 3022,
+  "height": 1882,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1035,
+            517,
+            1722,
+            587
+          ],
+          "original_text": "RIBEIRO SANTOS",
+          "translated_en": "RIBEIRO SANTOS",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1030,
+            604,
+            1276,
+            664
+          ],
+          "original_text": "Carlos",
+          "translated_en": "Carlos",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2587,
+            909,
+            3017,
+            970
+          ],
+          "original_text": "15 11 1989",
+          "translated_en": "15 11 1989",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1969,
+            1162,
+            2406,
+            1220
+          ],
+          "original_text": "13 11 2022",
+          "translated_en": "13 11 2022",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-172_03_translated.jpg"
+}

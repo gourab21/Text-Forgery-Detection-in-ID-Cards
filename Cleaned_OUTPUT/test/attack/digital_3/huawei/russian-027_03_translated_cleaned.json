@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\russian-027_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-027_03.jpg",
+  "width": 3195,
+  "height": 1981,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1148,
+            414,
+            1558,
+            489
+          ],
+          "original_text": "Соколова /",
+          "translated_en": "Sokolova /"
+        },
+        {
+          "box": [
+            1145,
+            500,
+            1466,
+            557
+          ],
+          "original_text": "Sokolova",
+          "translated_en": "Sokolova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            2064,
+            686,
+            2127,
+            728
+          ],
+          "original_text": "PS",
+          "translated_en": "PS"
+        },
+        {
+          "box": [
+            1145,
+            756,
+            2127,
+            826
+          ],
+          "original_text": "Мария Алексеевна / B",
+          "translated_en": "Maria Alekseevna / B"
+        },
+        {
+          "box": [
+            1144,
+            838,
+            1340,
+            881
+          ],
+          "original_text": "Rober",
+          "translated_en": "Robert"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1136,
+            1078,
+            1529,
+            1138
+          ],
+          "original_text": "09.04.1936",
+          "translated_en": "09.04.1936"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1131,
+            1521,
+            1529,
+            1584
+          ],
+          "original_text": "15.08.2020",
+          "translated_en": "15.08.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1127,
+            1821,
+            1513,
+            1876
+          ],
+          "original_text": "17.07.2034",
+          "translated_en": "17.07.2034"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-027_03_translated_cleaned.jpg"
+}

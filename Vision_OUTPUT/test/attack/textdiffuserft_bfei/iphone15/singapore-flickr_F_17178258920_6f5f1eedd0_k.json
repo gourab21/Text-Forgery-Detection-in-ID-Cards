@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_17178258920_6f5f1eedd0_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        575,
+        576,
+        2080,
+        853
+      ],
+      "lines": [
+        {
+          "text": "Joshua Petova",
+          "box": [
+            717,
+            650,
+            1355,
+            717
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        642,
+        1235,
+        1431,
+        1406
+      ],
+      "lines": [
+        {
+          "text": "26-00-188",
+          "box": [
+            722,
+            1285,
+            1216,
+            1362
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1556,
+        1499,
+        2296,
+        1665
+      ],
+      "lines": [
+        {
+          "text": "06-00-994",
+          "box": [
+            1649,
+            1524,
+            2149,
+            1602
+          ]
+        }
+      ]
+    }
+  ]
+}

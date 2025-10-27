@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\singapore-flickr_F_32272417100_7c8c616f37_c_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\singapore-flickr_F_32272417100_7c8c616f37_c.jpg",
+  "width": 3171,
+  "height": 1988,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            795,
+            751,
+            1425,
+            830
+          ],
+          "original_text": "Maria Rossi",
+          "translated_en": "Maria Rossi"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            820,
+            1480,
+            1395,
+            1561
+          ],
+          "original_text": "1970-07-26",
+          "translated_en": "1970-07-26"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1881,
+            1761,
+            2461,
+            1842
+          ],
+          "original_text": "1980-07-26",
+          "translated_en": "1980-07-26"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_32272417100_7c8c616f37_c_translated_cleaned.jpg"
+}

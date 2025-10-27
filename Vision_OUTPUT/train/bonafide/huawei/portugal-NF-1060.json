@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1060.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        992,
+        475,
+        2342,
+        753
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES RIBEIRO",
+          "box": [
+            1097,
+            543,
+            2003,
+            614
+          ]
+        },
+        {
+          "text": "Carla",
+          "box": [
+            1093,
+            633,
+            1304,
+            698
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2643,
+        915,
+        3205,
+        1070
+      ],
+      "lines": [
+        {
+          "text": "08 10 1986",
+          "box": [
+            2746,
+            957,
+            3204,
+            1024
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1990,
+        1162,
+        2680,
+        1345
+      ],
+      "lines": [
+        {
+          "text": "05 10 2026",
+          "box": [
+            2087,
+            1226,
+            2557,
+            1296
+          ]
+        }
+      ]
+    }
+  ]
+}

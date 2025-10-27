@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        619,
+        298,
+        1461,
+        471
+      ],
+      "lines": [
+        {
+          "text": "OVINRBEIRO",
+          "box": [
+            685,
+            339,
+            1120,
+            384
+          ]
+        },
+        {
+          "text": "Joao Carlos",
+          "box": [
+            683,
+            396,
+            982,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1648,
+        574,
+        1999,
+        670
+      ],
+      "lines": [
+        {
+          "text": "22 05 2038",
+          "box": [
+            1707,
+            602,
+            1998,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1241,
+        729,
+        1671,
+        844
+      ],
+      "lines": [
+        {
+          "text": "15 07 1996",
+          "box": [
+            1298,
+            767,
+            1600,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

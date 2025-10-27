@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        431,
+        2077,
+        684
+      ],
+      "lines": [
+        {
+          "text": "SILVA LIMA",
+          "box": [
+            964,
+            497,
+            1399,
+            560
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            965,
+            580,
+            1508,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2343,
+        831,
+        2842,
+        971
+      ],
+      "lines": [
+        {
+          "text": "09 02 1995",
+          "box": [
+            2424,
+            831,
+            2833,
+            884
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1765,
+        1056,
+        2376,
+        1222
+      ],
+      "lines": [
+        {
+          "text": "24 06 2027",
+          "box": [
+            1860,
+            1083,
+            2269,
+            1139
+          ]
+        }
+      ]
+    }
+  ]
+}

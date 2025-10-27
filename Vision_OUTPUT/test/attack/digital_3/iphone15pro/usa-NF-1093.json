@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1093.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        802,
+        550,
+        1646,
+        853
+      ],
+      "lines": [
+        {
+          "text": "Patricihaw",
+          "box": [
+            862,
+            604,
+            1275,
+            663
+          ]
+        },
+        {
+          "text": "306 Pine Street EXTE SE",
+          "box": [
+            858,
+            652,
+            1599,
+            736
+          ]
+        },
+        {
+          "text": "Reno NV 89501",
+          "box": [
+            860,
+            761,
+            1381,
+            815
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1932,
+        974,
+        2589,
+        1106
+      ],
+      "lines": [
+        {
+          "text": "DOB : 20-06-32",
+          "box": [
+            1988,
+            986,
+            2509,
+            1037
+          ]
+        }
+      ]
+    }
+  ]
+}

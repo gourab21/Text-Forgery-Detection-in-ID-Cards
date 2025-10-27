@@ -1,0 +1,20 @@
+LE1
+OR: Зубенко /
+EN: Zubenko /
+EN: Zubenko
+
+LE2
+OR: Тетяна Василівна /
+EN: Tatyana Vasylivna /
+EN: Tetiana
+
+E3
+EN: 25.12.1995
+
+E4
+EN: Дата вида видачі / Date of issue
+EN: 10.11.2020
+
+E5
+EN: д
+EN: 10.11.2025

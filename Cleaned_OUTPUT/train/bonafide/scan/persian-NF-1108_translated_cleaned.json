@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\scan\\persian-NF-1108_translated.json",
+  "image_relative": "train\\bonafide\\scan\\persian-NF-1108.jpg",
+  "width": 1996,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            777,
+            285,
+            927,
+            324
+          ],
+          "original_text": "Farah",
+          "translated_en": "Farah"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            771,
+            428,
+            977,
+            468
+          ],
+          "original_text": "Ahmadi",
+          "translated_en": "Ahmadi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1355,
+            285,
+            1437,
+            339
+          ],
+          "original_text": "فرح",
+          "translated_en": "joy"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1350,
+            441,
+            1485,
+            481
+          ],
+          "original_text": "حسینی",
+          "translated_en": "Hosseini"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            772,
+            594,
+            1046,
+            634
+          ],
+          "original_text": "14/11/1993",
+          "translated_en": "14/11/1993"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            763,
+            922,
+            1042,
+            963
+          ],
+          "original_text": "30/06/2024",
+          "translated_en": "30/06/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1346,
+            928,
+            1626,
+            970
+          ],
+          "original_text": "23/04/2029",
+          "translated_en": "23/04/2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1108_translated_cleaned.jpg"
+}

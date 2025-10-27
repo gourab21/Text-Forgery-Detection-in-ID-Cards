@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\netherland-flickr_M_37190718595_78e318623b_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_37190718595_78e318623b_k.jpg",
+  "width": 3193,
+  "height": 1986,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1086,
+            517,
+            1472,
+            587
+          ],
+          "original_text": "POSTMA",
+          "translated_en": "POSTMA"
+        },
+        {
+          "box": [
+            1085,
+            620,
+            1713,
+            691
+          ],
+          "original_text": "Henrike Petra",
+          "translated_en": "Henrike Petra"
+        },
+        {
+          "box": [
+            1087,
+            731,
+            1318,
+            798
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2505,
+            933,
+            3045,
+            1006
+          ],
+          "original_text": "06 03 1995",
+          "translated_en": "06 03 1995"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2466,
+            1210,
+            3046,
+            1289
+          ],
+          "original_text": "19 09 2029",
+          "translated_en": "19 09 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_37190718595_78e318623b_k_translated_cleaned.jpg"
+}

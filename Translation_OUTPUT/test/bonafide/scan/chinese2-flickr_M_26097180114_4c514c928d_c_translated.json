@@ -1,0 +1,117 @@
+{
+  "source_json": "test\\bonafide\\scan\\chinese2-flickr_M_26097180114_4c514c928d_c.json",
+  "image_relative": "test\\bonafide\\scan\\chinese2-flickr_M_26097180114_4c514c928d_c.jpg",
+  "width": 1997,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            689,
+            434,
+            795,
+            479
+          ],
+          "original_text": "马 磊",
+          "translated_en": "Ma Lei",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            687,
+            494,
+            863,
+            536
+          ],
+          "original_text": "Ma Lei",
+          "translated_en": "Ma Lei",
+          "detected_lang": "ro"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1251,
+            695,
+            1607,
+            741
+          ],
+          "original_text": "04 MAY 1981",
+          "translated_en": "04 MAY 1981",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1583,
+            842,
+            1614,
+            881
+          ],
+          "original_text": "80",
+          "translated_en": "80",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1254,
+            878,
+            1594,
+            923
+          ],
+          "original_text": "02 JUL 2003",
+          "translated_en": "02 JUL 2003",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1652,
+            930,
+            1676,
+            965
+          ],
+          "original_text": "ng",
+          "translated_en": "ng",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            698,
+            1076,
+            1039,
+            1123
+          ],
+          "original_text": "02 JUL 2023",
+          "translated_en": "02 JUL 2023",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            662,
+            1116,
+            699,
+            1174
+          ],
+          "original_text": "Sanc",
+          "translated_en": "Sanc",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_26097180114_4c514c928d_c_translated.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-137_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        427,
+        1236,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Ethan Knight",
+          "box": [
+            644,
+            472,
+            974,
+            517
+          ]
+        },
+        {
+          "text": "678 Pine Rd",
+          "box": [
+            644,
+            530,
+            951,
+            572
+          ]
+        },
+        {
+          "text": "Denver CO 80203",
+          "box": [
+            646,
+            588,
+            1092,
+            631
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1451,
+        756,
+        1945,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 09-15-85",
+          "box": [
+            1494,
+            763,
+            1886,
+            802
+          ]
+        }
+      ]
+    }
+  ]
+}

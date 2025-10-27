@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\bonafide\\scan\\ukraine-030_03.json",
+  "image_relative": "train\\bonafide\\scan\\ukraine-030_03.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            650,
+            288,
+            897,
+            341
+          ],
+          "original_text": "Зубенко /",
+          "translated_en": "Zubenko /",
+          "detected_lang": "mk"
+        },
+        {
+          "box": [
+            651,
+            348,
+            859,
+            382
+          ],
+          "original_text": "Zubenko",
+          "translated_en": "Zubenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            645,
+            472,
+            1122,
+            523
+          ],
+          "original_text": "Тетяна Василівна /",
+          "translated_en": "Tatyana Vasylivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            647,
+            532,
+            826,
+            566
+          ],
+          "original_text": "Tetiana",
+          "translated_en": "Tetiana",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            646,
+            677,
+            915,
+            716
+          ],
+          "original_text": "25.12.1995",
+          "translated_en": "25.12.1995",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            641,
+            955,
+            909,
+            993
+          ],
+          "original_text": "10.11.2020",
+          "translated_en": "10.11.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            636,
+            1149,
+            904,
+            1187
+          ],
+          "original_text": "10.11.2025",
+          "translated_en": "10.11.2025",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-030_03_translated.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA CASTRO",
+          "box": [
+            688,
+            339,
+            1138,
+            383
+          ]
+        },
+        {
+          "text": "Luis Antônio",
+          "box": [
+            687,
+            398,
+            1005,
+            436
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        575,
+        1995,
+        671
+      ],
+      "lines": [
+        {
+          "text": "03 01 1985",
+          "box": [
+            1704,
+            601,
+            1994,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        730,
+        1668,
+        845
+      ],
+      "lines": [
+        {
+          "text": "17 08 2030",
+          "box": [
+            1298,
+            769,
+            1586,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

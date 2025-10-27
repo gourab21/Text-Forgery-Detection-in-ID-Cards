@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\chinese-001_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\chinese-001_03.jpg",
+  "width": 3193,
+  "height": 1962,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1165,
+            673,
+            1243,
+            765
+          ],
+          "original_text": "婷",
+          "translated_en": "Ting"
+        },
+        {
+          "box": [
+            1083,
+            776,
+            1452,
+            844
+          ],
+          "original_text": "Z arcusing",
+          "translated_en": "Z arcusing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1973,
+            1127,
+            2506,
+            1196
+          ],
+          "original_text": "05 Jan 12012",
+          "translated_en": "05 Jan 12012"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1970,
+            1417,
+            2446,
+            1480
+          ],
+          "original_text": "26 Jul 2011",
+          "translated_en": "26 Jul 2011"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1072,
+            1705,
+            1559,
+            1773
+          ],
+          "original_text": "23 Jul 22023",
+          "translated_en": "23 Jul 22023"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-001_03_translated_cleaned.jpg"
+}

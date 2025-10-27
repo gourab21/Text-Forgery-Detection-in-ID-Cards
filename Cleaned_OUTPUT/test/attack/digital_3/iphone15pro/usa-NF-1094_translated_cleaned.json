@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\usa-NF-1094_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1094.jpg",
+  "width": 2820,
+  "height": 1807,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            928,
+            676,
+            1340,
+            739
+          ],
+          "original_text": "Melissaker",
+          "translated_en": "Melissaker"
+        },
+        {
+          "box": [
+            924,
+            729,
+            1627,
+            898
+          ],
+          "original_text": "980 Elm Rd IL co RATE",
+          "translated_en": "980 Elm Rd IL co RATE"
+        },
+        {
+          "box": [
+            922,
+            774,
+            1637,
+            956
+          ],
+          "original_text": "Naperville Naperville IL 60540",
+          "translated_en": "Naperville Naperville IL 60540"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2122,
+            1094,
+            2674,
+            1147
+          ],
+          "original_text": "31-06-94",
+          "translated_en": "31-06-94"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1094_translated_cleaned.jpg"
+}

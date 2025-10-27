@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\french-090_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        787,
+        345,
+        1566,
+        465
+      ],
+      "lines": [
+        {
+          "text": "DURAND",
+          "box": [
+            874,
+            378,
+            1144,
+            423
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        780,
+        569,
+        1660,
+        712
+      ],
+      "lines": [
+        {
+          "text": "Iichele Mare",
+          "box": [
+            867,
+            596,
+            1335,
+            652
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1836,
+        797,
+        2353,
+        935
+      ],
+      "lines": [
+        {
+          "text": "24 06 22031",
+          "box": [
+            1882,
+            813,
+            2253,
+            870
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1812,
+        1301,
+        2336,
+        1426
+      ],
+      "lines": [
+        {
+          "text": "21 12 2000",
+          "box": [
+            1874,
+            1322,
+            2247,
+            1367
+          ]
+        }
+      ]
+    }
+  ]
+}

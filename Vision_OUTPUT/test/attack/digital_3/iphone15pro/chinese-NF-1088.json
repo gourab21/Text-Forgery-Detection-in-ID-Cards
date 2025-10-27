@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\chinese-NF-1088.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        840,
+        511,
+        1457,
+        750
+      ],
+      "lines": [
+        {
+          "text": "適用",
+          "box": [
+            894,
+            553,
+            1037,
+            617
+          ]
+        },
+        {
+          "text": "Richado",
+          "box": [
+            905,
+            630,
+            1210,
+            684
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1580,
+        851,
+        2121,
+        1022
+      ],
+      "lines": [
+        {
+          "text": "12 Jan 1944",
+          "box": [
+            1633,
+            921,
+            2055,
+            977
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1556,
+        1097,
+        2153,
+        1262
+      ],
+      "lines": [
+        {
+          "text": "15 Aug 2016",
+          "box": [
+            1628,
+            1156,
+            2050,
+            1213
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        814,
+        1342,
+        1436,
+        1501
+      ],
+      "lines": [
+        {
+          "text": "12 Apr 2050",
+          "box": [
+            887,
+            1387,
+            1319,
+            1459
+          ]
+        }
+      ]
+    }
+  ]
+}

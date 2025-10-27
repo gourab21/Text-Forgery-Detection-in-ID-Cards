@@ -1,0 +1,18 @@
+LE1
+OR: Ершов /
+EN: Ershov /
+EN: Ershov
+
+LE2
+OR: Роман Федорович /
+EN: Roman Fedorovych /
+EN: Radelinedomvie
+
+E3
+EN: 16.08.:2015
+
+E4
+EN: 03.12.2013
+
+E5
+EN: 01.12.2030

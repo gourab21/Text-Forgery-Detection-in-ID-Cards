@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_15788104622_be592061dc_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_15788104622_be592061dc_k.jpg",
+  "width": 2776,
+  "height": 1744,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            949,
+            450,
+            1365,
+            513
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER"
+        },
+        {
+          "box": [
+            943,
+            545,
+            1497,
+            602
+          ],
+          "original_text": "Alaneke Petra",
+          "translated_en": "Alaneke Petra"
+        },
+        {
+          "box": [
+            950,
+            634,
+            1223,
+            705
+          ],
+          "original_text": "Sophie",
+          "translated_en": "Sophie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2181,
+            814,
+            2629,
+            880
+          ],
+          "original_text": "21 08 1964",
+          "translated_en": "21 08 1964"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2139,
+            1051,
+            2638,
+            1128
+          ],
+          "original_text": "03 05 2017",
+          "translated_en": "03 05 2017"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_15788104622_be592061dc_k_translated_cleaned.jpg"
+}

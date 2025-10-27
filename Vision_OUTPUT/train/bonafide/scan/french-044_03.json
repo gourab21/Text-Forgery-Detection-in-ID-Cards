@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-044_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "MOREAU",
+          "box": [
+            655,
+            293,
+            865,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Louis , Alain",
+          "box": [
+            653,
+            466,
+            922,
+            509
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1386,
+        615,
+        1775,
+        720
+      ],
+      "lines": [
+        {
+          "text": "16 07 1987",
+          "box": [
+            1422,
+            633,
+            1689,
+            672
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1367,
+        1004,
+        1764,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "07 11 2026",
+          "box": [
+            1412,
+            1022,
+            1678,
+            1058
+          ]
+        }
+      ]
+    }
+  ]
+}

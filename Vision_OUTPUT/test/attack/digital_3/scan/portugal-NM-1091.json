@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NM-1091.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "KIMBERLYIVEIRA",
+          "box": [
+            681,
+            347,
+            1133,
+            384
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            674,
+            406,
+            835,
+            442
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        575,
+        1993,
+        671
+      ],
+      "lines": [
+        {
+          "text": "11 08 2038",
+          "box": [
+            1693,
+            580,
+            1946,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1666,
+        845
+      ],
+      "lines": [
+        {
+          "text": "27 12 2019",
+          "box": [
+            1303,
+            757,
+            1586,
+            799
+          ]
+        }
+      ]
+    }
+  ]
+}

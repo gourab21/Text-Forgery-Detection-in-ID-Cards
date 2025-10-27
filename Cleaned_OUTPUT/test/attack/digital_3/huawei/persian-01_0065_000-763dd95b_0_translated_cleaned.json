@@ -1,0 +1,103 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\persian-01_0065_000-763dd95b_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\persian-01_0065_000-763dd95b_0.jpg",
+  "width": 3210,
+  "height": 1985,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1248,
+            443,
+            1577,
+            507
+          ],
+          "original_text": "Michel",
+          "translated_en": "Michel"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1231,
+            683,
+            1592,
+            745
+          ],
+          "original_text": "Kermani",
+          "translated_en": "Kermani"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2189,
+            467,
+            2370,
+            534
+          ],
+          "original_text": "بهروز",
+          "translated_en": "Behrouz"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": []
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1233,
+            948,
+            1679,
+            1016
+          ],
+          "original_text": "17/08/1927",
+          "translated_en": "17/08/1927"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1209,
+            1472,
+            1666,
+            1540
+          ],
+          "original_text": "05/07/2024",
+          "translated_en": "05/07/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2156,
+            1486,
+            2622,
+            1554
+          ],
+          "original_text": "04/07/1993",
+          "translated_en": "04/07/1993"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-01_0065_000-763dd95b_0_translated_cleaned.jpg"
+}

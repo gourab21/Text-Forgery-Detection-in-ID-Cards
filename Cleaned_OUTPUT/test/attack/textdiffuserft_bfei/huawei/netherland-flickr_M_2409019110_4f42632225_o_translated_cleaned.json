@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_2409019110_4f42632225_o_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_2409019110_4f42632225_o.jpg",
+  "width": 3225,
+  "height": 2047,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1092,
+            527,
+            1585,
+            607
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER"
+        },
+        {
+          "box": [
+            1085,
+            640,
+            1597,
+            703
+          ],
+          "original_text": "Theresetra",
+          "translated_en": "Theresetra"
+        },
+        {
+          "box": [
+            1089,
+            748,
+            1603,
+            819
+          ],
+          "original_text": "Annemarie",
+          "translated_en": "Annemarie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2529,
+            959,
+            3057,
+            1032
+          ],
+          "original_text": "19 09 2097",
+          "translated_en": "19 09 2097"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2492,
+            1244,
+            3080,
+            1329
+          ],
+          "original_text": "25 04 1900",
+          "translated_en": "25 04 1900"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_2409019110_4f42632225_o_translated_cleaned.jpg"
+}

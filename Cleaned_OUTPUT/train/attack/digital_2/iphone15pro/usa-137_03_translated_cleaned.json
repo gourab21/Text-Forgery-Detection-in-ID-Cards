@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\usa-137_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\usa-137_03.jpg",
+  "width": 2807,
+  "height": 1789,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            912,
+            670,
+            1399,
+            741
+          ],
+          "original_text": "Eteenn Knight",
+          "translated_en": "Eteenn Knight"
+        },
+        {
+          "box": [
+            906,
+            745,
+            1357,
+            826
+          ],
+          "original_text": "678 Pine Rd",
+          "translated_en": "678 Pine Rd"
+        },
+        {
+          "box": [
+            913,
+            837,
+            1538,
+            902
+          ],
+          "original_text": "Denver CO 80203",
+          "translated_en": "Denver CO 80203"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2102,
+            1083,
+            2677,
+            1148
+          ],
+          "original_text": "09-15-70",
+          "translated_en": "09-15-70"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-137_03_translated_cleaned.jpg"
+}

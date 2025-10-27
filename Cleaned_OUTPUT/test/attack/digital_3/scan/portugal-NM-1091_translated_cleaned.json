@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-NM-1091_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-NM-1091.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            681,
+            347,
+            1133,
+            384
+          ],
+          "original_text": "KIMBERLYIVEIRA",
+          "translated_en": "KIMBERLYIVEIRA"
+        },
+        {
+          "box": [
+            674,
+            406,
+            835,
+            442
+          ],
+          "original_text": "Carlos",
+          "translated_en": "Carlos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1693,
+            580,
+            1946,
+            618
+          ],
+          "original_text": "11 08 2038",
+          "translated_en": "11 08 2038"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1303,
+            757,
+            1586,
+            799
+          ],
+          "original_text": "27 12 2019",
+          "translated_en": "27 12 2019"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NM-1091_translated_cleaned.jpg"
+}

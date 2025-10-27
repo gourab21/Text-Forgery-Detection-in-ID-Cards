@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_F_19679296994_d0fc2a7ac6_o.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1501,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Jasmine dela Cruz",
+          "box": [
+            511,
+            464,
+            1141,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        885,
+        1033,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "1982-07-15",
+          "box": [
+            508,
+            917,
+            870,
+            967
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1075,
+        1658,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "1992-07-15",
+          "box": [
+            1163,
+            1110,
+            1527,
+            1157
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\turkiye-NM-1055.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        957,
+        974,
+        1954,
+        1163
+      ],
+      "lines": [
+        {
+          "text": "BY OOD",
+          "box": [
+            1040,
+            1039,
+            1311,
+            1112
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        954,
+        711,
+        1954,
+        909
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            1043,
+            774,
+            1326,
+            848
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        953,
+        1221,
+        1917,
+        1407
+      ],
+      "lines": [
+        {
+          "text": "14.03.2007",
+          "box": [
+            1039,
+            1277,
+            1518,
+            1358
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        959,
+        1730,
+        1905,
+        1931
+      ],
+      "lines": [
+        {
+          "text": "29.11.7.10 A",
+          "box": [
+            1029,
+            1782,
+            1596,
+            1863
+          ]
+        }
+      ]
+    }
+  ]
+}

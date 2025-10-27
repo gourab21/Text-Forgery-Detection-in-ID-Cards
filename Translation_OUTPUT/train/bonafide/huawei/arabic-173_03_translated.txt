@@ -1,0 +1,29 @@
+E1
+EN: Yousef Mubarak
+
+L1
+OR: مبارك يوسف
+EN: Mubarak Youssef
+
+E2
+EN: 03 Dec 1985
+
+E3
+EN: 25 May 2023
+
+E4
+EN: 25 May 2033
+
+L2
+OR: تاريخ
+EN: History
+OR: / ٠٣ / ديسمبر / ١٢
+EN: / 03 / December / 12
+
+L3
+OR: ٢٥ / مايو / ٢۰۲۳
+EN: May 25, 2023
+
+L4
+OR: ٢٥ / مايو / ٢۰۳۳
+EN: May 25, 2033

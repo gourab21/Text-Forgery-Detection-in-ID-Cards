@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\ukraine-NM-1007_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\ukraine-NM-1007.jpg",
+  "width": 1992,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            646,
+            291,
+            980,
+            345
+          ],
+          "original_text": "Бондаренко /",
+          "translated_en": "Bondarenko /"
+        },
+        {
+          "box": [
+            645,
+            350,
+            932,
+            387
+          ],
+          "original_text": "Bondarenko",
+          "translated_en": "Bondarenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            638,
+            475,
+            1108,
+            528
+          ],
+          "original_text": "Андрій Юрійович /",
+          "translated_en": "Andriy Yuriyovych /"
+        },
+        {
+          "box": [
+            637,
+            529,
+            786,
+            568
+          ],
+          "original_text": "Andal",
+          "translated_en": "Reliable"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            639,
+            678,
+            927,
+            718
+          ],
+          "original_text": "11.12.2001",
+          "translated_en": "11.12.2001"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            631,
+            956,
+            900,
+            996
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            626,
+            1153,
+            909,
+            1189
+          ],
+          "original_text": "22.05.2011",
+          "translated_en": "22.05.2011"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NM-1007_translated_cleaned.jpg"
+}

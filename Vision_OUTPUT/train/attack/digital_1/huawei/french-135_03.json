@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-135_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        956,
+        420,
+        1904,
+        566
+      ],
+      "lines": [
+        {
+          "text": "LACROIX",
+          "box": [
+            1055,
+            456,
+            1399,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        948,
+        693,
+        2016,
+        869
+      ],
+      "lines": [
+        {
+          "text": "Valérie , Denise",
+          "box": [
+            1045,
+            734,
+            1619,
+            799
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2231,
+        971,
+        2859,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "26 05 12021",
+          "box": [
+            2291,
+            1006,
+            2739,
+            1066
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2201,
+        1585,
+        2840,
+        1739
+      ],
+      "lines": [
+        {
+          "text": "11 11 2027",
+          "box": [
+            2281,
+            1621,
+            2736,
+            1683
+          ]
+        }
+      ]
+    }
+  ]
+}

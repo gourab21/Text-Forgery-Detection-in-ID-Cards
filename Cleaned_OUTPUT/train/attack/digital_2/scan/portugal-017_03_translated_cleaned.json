@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\portugal-017_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\portugal-017_03.jpg",
+  "width": 1992,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            672,
+            341,
+            1098,
+            386
+          ],
+          "original_text": "MODYES SOUSA",
+          "translated_en": "MODYES SOUSA"
+        },
+        {
+          "box": [
+            673,
+            400,
+            1087,
+            443
+          ],
+          "original_text": "Eduardo Manuel",
+          "translated_en": "Eduardo Manuel"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1703,
+            577,
+            1990,
+            616
+          ],
+          "original_text": "14 11 1988",
+          "translated_en": "14 11 1988"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1302,
+            754,
+            1601,
+            797
+          ],
+          "original_text": "01 12 2014",
+          "translated_en": "01 12 2014"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-017_03_translated_cleaned.jpg"
+}

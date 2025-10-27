@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\usa-NF-1044.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        427,
+        1237,
+        662
+      ],
+      "lines": [
+        {
+          "text": "ErenStone",
+          "box": [
+            658,
+            470,
+            956,
+            511
+          ]
+        },
+        {
+          "text": "321 Alder St",
+          "box": [
+            654,
+            524,
+            986,
+            580
+          ]
+        },
+        {
+          "text": "Portland OR 97201",
+          "box": [
+            655,
+            585,
+            1141,
+            631
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        756,
+        1948,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 02-13-34",
+          "box": [
+            1495,
+            775,
+            1893,
+            819
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+LE1
+EN: Liu Yifei
+OR: 刘亦菲
+EN: Michael
+OR: Michalei
+
+E2
+EN: 15 Apr 1921
+
+E3
+EN: 12 Dec 2012
+
+E4
+EN: 06 Feb 2075

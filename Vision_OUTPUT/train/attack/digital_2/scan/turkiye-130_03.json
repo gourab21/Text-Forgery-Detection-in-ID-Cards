@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-130_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        611,
+        1215,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Kteph",
+          "box": [
+            653,
+            652,
+            820,
+            704
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Yılmaz",
+          "box": [
+            655,
+            498,
+            832,
+            535
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        767,
+        1193,
+        884
+      ],
+      "lines": [
+        {
+          "text": "18.04.2025",
+          "box": [
+            653,
+            805,
+            950,
+            845
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1086,
+        1184,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "29.09.2028",
+          "box": [
+            645,
+            1118,
+            941,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

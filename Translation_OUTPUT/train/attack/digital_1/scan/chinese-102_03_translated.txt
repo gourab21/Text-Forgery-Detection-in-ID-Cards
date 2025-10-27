@@ -1,0 +1,14 @@
+LE1
+OR: 刘颖
+EN: Liu Ying
+OR: UseYing
+EN: You are in Ying.
+
+E2
+EN: 20 Nov 1994
+
+E3
+EN: 14 Jan 2015
+
+E4
+EN: 11 Jan 2007

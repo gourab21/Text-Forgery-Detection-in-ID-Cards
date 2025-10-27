@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\french-124_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        420,
+        1892,
+        566
+      ],
+      "lines": [
+        {
+          "text": "LECLERC",
+          "box": [
+            1052,
+            457,
+            1383,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        692,
+        2004,
+        868
+      ],
+      "lines": [
+        {
+          "text": "Charlotte , Irène",
+          "box": [
+            1044,
+            732,
+            1655,
+            799
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2218,
+        971,
+        2843,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "03 08 12037",
+          "box": [
+            2281,
+            1002,
+            2741,
+            1067
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2189,
+        1584,
+        2823,
+        1738
+      ],
+      "lines": [
+        {
+          "text": "14 07 2017",
+          "box": [
+            2270,
+            1620,
+            2727,
+            1679
+          ]
+        }
+      ]
+    }
+  ]
+}

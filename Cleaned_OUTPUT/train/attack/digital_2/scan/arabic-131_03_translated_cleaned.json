@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\arabic-131_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\arabic-131_03.jpg",
+  "width": 1998,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            750,
+            471,
+            1285,
+            528
+          ],
+          "original_text": "K milyl 1l Mubrak",
+          "translated_en": "K milyl 1l Mubrak"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            736,
+            336,
+            1084,
+            393
+          ],
+          "original_text": "المبارك خليل",
+          "translated_en": "Mubarak Khalil"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            747,
+            779,
+            1120,
+            839
+          ],
+          "original_text": "17 Aug 2101",
+          "translated_en": "17 Aug 2101"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            742,
+            949,
+            1098,
+            1000
+          ],
+          "original_text": "20 Apr 2022",
+          "translated_en": "20 Apr 2022"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            741,
+            1112,
+            1106,
+            1167
+          ],
+          "original_text": "10 May 2031",
+          "translated_en": "10 May 2031"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1272,
+            784,
+            1845,
+            848
+          ],
+          "original_text": "١٧ / أغسطس / ١٩٩٤",
+          "translated_en": "August 17, 1994"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1267,
+            948,
+            1723,
+            1006
+          ],
+          "original_text": "۲۰ / أبريل / ۲۰۲۲",
+          "translated_en": "April 20, 2022"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1226,
+            1115,
+            1692,
+            1174
+          ],
+          "original_text": "١٠ / مايو / ٢۰۳۲",
+          "translated_en": "May 10, 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-131_03_translated_cleaned.jpg"
+}

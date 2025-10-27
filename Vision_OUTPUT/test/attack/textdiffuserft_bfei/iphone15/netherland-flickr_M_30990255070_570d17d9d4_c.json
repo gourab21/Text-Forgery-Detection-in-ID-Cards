@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_30990255070_570d17d9d4_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        868,
+        404,
+        1781,
+        756
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            944,
+            451,
+            1334,
+            513
+          ]
+        },
+        {
+          "text": "Lindake Elsabeth",
+          "box": [
+            956,
+            538,
+            1651,
+            602
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            946,
+            636,
+            1270,
+            698
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2071,
+        782,
+        2743,
+        921
+      ],
+      "lines": [
+        {
+          "text": "02 04 1972",
+          "box": [
+            2173,
+            813,
+            2614,
+            879
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2036,
+        1022,
+        2733,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "12 09 1937",
+          "box": [
+            2144,
+            1050,
+            2637,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

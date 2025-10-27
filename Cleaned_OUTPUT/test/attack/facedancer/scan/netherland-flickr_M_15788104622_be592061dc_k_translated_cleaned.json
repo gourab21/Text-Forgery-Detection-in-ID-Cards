@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\scan\\netherland-flickr_M_15788104622_be592061dc_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\netherland-flickr_M_15788104622_be592061dc_k.jpg",
+  "width": 1999,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            695,
+            321,
+            999,
+            366
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER"
+        },
+        {
+          "box": [
+            691,
+            386,
+            1089,
+            433
+          ],
+          "original_text": "Marieke Petra",
+          "translated_en": "Marieke Petra"
+        },
+        {
+          "box": [
+            690,
+            452,
+            890,
+            505
+          ],
+          "original_text": "Sophie",
+          "translated_en": "Sophie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1567,
+            605,
+            1901,
+            650
+          ],
+          "original_text": "26 12 2005",
+          "translated_en": "26 12 2005"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1536,
+            777,
+            1899,
+            821
+          ],
+          "original_text": "11 11 2032",
+          "translated_en": "11 11 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_15788104622_be592061dc_k_translated_cleaned.jpg"
+}

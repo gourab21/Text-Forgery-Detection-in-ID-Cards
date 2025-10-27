@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-117_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        426,
+        1238,
+        661
+      ],
+      "lines": [
+        {
+          "text": "Toni Doe",
+          "box": [
+            653,
+            465,
+            893,
+            504
+          ]
+        },
+        {
+          "text": "1234 Elm St",
+          "box": [
+            647,
+            523,
+            971,
+            577
+          ]
+        },
+        {
+          "text": "Springfield IL 62704",
+          "box": [
+            646,
+            584,
+            1173,
+            631
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1454,
+        754,
+        1949,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB 24-01-76",
+          "box": [
+            1493,
+            776,
+            1884,
+            827
+          ]
+        }
+      ]
+    }
+  ]
+}

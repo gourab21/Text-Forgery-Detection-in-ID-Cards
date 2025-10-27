@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-067_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        425,
+        1238,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Cindy Wilson",
+          "box": [
+            649,
+            462,
+            1000,
+            513
+          ]
+        },
+        {
+          "text": "67.84 Creek Rd",
+          "box": [
+            654,
+            521,
+            1029,
+            565
+          ]
+        },
+        {
+          "text": "Dover DE 19901",
+          "box": [
+            654,
+            582,
+            1065,
+            626
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1455,
+        754,
+        1950,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 31-03-13",
+          "box": [
+            1493,
+            776,
+            1886,
+            816
+          ]
+        }
+      ]
+    }
+  ]
+}

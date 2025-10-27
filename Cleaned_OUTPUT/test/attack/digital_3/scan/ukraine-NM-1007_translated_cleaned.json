@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\ukraine-NM-1007_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-NM-1007.jpg",
+  "width": 1992,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            646,
+            290,
+            979,
+            345
+          ],
+          "original_text": "Бондаренко /",
+          "translated_en": "Bondarenko /"
+        },
+        {
+          "box": [
+            645,
+            350,
+            932,
+            388
+          ],
+          "original_text": "Bondarenko",
+          "translated_en": "Bondarenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            638,
+            474,
+            1109,
+            528
+          ],
+          "original_text": "Андрій Юрійович /",
+          "translated_en": "Andriy Yuriyovych /"
+        },
+        {
+          "box": [
+            640,
+            531,
+            798,
+            577
+          ],
+          "original_text": "Garyiy",
+          "translated_en": "Garyiy"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            637,
+            678,
+            907,
+            718
+          ],
+          "original_text": "01.01.1922",
+          "translated_en": "01.01.1922"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            631,
+            956,
+            900,
+            995
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            627,
+            1152,
+            896,
+            1192
+          ],
+          "original_text": "25.12.1985",
+          "translated_en": "25.12.1985"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NM-1007_translated_cleaned.jpg"
+}

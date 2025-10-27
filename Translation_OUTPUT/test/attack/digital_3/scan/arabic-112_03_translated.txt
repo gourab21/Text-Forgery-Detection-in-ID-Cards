@@ -1,0 +1,27 @@
+E1
+EN: Kimberyohra
+
+L1
+OR: الزهراء فاطمة
+EN: Zahra Fatima
+
+E2
+EN: 21 Jan 1997
+
+E3
+EN: 15 Apr 2023
+
+E4
+EN: 21 Jun 2027
+
+L2
+OR: ٣٠ / أكتوبر / ١٩٨٦
+EN: October 30, 1986
+
+L3
+OR: ١٥ / أبريل / ۲۰۲۳
+EN: April 15, 2023
+
+L4
+OR: ١٥ / أبريل / ٢٠٣٣
+EN: April 15, 2033

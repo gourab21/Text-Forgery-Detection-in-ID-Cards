@@ -1,0 +1,100 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\indian-NM-1058.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\indian-NM-1058.jpg",
+  "width": 3188,
+  "height": 1980,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1101,
+            737,
+            1668,
+            804
+          ],
+          "original_text": "CHOWDHURY",
+          "translated_en": "CHOWDHURY",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1095,
+            985,
+            1479,
+            1050
+          ],
+          "original_text": "A TEVERAJ",
+          "translated_en": "A TEVERAJ",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1095,
+            1239,
+            1606,
+            1313
+          ],
+          "original_text": "14/02/1995",
+          "translated_en": "14/02/1995",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1133,
+            1630,
+            1712,
+            1672
+          ],
+          "original_text": "किरन का ताथ Date o",
+          "translated_en": "किरन का ताथ Date o",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1085,
+            1710,
+            1590,
+            1789
+          ],
+          "original_text": "29/04/2008",
+          "translated_en": "29/04/2008",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2243,
+            1730,
+            2756,
+            1797
+          ],
+          "original_text": "29/04/2018",
+          "translated_en": "29/04/2018",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NM-1058_translated.jpg"
+}

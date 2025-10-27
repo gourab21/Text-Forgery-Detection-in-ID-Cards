@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-NF-1095.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        781,
+        341,
+        1555,
+        460
+      ],
+      "lines": [
+        {
+          "text": "MOREL",
+          "box": [
+            861,
+            376,
+            1079,
+            421
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        774,
+        564,
+        1646,
+        706
+      ],
+      "lines": [
+        {
+          "text": "Eva , Laurence",
+          "box": [
+            857,
+            601,
+            1288,
+            650
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1822,
+        789,
+        2335,
+        926
+      ],
+      "lines": [
+        {
+          "text": "05 03 1990",
+          "box": [
+            1864,
+            816,
+            2217,
+            869
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1798,
+        1289,
+        2319,
+        1413
+      ],
+      "lines": [
+        {
+          "text": "12 04 2035",
+          "box": [
+            1852,
+            1312,
+            2201,
+            1367
+          ]
+        }
+      ]
+    }
+  ]
+}

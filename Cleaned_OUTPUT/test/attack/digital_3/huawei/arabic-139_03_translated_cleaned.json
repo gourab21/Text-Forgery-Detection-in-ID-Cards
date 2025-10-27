@@ -1,0 +1,139 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\arabic-139_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\arabic-139_03.jpg",
+  "width": 3034,
+  "height": 1879,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1141,
+            704,
+            1811,
+            777
+          ],
+          "original_text": "Debra Al - Amin",
+          "translated_en": "Debra Al - Amin"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1103,
+            490,
+            1648,
+            583
+          ],
+          "original_text": "الأمين فاطمة",
+          "translated_en": "Secretary Fatima"
+        },
+        {
+          "box": [
+            1101,
+            603,
+            1186,
+            630
+          ],
+          "original_text": "N",
+          "translated_en": "N"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1128,
+            1168,
+            1683,
+            1241
+          ],
+          "original_text": "22 Jun 1955",
+          "translated_en": "22 Jun 1955"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1118,
+            1416,
+            1633,
+            1484
+          ],
+          "original_text": "06 Jul 2018",
+          "translated_en": "06 Jul 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1119,
+            1671,
+            1634,
+            1745
+          ],
+          "original_text": "09 Sep 2088",
+          "translated_en": "09 Sep 2088"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1930,
+            1183,
+            2507,
+            1270
+          ],
+          "original_text": "٤ / مايو / ۱۹۸۱",
+          "translated_en": "May 4, 1981"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1925,
+            1427,
+            2553,
+            1514
+          ],
+          "original_text": "٦ / يوليو / ۲۰۱۸",
+          "translated_en": "July 6, 2018"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1922,
+            1675,
+            2544,
+            1761
+          ],
+          "original_text": "٦ / يوليو / ۲۰۳۳",
+          "translated_en": "July 6, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-139_03_translated_cleaned.jpg"
+}

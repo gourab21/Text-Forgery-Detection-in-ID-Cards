@@ -1,0 +1,132 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\persian-NF-1034.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\persian-NF-1034.jpg",
+  "width": 2793,
+  "height": 1789,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1064,
+            348,
+            1245,
+            379
+          ],
+          "original_text": "Name",
+          "translated_en": "Name",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1062,
+            412,
+            1326,
+            478
+          ],
+          "original_text": "Soraya",
+          "translated_en": "Soraya",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1067,
+            616,
+            1338,
+            669
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1881,
+            398,
+            1978,
+            461
+          ],
+          "original_text": "ثريا",
+          "translated_en": "chandelier",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1882,
+            599,
+            2047,
+            674
+          ],
+          "original_text": "کاظمی",
+          "translated_en": "Kazemi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1073,
+            846,
+            1464,
+            904
+          ],
+          "original_text": "22/06/1985",
+          "translated_en": "22/06/1985",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1084,
+            1311,
+            1472,
+            1369
+          ],
+          "original_text": "12/06/2024",
+          "translated_en": "12/06/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1904,
+            1301,
+            2295,
+            1358
+          ],
+          "original_text": "12/06/2029",
+          "translated_en": "12/06/2029",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1034_translated.jpg"
+}

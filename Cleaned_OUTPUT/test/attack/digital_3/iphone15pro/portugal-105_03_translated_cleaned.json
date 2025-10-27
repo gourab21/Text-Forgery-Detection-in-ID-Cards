@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\portugal-105_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\portugal-105_03.jpg",
+  "width": 2855,
+  "height": 1805,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            975,
+            498,
+            1774,
+            562
+          ],
+          "original_text": "KATHYRO FERNANDES",
+          "translated_en": "KATHYRO FERNANDES"
+        },
+        {
+          "box": [
+            971,
+            583,
+            1245,
+            637
+          ],
+          "original_text": "Ricardo",
+          "translated_en": "Ricardo"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2421,
+            834,
+            2783,
+            885
+          ],
+          "original_text": "27 03 2079",
+          "translated_en": "27 03 2079"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1868,
+            1084,
+            2271,
+            1143
+          ],
+          "original_text": "11 04 1974",
+          "translated_en": "11 04 1974"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-105_03_translated_cleaned.jpg"
+}

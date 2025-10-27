@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\indian-NF-1096_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\indian-NF-1096.jpg",
+  "width": 1992,
+  "height": 1254,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            467,
+            850,
+            503
+          ],
+          "original_text": "DESAI",
+          "translated_en": "DESAI"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            687,
+            619,
+            1079,
+            662
+          ],
+          "original_text": "KOыUARGEETA",
+          "translated_en": "KOыUARGEETA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            686,
+            780,
+            1010,
+            824
+          ],
+          "original_text": "20/09/2017",
+          "translated_en": "20/09/2017"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            680,
+            1074,
+            995,
+            1120
+          ],
+          "original_text": "29/08/2022",
+          "translated_en": "29/08/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1400,
+            1084,
+            1727,
+            1127
+          ],
+          "original_text": "26/08/2038",
+          "translated_en": "26/08/2038"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1096_translated_cleaned.jpg"
+}

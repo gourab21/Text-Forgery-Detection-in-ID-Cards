@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\french-NF-1047.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        954,
+        420,
+        1897,
+        566
+      ],
+      "lines": [
+        {
+          "text": "THOMAS",
+          "box": [
+            1046,
+            460,
+            1376,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        945,
+        692,
+        2010,
+        868
+      ],
+      "lines": [
+        {
+          "text": "Élodie , Margot",
+          "box": [
+            1046,
+            728,
+            1599,
+            808
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2224,
+        971,
+        2850,
+        1139
+      ],
+      "lines": [
+        {
+          "text": "21 01 2096",
+          "box": [
+            2288,
+            1006,
+            2723,
+            1069
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2194,
+        1584,
+        2829,
+        1738
+      ],
+      "lines": [
+        {
+          "text": "03 03 1921",
+          "box": [
+            2273,
+            1626,
+            2707,
+            1684
+          ]
+        }
+      ]
+    }
+  ]
+}

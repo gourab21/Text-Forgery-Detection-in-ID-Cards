@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\indian-NF-1006_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\indian-NF-1006.jpg",
+  "width": 2799,
+  "height": 1785,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            972,
+            665,
+            1221,
+            721
+          ],
+          "original_text": "GHOSE",
+          "translated_en": "GHOSE"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            989,
+            879,
+            1441,
+            938
+          ],
+          "original_text": "MICHAELITA",
+          "translated_en": "MICHAELITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            983,
+            1104,
+            1420,
+            1178
+          ],
+          "original_text": "03/03/1982",
+          "translated_en": "03/03/1982"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            989,
+            1522,
+            1430,
+            1593
+          ],
+          "original_text": "29/09/2022",
+          "translated_en": "29/09/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1997,
+            1513,
+            2439,
+            1577
+          ],
+          "original_text": "03/01/1933",
+          "translated_en": "03/01/1933"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1006_translated_cleaned.jpg"
+}

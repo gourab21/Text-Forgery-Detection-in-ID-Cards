@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\scan\\chinese-020_03_translated.json",
+  "image_relative": "train\\bonafide\\scan\\chinese-020_03.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            687,
+            434,
+            789,
+            484
+          ],
+          "original_text": "李晨",
+          "translated_en": "Li Chen"
+        },
+        {
+          "box": [
+            687,
+            496,
+            809,
+            534
+          ],
+          "original_text": "Li Na",
+          "translated_en": "Li Na"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1245,
+            702,
+            1583,
+            744
+          ],
+          "original_text": "18 MAR 1989",
+          "translated_en": "18 MAR 1989"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1246,
+            886,
+            1559,
+            926
+          ],
+          "original_text": "07 JUL 2009",
+          "translated_en": "07 JUL 2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            695,
+            1084,
+            1007,
+            1123
+          ],
+          "original_text": "06 JUL 2029",
+          "translated_en": "06 JUL 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-020_03_translated_cleaned.jpg"
+}

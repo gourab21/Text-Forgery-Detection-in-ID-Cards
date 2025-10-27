@@ -1,0 +1,14 @@
+LE1
+EN: Liu Yang
+OR: 刘洋
+EN: Tearsblood
+OR: Larmesang
+
+E2
+EN: 16 FEB 20 25
+
+E3
+EN: 25 DEC 2005
+
+E4
+EN: 24 DEC 2041

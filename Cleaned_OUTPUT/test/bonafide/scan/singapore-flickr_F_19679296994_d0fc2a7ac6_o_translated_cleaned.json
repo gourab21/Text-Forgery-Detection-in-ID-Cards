@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\singapore-flickr_F_19679296994_d0fc2a7ac6_o_translated.json",
+  "image_relative": "test\\bonafide\\scan\\singapore-flickr_F_19679296994_d0fc2a7ac6_o.jpg",
+  "width": 1997,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            511,
+            464,
+            1141,
+            515
+          ],
+          "original_text": "Jasmine dela Cruz",
+          "translated_en": "Jasmine dela Cruz"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            508,
+            917,
+            870,
+            967
+          ],
+          "original_text": "1982-07-15",
+          "translated_en": "1982-07-15"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1163,
+            1110,
+            1527,
+            1157
+          ],
+          "original_text": "1992-07-15",
+          "translated_en": "1992-07-15"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_19679296994_d0fc2a7ac6_o_translated_cleaned.jpg"
+}

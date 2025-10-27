@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_30456580904_06749c0622_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        581,
+        580,
+        2103,
+        858
+      ],
+      "lines": [
+        {
+          "text": "Hafiz bin Rahman",
+          "box": [
+            719,
+            659,
+            1567,
+            730
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        649,
+        1243,
+        1448,
+        1415
+      ],
+      "lines": [
+        {
+          "text": "1975-02-22",
+          "box": [
+            737,
+            1303,
+            1245,
+            1378
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1574,
+        1510,
+        2324,
+        1677
+      ],
+      "lines": [
+        {
+          "text": "1985-02-22",
+          "box": [
+            1666,
+            1545,
+            2173,
+            1619
+          ]
+        }
+      ]
+    }
+  ]
+}

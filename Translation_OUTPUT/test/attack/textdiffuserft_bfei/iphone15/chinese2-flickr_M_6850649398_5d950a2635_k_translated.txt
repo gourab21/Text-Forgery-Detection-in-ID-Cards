@@ -1,0 +1,15 @@
+LE1
+OR: 赵 洋
+EN: Zhao Yang
+OR: Danieleg
+EN: Daniel
+
+E2
+EN: 19 Dec 1975
+
+E3
+EN: 04 Dec 2039
+
+E4
+EN: 17 Sep 2098
+EN: N

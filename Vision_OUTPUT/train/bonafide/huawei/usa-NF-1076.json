@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-NF-1076.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        671,
+        1987,
+        1041
+      ],
+      "lines": [
+        {
+          "text": "Patricia",
+          "box": [
+            1046,
+            734,
+            1398,
+            808
+          ]
+        },
+        {
+          "text": "1543 Elm St S",
+          "box": [
+            1041,
+            824,
+            1548,
+            923
+          ]
+        },
+        {
+          "text": "Phoenix AZ 85021",
+          "box": [
+            1040,
+            920,
+            1787,
+            990
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2332,
+        1188,
+        3128,
+        1348
+      ],
+      "lines": [
+        {
+          "text": "DOB : 11-12-83",
+          "box": [
+            2401,
+            1230,
+            3032,
+            1300
+          ]
+        }
+      ]
+    }
+  ]
+}

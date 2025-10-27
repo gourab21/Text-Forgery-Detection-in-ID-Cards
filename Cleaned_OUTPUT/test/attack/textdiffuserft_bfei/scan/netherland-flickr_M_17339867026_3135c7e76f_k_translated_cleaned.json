@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_17339867026_3135c7e76f_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_17339867026_3135c7e76f_k.jpg",
+  "width": 1996,
+  "height": 1243,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            682,
+            325,
+            893,
+            366
+          ],
+          "original_text": "MEIJER",
+          "translated_en": "MEIJER"
+        },
+        {
+          "box": [
+            685,
+            378,
+            1125,
+            433
+          ],
+          "original_text": "Jessica Sophie",
+          "translated_en": "Jessica Sophie"
+        },
+        {
+          "box": [
+            684,
+            458,
+            829,
+            497
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1563,
+            580,
+            1884,
+            627
+          ],
+          "original_text": "13 12 1915",
+          "translated_en": "13 12 1915"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1542,
+            750,
+            1896,
+            799
+          ],
+          "original_text": "19 01 2064",
+          "translated_en": "19 01 2064"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_17339867026_3135c7e76f_k_translated_cleaned.jpg"
+}

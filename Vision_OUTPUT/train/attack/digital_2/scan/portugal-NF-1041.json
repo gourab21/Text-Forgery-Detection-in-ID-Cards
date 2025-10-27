@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1041.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "SANDYS OLIVEIRA",
+          "box": [
+            684,
+            338,
+            1189,
+            389
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            685,
+            400,
+            782,
+            434
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "31 05 1978",
+          "box": [
+            1707,
+            598,
+            1997,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        729,
+        1670,
+        844
+      ],
+      "lines": [
+        {
+          "text": "28 05 2028",
+          "box": [
+            1304,
+            767,
+            1600,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

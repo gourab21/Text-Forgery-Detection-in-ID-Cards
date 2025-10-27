@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-NF-1017.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        427,
+        1238,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Linda Queen",
+          "box": [
+            656,
+            462,
+            976,
+            512
+          ]
+        },
+        {
+          "text": "345 Cherry Ln",
+          "box": [
+            647,
+            522,
+            1007,
+            574
+          ]
+        },
+        {
+          "text": "Nashville TN 37212",
+          "box": [
+            647,
+            584,
+            1144,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        756,
+        1948,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 06-66-05",
+          "box": [
+            1491,
+            778,
+            1886,
+            818
+          ]
+        }
+      ]
+    }
+  ]
+}

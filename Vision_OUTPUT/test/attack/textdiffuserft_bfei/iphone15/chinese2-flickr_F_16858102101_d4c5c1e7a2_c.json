@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_16858102101_d4c5c1e7a2_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        858,
+        548,
+        1654,
+        819
+      ],
+      "lines": [
+        {
+          "text": "李红",
+          "box": [
+            948,
+            593,
+            1088,
+            654
+          ]
+        },
+        {
+          "text": "Andrewg",
+          "box": [
+            940,
+            686,
+            1232,
+            743
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1673,
+        913,
+        2318,
+        1078
+      ],
+      "lines": [
+        {
+          "text": "27 Jul 1959",
+          "box": [
+            1728,
+            954,
+            2208,
+            1027
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1678,
+        1169,
+        2344,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "16 Jun 1936",
+          "box": [
+            1728,
+            1211,
+            2217,
+            1276
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        889,
+        1449,
+        1552,
+        1632
+      ],
+      "lines": [
+        {
+          "text": "24 Mar 193",
+          "box": [
+            960,
+            1490,
+            1431,
+            1556
+          ]
+        }
+      ]
+    }
+  ]
+}

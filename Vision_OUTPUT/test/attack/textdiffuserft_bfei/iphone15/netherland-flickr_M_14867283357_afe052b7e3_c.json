@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        401,
+        1779,
+        748
+      ],
+      "lines": [
+        {
+          "text": "DE JONG",
+          "box": [
+            947,
+            453,
+            1306,
+            517
+          ]
+        },
+        {
+          "text": "Paulike Cornelis",
+          "box": [
+            956,
+            534,
+            1622,
+            602
+          ]
+        },
+        {
+          "text": "Ilse",
+          "box": [
+            947,
+            639,
+            1086,
+            701
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2068,
+        775,
+        2739,
+        913
+      ],
+      "lines": [
+        {
+          "text": "06 05 1940",
+          "box": [
+            2175,
+            812,
+            2628,
+            877
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2033,
+        1012,
+        2730,
+        1182
+      ],
+      "lines": [
+        {
+          "text": "01 02 1913",
+          "box": [
+            2140,
+            1047,
+            2641,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

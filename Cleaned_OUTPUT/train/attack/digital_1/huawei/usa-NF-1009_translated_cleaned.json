@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\usa-NF-1009_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\usa-NF-1009.jpg",
+  "width": 3202,
+  "height": 1978,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1022,
+            674,
+            1574,
+            850
+          ],
+          "original_text": "Jravisolle",
+          "translated_en": "Jravisolle"
+        },
+        {
+          "box": [
+            1046,
+            837,
+            1648,
+            913
+          ],
+          "original_text": "5678 Maple Dr",
+          "translated_en": "5678 Maple Dr"
+        },
+        {
+          "box": [
+            1043,
+            932,
+            1890,
+            999
+          ],
+          "original_text": "Rochester NY 14623",
+          "translated_en": "Rochester NY 14623"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2407,
+            1236,
+            3029,
+            1308
+          ],
+          "original_text": "03-22-91",
+          "translated_en": "03-22-91"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1009_translated_cleaned.jpg"
+}

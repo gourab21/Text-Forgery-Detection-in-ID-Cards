@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1026.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        989,
+        474,
+        2335,
+        751
+      ],
+      "lines": [
+        {
+          "text": "LAURA RIBURO",
+          "box": [
+            1102,
+            547,
+            1730,
+            616
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            1091,
+            633,
+            1250,
+            690
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2633,
+        912,
+        3194,
+        1066
+      ],
+      "lines": [
+        {
+          "text": "14 06 2009",
+          "box": [
+            2727,
+            954,
+            3122,
+            1021
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1983,
+        1158,
+        2671,
+        1341
+      ],
+      "lines": [
+        {
+          "text": "18 03 1985",
+          "box": [
+            2087,
+            1223,
+            2546,
+            1291
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-01_0014_000-6f7ea414_0.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        619,
+        299,
+        1461,
+        475
+      ],
+      "lines": [
+        {
+          "text": "PATRICIAVA",
+          "box": [
+            691,
+            339,
+            1028,
+            386
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            687,
+            395,
+            790,
+            439
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1648,
+        577,
+        1999,
+        674
+      ],
+      "lines": [
+        {
+          "text": "01 10 1915",
+          "box": [
+            1701,
+            603,
+            1951,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1241,
+        732,
+        1671,
+        847
+      ],
+      "lines": [
+        {
+          "text": "20 11 2015",
+          "box": [
+            1302,
+            771,
+            1585,
+            810
+          ]
+        }
+      ]
+    }
+  ]
+}

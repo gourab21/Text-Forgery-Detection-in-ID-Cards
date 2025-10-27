@@ -1,0 +1,20 @@
+LE1
+EN: Last name
+OR: Прізвищ
+EN: Kravchuk /
+OR: Кравчук /
+EN: Kravchuk
+
+LE2
+EN: Serhiy Mykolayovych /
+OR: Сергій Миколайович /
+EN: Russel
+
+E3
+EN: 05.03.2042
+
+E4
+EN: 28.07.2015
+
+E5
+EN: 21.02.2083

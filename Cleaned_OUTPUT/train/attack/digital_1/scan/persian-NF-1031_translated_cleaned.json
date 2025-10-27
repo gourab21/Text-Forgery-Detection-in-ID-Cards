@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\persian-NF-1031_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\persian-NF-1031.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            771,
+            281,
+            946,
+            325
+          ],
+          "original_text": "Fauren",
+          "translated_en": "Fauren"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            767,
+            427,
+            950,
+            469
+          ],
+          "original_text": "Shirazi",
+          "translated_en": "Shirazi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1353,
+            292,
+            1458,
+            336
+          ],
+          "original_text": "پریسا",
+          "translated_en": "Parisa"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1346,
+            436,
+            1444,
+            483
+          ],
+          "original_text": "زارع",
+          "translated_en": "Farmer"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            764,
+            590,
+            1045,
+            634
+          ],
+          "original_text": "31/10/2009",
+          "translated_en": "31/10/2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            758,
+            921,
+            1035,
+            962
+          ],
+          "original_text": "06/02/2024",
+          "translated_en": "06/02/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1341,
+            927,
+            1632,
+            970
+          ],
+          "original_text": "25/07/2031",
+          "translated_en": "25/07/2031"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1031_translated_cleaned.jpg"
+}

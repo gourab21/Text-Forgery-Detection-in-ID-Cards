@@ -1,0 +1,20 @@
+LE1
+EN: Cooper /
+OR: Бондар /
+EN: bumble-bee
+OR: Bondar
+
+LE2
+EN: Vasyl Petrovych /
+OR: Василь Петрович /
+EN: Robert
+OR: Rober
+
+E3
+EN: 27.04.1972
+
+E4
+EN: 17.09.2018
+
+E5
+EN: 01.07.1914

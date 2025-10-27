@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\chinese2-flickr_M_30518538704_383875f8c4_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\chinese2-flickr_M_30518538704_383875f8c4_c.jpg",
+  "width": 1994,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            686,
+            430,
+            789,
+            474
+          ],
+          "original_text": "陈伟",
+          "translated_en": "Chen Wei"
+        },
+        {
+          "box": [
+            683,
+            493,
+            938,
+            534
+          ],
+          "original_text": "Chen Wei",
+          "translated_en": "Chen Wei"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1242,
+            695,
+            1593,
+            741
+          ],
+          "original_text": "25 Nov 1983",
+          "translated_en": "25 Nov 1983"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1249,
+            875,
+            1597,
+            933
+          ],
+          "original_text": "15 Aug 2016",
+          "translated_en": "15 Aug 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            697,
+            1073,
+            1044,
+            1130
+          ],
+          "original_text": "13 Aug 2026",
+          "translated_en": "13 Aug 2026"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_30518538704_383875f8c4_c_translated_cleaned.jpg"
+}

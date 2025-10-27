@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\turkiye-031_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\turkiye-031_03.jpg",
+  "width": 1990,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            651,
+            651,
+            817,
+            693
+          ],
+          "original_text": "Jasom",
+          "translated_en": "Jasom"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            651,
+            447,
+            802,
+            480
+          ],
+          "original_text": "Soyadı",
+          "translated_en": "Soyadı"
+        },
+        {
+          "box": [
+            651,
+            507,
+            778,
+            549
+          ],
+          "original_text": "Kaya",
+          "translated_en": "Kaya"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            658,
+            807,
+            946,
+            849
+          ],
+          "original_text": "30.02.1914",
+          "translated_en": "30.02.1914"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            665,
+            1120,
+            952,
+            1163
+          ],
+          "original_text": "21.07.1921",
+          "translated_en": "21.07.1921"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-031_03_translated_cleaned.jpg"
+}

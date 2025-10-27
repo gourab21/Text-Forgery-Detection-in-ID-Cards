@@ -1,0 +1,29 @@
+E1
+EN: Shanorores
+
+L1
+OR: فارس بلال
+EN: Fares Bilal
+
+E2
+EN: 01 May 1905
+
+E3
+EN: 10 Jul 2025
+
+E4
+EN: 15 Jan 2054
+
+L2
+OR: تاريخ
+EN: History
+OR: ۱۱ / نوفمبر / ۱۹۹۱
+EN: November 11, 1991
+
+L3
+OR: ١٠ / يوليو / ٢٠٢٥
+EN: July 10, 2025
+
+L4
+OR: ١٠ / يوليو / ۲۰۳۵
+EN: July 10, 2035

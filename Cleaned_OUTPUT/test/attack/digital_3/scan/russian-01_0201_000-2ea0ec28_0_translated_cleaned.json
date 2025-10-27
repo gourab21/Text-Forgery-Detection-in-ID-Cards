@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\russian-01_0201_000-2ea0ec28_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\russian-01_0201_000-2ea0ec28_0.jpg",
+  "width": 1991,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            708,
+            270,
+            982,
+            317
+          ],
+          "original_text": "Кузнецова /",
+          "translated_en": "Kuznetsova /"
+        },
+        {
+          "box": [
+            708,
+            327,
+            962,
+            357
+          ],
+          "original_text": "Kuznetsova",
+          "translated_en": "Kuznetsova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            711,
+            476,
+            1324,
+            518
+          ],
+          "original_text": "Ксения Романовна / B",
+          "translated_en": "Ksenia Romanovna / B"
+        },
+        {
+          "box": [
+            711,
+            530,
+            1130,
+            569
+          ],
+          "original_text": "Cathernem novna",
+          "translated_en": "Cathernem novna"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            713,
+            684,
+            961,
+            720
+          ],
+          "original_text": "05.06.2044",
+          "translated_en": "05.06.2044"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            722,
+            960,
+            970,
+            995
+          ],
+          "original_text": "17.05.2018",
+          "translated_en": "17.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            726,
+            1144,
+            971,
+            1181
+          ],
+          "original_text": "14.09.1967",
+          "translated_en": "14.09.1967"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-01_0201_000-2ea0ec28_0_translated_cleaned.jpg"
+}

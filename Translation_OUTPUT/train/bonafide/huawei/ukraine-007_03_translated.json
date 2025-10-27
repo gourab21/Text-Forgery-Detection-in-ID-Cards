@@ -1,0 +1,133 @@
+{
+  "source_json": "train\\bonafide\\huawei\\ukraine-007_03.json",
+  "image_relative": "train\\bonafide\\huawei\\ukraine-007_03.jpg",
+  "width": 3226,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1053,
+            451,
+            1549,
+            532
+          ],
+          "original_text": "Кузьменко /",
+          "translated_en": "Kuzmenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1049,
+            545,
+            1455,
+            601
+          ],
+          "original_text": "Kuzmenko",
+          "translated_en": "Kuzmenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1049,
+            741,
+            1832,
+            827
+          ],
+          "original_text": "Вікторія Сергіївна /",
+          "translated_en": "Victoria Sergiivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1037,
+            833,
+            1366,
+            891
+          ],
+          "original_text": "Viktoriia",
+          "translated_en": "Victoria",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1040,
+            1068,
+            1475,
+            1130
+          ],
+          "original_text": "12.11.1990",
+          "translated_en": "12.11.1990",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1640,
+            1456,
+            1875,
+            1487
+          ],
+          "original_text": "of Issue",
+          "translated_en": "of Issue",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1027,
+            1508,
+            1463,
+            1572
+          ],
+          "original_text": "28.12.2015",
+          "translated_en": "28.12.2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1252,
+            1775,
+            1295,
+            1812
+          ],
+          "original_text": "д",
+          "translated_en": "д",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1020,
+            1818,
+            1457,
+            1881
+          ],
+          "original_text": "28.12.2020",
+          "translated_en": "28.12.2020",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-007_03_translated.jpg"
+}

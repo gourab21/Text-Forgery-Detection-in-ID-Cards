@@ -1,0 +1,122 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\russian-140_03.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-140_03.jpg",
+  "width": 3086,
+  "height": 1890,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1083,
+            404,
+            1608,
+            474
+          ],
+          "original_text": "Паниковский /",
+          "translated_en": "Panikovsky /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1083,
+            486,
+            1470,
+            547
+          ],
+          "original_text": "Panikovsky",
+          "translated_en": "Panikovsky",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1094,
+            722,
+            2054,
+            791
+          ],
+          "original_text": "Михаил Самуэлевич / :",
+          "translated_en": "Mikhail Samuelevich / :",
+          "detected_lang": "tg"
+        },
+        {
+          "box": [
+            1093,
+            809,
+            1336,
+            863
+          ],
+          "original_text": "Terrril",
+          "translated_en": "Terrible",
+          "detected_lang": "hu"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1100,
+            1040,
+            1488,
+            1093
+          ],
+          "original_text": "04.06.1923",
+          "translated_en": "04.06.1923",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1073,
+            1387,
+            1420,
+            1431
+          ],
+          "original_text": "Да ата выда",
+          "translated_en": "Да ата выда",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1111,
+            1465,
+            1497,
+            1515
+          ],
+          "original_text": "25.03.2021",
+          "translated_en": "25.03.2021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1116,
+            1744,
+            1499,
+            1797
+          ],
+          "original_text": "20.02.1900",
+          "translated_en": "20.02.1900",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-140_03_translated.jpg"
+}

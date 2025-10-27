@@ -1,0 +1,20 @@
+E1
+EN: Mmanda
+
+E2
+EN: Kermani
+
+L1
+EN: Mariam
+OR: مريم
+
+L2
+
+E3
+EN: 23/07/2034
+
+E4
+EN: 15/12/2024
+
+E5
+EN: 17/01/2044

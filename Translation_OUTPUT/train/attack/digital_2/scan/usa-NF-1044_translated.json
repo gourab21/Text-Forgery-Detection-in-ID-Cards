@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\scan\\usa-NF-1044.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\usa-NF-1044.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            659,
+            465,
+            984,
+            512
+          ],
+          "original_text": "Eebra Stone",
+          "translated_en": "Eebra Stone",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            656,
+            529,
+            977,
+            572
+          ],
+          "original_text": "321 Alder St",
+          "translated_en": "321 Alder St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            656,
+            585,
+            1141,
+            629
+          ],
+          "original_text": "Portland OR 97201",
+          "translated_en": "Portland OR 97201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1497,
+            773,
+            1897,
+            830
+          ],
+          "original_text": "DOB : 02-13-15",
+          "translated_en": "DOB : 02-13-15",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1044_translated.jpg"
+}

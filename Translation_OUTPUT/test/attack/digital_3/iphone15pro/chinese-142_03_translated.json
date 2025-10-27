@@ -1,0 +1,84 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\chinese-142_03.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\chinese-142_03.jpg",
+  "width": 2784,
+  "height": 1762,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            950,
+            613,
+            1095,
+            680
+          ],
+          "original_text": "王珊",
+          "translated_en": "Wang Shan",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            950,
+            699,
+            1270,
+            760
+          ],
+          "original_text": "Dwaynel",
+          "translated_en": "Dwaynel",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1731,
+            989,
+            2164,
+            1060
+          ],
+          "original_text": "06 Sep 2097",
+          "translated_en": "06 Sep 2097",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1736,
+            1247,
+            2176,
+            1301
+          ],
+          "original_text": "25 Feb 2014",
+          "translated_en": "25 Feb 2014",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            966,
+            1527,
+            1397,
+            1583
+          ],
+          "original_text": "30 Nov 1901",
+          "translated_en": "30 Nov 1901",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-142_03_translated.jpg"
+}

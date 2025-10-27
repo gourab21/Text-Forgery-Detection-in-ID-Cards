@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\chinese-NF-1050.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        889,
+        563,
+        1540,
+        828
+      ],
+      "lines": [
+        {
+          "text": "黄 善",
+          "box": [
+            956,
+            613,
+            1086,
+            685
+          ]
+        },
+        {
+          "text": "Sarah Jing",
+          "box": [
+            948,
+            697,
+            1342,
+            764
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1670,
+        938,
+        2243,
+        1127
+      ],
+      "lines": [
+        {
+          "text": "07 Dec 1973",
+          "box": [
+            1738,
+            997,
+            2156,
+            1050
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1646,
+        1209,
+        2276,
+        1392
+      ],
+      "lines": [
+        {
+          "text": "08 May 2017",
+          "box": [
+            1742,
+            1248,
+            2202,
+            1321
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        861,
+        1479,
+        1517,
+        1655
+      ],
+      "lines": [
+        {
+          "text": "10 Jan 1994",
+          "box": [
+            974,
+            1531,
+            1423,
+            1591
+          ]
+        }
+      ]
+    }
+  ]
+}

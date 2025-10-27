@@ -1,0 +1,19 @@
+LE1
+EN: Sokolova /
+OR: Соколова /
+EN: Sokolova
+
+LE2
+EN: Elizaveta Petrovna / E
+OR: Елизавета Петровна / E
+EN: Mikhail Petrovna
+OR: Michaeta Petrovna
+
+E3
+EN: 23.11.2071
+
+E4
+EN: 05.07.2019
+
+E5
+EN: 21.01.2059

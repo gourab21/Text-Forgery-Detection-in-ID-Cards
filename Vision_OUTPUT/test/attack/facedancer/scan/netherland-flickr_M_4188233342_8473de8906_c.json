@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_4188233342_8473de8906_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        622,
+        289,
+        1275,
+        540
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            679,
+            327,
+            903,
+            369
+          ]
+        },
+        {
+          "text": "Willem Gerardus",
+          "box": [
+            678,
+            386,
+            1164,
+            437
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            685,
+            460,
+            827,
+            502
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1485,
+        560,
+        1966,
+        659
+      ],
+      "lines": [
+        {
+          "text": "30 11 1990",
+          "box": [
+            1565,
+            586,
+            1898,
+            633
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1459,
+        731,
+        1958,
+        854
+      ],
+      "lines": [
+        {
+          "text": "24 06 2027",
+          "box": [
+            1534,
+            759,
+            1901,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

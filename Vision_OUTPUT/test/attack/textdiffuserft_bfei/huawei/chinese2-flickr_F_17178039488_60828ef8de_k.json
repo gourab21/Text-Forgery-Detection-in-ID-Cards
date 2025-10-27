@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_F_17178039488_60828ef8de_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1001,
+        646,
+        1930,
+        965
+      ],
+      "lines": [
+        {
+          "text": "黄丹",
+          "box": [
+            1094,
+            702,
+            1257,
+            779
+          ]
+        },
+        {
+          "text": "Christoph",
+          "box": [
+            1088,
+            804,
+            1571,
+            889
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1952,
+        1076,
+        2705,
+        1270
+      ],
+      "lines": [
+        {
+          "text": "11 Jul 194",
+          "box": [
+            2004,
+            1146,
+            2558,
+            1223
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1958,
+        1377,
+        2735,
+        1582
+      ],
+      "lines": [
+        {
+          "text": "15 Oct 2073",
+          "box": [
+            2018,
+            1440,
+            2602,
+            1522
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1038,
+        1708,
+        1812,
+        1923
+      ],
+      "lines": [
+        {
+          "text": "21 Mar 2072",
+          "box": [
+            1113,
+            1776,
+            1713,
+            1851
+          ]
+        }
+      ]
+    }
+  ]
+}

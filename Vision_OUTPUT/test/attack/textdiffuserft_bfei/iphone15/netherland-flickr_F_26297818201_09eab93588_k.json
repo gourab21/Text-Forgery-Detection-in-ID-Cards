@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_26297818201_09eab93588_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        400,
+        1777,
+        746
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            941,
+            445,
+            1438,
+            514
+          ]
+        },
+        {
+          "text": "Danielenelis",
+          "box": [
+            957,
+            535,
+            1499,
+            604
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            947,
+            633,
+            1381,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2065,
+        773,
+        2736,
+        911
+      ],
+      "lines": [
+        {
+          "text": "02 12 1992",
+          "box": [
+            2172,
+            805,
+            2610,
+            872
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2030,
+        1010,
+        2726,
+        1180
+      ],
+      "lines": [
+        {
+          "text": "31 12 2099",
+          "box": [
+            2146,
+            1040,
+            2631,
+            1114
+          ]
+        }
+      ]
+    }
+  ]
+}

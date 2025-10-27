@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1105.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        431,
+        2083,
+        683
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES COSTA",
+          "box": [
+            974,
+            494,
+            1681,
+            558
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            970,
+            590,
+            1106,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2350,
+        831,
+        2850,
+        971
+      ],
+      "lines": [
+        {
+          "text": "26 07 2005",
+          "box": [
+            2435,
+            831,
+            2844,
+            887
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1770,
+        1055,
+        2383,
+        1221
+      ],
+      "lines": [
+        {
+          "text": "24 07 2035",
+          "box": [
+            1866,
+            1083,
+            2274,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

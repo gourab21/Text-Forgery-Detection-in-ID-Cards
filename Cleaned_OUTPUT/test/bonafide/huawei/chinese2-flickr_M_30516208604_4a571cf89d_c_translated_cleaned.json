@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\chinese2-flickr_M_30516208604_4a571cf89d_c_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\chinese2-flickr_M_30516208604_4a571cf89d_c.jpg",
+  "width": 3217,
+  "height": 2035,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1094,
+            704,
+            1261,
+            785
+          ],
+          "original_text": "黄磊",
+          "translated_en": "Huang Lei"
+        },
+        {
+          "box": [
+            1093,
+            802,
+            1530,
+            895
+          ],
+          "original_text": "Huang Lei",
+          "translated_en": "Huang Lei"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2001,
+            1141,
+            2574,
+            1213
+          ],
+          "original_text": "09 JUN 1986",
+          "translated_en": "09 JUN 1986"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2005,
+            1442,
+            2559,
+            1512
+          ],
+          "original_text": "29 JUL 2011",
+          "translated_en": "29 JUL 2011"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1112,
+            1768,
+            1658,
+            1840
+          ],
+          "original_text": "29 JUL 2031",
+          "translated_en": "29 JUL 2031"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_30516208604_4a571cf89d_c_translated_cleaned.jpg"
+}

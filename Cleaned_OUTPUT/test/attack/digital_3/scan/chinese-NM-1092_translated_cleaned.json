@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-NM-1092_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-NM-1092.jpg",
+  "width": 1997,
+  "height": 1244,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            694,
+            427,
+            788,
+            474
+          ],
+          "original_text": "陈杰",
+          "translated_en": "Chen Jie"
+        },
+        {
+          "box": [
+            693,
+            488,
+            901,
+            533
+          ],
+          "original_text": "Kinbely",
+          "translated_en": "Kinbely"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1243,
+            709,
+            1568,
+            750
+          ],
+          "original_text": "31 Nov 2035",
+          "translated_en": "31 Nov 2035"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1236,
+            893,
+            1562,
+            932
+          ],
+          "original_text": "09 APR 2013",
+          "translated_en": "09 APR 2013"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            683,
+            1077,
+            1005,
+            1119
+          ],
+          "original_text": "25 Jan 2049",
+          "translated_en": "25 Jan 2049"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NM-1092_translated_cleaned.jpg"
+}

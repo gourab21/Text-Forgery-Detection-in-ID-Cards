@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\usa-NF-1094.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        425,
+        1236,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Sristopher",
+          "box": [
+            650,
+            466,
+            946,
+            515
+          ]
+        },
+        {
+          "text": "980 Elm Rd",
+          "box": [
+            654,
+            522,
+            943,
+            565
+          ]
+        },
+        {
+          "text": "Naperville IL 60540",
+          "box": [
+            654,
+            585,
+            1158,
+            629
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1451,
+        754,
+        1945,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 12-31-30",
+          "box": [
+            1493,
+            774,
+            1889,
+            820
+          ]
+        }
+      ]
+    }
+  ]
+}

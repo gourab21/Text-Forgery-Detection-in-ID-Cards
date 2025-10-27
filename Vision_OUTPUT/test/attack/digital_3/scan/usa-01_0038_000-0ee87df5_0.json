@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-01_0038_000-0ee87df5_0.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        426,
+        1236,
+        661
+      ],
+      "lines": [
+        {
+          "text": "Amberel Johnson",
+          "box": [
+            646,
+            473,
+            1068,
+            514
+          ]
+        },
+        {
+          "text": "3927 Oak Avenue",
+          "box": [
+            647,
+            528,
+            1094,
+            571
+          ]
+        },
+        {
+          "text": "Pleasantville NY 11803",
+          "box": [
+            647,
+            585,
+            1235,
+            629
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1451,
+        755,
+        1945,
+        856
+      ],
+      "lines": [
+        {
+          "text": "DOB 308-12-23",
+          "box": [
+            1498,
+            763,
+            1895,
+            800
+          ]
+        }
+      ]
+    }
+  ]
+}

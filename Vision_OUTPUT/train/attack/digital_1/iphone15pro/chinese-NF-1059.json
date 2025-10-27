@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\chinese-NF-1059.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        842,
+        510,
+        1460,
+        749
+      ],
+      "lines": [
+        {
+          "text": "武則天",
+          "box": [
+            905,
+            551,
+            1107,
+            613
+          ]
+        },
+        {
+          "text": "Vicoleian",
+          "box": [
+            903,
+            629,
+            1208,
+            682
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1584,
+        849,
+        2126,
+        1019
+      ],
+      "lines": [
+        {
+          "text": "16 Dec 1997",
+          "box": [
+            1633,
+            916,
+            2061,
+            967
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1560,
+        1094,
+        2158,
+        1259
+      ],
+      "lines": [
+        {
+          "text": "12 Dec 2012",
+          "box": [
+            1627,
+            1150,
+            2047,
+            1201
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        815,
+        1340,
+        1438,
+        1499
+      ],
+      "lines": [
+        {
+          "text": "10 Dec 1995",
+          "box": [
+            890,
+            1391,
+            1321,
+            1444
+          ]
+        }
+      ]
+    }
+  ]
+}

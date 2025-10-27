@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\portugal-NF-1060_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\portugal-NF-1060.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            678,
+            340,
+            1247,
+            391
+          ],
+          "original_text": "FOREYNDES RIBERO",
+          "translated_en": "FOREYNDES RIBERO"
+        },
+        {
+          "box": [
+            679,
+            407,
+            811,
+            442
+          ],
+          "original_text": "Carla",
+          "translated_en": "Carla"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1705,
+            578,
+            1994,
+            618
+          ],
+          "original_text": "08 10 1986",
+          "translated_en": "08 10 1986"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1306,
+            755,
+            1607,
+            797
+          ],
+          "original_text": "05 10 2023",
+          "translated_en": "05 10 2023"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1060_translated_cleaned.jpg"
+}

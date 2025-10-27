@@ -1,0 +1,23 @@
+E1
+EN: Name
+EN: Debr
+
+E2
+EN: Mousavi
+
+L1
+OR: ليلا
+EN: At night
+
+L2
+OR: کاظمی
+EN: Kazemi
+
+E3
+EN: 09/10/1917
+
+E4
+EN: 17/04/2024
+
+E5
+EN: 20 11/2024

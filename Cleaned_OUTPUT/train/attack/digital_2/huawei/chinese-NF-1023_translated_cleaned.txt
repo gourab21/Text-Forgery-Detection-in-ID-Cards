@@ -1,0 +1,14 @@
+LE1
+EN: Zhao Ting
+OR: 赵 婷
+EN: brand
+OR: 品牌
+
+E2
+EN: 25 Dec 2031
+
+E3
+EN: 18 Jun 2012
+
+E4
+EN: 16 Jun 2241

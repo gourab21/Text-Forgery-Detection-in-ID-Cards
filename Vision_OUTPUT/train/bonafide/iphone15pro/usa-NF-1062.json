@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-NF-1062.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        856,
+        616,
+        1758,
+        957
+      ],
+      "lines": [
+        {
+          "text": "Laura Brown",
+          "box": [
+            928,
+            681,
+            1391,
+            741
+          ]
+        },
+        {
+          "text": "337 Lakeview Dr",
+          "box": [
+            930,
+            758,
+            1540,
+            819
+          ]
+        },
+        {
+          "text": "Medford OR 97501",
+          "box": [
+            930,
+            840,
+            1608,
+            902
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2063,
+        1092,
+        2767,
+        1238
+      ],
+      "lines": [
+        {
+          "text": "DOB : 07-19-91",
+          "box": [
+            2132,
+            1093,
+            2683,
+            1144
+          ]
+        }
+      ]
+    }
+  ]
+}

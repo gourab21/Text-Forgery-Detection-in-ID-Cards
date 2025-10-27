@@ -1,0 +1,27 @@
+E1
+EN: Lberi Al Ghanai
+
+L1
+OR: الغامدي ليلي
+EN: Al-Ghamdi Layla
+
+E2
+EN: 16 Feb 2038
+
+E3
+EN: 11 Nov 2024
+
+E4
+EN: 11 Nov 2039
+
+L2
+OR: ١٦ / فبراير / ۱۹۸۸
+EN: February 16, 1988
+
+L3
+OR: ۱۱ / نوفمبر / ٢٠٢٤
+EN: November 11, 2024
+
+L4
+OR: ١١ / نوفمبر / ٢٠١٤
+EN: November 11, 2014

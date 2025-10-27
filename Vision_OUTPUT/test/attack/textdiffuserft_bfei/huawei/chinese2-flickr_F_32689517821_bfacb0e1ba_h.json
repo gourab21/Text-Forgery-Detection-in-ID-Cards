@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_F_32689517821_bfacb0e1ba_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1002,
+        653,
+        1932,
+        976
+      ],
+      "lines": [
+        {
+          "text": "陈莉",
+          "box": [
+            1101,
+            712,
+            1272,
+            790
+          ]
+        },
+        {
+          "text": "Molly Li",
+          "box": [
+            1100,
+            820,
+            1421,
+            897
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1954,
+        1087,
+        2708,
+        1285
+      ],
+      "lines": [
+        {
+          "text": "03 Jan 2012",
+          "box": [
+            2010,
+            1151,
+            2601,
+            1236
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1960,
+        1393,
+        2738,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "31 Jul 1937",
+          "box": [
+            2013,
+            1457,
+            2580,
+            1536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1039,
+        1727,
+        1814,
+        1947
+      ],
+      "lines": [
+        {
+          "text": "13 Apr 2057",
+          "box": [
+            1119,
+            1784,
+            1678,
+            1877
+          ]
+        }
+      ]
+    }
+  ]
+}

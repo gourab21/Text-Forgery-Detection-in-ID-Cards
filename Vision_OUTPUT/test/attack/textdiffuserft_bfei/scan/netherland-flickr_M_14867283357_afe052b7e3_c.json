@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        540
+      ],
+      "lines": [
+        {
+          "text": "DE JONG",
+          "box": [
+            694,
+            320,
+            950,
+            364
+          ]
+        },
+        {
+          "text": "Davidke Cornelis",
+          "box": [
+            700,
+            380,
+            1171,
+            432
+          ]
+        },
+        {
+          "text": "Ilse",
+          "box": [
+            689,
+            444,
+            792,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        560,
+        1969,
+        659
+      ],
+      "lines": [
+        {
+          "text": "BIRTH",
+          "box": [
+            1813,
+            561,
+            1918,
+            582
+          ]
+        },
+        {
+          "text": "19 02 2065",
+          "box": [
+            1572,
+            604,
+            1892,
+            648
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1462,
+        731,
+        1962,
+        854
+      ],
+      "lines": [
+        {
+          "text": "ELDI CARD EXPIRY",
+          "box": [
+            1462,
+            732,
+            1912,
+            757
+          ]
+        },
+        {
+          "text": "05 01 2071",
+          "box": [
+            1534,
+            773,
+            1889,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

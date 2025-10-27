@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NM-1091.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "GPEVOROLIVERI )",
+          "box": [
+            673,
+            343,
+            1145,
+            390
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            673,
+            404,
+            831,
+            443
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        575,
+        1993,
+        671
+      ],
+      "lines": [
+        {
+          "text": "04 06 1992",
+          "box": [
+            1699,
+            579,
+            1983,
+            619
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1666,
+        845
+      ],
+      "lines": [
+        {
+          "text": "02 06 2025",
+          "box": [
+            1302,
+            759,
+            1597,
+            797
+          ]
+        }
+      ]
+    }
+  ]
+}

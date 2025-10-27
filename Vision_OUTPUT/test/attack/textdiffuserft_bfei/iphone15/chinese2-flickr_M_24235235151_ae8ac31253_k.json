@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_24235235151_ae8ac31253_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        857,
+        549,
+        1652,
+        821
+      ],
+      "lines": [
+        {
+          "text": "吴勇",
+          "box": [
+            942,
+            598,
+            1081,
+            658
+          ]
+        },
+        {
+          "text": "Regiral",
+          "box": [
+            949,
+            682,
+            1265,
+            758
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1671,
+        915,
+        2315,
+        1080
+      ],
+      "lines": [
+        {
+          "text": "18 Nov 1977",
+          "box": [
+            1725,
+            964,
+            2198,
+            1024
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1676,
+        1171,
+        2341,
+        1344
+      ],
+      "lines": [
+        {
+          "text": "01 Dec 2010",
+          "box": [
+            1724,
+            1216,
+            2190,
+            1283
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        888,
+        1452,
+        1551,
+        1636
+      ],
+      "lines": [
+        {
+          "text": "30 May 2082",
+          "box": [
+            960,
+            1496,
+            1424,
+            1567
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\portugal-061_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\portugal-061_03.jpg",
+  "width": 3192,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1094,
+            542,
+            1749,
+            605
+          ],
+          "original_text": "GARTHARIBEIRO",
+          "translated_en": "GARTHARIBEIRO"
+        },
+        {
+          "box": [
+            1097,
+            639,
+            1333,
+            697
+          ],
+          "original_text": "Pedro",
+          "translated_en": "Pedro"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2739,
+            955,
+            3191,
+            1021
+          ],
+          "original_text": "03 06 1993",
+          "translated_en": "03 06 1993"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2083,
+            1223,
+            2566,
+            1288
+          ],
+          "original_text": "01 06 2024",
+          "translated_en": "01 06 2024"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-061_03_translated_cleaned.jpg"
+}

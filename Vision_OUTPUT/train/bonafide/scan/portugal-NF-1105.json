@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NF-1105.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES COSTA",
+          "box": [
+            689,
+            343,
+            1187,
+            386
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            685,
+            404,
+            779,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        578,
+        1995,
+        675
+      ],
+      "lines": [
+        {
+          "text": "26 07 2005",
+          "box": [
+            1708,
+            602,
+            1994,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        733,
+        1668,
+        848
+      ],
+      "lines": [
+        {
+          "text": "24 07 2035",
+          "box": [
+            1298,
+            771,
+            1587,
+            811
+          ]
+        }
+      ]
+    }
+  ]
+}

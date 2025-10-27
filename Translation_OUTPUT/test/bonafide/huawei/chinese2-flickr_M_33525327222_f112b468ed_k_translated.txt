@@ -1,0 +1,13 @@
+LE1
+OR: 孙超
+EN: Sun Chao
+EN: Sun Chao
+
+E2
+EN: 19 JUN 1971
+
+E3
+EN: 28 MAR 1993
+
+E4
+EN: 28 MAR 2013

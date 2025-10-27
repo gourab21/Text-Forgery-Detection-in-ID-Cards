@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-008_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        593,
+        612,
+        1211,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Corey",
+          "box": [
+            653,
+            646,
+            810,
+            698
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        447,
+        1212,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            661,
+            485,
+            836,
+            534
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        591,
+        767,
+        1189,
+        884
+      ],
+      "lines": [
+        {
+          "text": "03.10.1951",
+          "box": [
+            652,
+            803,
+            941,
+            843
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        595,
+        1087,
+        1180,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "05.04.2088",
+          "box": [
+            643,
+            1119,
+            936,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

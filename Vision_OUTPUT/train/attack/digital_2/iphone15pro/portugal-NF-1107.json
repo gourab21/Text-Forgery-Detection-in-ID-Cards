@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        431,
+        2077,
+        684
+      ],
+      "lines": [
+        {
+          "text": "SEFREYIMA",
+          "box": [
+            963,
+            498,
+            1411,
+            561
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            964,
+            575,
+            1507,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2343,
+        831,
+        2842,
+        971
+      ],
+      "lines": [
+        {
+          "text": "09 02 1995",
+          "box": [
+            2424,
+            831,
+            2833,
+            885
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1765,
+        1056,
+        2376,
+        1222
+      ],
+      "lines": [
+        {
+          "text": "24 06 2021",
+          "box": [
+            1860,
+            1082,
+            2275,
+            1139
+          ]
+        }
+      ]
+    }
+  ]
+}

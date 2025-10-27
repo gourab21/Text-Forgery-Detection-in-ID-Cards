@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-172_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        815,
+        383,
+        1924,
+        608
+      ],
+      "lines": [
+        {
+          "text": "JAMESRO SANTOS",
+          "box": [
+            915,
+            438,
+            1497,
+            494
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            897,
+            511,
+            1107,
+            560
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2171,
+        740,
+        2633,
+        864
+      ],
+      "lines": [
+        {
+          "text": "03 10 1963",
+          "box": [
+            2233,
+            770,
+            2573,
+            826
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1635,
+        939,
+        2201,
+        1086
+      ],
+      "lines": [
+        {
+          "text": "19 11 1971",
+          "box": [
+            1709,
+            986,
+            2083,
+            1038
+          ]
+        }
+      ]
+    }
+  ]
+}

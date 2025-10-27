@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\netherland-flickr_F_28630210242_e3780d0ee9_b_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\netherland-flickr_F_28630210242_e3780d0ee9_b.jpg",
+  "width": 2769,
+  "height": 1743,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            940,
+            449,
+            1438,
+            512
+          ],
+          "original_text": "STEVENSON",
+          "translated_en": "STEVENSON"
+        },
+        {
+          "box": [
+            944,
+            542,
+            1506,
+            602
+          ],
+          "original_text": "Maarten Petra",
+          "translated_en": "Maarten Petra"
+        },
+        {
+          "box": [
+            948,
+            637,
+            1145,
+            694
+          ],
+          "original_text": "Petra",
+          "translated_en": "Petra"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2169,
+            812,
+            2633,
+            880
+          ],
+          "original_text": "30 05 1993",
+          "translated_en": "30 05 1993"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2133,
+            1055,
+            2640,
+            1121
+          ],
+          "original_text": "11 02 2030",
+          "translated_en": "11 02 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_28630210242_e3780d0ee9_b_translated_cleaned.jpg"
+}

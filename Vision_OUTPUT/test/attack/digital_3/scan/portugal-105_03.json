@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-105_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "CONNIEO FERNANDES",
+          "box": [
+            681,
+            342,
+            1235,
+            389
+          ]
+        },
+        {
+          "text": "Ricardo",
+          "box": [
+            676,
+            405,
+            870,
+            442
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        575,
+        1992,
+        671
+      ],
+      "lines": [
+        {
+          "text": "07 06 2034",
+          "box": [
+            1693,
+            581,
+            1946,
+            617
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1665,
+        845
+      ],
+      "lines": [
+        {
+          "text": "22 12 1921",
+          "box": [
+            1304,
+            754,
+            1596,
+            797
+          ]
+        }
+      ]
+    }
+  ]
+}

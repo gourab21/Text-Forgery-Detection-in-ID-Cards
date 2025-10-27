@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\turkiye-104_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        612,
+        1216,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Yusuf",
+          "box": [
+            653,
+            656,
+            808,
+            696
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        448,
+        1216,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Altun",
+          "box": [
+            651,
+            502,
+            787,
+            540
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        768,
+        1193,
+        885
+      ],
+      "lines": [
+        {
+          "text": "14.07.1985",
+          "box": [
+            660,
+            808,
+            951,
+            848
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1088,
+        1185,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "21.09.2030",
+          "box": [
+            667,
+            1124,
+            957,
+            1162
+          ]
+        }
+      ]
+    }
+  ]
+}

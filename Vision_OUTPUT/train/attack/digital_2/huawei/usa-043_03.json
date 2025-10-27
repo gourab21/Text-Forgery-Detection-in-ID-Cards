@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-043_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        965,
+        673,
+        1981,
+        1047
+      ],
+      "lines": [
+        {
+          "text": "Elizabe.hehi",
+          "box": [
+            1048,
+            726,
+            1588,
+            823
+          ]
+        },
+        {
+          "text": "15 Cedar Ln",
+          "box": [
+            1045,
+            838,
+            1533,
+            903
+          ]
+        },
+        {
+          "text": "Salem OR 97301",
+          "box": [
+            1038,
+            930,
+            1724,
+            1002
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2324,
+        1193,
+        3117,
+        1354
+      ],
+      "lines": [
+        {
+          "text": "DOB : 02-08-35",
+          "box": [
+            2399,
+            1238,
+            3038,
+            1310
+          ]
+        }
+      ]
+    }
+  ]
+}

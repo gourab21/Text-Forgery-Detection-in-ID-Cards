@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-061_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-061_03.jpg",
+  "width": 1998,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            685,
+            344,
+            1106,
+            390
+          ],
+          "original_text": "RACHELIBIRO",
+          "translated_en": "RACHELIBIRO"
+        },
+        {
+          "box": [
+            681,
+            403,
+            829,
+            442
+          ],
+          "original_text": "Pedro",
+          "translated_en": "Pedro"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1702,
+            576,
+            1950,
+            616
+          ],
+          "original_text": "26 05 1959",
+          "translated_en": "26 05 1959"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1308,
+            752,
+            1595,
+            792
+          ],
+          "original_text": "04 09 1985",
+          "translated_en": "04 09 1985"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-061_03_translated_cleaned.jpg"
+}

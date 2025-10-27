@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "PANNAHA CASRO",
+          "box": [
+            687,
+            337,
+            1151,
+            384
+          ]
+        },
+        {
+          "text": "Luis Antônio",
+          "box": [
+            687,
+            398,
+            1004,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        575,
+        1995,
+        671
+      ],
+      "lines": [
+        {
+          "text": "03 01 1985",
+          "box": [
+            1705,
+            601,
+            1992,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        730,
+        1668,
+        845
+      ],
+      "lines": [
+        {
+          "text": "17 08 2004",
+          "box": [
+            1298,
+            767,
+            1599,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

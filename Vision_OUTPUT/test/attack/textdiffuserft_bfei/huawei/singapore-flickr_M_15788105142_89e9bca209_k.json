@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_15788105142_89e9bca209_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        657,
+        651,
+        2377,
+        965
+      ],
+      "lines": [
+        {
+          "text": "Anthoryin Saleh",
+          "box": [
+            791,
+            721,
+            1765,
+            848
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        733,
+        1398,
+        1636,
+        1592
+      ],
+      "lines": [
+        {
+          "text": "28-10-9922",
+          "box": [
+            823,
+            1462,
+            1392,
+            1545
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1778,
+        1698,
+        2625,
+        1886
+      ],
+      "lines": [
+        {
+          "text": "03-06-3333",
+          "box": [
+            1877,
+            1746,
+            2447,
+            1825
+          ]
+        }
+      ]
+    }
+  ]
+}

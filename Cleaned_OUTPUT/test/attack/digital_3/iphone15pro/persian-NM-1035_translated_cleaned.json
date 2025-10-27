@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\persian-NM-1035_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\persian-NM-1035.jpg",
+  "width": 2843,
+  "height": 1810,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1086,
+            414,
+            1312,
+            469
+          ],
+          "original_text": "Maxad",
+          "translated_en": "Maxad"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1091,
+            622,
+            1437,
+            678
+          ],
+          "original_text": "Shahbazi",
+          "translated_en": "Shahbazi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1916,
+            402,
+            2042,
+            465
+          ],
+          "original_text": "جواد",
+          "translated_en": "Javad"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1921,
+            609,
+            2135,
+            673
+          ],
+          "original_text": "شهبازی",
+          "translated_en": "Shahbazi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1097,
+            852,
+            1496,
+            913
+          ],
+          "original_text": "07/04/1920",
+          "translated_en": "07/04/1920"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1113,
+            1326,
+            1503,
+            1390
+          ],
+          "original_text": "18/11/2022",
+          "translated_en": "18/11/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1938,
+            1309,
+            2327,
+            1370
+          ],
+          "original_text": "17/04/2037",
+          "translated_en": "17/04/2037"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NM-1035_translated_cleaned.jpg"
+}

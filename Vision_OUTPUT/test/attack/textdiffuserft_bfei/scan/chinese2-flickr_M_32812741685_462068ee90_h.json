@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_32812741685_462068ee90_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        617,
+        396,
+        1190,
+        590
+      ],
+      "lines": [
+        {
+          "text": "赵 钢",
+          "box": [
+            685,
+            424,
+            792,
+            475
+          ]
+        },
+        {
+          "text": "Rhondang",
+          "box": [
+            694,
+            492,
+            983,
+            541
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1205,
+        660,
+        1670,
+        779
+      ],
+      "lines": [
+        {
+          "text": "19 Aug 198",
+          "box": [
+            1244,
+            709,
+            1589,
+            759
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1209,
+        845,
+        1687,
+        970
+      ],
+      "lines": [
+        {
+          "text": "02 Oct 1936",
+          "box": [
+            1237,
+            890,
+            1582,
+            936
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        641,
+        1047,
+        1117,
+        1180
+      ],
+      "lines": [
+        {
+          "text": "07 May 2014",
+          "box": [
+            671,
+            1078,
+            1017,
+            1123
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\chinese-NM-1092.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        892,
+        561,
+        1545,
+        826
+      ],
+      "lines": [
+        {
+          "text": "陈杰",
+          "box": [
+            960,
+            614,
+            1099,
+            687
+          ]
+        },
+        {
+          "text": "Zoen Jie",
+          "box": [
+            958,
+            698,
+            1252,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1676,
+        936,
+        2251,
+        1124
+      ],
+      "lines": [
+        {
+          "text": "20 May 1995",
+          "box": [
+            1748,
+            990,
+            2205,
+            1062
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1651,
+        1206,
+        2283,
+        1388
+      ],
+      "lines": [
+        {
+          "text": "09 APR 2013",
+          "box": [
+            1748,
+            1250,
+            2205,
+            1309
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        863,
+        1476,
+        1523,
+        1652
+      ],
+      "lines": [
+        {
+          "text": "23 Apr 2041",
+          "box": [
+            978,
+            1528,
+            1428,
+            1607
+          ]
+        }
+      ]
+    }
+  ]
+}

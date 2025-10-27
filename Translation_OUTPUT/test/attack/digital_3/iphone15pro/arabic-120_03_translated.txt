@@ -1,0 +1,27 @@
+E1
+EN: Licaa Ibrahim
+
+L1
+OR: إبراهيم سلمى
+EN: Ibrahim Salma
+
+E2
+EN: 17 Jan 2026
+
+E3
+EN: 09 Jul 2023
+
+E4
+EN: 02 Jul 2046-
+
+L2
+OR: - ٢٦ / فبراير / ۱۹۹۰ ११
+EN: - February 26, 1990
+
+L3
+OR: ٩ / يوليو / ٢٠٢٣
+EN: July 9, 2023
+
+L4
+OR: ١٤ / يونيو / ۲۰۳۰
+EN: June 14, 2030

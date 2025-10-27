@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_F_32868411313_4bb20e41db_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        625,
+        289,
+        1281,
+        539
+      ],
+      "lines": [
+        {
+          "text": "BELSER",
+          "box": [
+            694,
+            321,
+            917,
+            362
+          ]
+        },
+        {
+          "text": "Thijs Henrike",
+          "box": [
+            689,
+            380,
+            1070,
+            436
+          ]
+        },
+        {
+          "text": "Elisabeth",
+          "box": [
+            691,
+            450,
+            947,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1489,
+        558,
+        1973,
+        657
+      ],
+      "lines": [
+        {
+          "text": "OF BIRTH",
+          "box": [
+            1754,
+            558,
+            1918,
+            581
+          ]
+        },
+        {
+          "text": "09 01 1973",
+          "box": [
+            1563,
+            605,
+            1899,
+            649
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1464,
+        729,
+        1965,
+        852
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD / CARD EXPIRY",
+          "box": [
+            1464,
+            729,
+            1915,
+            760
+          ]
+        },
+        {
+          "text": "18 04 2032",
+          "box": [
+            1531,
+            775,
+            1896,
+            823
+          ]
+        }
+      ]
+    }
+  ]
+}

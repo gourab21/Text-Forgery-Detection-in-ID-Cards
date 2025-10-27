@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA COSTA",
+          "box": [
+            691,
+            342,
+            1106,
+            384
+          ]
+        },
+        {
+          "text": "João",
+          "box": [
+            686,
+            399,
+            807,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1646,
+        576,
+        1996,
+        673
+      ],
+      "lines": [
+        {
+          "text": "07 05 1988",
+          "box": [
+            1702,
+            601,
+            1991,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        731,
+        1668,
+        846
+      ],
+      "lines": [
+        {
+          "text": "05 05 2027",
+          "box": [
+            1299,
+            770,
+            1587,
+            808
+          ]
+        }
+      ]
+    }
+  ]
+}

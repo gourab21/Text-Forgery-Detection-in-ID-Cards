@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\portugal-NF-1022_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-NF-1022.jpg",
+  "width": 1995,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            690,
+            341,
+            1070,
+            385
+          ],
+          "original_text": "CNISEPEREIRA",
+          "translated_en": "CNISEPEREIRA"
+        },
+        {
+          "box": [
+            691,
+            402,
+            837,
+            437
+          ],
+          "original_text": "Marta",
+          "translated_en": "Marta"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1710,
+            600,
+            1994,
+            641
+          ],
+          "original_text": "13 01 2020",
+          "translated_en": "13 01 2020"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1303,
+            765,
+            1599,
+            808
+          ],
+          "original_text": "11 01 2040",
+          "translated_en": "11 01 2040"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1022_translated_cleaned.jpg"
+}

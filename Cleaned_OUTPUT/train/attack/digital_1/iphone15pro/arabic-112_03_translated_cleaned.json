@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\arabic-112_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\arabic-112_03.jpg",
+  "width": 2776,
+  "height": 1768,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1034,
+            670,
+            1533,
+            739
+          ],
+          "original_text": "FarlaaZohra",
+          "translated_en": "FarlaaZohra"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1003,
+            475,
+            1526,
+            566
+          ],
+          "original_text": "الزهراء فاطمة",
+          "translated_en": "Zahra Fatima"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1043,
+            1110,
+            1538,
+            1176
+          ],
+          "original_text": "30 Oct 2044",
+          "translated_en": "30 Oct 2044"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1050,
+            1341,
+            1538,
+            1410
+          ],
+          "original_text": "15 Apr 2023",
+          "translated_en": "15 Apr 2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1053,
+            1570,
+            1538,
+            1647
+          ],
+          "original_text": "15 Apr 1999",
+          "translated_en": "15 Apr 1999"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1771,
+            1078,
+            2428,
+            1187
+          ],
+          "original_text": "٢٠ / أكتوبر / ١٩٨٦",
+          "translated_en": "October 20, 1986"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1782,
+            1314,
+            2407,
+            1415
+          ],
+          "original_text": "١٥ / أبريل / ٢٠٢٣",
+          "translated_en": "April 15, 2023"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1787,
+            1550,
+            2413,
+            1647
+          ],
+          "original_text": "١٥ / أبريل / ٢٠٣٣",
+          "translated_en": "April 15, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-112_03_translated_cleaned.jpg"
+}

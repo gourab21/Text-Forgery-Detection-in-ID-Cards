@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_37190718595_78e318623b_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        997,
+        460,
+        2046,
+        860
+      ],
+      "lines": [
+        {
+          "text": "POSTMA",
+          "box": [
+            1086,
+            517,
+            1472,
+            587
+          ]
+        },
+        {
+          "text": "Henrike Petra",
+          "box": [
+            1085,
+            620,
+            1713,
+            691
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            1087,
+            731,
+            1318,
+            798
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2379,
+        890,
+        3152,
+        1049
+      ],
+      "lines": [
+        {
+          "text": "06 03 1995",
+          "box": [
+            2505,
+            933,
+            3045,
+            1006
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2338,
+        1161,
+        3140,
+        1359
+      ],
+      "lines": [
+        {
+          "text": "19 09 2029",
+          "box": [
+            2466,
+            1210,
+            3046,
+            1289
+          ]
+        }
+      ]
+    }
+  ]
+}

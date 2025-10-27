@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\huawei\\netherland-flickr_F_10239917343_ca73cd29b5_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1017,
+        475,
+        2086,
+        886
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            1099,
+            528,
+            1558,
+            608
+          ]
+        },
+        {
+          "text": "Hendrik Gerardus",
+          "box": [
+            1101,
+            633,
+            1945,
+            712
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            1098,
+            751,
+            1612,
+            822
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2426,
+        918,
+        3213,
+        1081
+      ],
+      "lines": [
+        {
+          "text": "27 01 1983",
+          "box": [
+            2549,
+            962,
+            3101,
+            1040
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2383,
+        1198,
+        3201,
+        1401
+      ],
+      "lines": [
+        {
+          "text": "23 12 2028",
+          "box": [
+            2505,
+            1249,
+            3105,
+            1330
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_33525327222_f112b468ed_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        858,
+        549,
+        1654,
+        821
+      ],
+      "lines": [
+        {
+          "text": "孙超",
+          "box": [
+            948,
+            594,
+            1088,
+            662
+          ]
+        },
+        {
+          "text": "Andrewao",
+          "box": [
+            936,
+            691,
+            1317,
+            745
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1674,
+        915,
+        2319,
+        1081
+      ],
+      "lines": [
+        {
+          "text": "05 Jan 2055",
+          "box": [
+            1721,
+            966,
+            2203,
+            1033
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1679,
+        1172,
+        2345,
+        1345
+      ],
+      "lines": [
+        {
+          "text": "03 Dec 1960",
+          "box": [
+            1724,
+            1218,
+            2237,
+            1287
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        890,
+        1453,
+        1554,
+        1637
+      ],
+      "lines": [
+        {
+          "text": "09 Jan 1931",
+          "box": [
+            961,
+            1495,
+            1455,
+            1561
+          ]
+        }
+      ]
+    }
+  ]
+}

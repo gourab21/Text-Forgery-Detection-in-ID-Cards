@@ -1,0 +1,85 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\turkiye-01_0090_000-6238b878_0.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        845,
+        878,
+        1726,
+        1048
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        842,
+        641,
+        1725,
+        820
+      ],
+      "lines": [
+        {
+          "text": "Soyadi Sumame",
+          "box": [
+            924,
+            641,
+            1457,
+            685
+          ]
+        },
+        {
+          "text": "Güler",
+          "box": [
+            924,
+            722,
+            1123,
+            778
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        842,
+        1101,
+        1693,
+        1268
+      ],
+      "lines": [
+        {
+          "text": "01.08.1988",
+          "box": [
+            932,
+            1162,
+            1342,
+            1218
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        848,
+        1559,
+        1681,
+        1740
+      ],
+      "lines": [
+        {
+          "text": "03.01.2010",
+          "box": [
+            940,
+            1608,
+            1350,
+            1668
+          ]
+        }
+      ]
+    }
+  ]
+}

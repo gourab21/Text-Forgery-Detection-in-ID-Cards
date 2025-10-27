@@ -1,0 +1,29 @@
+E1
+EN: Nourtney Khatiid
+
+L1
+OR: الخالدي نواف
+EN: Khalidi Nawaf
+
+E2
+EN: 12 Jul 2038
+
+E3
+EN: 11 Mar 2020
+
+E4
+EN: 06 Oct 2041
+
+L2
+OR: تاريخ
+EN: History
+OR: ١٢ / يوليو / ۱۹۸۳
+EN: 12 / July / 1983
+
+L3
+OR: ١١ / مارس / ٢٠٠
+EN: March 11, 200
+
+L4
+OR: ٦ / أكتوبر / ٢٠٣٣
+EN: October 6, 2033

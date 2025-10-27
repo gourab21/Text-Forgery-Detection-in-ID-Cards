@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            645,
+            302,
+            836,
+            337
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Acosta , Paul",
+          "box": [
+            653,
+            467,
+            966,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1386,
+        616,
+        1775,
+        721
+      ],
+      "lines": [
+        {
+          "text": "28 09 2047",
+          "box": [
+            1429,
+            622,
+            1702,
+            664
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1367,
+        1005,
+        1764,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "08 12 2020",
+          "box": [
+            1435,
+            1013,
+            1703,
+            1048
+          ]
+        }
+      ]
+    }
+  ]
+}

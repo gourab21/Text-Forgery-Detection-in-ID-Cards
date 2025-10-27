@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\portugal-013_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\portugal-013_03.jpg",
+  "width": 2641,
+  "height": 1614,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            916,
+            435,
+            1579,
+            497
+          ],
+          "original_text": "CALEBDA ANDRADE",
+          "translated_en": "CALEBDA ANDRADE"
+        },
+        {
+          "box": [
+            905,
+            513,
+            1357,
+            567
+          ],
+          "original_text": "Carla Patricia",
+          "translated_en": "Carla Patricia"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2249,
+            776,
+            2581,
+            829
+          ],
+          "original_text": "13 04 2019",
+          "translated_en": "13 04 2019"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1714,
+            993,
+            2095,
+            1045
+          ],
+          "original_text": "02 07 1985",
+          "translated_en": "02 07 1985"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-013_03_translated_cleaned.jpg"
+}

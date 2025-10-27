@@ -1,0 +1,27 @@
+E1
+EN: Ering Al - Amad
+
+L1
+OR: الأحمد طارق
+EN: Ahmed Tariq
+
+E2
+EN: 04 Aug 1969
+
+E3
+EN: 09 Jul 2018
+
+E4
+EN: 25 Jul 2014
+
+L2
+OR: ٢٩ / أبريل / ١٨٥
+EN: April 29, 185
+
+L3
+OR: ٩ / يوليو / ۲۰۱۸
+EN: July 9, 2018
+
+L4
+OR: ٢٤ / ديسمبر / ۲۰۳۳
+EN: December 24, 2033

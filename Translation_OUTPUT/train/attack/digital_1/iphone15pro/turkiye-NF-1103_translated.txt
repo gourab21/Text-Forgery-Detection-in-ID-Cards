@@ -1,0 +1,12 @@
+E2
+EN: Lill
+
+E1
+EN: Soyau
+EN: Durmaz
+
+E3
+EN: 13.02.12026
+
+E4
+EN: 23.12.2025

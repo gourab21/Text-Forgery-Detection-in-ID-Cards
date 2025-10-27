@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\indian-NF-1061_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\indian-NF-1061.jpg",
+  "width": 3213,
+  "height": 1986,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1118,
+            741,
+            1418,
+            801
+          ],
+          "original_text": "KUMAR",
+          "translated_en": "KUMAR"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1106,
+            983,
+            1722,
+            1061
+          ],
+          "original_text": "SDVOA MEERA",
+          "translated_en": "SDVOA MEERA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1105,
+            1238,
+            1635,
+            1322
+          ],
+          "original_text": "29/12/190",
+          "translated_en": "29/12/190"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1095,
+            1715,
+            1608,
+            1784
+          ],
+          "original_text": "07/07/2022",
+          "translated_en": "07/07/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2263,
+            1721,
+            2792,
+            1815
+          ],
+          "original_text": "04/07/195",
+          "translated_en": "04/07/195"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1061_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1026.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        433,
+        2084,
+        686
+      ],
+      "lines": [
+        {
+          "text": "SOWARDIBERO",
+          "box": [
+            977,
+            497,
+            1567,
+            566
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            982,
+            591,
+            1126,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        834,
+        2852,
+        974
+      ],
+      "lines": [
+        {
+          "text": "22 04 1970",
+          "box": [
+            2441,
+            835,
+            2849,
+            892
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1058,
+        2384,
+        1224
+      ],
+      "lines": [
+        {
+          "text": "19 04 Z'92",
+          "box": [
+            1873,
+            1091,
+            2298,
+            1154
+          ]
+        }
+      ]
+    }
+  ]
+}

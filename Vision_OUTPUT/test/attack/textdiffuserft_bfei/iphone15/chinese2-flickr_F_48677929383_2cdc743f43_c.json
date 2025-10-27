@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_48677929383_2cdc743f43_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        860,
+        551,
+        1658,
+        824
+      ],
+      "lines": [
+        {
+          "text": "孙 萍",
+          "box": [
+            949,
+            598,
+            1091,
+            665
+          ]
+        },
+        {
+          "text": "Steveng",
+          "box": [
+            941,
+            685,
+            1280,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1678,
+        918,
+        2325,
+        1084
+      ],
+      "lines": [
+        {
+          "text": "03 Feb 2083",
+          "box": [
+            1724,
+            970,
+            2210,
+            1035
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1683,
+        1175,
+        2351,
+        1351
+      ],
+      "lines": [
+        {
+          "text": "27 Oct 2072 www.c",
+          "box": [
+            1738,
+            1223,
+            2347,
+            1350
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        892,
+        1458,
+        1557,
+        1642
+      ],
+      "lines": [
+        {
+          "text": "04 Jan 1975",
+          "box": [
+            963,
+            1503,
+            1448,
+            1571
+          ]
+        }
+      ]
+    }
+  ]
+}

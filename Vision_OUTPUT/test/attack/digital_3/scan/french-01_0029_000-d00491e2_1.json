@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\french-01_0029_000-d00491e2_1.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        266,
+        1180,
+        359
+      ],
+      "lines": [
+        {
+          "text": "PETIT",
+          "box": [
+            653,
+            297,
+            795,
+            332
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        440,
+        1251,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Patric Nadine",
+          "box": [
+            659,
+            471,
+            977,
+            504
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1384,
+        617,
+        1773,
+        722
+      ],
+      "lines": [
+        {
+          "text": "18 04 1940",
+          "box": [
+            1422,
+            640,
+            1688,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1365,
+        1006,
+        1761,
+        1103
+      ],
+      "lines": [
+        {
+          "text": "20 02 2047",
+          "box": [
+            1412,
+            1023,
+            1683,
+            1064
+          ]
+        }
+      ]
+    }
+  ]
+}

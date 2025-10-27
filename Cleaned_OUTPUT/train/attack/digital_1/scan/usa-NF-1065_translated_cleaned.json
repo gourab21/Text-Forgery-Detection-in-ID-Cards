@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\usa-NF-1065_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\usa-NF-1065.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            651,
+            462,
+            978,
+            508
+          ],
+          "original_text": "AlerRivera ,",
+          "translated_en": "AlerRivera ,"
+        },
+        {
+          "box": [
+            654,
+            522,
+            1086,
+            568
+          ],
+          "original_text": "1325 Cedar Lane",
+          "translated_en": "1325 Cedar Lane"
+        },
+        {
+          "box": [
+            651,
+            582,
+            1129,
+            628
+          ],
+          "original_text": "Tacoma WA 98402",
+          "translated_en": "Tacoma WA 98402"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1495,
+            772,
+            1897,
+            823
+          ],
+          "original_text": "06-11-17",
+          "translated_en": "06-11-17"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1065_translated_cleaned.jpg"
+}

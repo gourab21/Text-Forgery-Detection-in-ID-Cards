@@ -1,0 +1,23 @@
+E1
+EN: Name
+EN: Marisa
+
+E2
+EN: Kazemi
+
+L1
+OR: ثريا
+EN: chandelier
+
+L2
+OR: کاظمی
+EN: Kazemi
+
+E3
+EN: 01/02/1908
+
+E4
+EN: 12/06/2024
+
+E5
+EN: 1309/2087

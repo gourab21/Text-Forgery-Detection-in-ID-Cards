@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1083.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        451,
+        2218,
+        716
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES OLIVEIRA",
+          "box": [
+            1043,
+            516,
+            1935,
+            588
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            1040,
+            605,
+            1195,
+            661
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2502,
+        870,
+        3035,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "31 07 2003",
+          "box": [
+            2600,
+            908,
+            3034,
+            964
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1884,
+        1104,
+        2537,
+        1277
+      ],
+      "lines": [
+        {
+          "text": "28 07 2033",
+          "box": [
+            1978,
+            1160,
+            2414,
+            1220
+          ]
+        }
+      ]
+    }
+  ]
+}

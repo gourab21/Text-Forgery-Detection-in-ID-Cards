@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\usa-136_03.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-136_03.jpg",
+  "width": 3232,
+  "height": 2006,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1033,
+            760,
+            1482,
+            821
+          ],
+          "original_text": "Nichots Hil",
+          "translated_en": "Nichots Hil",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1044,
+            850,
+            1624,
+            928
+          ],
+          "original_text": "518 Spruce St",
+          "translated_en": "518 Spruce St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1043,
+            946,
+            1830,
+            1015
+          ],
+          "original_text": "Portland ME 04101",
+          "translated_en": "Portland ME 04101",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2415,
+            1256,
+            3057,
+            1330
+          ],
+          "original_text": "DOB : 17-03-50",
+          "translated_en": "DOB : 17-03-50",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-136_03_translated.jpg"
+}

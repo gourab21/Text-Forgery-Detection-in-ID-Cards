@@ -1,0 +1,93 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_33297625690_76e3181f5e_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        288,
+        1279,
+        538
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            695,
+            318,
+            975,
+            364
+          ]
+        },
+        {
+          "text": "Shebyonelis",
+          "box": [
+            692,
+            381,
+            1075,
+            434
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            690,
+            449,
+            925,
+            493
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1971,
+        656
+      ],
+      "lines": [
+        {
+          "text": "10 05 1914",
+          "box": [
+            1570,
+            602,
+            1889,
+            648
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1463,
+        728,
+        1963,
+        850
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD ! CARD EXPIRY",
+          "box": [
+            1463,
+            728,
+            1915,
+            755
+          ]
+        },
+        {
+          "text": "17 01 2011",
+          "box": [
+            1541,
+            768,
+            1899,
+            816
+          ]
+        }
+      ]
+    }
+  ]
+}

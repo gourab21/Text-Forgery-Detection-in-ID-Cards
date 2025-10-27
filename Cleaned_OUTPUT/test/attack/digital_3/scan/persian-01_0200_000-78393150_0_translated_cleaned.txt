@@ -1,0 +1,22 @@
+E1
+EN: Marka
+
+E2
+EN: Mousavi
+
+L1
+EN: At night
+OR: ليلا
+
+L2
+EN: Kazemi
+OR: کاظمی
+
+E3
+EN: 03/08/1955
+
+E4
+EN: 17/04/2024
+
+E5
+EN: 05/07/1992

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1109.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "SAMUELANTOS",
+          "box": [
+            677,
+            342,
+            1074,
+            388
+          ]
+        },
+        {
+          "text": "Sara",
+          "box": [
+            674,
+            407,
+            786,
+            442
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        576,
+        1995,
+        673
+      ],
+      "lines": [
+        {
+          "text": "27 07 2011",
+          "box": [
+            1695,
+            576,
+            1949,
+            616
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        731,
+        1668,
+        846
+      ],
+      "lines": [
+        {
+          "text": "12 10 2031",
+          "box": [
+            1307,
+            754,
+            1592,
+            796
+          ]
+        }
+      ]
+    }
+  ]
+}

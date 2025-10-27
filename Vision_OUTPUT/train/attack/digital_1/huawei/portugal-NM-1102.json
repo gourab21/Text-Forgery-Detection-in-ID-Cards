@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        998,
+        480,
+        2354,
+        760
+      ],
+      "lines": [
+        {
+          "text": "BATHERINEERRERA",
+          "box": [
+            1108,
+            554,
+            1891,
+            619
+          ]
+        },
+        {
+          "text": "Roberto Filípe",
+          "box": [
+            1102,
+            638,
+            1684,
+            726
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2656,
+        924,
+        3221,
+        1080
+      ],
+      "lines": [
+        {
+          "text": "15 09 22041",
+          "box": [
+            2753,
+            968,
+            3220,
+            1039
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2000,
+        1173,
+        2694,
+        1358
+      ],
+      "lines": [
+        {
+          "text": "30 11 1999",
+          "box": [
+            2093,
+            1239,
+            2569,
+            1304
+          ]
+        }
+      ]
+    }
+  ]
+}

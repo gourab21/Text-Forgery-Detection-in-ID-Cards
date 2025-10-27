@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\indian-014_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\indian-014_03.jpg",
+  "width": 3223,
+  "height": 2004,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1120,
+            748,
+            1341,
+            810
+          ],
+          "original_text": "BOSE",
+          "translated_en": "BOSE"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1111,
+            993,
+            1672,
+            1070
+          ],
+          "original_text": "POSEPMMEERA",
+          "translated_en": "POSEPMMEERA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1107,
+            1252,
+            1622,
+            1326
+          ],
+          "original_text": "08/08/2029",
+          "translated_en": "08/08/2029"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1098,
+            1728,
+            1606,
+            1798
+          ],
+          "original_text": "17/09/2006",
+          "translated_en": "17/09/2006"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2269,
+            1740,
+            2785,
+            1811
+          ],
+          "original_text": "17/09/2018",
+          "translated_en": "17/09/2018"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-014_03_translated_cleaned.jpg"
+}

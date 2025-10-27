@@ -1,0 +1,159 @@
+{
+  "source_json": "train\\bonafide\\huawei\\arabic-NF-1045.json",
+  "image_relative": "train\\bonafide\\huawei\\arabic-NF-1045.jpg",
+  "width": 3183,
+  "height": 1977,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1183,
+            745,
+            1947,
+            846
+          ],
+          "original_text": "Rania Al - Khoury",
+          "translated_en": "Rania Al - Khoury",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1158,
+            534,
+            1666,
+            628
+          ],
+          "original_text": "الخوري رانيا",
+          "translated_en": "Father Rania",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1178,
+            1250,
+            1744,
+            1325
+          ],
+          "original_text": "15 Jan 1983",
+          "translated_en": "15 Jan 1983",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1169,
+            1514,
+            1769,
+            1592
+          ],
+          "original_text": "28 May 2023",
+          "translated_en": "28 May 2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1164,
+            1773,
+            1741,
+            1860
+          ],
+          "original_text": "11 Sep 2028",
+          "translated_en": "11 Sep 2028",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2092,
+            1160,
+            2452,
+            1234
+          ],
+          "original_text": "الميـ تاريخ",
+          "translated_en": "Date",
+          "detected_lang": "ar"
+        },
+        {
+          "box": [
+            2024,
+            1260,
+            2719,
+            1353
+          ],
+          "original_text": "١٥ / يناير / ۱۹۸۳",
+          "translated_en": "January 15, 1983",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2022,
+            1523,
+            2702,
+            1597
+          ],
+          "original_text": "۲۸ / مايو / ۲۰۲۲",
+          "translated_en": "May 28, 2022",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1996,
+            1693,
+            2057,
+            1738
+          ],
+          "original_text": "ع",
+          "translated_en": "A",
+          "detected_lang": "fa"
+        },
+        {
+          "box": [
+            2014,
+            1787,
+            2575,
+            1872
+          ],
+          "original_text": "۱۱ / سبتمبر /",
+          "translated_en": "September 11",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1045_translated.jpg"
+}

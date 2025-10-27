@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\russian-NF-1081_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-NF-1081.jpg",
+  "width": 3205,
+  "height": 1975,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1162,
+            414,
+            1487,
+            486
+          ],
+          "original_text": "Попова /",
+          "translated_en": "Popova /"
+        },
+        {
+          "box": [
+            1157,
+            499,
+            1416,
+            566
+          ],
+          "original_text": "Popova",
+          "translated_en": "Popova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            2078,
+            684,
+            2133,
+            727
+          ],
+          "original_text": "μο",
+          "translated_en": "me"
+        },
+        {
+          "box": [
+            1148,
+            749,
+            2102,
+            828
+          ],
+          "original_text": "Анастасия Владимировна",
+          "translated_en": "Anastasia Vladimirovna"
+        },
+        {
+          "box": [
+            1155,
+            830,
+            1975,
+            894
+          ],
+          "original_text": "Brenaniia Vidimifcura",
+          "translated_en": "Brenaniia Vidimifcura"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1150,
+            1074,
+            1538,
+            1129
+          ],
+          "original_text": "18.07.1904",
+          "translated_en": "18.07.1904"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1138,
+            1518,
+            1537,
+            1576
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1133,
+            1815,
+            1520,
+            1875
+          ],
+          "original_text": "16.12.2099",
+          "translated_en": "16.12.2099"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1081_translated_cleaned.jpg"
+}

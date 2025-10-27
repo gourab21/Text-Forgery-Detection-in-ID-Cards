@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\turkiye-NM-1019_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\turkiye-NM-1019.jpg",
+  "width": 2639,
+  "height": 1614,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            856,
+            837,
+            1029,
+            886
+          ],
+          "original_text": "Chrs",
+          "translated_en": "Chrs"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            862,
+            636,
+            1073,
+            698
+          ],
+          "original_text": "Yalçın",
+          "translated_en": "Yalçın"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            858,
+            1035,
+            1249,
+            1088
+          ],
+          "original_text": "17.11.2028",
+          "translated_en": "17.11.2028"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            846,
+            1440,
+            1233,
+            1502
+          ],
+          "original_text": "03.03.2011",
+          "translated_en": "03.03.2011"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-NM-1019_translated_cleaned.jpg"
+}

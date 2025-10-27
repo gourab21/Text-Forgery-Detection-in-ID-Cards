@@ -1,0 +1,12 @@
+LE1
+OR: Z avidLin
+EN: From avidLin
+
+E2
+EN: 04 Jan 12021
+
+E3
+EN: 29 Sep 2010
+
+E4
+EN: 26 Sep 2033

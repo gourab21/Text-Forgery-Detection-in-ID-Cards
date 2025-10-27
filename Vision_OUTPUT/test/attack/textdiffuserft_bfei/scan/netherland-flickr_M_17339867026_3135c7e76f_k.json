@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_17339867026_3135c7e76f_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        288,
+        1279,
+        537
+      ],
+      "lines": [
+        {
+          "text": "MEIJER",
+          "box": [
+            682,
+            325,
+            893,
+            366
+          ]
+        },
+        {
+          "text": "Jessica Sophie",
+          "box": [
+            685,
+            378,
+            1125,
+            433
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            684,
+            458,
+            829,
+            497
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        557,
+        1969,
+        655
+      ],
+      "lines": [
+        {
+          "text": "13 12 1915",
+          "box": [
+            1563,
+            580,
+            1884,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1462,
+        727,
+        1962,
+        849
+      ],
+      "lines": [
+        {
+          "text": "19 01 2064",
+          "box": [
+            1542,
+            750,
+            1896,
+            799
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\usa-NF-1009_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-NF-1009.jpg",
+  "width": 1993,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            654,
+            457,
+            1222,
+            505
+          ],
+          "original_text": "Foseroe D",
+          "translated_en": "Foseroe D"
+        },
+        {
+          "box": [
+            653,
+            523,
+            1028,
+            574
+          ],
+          "original_text": "5678 Maple Dr",
+          "translated_en": "5678 Maple Dr"
+        },
+        {
+          "box": [
+            653,
+            584,
+            1173,
+            628
+          ],
+          "original_text": "Rochester NY 14623",
+          "translated_en": "Rochester NY 14623"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            776,
+            1883,
+            821
+          ],
+          "original_text": "09-01-76",
+          "translated_en": "09-01-76"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1009_translated_cleaned.jpg"
+}

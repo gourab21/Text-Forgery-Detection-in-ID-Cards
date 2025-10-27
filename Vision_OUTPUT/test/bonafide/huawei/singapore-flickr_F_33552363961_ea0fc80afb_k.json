@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_F_33552363961_ea0fc80afb_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        660,
+        655,
+        2387,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Meera Krishnan",
+          "box": [
+            796,
+            745,
+            1656,
+            830
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        736,
+        1406,
+        1644,
+        1601
+      ],
+      "lines": [
+        {
+          "text": "2000-12-02",
+          "box": [
+            815,
+            1478,
+            1395,
+            1553
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1787,
+        1707,
+        2637,
+        1896
+      ],
+      "lines": [
+        {
+          "text": "2010-12-02",
+          "box": [
+            1873,
+            1757,
+            2461,
+            1836
+          ]
+        }
+      ]
+    }
+  ]
+}

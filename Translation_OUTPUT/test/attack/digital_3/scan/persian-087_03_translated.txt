@@ -1,0 +1,22 @@
+E1
+EN: Gabr
+
+E2
+EN: Kazemi
+
+L1
+OR: سارا
+EN: Sara
+
+L2
+OR: زارع
+EN: Farmer
+
+E3
+EN: 27/03/2014
+
+E4
+EN: 09/12/2024
+
+E5
+EN: 03/09/1994

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\turkiye-127_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        610,
+        1215,
+        728
+      ],
+      "lines": [
+        {
+          "text": "Dilara",
+          "box": [
+            650,
+            650,
+            800,
+            690
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        446,
+        1214,
+        569
+      ],
+      "lines": [
+        {
+          "text": "Bayar",
+          "box": [
+            653,
+            498,
+            803,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        765,
+        1191,
+        882
+      ],
+      "lines": [
+        {
+          "text": "16.03.1991",
+          "box": [
+            648,
+            803,
+            936,
+            848
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1085,
+        1183,
+        1210
+      ],
+      "lines": [
+        {
+          "text": "27.04.2035",
+          "box": [
+            641,
+            1117,
+            931,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

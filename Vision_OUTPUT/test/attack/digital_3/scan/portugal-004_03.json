@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-004_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "BRITTNEYGOMES",
+          "box": [
+            702,
+            343,
+            1134,
+            379
+          ]
+        },
+        {
+          "text": "Francisco Jorge",
+          "box": [
+            691,
+            396,
+            1089,
+            452
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        577,
+        1995,
+        674
+      ],
+      "lines": [
+        {
+          "text": "29 09 1932",
+          "box": [
+            1705,
+            598,
+            1950,
+            637
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        732,
+        1668,
+        847
+      ],
+      "lines": [
+        {
+          "text": "12 03 1939",
+          "box": [
+            1307,
+            767,
+            1587,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

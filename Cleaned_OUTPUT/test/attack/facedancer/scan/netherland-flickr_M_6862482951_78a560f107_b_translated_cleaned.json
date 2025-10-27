@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\scan\\netherland-flickr_M_6862482951_78a560f107_b_translated.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\netherland-flickr_M_6862482951_78a560f107_b.jpg",
+  "width": 1999,
+  "height": 1243,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            695,
+            320,
+            940,
+            361
+          ],
+          "original_text": "POSTMA",
+          "translated_en": "POSTMA"
+        },
+        {
+          "box": [
+            692,
+            383,
+            1001,
+            428
+          ],
+          "original_text": "Anouk Ilse",
+          "translated_en": "Anouk Ilse"
+        },
+        {
+          "box": [
+            693,
+            449,
+            914,
+            493
+          ],
+          "original_text": "Henrike",
+          "translated_en": "Henrike"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1564,
+            601,
+            1902,
+            648
+          ],
+          "original_text": "07 09 1974",
+          "translated_en": "07 09 1974"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1536,
+            775,
+            1897,
+            821
+          ],
+          "original_text": "13 01 2029",
+          "translated_en": "13 01 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_6862482951_78a560f107_b_translated_cleaned.jpg"
+}

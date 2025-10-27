@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\turkiye-NF-1054.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        594,
+        612,
+        1213,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Nur",
+          "box": [
+            646,
+            650,
+            743,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        448,
+        1213,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Kara",
+          "box": [
+            650,
+            497,
+            767,
+            534
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        768,
+        1191,
+        885
+      ],
+      "lines": [
+        {
+          "text": "31.03.1995",
+          "box": [
+            644,
+            804,
+            934,
+            845
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        596,
+        1088,
+        1182,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "15.05.2034",
+          "box": [
+            638,
+            1118,
+            926,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

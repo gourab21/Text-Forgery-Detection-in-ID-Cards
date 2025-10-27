@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\ukraine-NF-1021.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\ukraine-NF-1021.jpg",
+  "width": 1989,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            649,
+            290,
+            897,
+            343
+          ],
+          "original_text": "Лисенко /",
+          "translated_en": "Lysenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            652,
+            349,
+            846,
+            393
+          ],
+          "original_text": "Lysenko",
+          "translated_en": "Lysenko",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            649,
+            478,
+            1055,
+            522
+          ],
+          "original_text": "Марія Іванівна /",
+          "translated_en": "Maria Ivanovna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            648,
+            528,
+            796,
+            583
+          ],
+          "original_text": "Miffan",
+          "translated_en": "Miffan",
+          "detected_lang": "fy"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            644,
+            679,
+            920,
+            717
+          ],
+          "original_text": "29.07.1990",
+          "translated_en": "29.07.1990",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            640,
+            957,
+            907,
+            993
+          ],
+          "original_text": "15.02.2011",
+          "translated_en": "15.02.2011",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            635,
+            1153,
+            913,
+            1186
+          ],
+          "original_text": "15.02.1997",
+          "translated_en": "15.02.1997",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1021_translated.jpg"
+}

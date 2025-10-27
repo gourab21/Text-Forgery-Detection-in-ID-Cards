@@ -1,0 +1,73 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1076.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        855,
+        616,
+        1753,
+        957
+      ],
+      "lines": [
+        {
+          "text": "XX",
+          "box": [
+            1246,
+            617,
+            1332,
+            701
+          ]
+        },
+        {
+          "text": "Josephia Anderson",
+          "box": [
+            920,
+            664,
+            1564,
+            755
+          ]
+        },
+        {
+          "text": "1543 Elm St ATE STAT",
+          "box": [
+            926,
+            736,
+            1752,
+            821
+          ]
+        },
+        {
+          "text": "Phoenix AZ 85021",
+          "box": [
+            926,
+            842,
+            1575,
+            902
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2058,
+        1092,
+        2758,
+        1238
+      ],
+      "lines": [
+        {
+          "text": "DOB : 02-07-74",
+          "box": [
+            2124,
+            1097,
+            2682,
+            1150
+          ]
+        }
+      ]
+    }
+  ]
+}

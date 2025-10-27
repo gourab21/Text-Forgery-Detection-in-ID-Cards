@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_F_40837237721_dedac367d4_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        618,
+        395,
+        1192,
+        589
+      ],
+      "lines": [
+        {
+          "text": "赵萍",
+          "box": [
+            682,
+            428,
+            785,
+            480
+          ]
+        },
+        {
+          "text": "Amyo Ping",
+          "box": [
+            676,
+            495,
+            957,
+            539
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1206,
+        657,
+        1671,
+        776
+      ],
+      "lines": [
+        {
+          "text": "30 Mar 2064",
+          "box": [
+            1249,
+            693,
+            1609,
+            742
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1211,
+        842,
+        1690,
+        966
+      ],
+      "lines": [
+        {
+          "text": "08 Jan 2000",
+          "box": [
+            1250,
+            877,
+            1594,
+            927
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        642,
+        1043,
+        1119,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "17 Jan 2044",
+          "box": [
+            701,
+            1073,
+            1038,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

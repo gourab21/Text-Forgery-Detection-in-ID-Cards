@@ -1,0 +1,27 @@
+E1
+EN: Sara Khaled
+
+L1
+OR: خالد سارة
+EN: Khaled Sarah
+
+E2
+EN: 05 May 1995
+
+E3
+EN: 20 Aug 2023
+
+E4
+EN: 20 Aug 2033
+
+L2
+OR: ٥ / مايو / ١٩٩٥
+EN: May 5, 1995
+
+L3
+OR: ٢٠ / أغسطس / ٢٠١٣
+EN: August 20, 2013
+
+L4
+OR: ٢٠ / أغسطس / ۲۰۱۳
+EN: August 20, 2013

@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\usa-NF-1093.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\usa-NF-1093.jpg",
+  "width": 1997,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            651,
+            470,
+            958,
+            508
+          ],
+          "original_text": "Echaelshaw",
+          "translated_en": "Echaelshaw",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            648,
+            526,
+            1048,
+            569
+          ],
+          "original_text": "306 Pine Street",
+          "translated_en": "306 Pine Street",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            649,
+            586,
+            1043,
+            626
+          ],
+          "original_text": "Reno NV 89501",
+          "translated_en": "Reno NV 89501",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            778,
+            1887,
+            821
+          ],
+          "original_text": "DOB : 05-18-06",
+          "translated_en": "DOB : 05-18-06",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1093_translated.jpg"
+}

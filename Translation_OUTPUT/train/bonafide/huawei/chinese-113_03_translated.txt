@@ -1,0 +1,12 @@
+LE1
+EN: *
+EN: Zhou Lin
+
+E2
+EN: 04 Jan 1992
+
+E3
+EN: 29 Sep 2010
+
+E4
+EN: 26 Sep 2020

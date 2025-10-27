@@ -1,0 +1,29 @@
+E1
+EN: Jonath > -Fayed
+
+L1
+EN: Al Fayed Rania
+OR: الفايد رانيا
+
+E2
+EN: 06 Aug 2057
+
+E3
+EN: 12 Jan 2020
+
+E4
+EN: 20 Nov 2019
+
+L2
+EN: February 4, 1990
+OR: ٤ / فبراير / ۱۹۹۰
+
+L3
+EN: 12 / Girls / 2020
+OR: ۱۲ / بنات / ۲۰۲۰
+
+L4
+EN: righteous
+OR: صالح
+EN: / / September / 2029
+OR: / / سبتمبر / ۲۰۲۹

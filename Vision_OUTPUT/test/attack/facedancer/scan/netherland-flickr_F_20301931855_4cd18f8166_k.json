@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_F_20301931855_4cd18f8166_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        540
+      ],
+      "lines": [
+        {
+          "text": "VERMEULEN",
+          "box": [
+            681,
+            325,
+            1036,
+            369
+          ]
+        },
+        {
+          "text": "Thijs Petra",
+          "box": [
+            682,
+            383,
+            990,
+            445
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            688,
+            459,
+            832,
+            500
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        560,
+        1968,
+        659
+      ],
+      "lines": [
+        {
+          "text": "10 09 1995",
+          "box": [
+            1569,
+            587,
+            1899,
+            634
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        731,
+        1961,
+        854
+      ],
+      "lines": [
+        {
+          "text": "02 01 2028",
+          "box": [
+            1537,
+            759,
+            1901,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

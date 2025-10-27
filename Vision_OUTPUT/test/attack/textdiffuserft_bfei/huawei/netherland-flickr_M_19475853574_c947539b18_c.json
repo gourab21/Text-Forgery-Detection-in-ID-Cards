@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_19475853574_c947539b18_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        987,
+        458,
+        2026,
+        856
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            1073,
+            511,
+            1556,
+            585
+          ]
+        },
+        {
+          "text": "Denisisabeth",
+          "box": [
+            1086,
+            615,
+            1704,
+            687
+          ]
+        },
+        {
+          "text": "Sophie",
+          "box": [
+            1074,
+            728,
+            1391,
+            804
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2355,
+        885,
+        3119,
+        1043
+      ],
+      "lines": [
+        {
+          "text": "15 12 1967",
+          "box": [
+            2484,
+            929,
+            3001,
+            997
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2314,
+        1157,
+        3108,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "09 05 1922",
+          "box": [
+            2441,
+            1203,
+            3021,
+            1281
+          ]
+        }
+      ]
+    }
+  ]
+}

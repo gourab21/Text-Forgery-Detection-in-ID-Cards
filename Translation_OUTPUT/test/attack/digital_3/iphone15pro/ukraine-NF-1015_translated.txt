@@ -1,0 +1,20 @@
+LE1
+OR: Прізви
+EN: Nicknames
+OR: Козлова /
+EN: Kozlova /
+EN: Kozlova
+
+LE2
+OR: Тетяна Романівна /
+EN: Tatyana Romanivna /
+EN: Roberta
+
+E3
+EN: 02.08.1951
+
+E4
+EN: 10.12.2016
+
+E5
+EN: 27.04.2036

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-017_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        474,
+        2345,
+        751
+      ],
+      "lines": [
+        {
+          "text": "MOBERTSOUSA",
+          "box": [
+            1098,
+            541,
+            1728,
+            607
+          ]
+        },
+        {
+          "text": "Eduardo Manuel",
+          "box": [
+            1098,
+            636,
+            1770,
+            703
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2646,
+        912,
+        3209,
+        1066
+      ],
+      "lines": [
+        {
+          "text": "14 11 2005",
+          "box": [
+            2750,
+            957,
+            3208,
+            1024
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1992,
+        1158,
+        2683,
+        1341
+      ],
+      "lines": [
+        {
+          "text": "0112 1990",
+          "box": [
+            2091,
+            1226,
+            2573,
+            1290
+          ]
+        }
+      ]
+    }
+  ]
+}

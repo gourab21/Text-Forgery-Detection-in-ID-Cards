@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_30532886723_e55b04664f_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_30532886723_e55b04664f_k.jpg",
+  "width": 2767,
+  "height": 1743,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            728,
+            640,
+            1587,
+            737
+          ],
+          "original_text": "April binti Azman",
+          "translated_en": "April binti Azman"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            726,
+            1289,
+            1221,
+            1364
+          ],
+          "original_text": "13.03-3533",
+          "translated_en": "13.03-3533"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1651,
+            1530,
+            2139,
+            1606
+          ],
+          "original_text": "16 07133",
+          "translated_en": "16 07133"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_30532886723_e55b04664f_k_translated_cleaned.jpg"
+}

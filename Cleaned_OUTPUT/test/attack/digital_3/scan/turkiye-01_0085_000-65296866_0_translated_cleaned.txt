@@ -1,0 +1,12 @@
+E2
+EN: Rödne
+
+E1
+EN: Soy
+EN: Akar
+
+E3
+EN: 29.09.1018
+
+E4
+EN: 10.05.2087

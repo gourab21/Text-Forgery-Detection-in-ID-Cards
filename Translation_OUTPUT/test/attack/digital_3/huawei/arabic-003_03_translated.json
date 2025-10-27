@@ -1,0 +1,137 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\arabic-003_03.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\arabic-003_03.jpg",
+  "width": 3023,
+  "height": 1884,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1138,
+            697,
+            1813,
+            787
+          ],
+          "original_text": "Allisonl - Ahnad",
+          "translated_en": "Allisonl - Ahnad",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1093,
+            499,
+            1607,
+            595
+          ],
+          "original_text": "الأحمد طارق",
+          "translated_en": "Ahmed Tariq",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1143,
+            1181,
+            1675,
+            1250
+          ],
+          "original_text": "16 Oct 1926",
+          "translated_en": "16 Oct 1926",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1144,
+            1426,
+            1655,
+            1496
+          ],
+          "original_text": "09 Jul 2018",
+          "translated_en": "09 Jul 2018",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1151,
+            1673,
+            1689,
+            1742
+          ],
+          "original_text": "06 Jan 2008",
+          "translated_en": "06 Jan 2008",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1940,
+            1154,
+            2625,
+            1262
+          ],
+          "original_text": "٢٩ ۲۹ / أبريل / ۱۹۸۵",
+          "translated_en": "29/April/1985",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1948,
+            1409,
+            2564,
+            1511
+          ],
+          "original_text": "٩ / يوليو / ۲۰۱۸",
+          "translated_en": "July 9, 2018",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1949,
+            1659,
+            2748,
+            1757
+          ],
+          "original_text": "٢٤ / ديسمبر / ۲۰۳۳",
+          "translated_en": "December 24, 2033",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-003_03_translated.jpg"
+}

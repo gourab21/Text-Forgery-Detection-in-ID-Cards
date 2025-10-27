@@ -1,0 +1,20 @@
+LE1
+OR: Паниковский /
+EN: Panikovsky /
+EN: Panikovsky
+
+LE2
+OR: Михаил Самуэлевич / :
+EN: Mikhail Samuelevich / :
+OR: Terrril
+EN: Terrible
+
+E3
+EN: 04.06.1923
+
+E4
+EN: Да ата выда
+EN: 25.03.2021
+
+E5
+EN: 20.02.1900

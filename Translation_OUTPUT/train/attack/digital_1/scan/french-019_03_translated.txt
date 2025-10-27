@@ -1,0 +1,11 @@
+E1
+EN: BERGER
+
+E2
+EN: heodeesiodkel
+
+E3
+EN: 30 12 2025
+
+E4
+EN: 05 01 2014

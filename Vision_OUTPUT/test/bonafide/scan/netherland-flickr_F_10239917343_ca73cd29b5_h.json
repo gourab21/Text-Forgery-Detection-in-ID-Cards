@@ -1,0 +1,102 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_F_10239917343_ca73cd29b5_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        540
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            693,
+            326,
+            966,
+            365
+          ]
+        },
+        {
+          "text": "Hendrik Gerardus",
+          "box": [
+            691,
+            386,
+            1205,
+            436
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            688,
+            454,
+            1004,
+            499
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        560,
+        1968,
+        659
+      ],
+      "lines": [
+        {
+          "text": "OF BIRTH",
+          "box": [
+            1752,
+            560,
+            1916,
+            586
+          ]
+        },
+        {
+          "text": "27 01 1983",
+          "box": [
+            1561,
+            606,
+            1896,
+            654
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        731,
+        1961,
+        854
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD ! CARD EXPIRY",
+          "box": [
+            1461,
+            732,
+            1909,
+            761
+          ]
+        },
+        {
+          "text": "23 12 2028",
+          "box": [
+            1527,
+            778,
+            1892,
+            827
+          ]
+        }
+      ]
+    }
+  ]
+}

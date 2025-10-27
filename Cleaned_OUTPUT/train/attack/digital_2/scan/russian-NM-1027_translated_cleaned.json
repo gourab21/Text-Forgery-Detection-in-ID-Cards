@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\russian-NM-1027_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\russian-NM-1027.jpg",
+  "width": 1995,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            730,
+            262,
+            903,
+            309
+          ],
+          "original_text": "Белов /",
+          "translated_en": "Belov /"
+        },
+        {
+          "box": [
+            729,
+            319,
+            848,
+            350
+          ],
+          "original_text": "Belov",
+          "translated_en": "Belov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            724,
+            474,
+            1181,
+            520
+          ],
+          "original_text": "Артём Васильевич /",
+          "translated_en": "Artem Vasilievich /"
+        },
+        {
+          "box": [
+            721,
+            528,
+            1101,
+            570
+          ],
+          "original_text": "A ylan Yasievich",
+          "translated_en": "Alan Yasievich"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            723,
+            679,
+            974,
+            715
+          ],
+          "original_text": "17.05.2020",
+          "translated_en": "17.05.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            716,
+            958,
+            961,
+            989
+          ],
+          "original_text": "03.10.2017",
+          "translated_en": "03.10.2017"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            712,
+            1139,
+            958,
+            1187
+          ],
+          "original_text": "01.10.197",
+          "translated_en": "01.10.197"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NM-1027_translated_cleaned.jpg"
+}

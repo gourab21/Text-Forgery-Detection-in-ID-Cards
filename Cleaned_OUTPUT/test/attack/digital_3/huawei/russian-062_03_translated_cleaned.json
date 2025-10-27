@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\russian-062_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-062_03.jpg",
+  "width": 3205,
+  "height": 1973,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1149,
+            413,
+            1633,
+            488
+          ],
+          "original_text": "Журавлева /",
+          "translated_en": "Zhuravleva /"
+        },
+        {
+          "box": [
+            1154,
+            497,
+            1545,
+            553
+          ],
+          "original_text": "Zhuravleva",
+          "translated_en": "Zhuravleva"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1145,
+            749,
+            1839,
+            823
+          ],
+          "original_text": "Дарья Сергеевна /",
+          "translated_en": "Daria Sergeevna /"
+        },
+        {
+          "box": [
+            1144,
+            826,
+            1752,
+            896
+          ],
+          "original_text": "Tracey Sergeevna",
+          "translated_en": "Tracey Sergeevna"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1145,
+            1078,
+            1544,
+            1135
+          ],
+          "original_text": "20.10.1922",
+          "translated_en": "20.10.1922"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1137,
+            1516,
+            1536,
+            1572
+          ],
+          "original_text": "17.12.2014",
+          "translated_en": "17.12.2014"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1130,
+            1810,
+            1525,
+            1868
+          ],
+          "original_text": "24.09.1984",
+          "translated_en": "24.09.1984"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-062_03_translated_cleaned.jpg"
+}

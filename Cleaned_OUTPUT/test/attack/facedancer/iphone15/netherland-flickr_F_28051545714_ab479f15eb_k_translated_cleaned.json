@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\iphone15\\netherland-flickr_F_28051545714_ab479f15eb_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\iphone15\\netherland-flickr_F_28051545714_ab479f15eb_k.jpg",
+  "width": 2771,
+  "height": 1745,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            941,
+            448,
+            1252,
+            512
+          ],
+          "original_text": "JANSEN",
+          "translated_en": "JANSEN"
+        },
+        {
+          "box": [
+            945,
+            538,
+            1323,
+            603
+          ],
+          "original_text": "Daan Ilse",
+          "translated_en": "Daan Ilse"
+        },
+        {
+          "box": [
+            944,
+            632,
+            1375,
+            693
+          ],
+          "original_text": "Annemarie",
+          "translated_en": "Annemarie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2171,
+            807,
+            2634,
+            877
+          ],
+          "original_text": "1801 1975",
+          "translated_en": "1801 1975"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2134,
+            1052,
+            2642,
+            1117
+          ],
+          "original_text": "12 10 2031",
+          "translated_en": "12 10 2031"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_28051545714_ab479f15eb_k_translated_cleaned.jpg"
+}

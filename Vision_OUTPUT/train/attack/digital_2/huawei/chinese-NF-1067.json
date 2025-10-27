@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\chinese-NF-1067.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        969,
+        601,
+        1680,
+        882
+      ],
+      "lines": [
+        {
+          "text": "張梦奇",
+          "box": [
+            1022,
+            659,
+            1257,
+            733
+          ]
+        },
+        {
+          "text": "Zames Tlemgi",
+          "box": [
+            1027,
+            748,
+            1605,
+            820
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1823,
+        999,
+        2448,
+        1201
+      ],
+      "lines": [
+        {
+          "text": "05 Jan 12 ( 07",
+          "box": [
+            1887,
+            1070,
+            2390,
+            1128
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1796,
+        1289,
+        2485,
+        1483
+      ],
+      "lines": [
+        {
+          "text": "26 Jul 2011",
+          "box": [
+            1895,
+            1340,
+            2340,
+            1400
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        939,
+        1578,
+        1656,
+        1765
+      ],
+      "lines": [
+        {
+          "text": "23 Jul 2012",
+          "box": [
+            1055,
+            1642,
+            1526,
+            1701
+          ]
+        }
+      ]
+    }
+  ]
+}

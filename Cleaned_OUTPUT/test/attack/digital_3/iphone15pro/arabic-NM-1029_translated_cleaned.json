@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\arabic-NM-1029_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\arabic-NM-1029.jpg",
+  "width": 2789,
+  "height": 1763,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1043,
+            656,
+            1712,
+            734
+          ],
+          "original_text": "Sheltol -Khalidi",
+          "translated_en": "Sheltol -Khalidi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1010,
+            473,
+            1499,
+            557
+          ],
+          "original_text": "الخالدي نواف",
+          "translated_en": "Khalidi Nawaf"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1043,
+            1102,
+            1520,
+            1165
+          ],
+          "original_text": "04 Nov 1910",
+          "translated_en": "04 Nov 1910"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1052,
+            1332,
+            1557,
+            1396
+          ],
+          "original_text": "11 Mar 2020",
+          "translated_en": "11 Mar 2020"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1054,
+            1569,
+            1547,
+            1635
+          ],
+          "original_text": "01 Mar 1994",
+          "translated_en": "01 Mar 1994"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1782,
+            1081,
+            2405,
+            1177
+          ],
+          "original_text": "١٢ ۱۲ / يوليو / ۱۹۸۳",
+          "translated_en": "12/12/July/1983"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1785,
+            1318,
+            2443,
+            1406
+          ],
+          "original_text": "١١ / مارس / ۲۰۲۰",
+          "translated_en": "March 11, 2020"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1787,
+            1538,
+            2397,
+            1637
+          ],
+          "original_text": "٦ / أكتوبر / ٢٠٣٣",
+          "translated_en": "October 6, 2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NM-1029_translated_cleaned.jpg"
+}

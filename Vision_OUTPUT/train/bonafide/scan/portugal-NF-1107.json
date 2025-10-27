@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        298,
+        1459,
+        471
+      ],
+      "lines": [
+        {
+          "text": "SILVA LIMA",
+          "box": [
+            687,
+            339,
+            994,
+            382
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            685,
+            398,
+            1070,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "09 02 1995",
+          "box": [
+            1708,
+            600,
+            1997,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        728,
+        1670,
+        843
+      ],
+      "lines": [
+        {
+          "text": "24 06 2027",
+          "box": [
+            1303,
+            766,
+            1590,
+            804
+          ]
+        }
+      ]
+    }
+  ]
+}

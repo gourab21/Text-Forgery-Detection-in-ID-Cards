@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\huawei\\usa-NM-1038_translated.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-NM-1038.jpg",
+  "width": 3043,
+  "height": 1883,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            987,
+            696,
+            1534,
+            780
+          ],
+          "original_text": "Joshua Taylor",
+          "translated_en": "Joshua Taylor"
+        },
+        {
+          "box": [
+            992,
+            788,
+            1437,
+            853
+          ],
+          "original_text": "204 Pine St",
+          "translated_en": "204 Pine St"
+        },
+        {
+          "box": [
+            990,
+            877,
+            1760,
+            948
+          ],
+          "original_text": "Bozeman MT 59715",
+          "translated_en": "Bozeman MT 59715"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2276,
+            1173,
+            2873,
+            1240
+          ],
+          "original_text": "03-22-86",
+          "translated_en": "03-22-86"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1038_translated_cleaned.jpg"
+}

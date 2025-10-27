@@ -1,0 +1,7 @@
+E1
+John Doe 2000 St ...
+1234 Elm RATE
+Springfield IL 62704
+
+E2
+DOB : 01-15-90

@@ -1,0 +1,29 @@
+E1
+EN: Michel - Sabah
+
+L1
+OR: الصباح هنا
+EN: Morning is here
+
+E2
+EN: 10 Feb 2085
+
+E3
+EN: 19 Nov 2021
+
+E4
+EN: 21 Apr 1907
+
+L2
+OR: تاریخ
+EN: History
+OR: / سبتمبر / ۱۹۸۵
+EN: September 1985
+
+L3
+OR: ١٩ / نوفمبر / ٢٠١
+EN: November 19, 2011
+
+L4
+OR: ۲۰ / سبتمبر / ۲
+EN: September 20

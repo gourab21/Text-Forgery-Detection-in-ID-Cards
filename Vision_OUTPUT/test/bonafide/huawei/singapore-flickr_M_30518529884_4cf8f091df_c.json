@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_30518529884_4cf8f091df_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        658,
+        653,
+        2380,
+        968
+      ],
+      "lines": [
+        {
+          "text": "Zulkifli bin Omar",
+          "box": [
+            795,
+            740,
+            1722,
+            819
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        734,
+        1402,
+        1638,
+        1596
+      ],
+      "lines": [
+        {
+          "text": "1996-03-25",
+          "box": [
+            818,
+            1468,
+            1394,
+            1543
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1780,
+        1702,
+        2628,
+        1890
+      ],
+      "lines": [
+        {
+          "text": "2006-03-25",
+          "box": [
+            1869,
+            1747,
+            2456,
+            1826
+          ]
+        }
+      ]
+    }
+  ]
+}

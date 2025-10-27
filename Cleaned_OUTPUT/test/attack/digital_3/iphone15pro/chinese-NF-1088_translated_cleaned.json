@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\chinese-NF-1088_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\chinese-NF-1088.jpg",
+  "width": 2630,
+  "height": 1611,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            894,
+            553,
+            1037,
+            617
+          ],
+          "original_text": "適用",
+          "translated_en": "Applicable"
+        },
+        {
+          "box": [
+            905,
+            630,
+            1210,
+            684
+          ],
+          "original_text": "Richado",
+          "translated_en": "Richado"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1633,
+            921,
+            2055,
+            977
+          ],
+          "original_text": "12 Jan 1944",
+          "translated_en": "12 Jan 1944"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1628,
+            1156,
+            2050,
+            1213
+          ],
+          "original_text": "15 Aug 2016",
+          "translated_en": "15 Aug 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            887,
+            1387,
+            1319,
+            1459
+          ],
+          "original_text": "12 Apr 2050",
+          "translated_en": "12 Apr 2050"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1088_translated_cleaned.jpg"
+}

@@ -1,0 +1,12 @@
+E2
+EN: Kanna
+
+E1
+EN: boy
+EN: Yılmaz
+
+E3
+EN: 18.04.1997
+
+E4
+EN: 29.09.12037

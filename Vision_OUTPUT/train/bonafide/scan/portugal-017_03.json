@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-017_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        475
+      ],
+      "lines": [
+        {
+          "text": "MENDES SOUSA",
+          "box": [
+            673,
+            342,
+            1082,
+            385
+          ]
+        },
+        {
+          "text": "Eduardo Manuel",
+          "box": [
+            673,
+            402,
+            1089,
+            443
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        576,
+        1992,
+        673
+      ],
+      "lines": [
+        {
+          "text": "14 11 1988",
+          "box": [
+            1703,
+            577,
+            1990,
+            616
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        731,
+        1665,
+        846
+      ],
+      "lines": [
+        {
+          "text": "01 12 2032",
+          "box": [
+            1302,
+            755,
+            1590,
+            797
+          ]
+        }
+      ]
+    }
+  ]
+}

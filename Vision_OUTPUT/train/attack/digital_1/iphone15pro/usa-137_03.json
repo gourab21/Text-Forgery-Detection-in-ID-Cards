@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\usa-137_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        849,
+        609,
+        1742,
+        947
+      ],
+      "lines": [
+        {
+          "text": "ElenőKnigh Ct",
+          "box": [
+            911,
+            671,
+            1406,
+            743
+          ]
+        },
+        {
+          "text": "678 Pine Rd",
+          "box": [
+            912,
+            759,
+            1336,
+            817
+          ]
+        },
+        {
+          "text": "Denver CO 80203",
+          "box": [
+            912,
+            837,
+            1538,
+            903
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2045,
+        1081,
+        2742,
+        1226
+      ],
+      "lines": [
+        {
+          "text": "DOB : 09-15-15",
+          "box": [
+            2103,
+            1085,
+            2658,
+            1145
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\chinese-020_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\chinese-020_03.jpg",
+  "width": 1994,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            687,
+            434,
+            789,
+            484
+          ],
+          "original_text": "李晨",
+          "translated_en": "Li Chen"
+        },
+        {
+          "box": [
+            686,
+            498,
+            825,
+            544
+          ],
+          "original_text": "Lenry",
+          "translated_en": "Lenry"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1246,
+            704,
+            1599,
+            743
+          ],
+          "original_text": "18 MAR 2000",
+          "translated_en": "18 MAR 2000"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1246,
+            886,
+            1559,
+            927
+          ],
+          "original_text": "07 JUL 2009",
+          "translated_en": "07 JUL 2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            695,
+            1085,
+            1024,
+            1124
+          ],
+          "original_text": "06 JUL 11003",
+          "translated_en": "06 JUL 11003"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-020_03_translated_cleaned.jpg"
+}

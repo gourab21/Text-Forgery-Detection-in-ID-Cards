@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-100_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        380,
+        1658,
+        513
+      ],
+      "lines": [
+        {
+          "text": "ROBERT",
+          "box": [
+            911,
+            427,
+            1177,
+            477
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        628,
+        1757,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Marie , Noëlle",
+          "box": [
+            916,
+            665,
+            1349,
+            732
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1944,
+        880,
+        2490,
+        1031
+      ],
+      "lines": [
+        {
+          "text": "18 11 1978",
+          "box": [
+            1999,
+            885,
+            2370,
+            932
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1918,
+        1436,
+        2474,
+        1575
+      ],
+      "lines": [
+        {
+          "text": "01 02 1928",
+          "box": [
+            2006,
+            1437,
+            2379,
+            1481
+          ]
+        }
+      ]
+    }
+  ]
+}

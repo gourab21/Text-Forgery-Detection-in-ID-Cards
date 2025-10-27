@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_M_6501027149_988313b64f_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        403,
+        1777,
+        751
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            937,
+            450,
+            1247,
+            512
+          ]
+        },
+        {
+          "text": "Anouk Cornelis",
+          "box": [
+            940,
+            535,
+            1553,
+            603
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            945,
+            631,
+            1311,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2066,
+        779,
+        2737,
+        918
+      ],
+      "lines": [
+        {
+          "text": "11 11 1979",
+          "box": [
+            2175,
+            811,
+            2634,
+            873
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2031,
+        1018,
+        2727,
+        1189
+      ],
+      "lines": [
+        {
+          "text": "28 11 2028",
+          "box": [
+            2133,
+            1051,
+            2640,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

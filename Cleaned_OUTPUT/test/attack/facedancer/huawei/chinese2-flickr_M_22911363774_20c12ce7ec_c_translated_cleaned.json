@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\chinese2-flickr_M_22911363774_20c12ce7ec_c_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_22911363774_20c12ce7ec_c.jpg",
+  "width": 3222,
+  "height": 2046,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1091,
+            706,
+            1267,
+            781
+          ],
+          "original_text": "周 辉",
+          "translated_en": "Zhou Hui"
+        },
+        {
+          "box": [
+            1096,
+            813,
+            1498,
+            879
+          ],
+          "original_text": "Zhou Hui",
+          "translated_en": "Zhou Hui"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2011,
+            1144,
+            2578,
+            1222
+          ],
+          "original_text": "20 JAN 2001",
+          "translated_en": "20 JAN 2001"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2019,
+            1443,
+            2572,
+            1522
+          ],
+          "original_text": "05 JUL 2025",
+          "translated_en": "05 JUL 2025"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1119,
+            1774,
+            1670,
+            1848
+          ],
+          "original_text": "05 JUL 2045",
+          "translated_en": "05 JUL 2045"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_22911363774_20c12ce7ec_c_translated_cleaned.jpg"
+}

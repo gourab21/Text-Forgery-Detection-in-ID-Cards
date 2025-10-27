@@ -1,0 +1,20 @@
+LE1
+EN: Nicknames
+OR: Прізви
+EN: Lysenko /
+OR: Лисенко /
+EN: Lysenko
+
+LE2
+EN: Maria Ivanovna /
+OR: Марія Іванівна /
+EN: Christ
+
+E3
+EN: 02.12.2030
+
+E4
+EN: 15.02.2011
+
+E5
+EN: 03.10.2000

@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\arabic-NF-1100_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\arabic-NF-1100.jpg",
+  "width": 2771,
+  "height": 1760,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1039,
+            649,
+            1609,
+            745
+          ],
+          "original_text": "Taylor - Sabah",
+          "translated_en": "Taylor - Sabah"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1006,
+            466,
+            1400,
+            549
+          ],
+          "original_text": "الصباح هنا",
+          "translated_en": "Morning is here"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1050,
+            1099,
+            1556,
+            1178
+          ],
+          "original_text": "15 May 2034",
+          "translated_en": "15 May 2034"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1054,
+            1329,
+            1564,
+            1396
+          ],
+          "original_text": "19 Nov 2021",
+          "translated_en": "19 Nov 2021"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1048,
+            1564,
+            1542,
+            1634
+          ],
+          "original_text": "25 Nov 198",
+          "translated_en": "25 Nov 198"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1855,
+            1077,
+            2453,
+            1171
+          ],
+          "original_text": "/ سبتمبر / ۱۹۸۵",
+          "translated_en": "September 1985"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1787,
+            1313,
+            2451,
+            1410
+          ],
+          "original_text": "١٩ / نوفمبر / ۲۰۲۱",
+          "translated_en": "November 19, 2021"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1790,
+            1548,
+            2516,
+            1640
+          ],
+          "original_text": "۲۰ / سبتمبر / ۰۲۹ ۲",
+          "translated_en": "September 20, 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1100_translated_cleaned.jpg"
+}

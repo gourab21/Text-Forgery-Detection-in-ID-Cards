@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-092_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        611,
+        1215,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Fema",
+          "box": [
+            655,
+            658,
+            779,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Tekin",
+          "box": [
+            650,
+            502,
+            788,
+            539
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        766,
+        1192,
+        883
+      ],
+      "lines": [
+        {
+          "text": "25.12.12005",
+          "box": [
+            658,
+            807,
+            965,
+            851
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1086,
+        1184,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "30.08.71976",
+          "box": [
+            663,
+            1123,
+            964,
+            1161
+          ]
+        }
+      ]
+    }
+  ]
+}

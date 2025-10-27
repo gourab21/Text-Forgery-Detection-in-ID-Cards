@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1022.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        298,
+        1458,
+        471
+      ],
+      "lines": [
+        {
+          "text": "JAMIE PEREIRA",
+          "box": [
+            699,
+            342,
+            1104,
+            385
+          ]
+        },
+        {
+          "text": "Marta",
+          "box": [
+            689,
+            386,
+            840,
+            439
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "12 07 1931",
+          "box": [
+            1704,
+            604,
+            1951,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "15 05 2015",
+          "box": [
+            1306,
+            769,
+            1587,
+            808
+          ]
+        }
+      ]
+    }
+  ]
+}

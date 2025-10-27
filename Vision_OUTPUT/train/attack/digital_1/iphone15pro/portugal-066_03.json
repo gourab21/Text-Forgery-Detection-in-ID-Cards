@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        889,
+        430,
+        2096,
+        682
+      ],
+      "lines": [
+        {
+          "text": "SHRISTINASTA",
+          "box": [
+            973,
+            497,
+            1538,
+            564
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            977,
+            583,
+            1598,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2365,
+        828,
+        2868,
+        967
+      ],
+      "lines": [
+        {
+          "text": "18 03 2001",
+          "box": [
+            2445,
+            838,
+            2853,
+            892
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1780,
+        1051,
+        2398,
+        1216
+      ],
+      "lines": [
+        {
+          "text": "04 01 2018",
+          "box": [
+            1871,
+            1085,
+            2302,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

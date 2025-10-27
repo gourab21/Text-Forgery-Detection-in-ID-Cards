@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_22942161980_136669b7da_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        653,
+        2383,
+        968
+      ],
+      "lines": [
+        {
+          "text": "Rachel Iyer",
+          "box": [
+            813,
+            741,
+            1430,
+            834
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1402,
+        1641,
+        1596
+      ],
+      "lines": [
+        {
+          "text": "09-03-224",
+          "box": [
+            817,
+            1462,
+            1390,
+            1549
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1783,
+        1703,
+        2632,
+        1891
+      ],
+      "lines": [
+        {
+          "text": "2506-8-85",
+          "box": [
+            1873,
+            1744,
+            2441,
+            1828
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-128_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        950,
+        421,
+        1890,
+        567
+      ],
+      "lines": [
+        {
+          "text": "LEROY",
+          "box": [
+            1039,
+            466,
+            1292,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        941,
+        694,
+        2002,
+        870
+      ],
+      "lines": [
+        {
+          "text": "Aebranessaiichel",
+          "box": [
+            1028,
+            745,
+            1603,
+            801
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2215,
+        973,
+        2839,
+        1141
+      ],
+      "lines": [
+        {
+          "text": "02 03 12024",
+          "box": [
+            2274,
+            1012,
+            2732,
+            1072
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2186,
+        1587,
+        2819,
+        1741
+      ],
+      "lines": [
+        {
+          "text": "18 08 2042",
+          "box": [
+            2265,
+            1629,
+            2714,
+            1689
+          ]
+        }
+      ]
+    }
+  ]
+}

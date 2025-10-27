@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\chinese-NF-1085.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        891,
+        558,
+        1543,
+        822
+      ],
+      "lines": [
+        {
+          "text": "吴芳",
+          "box": [
+            948,
+            612,
+            1088,
+            680
+          ]
+        },
+        {
+          "text": "Luisang",
+          "box": [
+            964,
+            698,
+            1267,
+            769
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1674,
+        931,
+        2248,
+        1119
+      ],
+      "lines": [
+        {
+          "text": "31 Jun 1997",
+          "box": [
+            1737,
+            985,
+            2194,
+            1050
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1649,
+        1200,
+        2280,
+        1381
+      ],
+      "lines": [
+        {
+          "text": "04 JUN 2010",
+          "box": [
+            1736,
+            1245,
+            2190,
+            1305
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        862,
+        1470,
+        1522,
+        1643
+      ],
+      "lines": [
+        {
+          "text": "15 Aug 2041",
+          "box": [
+            967,
+            1523,
+            1417,
+            1595
+          ]
+        }
+      ]
+    }
+  ]
+}

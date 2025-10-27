@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1024.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        434,
+        2084,
+        688
+      ],
+      "lines": [
+        {
+          "text": "GOMES SOUSA",
+          "box": [
+            971,
+            502,
+            1508,
+            563
+          ]
+        },
+        {
+          "text": "Teresa",
+          "box": [
+            972,
+            596,
+            1211,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        835,
+        2852,
+        976
+      ],
+      "lines": [
+        {
+          "text": "02 05 1979",
+          "box": [
+            2432,
+            838,
+            2843,
+            894
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1061,
+        2384,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "29 04 2028",
+          "box": [
+            1871,
+            1091,
+            2273,
+            1153
+          ]
+        }
+      ]
+    }
+  ]
+}

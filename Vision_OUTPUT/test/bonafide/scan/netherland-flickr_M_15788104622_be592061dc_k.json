@@ -1,0 +1,102 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_15788104622_be592061dc_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        625,
+        288,
+        1281,
+        538
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            695,
+            321,
+            999,
+            366
+          ]
+        },
+        {
+          "text": "Marieke Petra",
+          "box": [
+            691,
+            386,
+            1089,
+            433
+          ]
+        },
+        {
+          "text": "Sophie",
+          "box": [
+            690,
+            451,
+            890,
+            504
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1489,
+        558,
+        1973,
+        656
+      ],
+      "lines": [
+        {
+          "text": "DAI DATE OF BIRTH",
+          "box": [
+            1490,
+            558,
+            1921,
+            582
+          ]
+        },
+        {
+          "text": "26 12 2005",
+          "box": [
+            1567,
+            605,
+            1902,
+            650
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1464,
+        728,
+        1965,
+        850
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD / CARD EXPIRY",
+          "box": [
+            1464,
+            729,
+            1917,
+            758
+          ]
+        },
+        {
+          "text": "11 11 2032",
+          "box": [
+            1536,
+            777,
+            1898,
+            821
+          ]
+        }
+      ]
+    }
+  ]
+}

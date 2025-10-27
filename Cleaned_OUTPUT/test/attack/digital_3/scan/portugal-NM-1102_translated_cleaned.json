@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-NM-1102_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-NM-1102.jpg",
+  "width": 1991,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            340,
+            1212,
+            391
+          ],
+          "original_text": "ASHLEYA FERRIRA",
+          "translated_en": "ASHLEYA FERRIRA"
+        },
+        {
+          "box": [
+            689,
+            393,
+            1047,
+            448
+          ],
+          "original_text": "Roberto Filipe",
+          "translated_en": "Roberto Filipe"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1697,
+            598,
+            1946,
+            643
+          ],
+          "original_text": "26 03 1992",
+          "translated_en": "26 03 1992"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1300,
+            770,
+            1584,
+            809
+          ],
+          "original_text": "26 08 1925",
+          "translated_en": "26 08 1925"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NM-1102_translated_cleaned.jpg"
+}

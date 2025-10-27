@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-119_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        886,
+        430,
+        2090,
+        682
+      ],
+      "lines": [
+        {
+          "text": "FAHERIXE SINIA",
+          "box": [
+            969,
+            491,
+            1682,
+            560
+          ]
+        },
+        {
+          "text": "Luís",
+          "box": [
+            973,
+            583,
+            1116,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2359,
+        829,
+        2861,
+        969
+      ],
+      "lines": [
+        {
+          "text": "06 02 1983",
+          "box": [
+            2432,
+            829,
+            2850,
+            882
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1776,
+        1053,
+        2393,
+        1218
+      ],
+      "lines": [
+        {
+          "text": "03 02 2196",
+          "box": [
+            1862,
+            1077,
+            2286,
+            1141
+          ]
+        }
+      ]
+    }
+  ]
+}

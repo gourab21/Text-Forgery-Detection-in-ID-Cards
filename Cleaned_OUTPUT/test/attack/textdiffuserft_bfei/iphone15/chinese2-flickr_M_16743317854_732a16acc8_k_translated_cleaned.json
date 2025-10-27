@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_16743317854_732a16acc8_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_16743317854_732a16acc8_k.jpg",
+  "width": 2774,
+  "height": 1730,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            956,
+            594,
+            1093,
+            657
+          ],
+          "original_text": "陈超",
+          "translated_en": "Chen Chao"
+        },
+        {
+          "box": [
+            947,
+            683,
+            1353,
+            736
+          ],
+          "original_text": "Thomashao",
+          "translated_en": "Thomashao"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1737,
+            958,
+            2224,
+            1023
+          ],
+          "original_text": "09 - Oct 2086",
+          "translated_en": "09 - Oct 2086"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1740,
+            1207,
+            2236,
+            1281
+          ],
+          "original_text": "11 Dec 2053",
+          "translated_en": "11 Dec 2053"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            968,
+            1490,
+            1477,
+            1553
+          ],
+          "original_text": "31 Mar 2052",
+          "translated_en": "31 Mar 2052"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_16743317854_732a16acc8_k_translated_cleaned.jpg"
+}

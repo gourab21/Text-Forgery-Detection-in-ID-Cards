@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-016_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        856,
+        609,
+        1755,
+        946
+      ],
+      "lines": [
+        {
+          "text": "Paula Bislop",
+          "box": [
+            919,
+            674,
+            1419,
+            747
+          ]
+        },
+        {
+          "text": "891 Oak St RATP",
+          "box": [
+            917,
+            737,
+            1620,
+            840
+          ]
+        },
+        {
+          "text": "Miami FL 331",
+          "box": [
+            921,
+            838,
+            1414,
+            910
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2060,
+        1079,
+        2761,
+        1224
+      ],
+      "lines": [
+        {
+          "text": "DOB : 01-09-27",
+          "box": [
+            2116,
+            1088,
+            2666,
+            1145
+          ]
+        }
+      ]
+    }
+  ]
+}

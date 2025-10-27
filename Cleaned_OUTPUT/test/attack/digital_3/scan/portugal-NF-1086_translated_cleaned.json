@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-NF-1086_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-NF-1086.jpg",
+  "width": 1993,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            685,
+            342,
+            1077,
+            388
+          ],
+          "original_text": "STEPHANIERA",
+          "translated_en": "STEPHANIERA"
+        },
+        {
+          "box": [
+            678,
+            402,
+            868,
+            443
+          ],
+          "original_text": "Cláudia",
+          "translated_en": "Cláudia"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1695,
+            580,
+            1948,
+            616
+          ],
+          "original_text": "27 12 2095",
+          "translated_en": "27 12 2095"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1305,
+            752,
+            1587,
+            796
+          ],
+          "original_text": "27 05 2078",
+          "translated_en": "27 05 2078"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1086_translated_cleaned.jpg"
+}

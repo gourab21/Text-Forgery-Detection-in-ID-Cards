@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\usa-034_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\usa-034_03.jpg",
+  "width": 2810,
+  "height": 1794,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            919,
+            682,
+            1386,
+            734
+          ],
+          "original_text": "E uttilarter",
+          "translated_en": "E uttilarter"
+        },
+        {
+          "box": [
+            916,
+            732,
+            1620,
+            838
+          ],
+          "original_text": "456 Pine Road RATE",
+          "translated_en": "456 Pine Road RATE"
+        },
+        {
+          "box": [
+            916,
+            837,
+            1708,
+            899
+          ],
+          "original_text": "Winchester MA 01890",
+          "translated_en": "Winchester MA 01890"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2113,
+            1084,
+            2685,
+            1160
+          ],
+          "original_text": "05-14-92",
+          "translated_en": "05-14-92"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-034_03_translated_cleaned.jpg"
+}

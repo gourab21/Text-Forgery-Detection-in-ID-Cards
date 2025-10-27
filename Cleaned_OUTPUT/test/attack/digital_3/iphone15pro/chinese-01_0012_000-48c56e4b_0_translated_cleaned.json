@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\chinese-01_0012_000-48c56e4b_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\chinese-01_0012_000-48c56e4b_0.jpg",
+  "width": 2790,
+  "height": 1777,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            963,
+            619,
+            1099,
+            687
+          ],
+          "original_text": "张伟",
+          "translated_en": "Zhang Wei"
+        },
+        {
+          "box": [
+            968,
+            699,
+            1316,
+            769
+          ],
+          "original_text": "Tiffanye",
+          "translated_en": "Tiffanye"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1746,
+            995,
+            2183,
+            1057
+          ],
+          "original_text": "10 Jun 2012",
+          "translated_en": "10 Jun 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1746,
+            1248,
+            2202,
+            1310
+          ],
+          "original_text": "30 OCT 2012",
+          "translated_en": "30 OCT 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            984,
+            1535,
+            1436,
+            1601
+          ],
+          "original_text": "29 Jul 1920",
+          "translated_en": "29 Jul 1920"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-01_0012_000-48c56e4b_0_translated_cleaned.jpg"
+}

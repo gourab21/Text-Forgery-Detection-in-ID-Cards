@@ -1,0 +1,18 @@
+LE1
+OR: Литвин /
+EN: Lytvyn /
+EN: Lytvyn
+
+LE2
+OR: Вікторія Андріївна /
+EN: Victoria Andreevna /
+EN: Velanieya
+
+E3
+EN: 03.06.:2010
+
+E4
+EN: 18.07.2015
+
+E5
+EN: 18.07.2024

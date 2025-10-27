@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_31244514601_d2cb0773d7_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        412,
+        1498,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Amit Verma",
+          "box": [
+            503,
+            474,
+            911,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        884,
+        1031,
+        1006
+      ],
+      "lines": [
+        {
+          "text": "2002-07-31",
+          "box": [
+            516,
+            926,
+            881,
+            973
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1074,
+        1656,
+        1192
+      ],
+      "lines": [
+        {
+          "text": "2012-07-31",
+          "box": [
+            1176,
+            1098,
+            1542,
+            1147
+          ]
+        }
+      ]
+    }
+  ]
+}

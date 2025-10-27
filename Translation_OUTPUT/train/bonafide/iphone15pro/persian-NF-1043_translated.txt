@@ -1,0 +1,23 @@
+E1
+EN: Name
+EN: Mina
+
+E2
+EN: Ahmadi
+
+L1
+OR: مینا
+EN: Mina
+
+L2
+OR: محمدی
+EN: Mohammadi
+
+E3
+EN: 05/02/1994
+
+E4
+EN: 08/07/2024
+
+E5
+EN: 13/10/2029

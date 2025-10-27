@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        816,
+        385,
+        1925,
+        611
+      ],
+      "lines": [
+        {
+          "text": "COSTA RIBEIRO",
+          "box": [
+            906,
+            439,
+            1453,
+            496
+          ]
+        },
+        {
+          "text": "João Carlos",
+          "box": [
+            902,
+            512,
+            1292,
+            568
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2172,
+        743,
+        2634,
+        867
+      ],
+      "lines": [
+        {
+          "text": "22 05 1990",
+          "box": [
+            2246,
+            771,
+            2627,
+            825
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1636,
+        943,
+        2202,
+        1091
+      ],
+      "lines": [
+        {
+          "text": "15 07 2028",
+          "box": [
+            1713,
+            989,
+            2088,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

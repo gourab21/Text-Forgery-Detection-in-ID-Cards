@@ -1,0 +1,22 @@
+E1
+EN: Tere
+
+E2
+EN: Ahmadi
+
+L1
+OR: مینا
+EN: Mina
+
+L2
+OR: محمدی
+EN: Mohammadi
+
+E3
+EN: 23/02/1904
+
+E4
+EN: 08/07/2024
+
+E5
+EN: 08/10/1952

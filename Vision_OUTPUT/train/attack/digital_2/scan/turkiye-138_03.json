@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-138_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        612,
+        1215,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Tadis",
+          "box": [
+            654,
+            650,
+            794,
+            689
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        448,
+        1215,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Özden",
+          "box": [
+            659,
+            487,
+            817,
+            535
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        768,
+        1192,
+        885
+      ],
+      "lines": [
+        {
+          "text": "04.05.2015",
+          "box": [
+            652,
+            804,
+            956,
+            845
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1088,
+        1184,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "21.07.2021",
+          "box": [
+            647,
+            1118,
+            942,
+            1159
+          ]
+        }
+      ]
+    }
+  ]
+}

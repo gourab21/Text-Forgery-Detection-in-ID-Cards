@@ -1,0 +1,27 @@
+E1
+EN: F niua - Fassan
+
+L1
+OR: حسن فاطمة
+EN: Hassan Fatima
+
+E2
+EN: 04 Oct 2030
+
+E3
+EN: 17 Sep 2022
+
+E4
+EN: 28 Jul 2017
+
+L2
+OR: ٤ / أكتوبر / ١٩٨٩
+EN: October 4, 1989
+
+L3
+OR: ١٧ / سبتمبر / ٢٠
+EN: September 17, 20
+
+L4
+OR: ۲۸ / يوليو / ۲۰۳۳
+EN: July 28, 2033

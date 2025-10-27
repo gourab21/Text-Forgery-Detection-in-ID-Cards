@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_19679296994_d0fc2a7ac6_o.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        575,
+        574,
+        2081,
+        850
+      ],
+      "lines": [
+        {
+          "text": "Debrarte dela Cruz",
+          "box": [
+            714,
+            642,
+            1571,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1232,
+        1432,
+        1402
+      ],
+      "lines": [
+        {
+          "text": "19-04 4-38",
+          "box": [
+            718,
+            1279,
+            1213,
+            1351
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1558,
+        1496,
+        2299,
+        1661
+      ],
+      "lines": [
+        {
+          "text": "30-03 3-37",
+          "box": [
+            1643,
+            1525,
+            2140,
+            1598
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E1
+EN: Besus Wlright
+EN: 15 Cedar Ln
+EN: Salem OR 97301
+
+E2
+EN: DOB : 02-08-96

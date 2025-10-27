@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\french-NF-1047.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        595,
+        266,
+        1183,
+        359
+      ],
+      "lines": [
+        {
+          "text": "THOMAS",
+          "box": [
+            660,
+            294,
+            865,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        589,
+        439,
+        1253,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Élodie , Margot",
+          "box": [
+            659,
+            454,
+            1003,
+            517
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1387,
+        615,
+        1776,
+        720
+      ],
+      "lines": [
+        {
+          "text": "18 02 1991",
+          "box": [
+            1429,
+            637,
+            1713,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1368,
+        1004,
+        1765,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "09 06 2032",
+          "box": [
+            1418,
+            1020,
+            1701,
+            1060
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+LE1
+EN: Hao
+OR: 豪
+EN: Bharleso
+
+E2
+EN: 25 Nov 190
+
+E3
+EN: 15 Aug 2016
+
+E4
+EN: 13 Aug 204

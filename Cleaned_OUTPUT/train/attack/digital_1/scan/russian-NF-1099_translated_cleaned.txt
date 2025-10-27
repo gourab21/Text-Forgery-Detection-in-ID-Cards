@@ -1,0 +1,18 @@
+LE1
+EN: Fedorova /
+OR: Федорова /
+EN: Fedorova
+
+LE2
+EN: Polina Gennadievna /
+OR: Полина Геннадиевна /
+EN: Pathielsenastiern
+
+E3
+EN: 22.05.:2005
+
+E4
+EN: 13.09.2014
+
+E5
+EN: 10.09.2032

@@ -1,0 +1,95 @@
+{
+  "image": "train\\bonafide\\scan\\chinese-NF-1042.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        397,
+        1106,
+        583
+      ],
+      "lines": [
+        {
+          "text": "章子怡",
+          "box": [
+            674,
+            434,
+            827,
+            481
+          ]
+        },
+        {
+          "text": "Ziyi Zhang",
+          "box": [
+            673,
+            495,
+            941,
+            541
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1200,
+        660,
+        1610,
+        794
+      ],
+      "lines": [
+        {
+          "text": "9 Feb 1979",
+          "box": [
+            1235,
+            703,
+            1518,
+            744
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        852,
+        1634,
+        979
+      ],
+      "lines": [
+        {
+          "text": "05 Apr 2021",
+          "box": [
+            1238,
+            885,
+            1551,
+            932
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1043,
+        1089,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "04 Apr 2031",
+          "box": [
+            686,
+            1082,
+            999,
+            1132
+          ]
+        }
+      ]
+    }
+  ]
+}

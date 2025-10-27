@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\portugal-NF-1107.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\portugal-NF-1107.jpg",
+  "width": 2842,
+  "height": 1803,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            964,
+            497,
+            1399,
+            560
+          ],
+          "original_text": "SILVA LIMA",
+          "translated_en": "SILVA LIMA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            965,
+            580,
+            1508,
+            640
+          ],
+          "original_text": "Teresa Cristina",
+          "translated_en": "Teresa Cristina",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2424,
+            831,
+            2833,
+            884
+          ],
+          "original_text": "09 02 1995",
+          "translated_en": "09 02 1995",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1860,
+            1083,
+            2269,
+            1139
+          ],
+          "original_text": "24 06 2027",
+          "translated_en": "24 06 2027",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1107_translated.jpg"
+}

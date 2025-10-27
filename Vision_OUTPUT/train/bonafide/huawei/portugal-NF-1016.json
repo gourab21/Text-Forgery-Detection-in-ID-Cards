@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        990,
+        471,
+        2337,
+        747
+      ],
+      "lines": [
+        {
+          "text": "SERRANO MEIRELES",
+          "box": [
+            1093,
+            531,
+            1954,
+            604
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            1090,
+            629,
+            1507,
+            689
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2637,
+        906,
+        3198,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "06 08 1997",
+          "box": [
+            2737,
+            944,
+            3197,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1985,
+        1151,
+        2674,
+        1333
+      ],
+      "lines": [
+        {
+          "text": "28 03 2031",
+          "box": [
+            2085,
+            1210,
+            2549,
+            1280
+          ]
+        }
+      ]
+    }
+  ]
+}

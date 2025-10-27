@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_F_26297818201_09eab93588_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        400,
+        1777,
+        746
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            944,
+            446,
+            1438,
+            513
+          ]
+        },
+        {
+          "text": "Luuk Cornelis",
+          "box": [
+            948,
+            539,
+            1496,
+            602
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            947,
+            632,
+            1383,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2065,
+        773,
+        2736,
+        911
+      ],
+      "lines": [
+        {
+          "text": "2007 1992",
+          "box": [
+            2171,
+            807,
+            2635,
+            875
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2030,
+        1010,
+        2726,
+        1180
+      ],
+      "lines": [
+        {
+          "text": "28 01 2030",
+          "box": [
+            2134,
+            1048,
+            2641,
+            1114
+          ]
+        }
+      ]
+    }
+  ]
+}

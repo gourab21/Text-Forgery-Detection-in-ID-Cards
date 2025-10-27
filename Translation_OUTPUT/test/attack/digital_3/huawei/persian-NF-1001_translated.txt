@@ -1,0 +1,22 @@
+E1
+EN: Sarana
+
+E2
+EN: Najafi
+
+L1
+OR: فاطمه
+EN: Fatima
+
+L2
+OR: نجفى
+EN: Najafi
+
+E3
+EN: 16/12/2086
+
+E4
+EN: 22/10/2024
+
+E5
+EN: 28/02/1929

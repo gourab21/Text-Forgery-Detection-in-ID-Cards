@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_30456580904_06749c0622_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        655,
+        2383,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Traci bi Rahnan",
+          "box": [
+            797,
+            743,
+            1762,
+            827
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1405,
+        1641,
+        1600
+      ],
+      "lines": [
+        {
+          "text": "11-00-799",
+          "box": [
+            807,
+            1466,
+            1386,
+            1558
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1783,
+        1706,
+        2632,
+        1895
+      ],
+      "lines": [
+        {
+          "text": "30-09-1111",
+          "box": [
+            1877,
+            1753,
+            2452,
+            1837
+          ]
+        }
+      ]
+    }
+  ]
+}

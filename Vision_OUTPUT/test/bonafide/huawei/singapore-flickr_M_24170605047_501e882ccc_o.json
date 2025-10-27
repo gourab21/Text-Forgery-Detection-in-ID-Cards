@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_24170605047_501e882ccc_o.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        659,
+        656,
+        2383,
+        972
+      ],
+      "lines": [
+        {
+          "text": "Firdaus bin Ismail",
+          "box": [
+            804,
+            744,
+            1803,
+            829
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        735,
+        1408,
+        1641,
+        1603
+      ],
+      "lines": [
+        {
+          "text": "1967-08-03",
+          "box": [
+            822,
+            1477,
+            1391,
+            1555
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1784,
+        1710,
+        2633,
+        1899
+      ],
+      "lines": [
+        {
+          "text": "1977-08-03",
+          "box": [
+            1881,
+            1759,
+            2459,
+            1839
+          ]
+        }
+      ]
+    }
+  ]
+}

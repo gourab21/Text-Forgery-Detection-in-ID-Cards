@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_31998818913_b87fd05689_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        290,
+        1277,
+        541
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            678,
+            324,
+            1038,
+            372
+          ]
+        },
+        {
+          "text": "Caleb Matthjs",
+          "box": [
+            682,
+            385,
+            1079,
+            446
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            680,
+            455,
+            999,
+            505
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1486,
+        560,
+        1967,
+        659
+      ],
+      "lines": [
+        {
+          "text": "02 10 2016",
+          "box": [
+            1565,
+            586,
+            1885,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        731,
+        1961,
+        854
+      ],
+      "lines": [
+        {
+          "text": "2007 2035",
+          "box": [
+            1542,
+            756,
+            1898,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

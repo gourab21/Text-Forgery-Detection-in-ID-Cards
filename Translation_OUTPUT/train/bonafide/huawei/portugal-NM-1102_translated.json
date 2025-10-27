@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\bonafide\\huawei\\portugal-NM-1102.json",
+  "image_relative": "train\\bonafide\\huawei\\portugal-NM-1102.jpg",
+  "width": 3221,
+  "height": 2004,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1105,
+            553,
+            1959,
+            623
+          ],
+          "original_text": "BARBOSA FERREIRA",
+          "translated_en": "BARBOSA FERREIRA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1101,
+            640,
+            1680,
+            726
+          ],
+          "original_text": "Roberto Filipe",
+          "translated_en": "Roberto Filipe",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2752,
+            971,
+            3214,
+            1037
+          ],
+          "original_text": "15 09 1991",
+          "translated_en": "15 09 1991",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2096,
+            1240,
+            2560,
+            1307
+          ],
+          "original_text": "30 11 2034",
+          "translated_en": "30 11 2034",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NM-1102_translated.jpg"
+}

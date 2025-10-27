@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_37019084692_714cba8ac1_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        663,
+        659,
+        2397,
+        977
+      ],
+      "lines": [
+        {
+          "text": "Anaidae",
+          "box": [
+            788,
+            736,
+            1222,
+            816
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        740,
+        1414,
+        1651,
+        1612
+      ],
+      "lines": [
+        {
+          "text": "20-05-1115",
+          "box": [
+            830,
+            1476,
+            1396,
+            1554
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1795,
+        1718,
+        2649,
+        1908
+      ],
+      "lines": [
+        {
+          "text": "25-12-2275",
+          "box": [
+            1890,
+            1763,
+            2457,
+            1848
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\huawei\\chinese-081_03_translated.json",
+  "image_relative": "train\\bonafide\\huawei\\chinese-081_03.jpg",
+  "width": 3214,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1104,
+            673,
+            1271,
+            746
+          ],
+          "original_text": "孙悦",
+          "translated_en": "Sun Yue"
+        },
+        {
+          "box": [
+            1103,
+            771,
+            1444,
+            828
+          ],
+          "original_text": "Sun Yue",
+          "translated_en": "Sun Yue"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2004,
+            1126,
+            2484,
+            1189
+          ],
+          "original_text": "12 Jul 1984",
+          "translated_en": "12 Jul 1984"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1992,
+            1417,
+            2500,
+            1486
+          ],
+          "original_text": "06 Apr 2014",
+          "translated_en": "06 Apr 2014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1086,
+            1704,
+            1594,
+            1783
+          ],
+          "original_text": "03 Apr 2024",
+          "translated_en": "03 Apr 2024"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-081_03_translated_cleaned.jpg"
+}

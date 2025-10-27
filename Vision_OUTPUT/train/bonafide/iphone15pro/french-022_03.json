@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-022_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        831,
+        376,
+        1654,
+        505
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            904,
+            420,
+            1169,
+            470
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        823,
+        619,
+        1751,
+        776
+      ],
+      "lines": [
+        {
+          "text": "Paul , Henri",
+          "box": [
+            908,
+            656,
+            1268,
+            722
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1938,
+        868,
+        2483,
+        1017
+      ],
+      "lines": [
+        {
+          "text": "23 05 1992",
+          "box": [
+            1992,
+            868,
+            2366,
+            920
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1912,
+        1416,
+        2467,
+        1553
+      ],
+      "lines": [
+        {
+          "text": "29 09 2033",
+          "box": [
+            2006,
+            1416,
+            2382,
+            1469
+          ]
+        }
+      ]
+    }
+  ]
+}

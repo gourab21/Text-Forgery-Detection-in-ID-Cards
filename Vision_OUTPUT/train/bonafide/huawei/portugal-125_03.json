@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        939,
+        449,
+        2217,
+        713
+      ],
+      "lines": [
+        {
+          "text": "COSTA RIBEIRO",
+          "box": [
+            1037,
+            515,
+            1668,
+            584
+          ]
+        },
+        {
+          "text": "João Carlos",
+          "box": [
+            1035,
+            601,
+            1484,
+            669
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2500,
+        867,
+        3033,
+        1012
+      ],
+      "lines": [
+        {
+          "text": "22 05 1990",
+          "box": [
+            2590,
+            908,
+            3026,
+            965
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1883,
+        1100,
+        2536,
+        1272
+      ],
+      "lines": [
+        {
+          "text": "1507 2028",
+          "box": [
+            1975,
+            1159,
+            2407,
+            1221
+          ]
+        }
+      ]
+    }
+  ]
+}

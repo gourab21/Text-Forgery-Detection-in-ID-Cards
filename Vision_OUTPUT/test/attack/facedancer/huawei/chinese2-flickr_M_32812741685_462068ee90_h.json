@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_32812741685_462068ee90_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        998,
+        647,
+        1924,
+        967
+      ],
+      "lines": [
+        {
+          "text": "赵 钢",
+          "box": [
+            1084,
+            701,
+            1252,
+            781
+          ]
+        },
+        {
+          "text": "Zhao Gang",
+          "box": [
+            1089,
+            804,
+            1572,
+            886
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1946,
+        1078,
+        2697,
+        1273
+      ],
+      "lines": [
+        {
+          "text": "24 Dec 1990",
+          "box": [
+            2002,
+            1140,
+            2571,
+            1220
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1952,
+        1379,
+        2727,
+        1585
+      ],
+      "lines": [
+        {
+          "text": "01 Nov 2011",
+          "box": [
+            2008,
+            1444,
+            2579,
+            1522
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1035,
+        1711,
+        1807,
+        1927
+      ],
+      "lines": [
+        {
+          "text": "29 Oct 2021",
+          "box": [
+            1108,
+            1775,
+            1654,
+            1844
+          ]
+        }
+      ]
+    }
+  ]
+}

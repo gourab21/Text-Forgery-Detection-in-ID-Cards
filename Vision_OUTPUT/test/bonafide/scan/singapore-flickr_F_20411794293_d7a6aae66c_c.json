@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_F_20411794293_d7a6aae66c_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        413,
+        1497,
+        613
+      ],
+      "lines": [
+        {
+          "text": "Intan Ayu",
+          "box": [
+            502,
+            471,
+            845,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        462,
+        888,
+        1030,
+        1011
+      ],
+      "lines": [
+        {
+          "text": "1971-12-21",
+          "box": [
+            517,
+            927,
+            877,
+            974
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1121,
+        1078,
+        1655,
+        1197
+      ],
+      "lines": [
+        {
+          "text": "1981-12-21",
+          "box": [
+            1179,
+            1102,
+            1541,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

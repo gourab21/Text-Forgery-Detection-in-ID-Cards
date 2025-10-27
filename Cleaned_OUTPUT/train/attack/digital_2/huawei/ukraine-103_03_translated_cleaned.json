@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\ukraine-103_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\ukraine-103_03.jpg",
+  "width": 3193,
+  "height": 1980,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1034,
+            461,
+            1528,
+            547
+          ],
+          "original_text": "Коваленко /",
+          "translated_en": "Kovalenko /"
+        },
+        {
+          "box": [
+            1030,
+            560,
+            1430,
+            613
+          ],
+          "original_text": "Kovalenko",
+          "translated_en": "Kovalenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1028,
+            761,
+            1886,
+            836
+          ],
+          "original_text": "Олександр Михайлов",
+          "translated_en": "Oleksandr Mykhaylov"
+        },
+        {
+          "box": [
+            1019,
+            842,
+            1430,
+            905
+          ],
+          "original_text": "Celindadr",
+          "translated_en": "Celindadr"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1020,
+            1083,
+            1483,
+            1150
+          ],
+          "original_text": "21.08.12025",
+          "translated_en": "21.08.12025"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1012,
+            1525,
+            1442,
+            1586
+          ],
+          "original_text": "21.02.2018",
+          "translated_en": "21.02.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1233,
+            1787,
+            1306,
+            1824
+          ],
+          "original_text": "לון",
+          "translated_en": "לון"
+        },
+        {
+          "box": [
+            1003,
+            1832,
+            1454,
+            1901
+          ],
+          "original_text": "20.02.2 18",
+          "translated_en": "20.02.2 18"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-103_03_translated_cleaned.jpg"
+}

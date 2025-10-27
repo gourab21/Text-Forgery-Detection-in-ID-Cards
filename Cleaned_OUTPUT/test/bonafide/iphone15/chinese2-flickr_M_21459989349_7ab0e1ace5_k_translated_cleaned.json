@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\chinese2-flickr_M_21459989349_7ab0e1ace5_k_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\chinese2-flickr_M_21459989349_7ab0e1ace5_k.jpg",
+  "width": 2765,
+  "height": 1733,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            941,
+            598,
+            1087,
+            662
+          ],
+          "original_text": "张 洋",
+          "translated_en": "Zhang Yang"
+        },
+        {
+          "box": [
+            940,
+            684,
+            1385,
+            754
+          ],
+          "original_text": "Zhang Yang",
+          "translated_en": "Zhang Yang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1722,
+            963,
+            2226,
+            1026
+          ],
+          "original_text": "04 MAR 1980",
+          "translated_en": "04 MAR 1980"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1725,
+            1209,
+            2223,
+            1283
+          ],
+          "original_text": "03 OCT 2005",
+          "translated_en": "03 OCT 2005"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            954,
+            1493,
+            1458,
+            1560
+          ],
+          "original_text": "03 OCT 2025",
+          "translated_en": "03 OCT 2025"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_21459989349_7ab0e1ace5_k_translated_cleaned.jpg"
+}

@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_31840786965_77af814416_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        999,
+        652,
+        1927,
+        974
+      ],
+      "lines": [
+        {
+          "text": "吴勇",
+          "box": [
+            1093,
+            711,
+            1263,
+            788
+          ]
+        },
+        {
+          "text": "Bobyng",
+          "box": [
+            1098,
+            820,
+            1493,
+            909
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1949,
+        1085,
+        2701,
+        1283
+      ],
+      "lines": [
+        {
+          "text": "16 Jun 1963",
+          "box": [
+            2017,
+            1152,
+            2599,
+            1239
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1955,
+        1389,
+        2731,
+        1596
+      ],
+      "lines": [
+        {
+          "text": "13 Mar 2055",
+          "box": [
+            2021,
+            1457,
+            2581,
+            1533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1036,
+        1723,
+        1809,
+        1940
+      ],
+      "lines": [
+        {
+          "text": "09 Mar 2099",
+          "box": [
+            1117,
+            1788,
+            1677,
+            1861
+          ]
+        }
+      ]
+    }
+  ]
+}

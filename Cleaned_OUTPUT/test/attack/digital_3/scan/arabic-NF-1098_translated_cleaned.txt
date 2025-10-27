@@ -1,0 +1,27 @@
+E1
+EN: Ricky Ali D
+
+L1
+EN: Ali Zahra
+OR: علي زهراء
+
+E2
+EN: 01 Nov 2072
+
+E3
+EN: 18 Feb 2020
+
+E4
+EN: 28 Jul 191
+
+L2
+EN: June 29, 1995
+OR: ۲۹ / يونيو / ۱۹۹۵
+
+L3
+EN: February 18, 2020
+OR: ۱۸ / فبراير / ۲۰۲۰
+
+L4
+EN: October 25, 2029
+OR: ٢٥ / أكتوبر / ٢٠٢٩

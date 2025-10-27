@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-NM-1055.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        594,
+        612,
+        1213,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Darre",
+          "box": [
+            652,
+            650,
+            803,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        447,
+        1213,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            655,
+            484,
+            831,
+            533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        591,
+        767,
+        1190,
+        884
+      ],
+      "lines": [
+        {
+          "text": "08.11.1024",
+          "box": [
+            650,
+            803,
+            940,
+            843
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        596,
+        1087,
+        1182,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "01.06.1989",
+          "box": [
+            645,
+            1118,
+            937,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

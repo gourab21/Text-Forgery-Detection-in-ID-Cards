@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\usa-136_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-136_03.jpg",
+  "width": 1996,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            648,
+            473,
+            931,
+            515
+          ],
+          "original_text": "Dawnica Hill",
+          "translated_en": "Dawnica Hill"
+        },
+        {
+          "box": [
+            649,
+            530,
+            1008,
+            574
+          ],
+          "original_text": "518 Spruce St",
+          "translated_en": "518 Spruce St"
+        },
+        {
+          "box": [
+            650,
+            585,
+            1138,
+            629
+          ],
+          "original_text": "Portland ME 04101",
+          "translated_en": "Portland ME 04101"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1501,
+            760,
+            1892,
+            798
+          ],
+          "original_text": "13-1-1-67",
+          "translated_en": "13-1-1-67"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-136_03_translated_cleaned.jpg"
+}

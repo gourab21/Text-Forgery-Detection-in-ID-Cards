@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\chinese-NF-1085_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\chinese-NF-1085.jpg",
+  "width": 2787,
+  "height": 1763,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            947,
+            611,
+            1089,
+            680
+          ],
+          "original_text": "吴芳",
+          "translated_en": "Wu Fang"
+        },
+        {
+          "box": [
+            948,
+            688,
+            1285,
+            763
+          ],
+          "original_text": "vennife",
+          "translated_en": "vennife"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1732,
+            987,
+            2221,
+            1057
+          ],
+          "original_text": "14 MAY 2019",
+          "translated_en": "14 MAY 2019"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1736,
+            1246,
+            2190,
+            1305
+          ],
+          "original_text": "04 JUN 2010",
+          "translated_en": "04 JUN 2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            964,
+            1521,
+            1447,
+            1590
+          ],
+          "original_text": "03 JUN 2282",
+          "translated_en": "03 JUN 2282"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1085_translated_cleaned.jpg"
+}

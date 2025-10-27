@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\huawei\\french-NM-1104_translated.json",
+  "image_relative": "train\\bonafide\\huawei\\french-NM-1104.jpg",
+  "width": 3196,
+  "height": 1969,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1052,
+            462,
+            1357,
+            519
+          ],
+          "original_text": "DUBOIS",
+          "translated_en": "DUBOIS"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1040,
+            736,
+            1547,
+            805
+          ],
+          "original_text": "Vincent , Paul",
+          "translated_en": "Vincent , Paul"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2289,
+            1008,
+            2715,
+            1073
+          ],
+          "original_text": "15 01 1987",
+          "translated_en": "15 01 1987"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            2270,
+            1625,
+            2696,
+            1684
+          ],
+          "original_text": "28 02 2035",
+          "translated_en": "28 02 2035"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-NM-1104_translated_cleaned.jpg"
+}

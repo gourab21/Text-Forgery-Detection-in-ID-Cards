@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\netherland-flickr_M_33297625690_76e3181f5e_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\netherland-flickr_M_33297625690_76e3181f5e_c.jpg",
+  "width": 1997,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            696,
+            320,
+            975,
+            362
+          ],
+          "original_text": "DE VRIES",
+          "translated_en": "DE VRIES"
+        },
+        {
+          "box": [
+            692,
+            383,
+            1073,
+            429
+          ],
+          "original_text": "Tess Cornelis",
+          "translated_en": "Tess Cornelis"
+        },
+        {
+          "box": [
+            688,
+            449,
+            924,
+            494
+          ],
+          "original_text": "Cornelis",
+          "translated_en": "Cornelis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1566,
+            602,
+            1901,
+            649
+          ],
+          "original_text": "24 06 2001",
+          "translated_en": "24 06 2001"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1535,
+            775,
+            1898,
+            819
+          ],
+          "original_text": "18 03 2028",
+          "translated_en": "18 03 2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_33297625690_76e3181f5e_c_translated_cleaned.jpg"
+}

@@ -1,0 +1,22 @@
+E1
+EN: Fitch
+
+E2
+EN: Ahmadi
+
+L1
+EN: joy
+OR: فرح
+
+L2
+EN: Hosseini
+OR: حسینی
+
+E3
+EN: 14/11/2014
+
+E4
+EN: 30/06/2024
+
+E5
+EN: 23/04/2030

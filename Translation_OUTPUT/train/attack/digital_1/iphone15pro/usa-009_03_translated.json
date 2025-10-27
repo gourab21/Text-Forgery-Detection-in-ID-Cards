@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\usa-009_03.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-009_03.jpg",
+  "width": 2819,
+  "height": 1793,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            918,
+            675,
+            1269,
+            735
+          ],
+          "original_text": "LeanȧClark",
+          "translated_en": "LeanȧClark",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            916,
+            738,
+            1617,
+            837
+          ],
+          "original_text": "654 Spruce S RAFE",
+          "translated_en": "654 Spruce S RAFE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            920,
+            832,
+            1726,
+            910
+          ],
+          "original_text": "Philadelphia PA 19104",
+          "translated_en": "Philadelphia PA 19104",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2113,
+            1086,
+            2693,
+            1146
+          ],
+          "original_text": "DOB : 10-25-43-",
+          "translated_en": "DOB : 10-25-43-",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-009_03_translated.jpg"
+}

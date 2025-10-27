@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1001,
+        473,
+        2053,
+        883
+      ],
+      "lines": [
+        {
+          "text": "DE JONG",
+          "box": [
+            1078,
+            530,
+            1490,
+            607
+          ]
+        },
+        {
+          "text": "Tonyake Cornels",
+          "box": [
+            1079,
+            624,
+            1849,
+            713
+          ]
+        },
+        {
+          "text": "Ilse",
+          "box": [
+            1079,
+            749,
+            1244,
+            821
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2386,
+        915,
+        3162,
+        1078
+      ],
+      "lines": [
+        {
+          "text": "26 01 1928",
+          "box": [
+            2509,
+            955,
+            3039,
+            1033
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2346,
+        1195,
+        3150,
+        1398
+      ],
+      "lines": [
+        {
+          "text": "27 04 1993",
+          "box": [
+            2470,
+            1236,
+            3054,
+            1323
+          ]
+        }
+      ]
+    }
+  ]
+}

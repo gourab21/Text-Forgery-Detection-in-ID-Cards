@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\turkiye-036_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        840,
+        874,
+        1714,
+        1043
+      ],
+      "lines": [
+        {
+          "text": "Öayla",
+          "box": [
+            923,
+            929,
+            1137,
+            998
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        838,
+        638,
+        1714,
+        816
+      ],
+      "lines": [
+        {
+          "text": "Akçam",
+          "box": [
+            918,
+            717,
+            1151,
+            772
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        836,
+        1096,
+        1682,
+        1263
+      ],
+      "lines": [
+        {
+          "text": "01.01.12038",
+          "box": [
+            930,
+            1159,
+            1357,
+            1216
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        842,
+        1552,
+        1670,
+        1733
+      ],
+      "lines": [
+        {
+          "text": "06.03.12022",
+          "box": [
+            937,
+            1607,
+            1365,
+            1667
+          ]
+        }
+      ]
+    }
+  ]
+}

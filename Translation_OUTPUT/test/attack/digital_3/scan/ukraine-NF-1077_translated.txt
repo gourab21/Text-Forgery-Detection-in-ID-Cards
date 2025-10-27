@@ -1,0 +1,19 @@
+LE1
+OR: Ткаченко /
+EN: Tkachenko /
+EN: Tkachenko
+
+LE2
+OR: Олександра Михайлів
+EN: Oleksandra Mykhailiv
+OR: Wendyanıra
+EN: Wendy&#39;s
+
+E3
+EN: 29.02.2088
+
+E4
+EN: 29.06.2017
+
+E5
+EN: 03.09.2022

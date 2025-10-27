@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\chinese-NF-1101.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        841,
+        511,
+        1459,
+        750
+      ],
+      "lines": [
+        {
+          "text": "刘亦菲",
+          "box": [
+            899,
+            544,
+            1106,
+            613
+          ]
+        },
+        {
+          "text": "Brend fei",
+          "box": [
+            908,
+            629,
+            1166,
+            673
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1583,
+        850,
+        2125,
+        1021
+      ],
+      "lines": [
+        {
+          "text": "07 Mar 2023",
+          "box": [
+            1635,
+            915,
+            2065,
+            968
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1558,
+        1096,
+        2156,
+        1261
+      ],
+      "lines": [
+        {
+          "text": "12 Dec 2012",
+          "box": [
+            1626,
+            1148,
+            2046,
+            1200
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        815,
+        1341,
+        1438,
+        1500
+      ],
+      "lines": [
+        {
+          "text": "22 Jun 2024",
+          "box": [
+            893,
+            1386,
+            1313,
+            1447
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-017_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        475
+      ],
+      "lines": [
+        {
+          "text": "CHRISTIAIUSA",
+          "box": [
+            676,
+            339,
+            1083,
+            388
+          ]
+        },
+        {
+          "text": "Eduardo Manuel",
+          "box": [
+            674,
+            400,
+            1088,
+            444
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        576,
+        1992,
+        673
+      ],
+      "lines": [
+        {
+          "text": "19 11 1063",
+          "box": [
+            1695,
+            578,
+            1947,
+            616
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        731,
+        1665,
+        846
+      ],
+      "lines": [
+        {
+          "text": "03 12 2065",
+          "box": [
+            1301,
+            756,
+            1587,
+            798
+          ]
+        }
+      ]
+    }
+  ]
+}

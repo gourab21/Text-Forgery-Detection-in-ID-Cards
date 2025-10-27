@@ -1,0 +1,74 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\usa-NF-1094.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-NF-1094.jpg",
+  "width": 2820,
+  "height": 1807,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1246,
+            616,
+            1336,
+            701
+          ],
+          "original_text": "XX",
+          "translated_en": "XX",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            920,
+            677,
+            1342,
+            737
+          ],
+          "original_text": "Sara Parker",
+          "translated_en": "Sara Parker",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            923,
+            730,
+            1627,
+            904
+          ],
+          "original_text": "980 Elm Rd IL 600 RATE",
+          "translated_en": "980 Elm Rd IL 600 RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            926,
+            829,
+            1640,
+            913
+          ],
+          "original_text": "Naperville IL 60540",
+          "translated_en": "Naperville IL 60540",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2120,
+            1093,
+            2676,
+            1146
+          ],
+          "original_text": "DOB : 12-31-94",
+          "translated_en": "DOB : 12-31-94",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1094_translated.jpg"
+}

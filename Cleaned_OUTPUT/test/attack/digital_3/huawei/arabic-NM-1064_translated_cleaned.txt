@@ -1,0 +1,27 @@
+E1
+EN: Aimee Abd Al - Rashd
+
+L1
+EN: Rashid Abdul Ahmed /
+OR: الرشيد عبد أحمد /
+
+E2
+EN: o 26 Dec 1943
+
+E3
+EN: 21 Jan 2019
+
+E4
+EN: 05 Aug 1954
+
+L2
+EN: September 16, 1981
+OR: ١٦ / سبتمبر / ۱۹۸۱
+
+L3
+EN: 21 / Therefore / 2019
+OR: ۲۱ / بنابر / ۲۰۱۹ د
+
+L4
+EN: September 16, 201
+OR: ١٦ / سبتمبر / ٢٠١

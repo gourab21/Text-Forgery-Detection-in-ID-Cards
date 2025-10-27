@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\chinese-01_0022_000-3b9715ed_0.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1017,
+        622,
+        1761,
+        915
+      ],
+      "lines": [
+        {
+          "text": "NancXing",
+          "box": [
+            1097,
+            767,
+            1495,
+            839
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1911,
+        1036,
+        2565,
+        1245
+      ],
+      "lines": [
+        {
+          "text": "21 Dec 1994",
+          "box": [
+            1981,
+            1127,
+            2494,
+            1195
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1883,
+        1336,
+        2604,
+        1538
+      ],
+      "lines": [
+        {
+          "text": "17 Apr 2016",
+          "box": [
+            1972,
+            1416,
+            2467,
+            1486
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        984,
+        1636,
+        1736,
+        1829
+      ],
+      "lines": [
+        {
+          "text": "05 Jul 2024",
+          "box": [
+            1079,
+            1702,
+            1571,
+            1770
+          ]
+        }
+      ]
+    }
+  ]
+}

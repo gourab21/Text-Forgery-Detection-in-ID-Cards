@@ -1,0 +1,121 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\persian-NM-1074.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\persian-NM-1074.jpg",
+  "width": 1996,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            769,
+            283,
+            1010,
+            323
+          ],
+          "original_text": "Woodad",
+          "translated_en": "Woodad",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            769,
+            427,
+            961,
+            467
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1357,
+            288,
+            1479,
+            333
+          ],
+          "original_text": "مهرداد",
+          "translated_en": "Mehrdad",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1349,
+            429,
+            1472,
+            481
+          ],
+          "original_text": "کاظمی",
+          "translated_en": "Kazemi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            765,
+            592,
+            1044,
+            631
+          ],
+          "original_text": "09/08/2018",
+          "translated_en": "09/08/2018",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            759,
+            920,
+            1039,
+            960
+          ],
+          "original_text": "29/04/2024",
+          "translated_en": "29/04/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1342,
+            928,
+            1621,
+            970
+          ],
+          "original_text": "26/03/1969",
+          "translated_en": "26/03/1969",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NM-1074_translated.jpg"
+}

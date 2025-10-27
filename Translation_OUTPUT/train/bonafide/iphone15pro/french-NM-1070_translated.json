@@ -1,0 +1,73 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\french-NM-1070.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\french-NM-1070.jpg",
+  "width": 2785,
+  "height": 1774,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            909,
+            426,
+            1227,
+            474
+          ],
+          "original_text": "BERNARD",
+          "translated_en": "BERNARD",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            914,
+            660,
+            1408,
+            733
+          ],
+          "original_text": "Maxime , André",
+          "translated_en": "Maxime , André",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1991,
+            879,
+            2363,
+            932
+          ],
+          "original_text": "05 10 1982",
+          "translated_en": "05 10 1982",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            2007,
+            1429,
+            2380,
+            1480
+          ],
+          "original_text": "25 09 2033",
+          "translated_en": "25 09 2033",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-NM-1070_translated.jpg"
+}

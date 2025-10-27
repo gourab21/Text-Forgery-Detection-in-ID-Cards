@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-029_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        994,
+        471,
+        2346,
+        747
+      ],
+      "lines": [
+        {
+          "text": "P COTTRAQOIVIERIA",
+          "box": [
+            1101,
+            536,
+            1848,
+            594
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            1090,
+            628,
+            1320,
+            699
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2647,
+        908,
+        3210,
+        1062
+      ],
+      "lines": [
+        {
+          "text": "03 06 2203",
+          "box": [
+            2746,
+            947,
+            3203,
+            1013
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1993,
+        1153,
+        2684,
+        1335
+      ],
+      "lines": [
+        {
+          "text": "31 05 2038",
+          "box": [
+            2087,
+            1217,
+            2571,
+            1279
+          ]
+        }
+      ]
+    }
+  ]
+}

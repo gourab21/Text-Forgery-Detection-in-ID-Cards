@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\usa-011_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\usa-011_03.jpg",
+  "width": 1999,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            651,
+            467,
+            1009,
+            517
+          ],
+          "original_text": "D shuaKruger",
+          "translated_en": "D shuaKruger",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            650,
+            527,
+            1083,
+            567
+          ],
+          "original_text": "789 Willow Road",
+          "translated_en": "789 Willow Road",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            651,
+            585,
+            1188,
+            629
+          ],
+          "original_text": "Little Rock AR 72201",
+          "translated_en": "Little Rock AR 72201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            777,
+            1894,
+            823
+          ],
+          "original_text": "DOB : 03-05-02",
+          "translated_en": "DOB : 03-05-02",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-011_03_translated.jpg"
+}

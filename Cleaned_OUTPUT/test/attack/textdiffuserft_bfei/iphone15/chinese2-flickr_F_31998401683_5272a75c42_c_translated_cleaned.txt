@@ -1,0 +1,13 @@
+LE1
+EN: Zhang Min
+OR: 张敏
+EN: Marg Min
+
+E2
+EN: 08 Jul 1922
+
+E3
+EN: 24 Jun 2028
+
+E4
+EN: 04 Nov 1965

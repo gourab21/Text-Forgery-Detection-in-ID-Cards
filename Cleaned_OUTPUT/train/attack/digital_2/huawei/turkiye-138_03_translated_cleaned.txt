@@ -1,0 +1,12 @@
+E2
+EN: Indre
+
+E1
+EN: Sumame
+EN: Özden
+
+E3
+EN: 04.05 .: 190
+
+E4
+EN: 21.07.2010

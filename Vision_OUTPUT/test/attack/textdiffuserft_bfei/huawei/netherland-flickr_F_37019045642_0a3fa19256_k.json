@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_F_37019045642_0a3fa19256_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1010,
+        473,
+        2073,
+        883
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            1086,
+            528,
+            1451,
+            602
+          ]
+        },
+        {
+          "text": "John Gerardus",
+          "box": [
+            1105,
+            629,
+            1804,
+            706
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            1098,
+            752,
+            1331,
+            816
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2410,
+        914,
+        3193,
+        1077
+      ],
+      "lines": [
+        {
+          "text": "15 09 2004",
+          "box": [
+            2535,
+            956,
+            3063,
+            1039
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2369,
+        1194,
+        3183,
+        1397
+      ],
+      "lines": [
+        {
+          "text": "1305 2089",
+          "box": [
+            2492,
+            1238,
+            3082,
+            1327
+          ]
+        }
+      ]
+    }
+  ]
+}

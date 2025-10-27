@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-NF-1041.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        432,
+        2083,
+        685
+      ],
+      "lines": [
+        {
+          "text": "SANESAOLIVIERA",
+          "box": [
+            970,
+            495,
+            1643,
+            561
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            970,
+            589,
+            1109,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2351,
+        833,
+        2851,
+        973
+      ],
+      "lines": [
+        {
+          "text": "31 05 2005",
+          "box": [
+            2435,
+            834,
+            2839,
+            885
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1770,
+        1057,
+        2383,
+        1223
+      ],
+      "lines": [
+        {
+          "text": "28 05 2011",
+          "box": [
+            1871,
+            1083,
+            2274,
+            1141
+          ]
+        }
+      ]
+    }
+  ]
+}

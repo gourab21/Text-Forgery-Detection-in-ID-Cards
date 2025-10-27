@@ -1,0 +1,18 @@
+LE1
+OR: Ткаченко /
+EN: Tkachenko /
+EN: Tkachenko
+
+LE2
+OR: Олександра Михайлів
+EN: Oleksandra Mykhailiv
+EN: Ociadra
+
+E3
+EN: 14.04.2042
+
+E4
+EN: 29.06.2017
+
+E5
+EN: 29.06.2017

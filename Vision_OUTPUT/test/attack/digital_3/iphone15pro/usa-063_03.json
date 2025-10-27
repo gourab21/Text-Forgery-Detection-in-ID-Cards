@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-063_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        850,
+        611,
+        1744,
+        949
+      ],
+      "lines": [
+        {
+          "text": "Shannong",
+          "box": [
+            913,
+            678,
+            1253,
+            742
+          ]
+        },
+        {
+          "text": "910 Apple Blvd RATE S",
+          "box": [
+            923,
+            732,
+            1668,
+            825
+          ]
+        },
+        {
+          "text": "Austin TX 78701",
+          "box": [
+            921,
+            836,
+            1511,
+            897
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2047,
+        1083,
+        2744,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "DOB : 01-04-85",
+          "box": [
+            2117,
+            1086,
+            2668,
+            1137
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\russian-NF-1089.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-NF-1089.jpg",
+  "width": 3234,
+  "height": 2006,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1161,
+            427,
+            1590,
+            499
+          ],
+          "original_text": "Федорова /",
+          "translated_en": "Fedorova /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            1161,
+            510,
+            1489,
+            568
+          ],
+          "original_text": "Fedorova",
+          "translated_en": "Fedorova",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            2093,
+            696,
+            2131,
+            733
+          ],
+          "original_text": "p",
+          "translated_en": "p",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1157,
+            762,
+            1952,
+            844
+          ],
+          "original_text": "Светлана Ивановна /",
+          "translated_en": "Svetlana Ivanovna /",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            1157,
+            857,
+            1470,
+            907
+          ],
+          "original_text": "Gomezana",
+          "translated_en": "Gomezana",
+          "detected_lang": "bs"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1157,
+            1095,
+            1556,
+            1153
+          ],
+          "original_text": "13.01.2088",
+          "translated_en": "13.01.2088",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1145,
+            1538,
+            1546,
+            1597
+          ],
+          "original_text": "26.02.2022",
+          "translated_en": "26.02.2022",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1138,
+            1835,
+            1534,
+            1892
+          ],
+          "original_text": "19.02.2054",
+          "translated_en": "19.02.2054",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1089_translated.jpg"
+}

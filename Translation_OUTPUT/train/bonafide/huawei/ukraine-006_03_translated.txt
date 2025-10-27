@@ -1,0 +1,21 @@
+LE1
+OR: Кравчук /
+EN: Kravchuk /
+EN: Kravchuk
+
+LE2
+OR: Тетяна Анатоліївна /
+EN: Tatyana Anatoliivna /
+OR: Tetyana
+EN: Tatyana
+
+E3
+EN: 15.04.1971
+
+E4
+EN: па вид ate of issue
+EN: 12.02.2019
+
+E5
+EN: All
+EN: 11.02.2024

@@ -1,0 +1,104 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_6850649398_5d950a2635_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        862,
+        544,
+        1661,
+        814
+      ],
+      "lines": [
+        {
+          "text": "赵 洋",
+          "box": [
+            931,
+            582,
+            1076,
+            649
+          ]
+        },
+        {
+          "text": "Danieleg",
+          "box": [
+            946,
+            664,
+            1337,
+            748
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1681,
+        907,
+        2329,
+        1071
+      ],
+      "lines": [
+        {
+          "text": "19 Dec 1975",
+          "box": [
+            1723,
+            941,
+            2212,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1686,
+        1162,
+        2355,
+        1334
+      ],
+      "lines": [
+        {
+          "text": "04 Dec 2039",
+          "box": [
+            1718,
+            1199,
+            2229,
+            1266
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        894,
+        1440,
+        1560,
+        1622
+      ],
+      "lines": [
+        {
+          "text": "17 Sep 2098",
+          "box": [
+            957,
+            1478,
+            1459,
+            1563
+          ]
+        },
+        {
+          "text": "N",
+          "box": [
+            913,
+            1572,
+            931,
+            1592
+          ]
+        }
+      ]
+    }
+  ]
+}

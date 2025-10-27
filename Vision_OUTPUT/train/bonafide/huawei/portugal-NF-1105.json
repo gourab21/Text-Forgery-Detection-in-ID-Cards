@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1105.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        998,
+        477,
+        2354,
+        756
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES COSTA",
+          "box": [
+            1109,
+            546,
+            1919,
+            613
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            1103,
+            644,
+            1257,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2657,
+        919,
+        3222,
+        1074
+      ],
+      "lines": [
+        {
+          "text": "26 07 2005",
+          "box": [
+            2766,
+            961,
+            3221,
+            1024
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2000,
+        1167,
+        2694,
+        1351
+      ],
+      "lines": [
+        {
+          "text": "2407 2035",
+          "box": [
+            2102,
+            1231,
+            2575,
+            1298
+          ]
+        }
+      ]
+    }
+  ]
+}

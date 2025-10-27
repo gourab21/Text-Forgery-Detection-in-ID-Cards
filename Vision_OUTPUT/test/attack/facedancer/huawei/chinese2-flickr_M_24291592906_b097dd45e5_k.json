@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_24291592906_b097dd45e5_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        999,
+        649,
+        1926,
+        970
+      ],
+      "lines": [
+        {
+          "text": "吴刚",
+          "box": [
+            1092,
+            707,
+            1260,
+            785
+          ]
+        },
+        {
+          "text": "Wu Gang",
+          "box": [
+            1087,
+            808,
+            1495,
+            895
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1948,
+        1081,
+        2700,
+        1276
+      ],
+      "lines": [
+        {
+          "text": "13 NOV 1999",
+          "box": [
+            2008,
+            1146,
+            2595,
+            1224
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1954,
+        1383,
+        2730,
+        1589
+      ],
+      "lines": [
+        {
+          "text": "11 SEP 2019",
+          "box": [
+            2015,
+            1450,
+            2573,
+            1526
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1036,
+        1716,
+        1809,
+        1932
+      ],
+      "lines": [
+        {
+          "text": "11 SEP 2039",
+          "box": [
+            1116,
+            1778,
+            1673,
+            1852
+          ]
+        }
+      ]
+    }
+  ]
+}

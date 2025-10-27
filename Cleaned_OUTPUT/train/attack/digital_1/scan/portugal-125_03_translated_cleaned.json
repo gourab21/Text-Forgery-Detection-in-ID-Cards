@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\portugal-125_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\portugal-125_03.jpg",
+  "width": 1999,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            685,
+            339,
+            1120,
+            384
+          ],
+          "original_text": "OVINRBEIRO",
+          "translated_en": "OVINRBEIRO"
+        },
+        {
+          "box": [
+            683,
+            396,
+            982,
+            438
+          ],
+          "original_text": "Joao Carlos",
+          "translated_en": "Joao Carlos"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1707,
+            602,
+            1998,
+            640
+          ],
+          "original_text": "22 05 2038",
+          "translated_en": "22 05 2038"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1298,
+            767,
+            1600,
+            806
+          ],
+          "original_text": "15 07 1996",
+          "translated_en": "15 07 1996"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-125_03_translated_cleaned.jpg"
+}

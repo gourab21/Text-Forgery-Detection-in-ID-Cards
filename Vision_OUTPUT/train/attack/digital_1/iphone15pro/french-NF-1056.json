@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-NF-1056.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        381,
+        1658,
+        514
+      ],
+      "lines": [
+        {
+          "text": "PERRIN",
+          "box": [
+            918,
+            431,
+            1168,
+            482
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        629,
+        1757,
+        788
+      ],
+      "lines": [
+        {
+          "text": "Émilie , Pauline",
+          "box": [
+            922,
+            665,
+            1410,
+            736
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1944,
+        882,
+        2490,
+        1033
+      ],
+      "lines": [
+        {
+          "text": "21 01 2019",
+          "box": [
+            2001,
+            890,
+            2396,
+            940
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1918,
+        1439,
+        2474,
+        1578
+      ],
+      "lines": [
+        {
+          "text": "09 05 2022",
+          "box": [
+            2014,
+            1440,
+            2400,
+            1491
+          ]
+        }
+      ]
+    }
+  ]
+}

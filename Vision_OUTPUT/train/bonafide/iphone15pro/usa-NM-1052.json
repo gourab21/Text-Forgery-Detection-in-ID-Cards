@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-NM-1052.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        857,
+        616,
+        1760,
+        957
+      ],
+      "lines": [
+        {
+          "text": "Christopher Green",
+          "box": [
+            918,
+            651,
+            1588,
+            764
+          ]
+        },
+        {
+          "text": "112 Oak St HATE",
+          "box": [
+            927,
+            742,
+            1619,
+            848
+          ]
+        },
+        {
+          "text": "Laramie WY 82070",
+          "box": [
+            927,
+            844,
+            1612,
+            910
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2066,
+        1093,
+        2771,
+        1239
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-11-87",
+          "box": [
+            2132,
+            1096,
+            2683,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

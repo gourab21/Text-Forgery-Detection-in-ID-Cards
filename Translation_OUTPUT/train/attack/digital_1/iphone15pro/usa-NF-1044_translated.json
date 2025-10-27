@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1044.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1044.jpg",
+  "width": 2807,
+  "height": 1796,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            918,
+            677,
+            1395,
+            740
+          ],
+          "original_text": "Eldrewtone 1",
+          "translated_en": "Eldrewtone 1",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            915,
+            742,
+            1615,
+            843
+          ],
+          "original_text": "321 Alder St RATE",
+          "translated_en": "321 Alder St RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            922,
+            842,
+            1596,
+            907
+          ],
+          "original_text": "Portland OR 97201",
+          "translated_en": "Portland OR 97201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2109,
+            1087,
+            2667,
+            1144
+          ],
+          "original_text": "DOB : 02-13-02",
+          "translated_en": "DOB : 02-13-02",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1044_translated.jpg"
+}

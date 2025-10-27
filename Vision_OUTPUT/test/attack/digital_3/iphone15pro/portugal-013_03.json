@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-013_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        818,
+        386,
+        1930,
+        612
+      ],
+      "lines": [
+        {
+          "text": "CALEBDA ANDRADE",
+          "box": [
+            916,
+            435,
+            1579,
+            497
+          ]
+        },
+        {
+          "text": "Carla Patricia",
+          "box": [
+            905,
+            513,
+            1357,
+            567
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2178,
+        744,
+        2641,
+        868
+      ],
+      "lines": [
+        {
+          "text": "13 04 2019",
+          "box": [
+            2249,
+            776,
+            2581,
+            829
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1640,
+        945,
+        2208,
+        1093
+      ],
+      "lines": [
+        {
+          "text": "02 07 1985",
+          "box": [
+            1714,
+            993,
+            2095,
+            1045
+          ]
+        }
+      ]
+    }
+  ]
+}

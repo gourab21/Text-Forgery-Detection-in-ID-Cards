@@ -1,0 +1,18 @@
+LE1
+EN: Kozlova /
+OR: Козлова /
+EN: Kozlova
+
+LE2
+EN: Tatyana Romanivna /
+OR: Тетяна Романівна /
+EN: Taoonia
+
+E3
+EN: 24.11.12031
+
+E4
+EN: 10.12.2016
+
+E5
+EN: 10.12.12039

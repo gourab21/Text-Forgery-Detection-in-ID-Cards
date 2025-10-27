@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\usa-NM-1038.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        801,
+        551,
+        1645,
+        855
+      ],
+      "lines": [
+        {
+          "text": "Jteven Taylor",
+          "box": [
+            864,
+            606,
+            1356,
+            666
+          ]
+        },
+        {
+          "text": "204 Pine St RAFF",
+          "box": [
+            868,
+            668,
+            1531,
+            759
+          ]
+        },
+        {
+          "text": "Bozeman M 59715",
+          "box": [
+            865,
+            761,
+            1535,
+            814
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1931,
+        976,
+        2588,
+        1108
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-22-12",
+          "box": [
+            1981,
+            1006,
+            2507,
+            1066
+          ]
+        }
+      ]
+    }
+  ]
+}

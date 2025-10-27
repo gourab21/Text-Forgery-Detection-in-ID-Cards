@@ -1,0 +1,74 @@
+{
+  "source_json": "train\\attack\\digital_2\\huawei\\usa-NF-1046.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\usa-NF-1046.jpg",
+  "width": 3229,
+  "height": 2005,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1438,
+            683,
+            1545,
+            768
+          ],
+          "original_text": "W",
+          "translated_en": "W",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1047,
+            758,
+            1639,
+            827
+          ],
+          "original_text": "Monaie White",
+          "translated_en": "Monaie White",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1046,
+            846,
+            1640,
+            911
+          ],
+          "original_text": "881 Willow Dr",
+          "translated_en": "881 Willow Dr",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1048,
+            946,
+            1900,
+            1019
+          ],
+          "original_text": "Burlington VT 05401",
+          "translated_en": "Burlington VT 05401",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2413,
+            1253,
+            3067,
+            1322
+          ],
+          "original_text": "DOB : 08-15-1",
+          "translated_en": "DOB : 08-15-1",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1046_translated.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_50611940256_8405427c78_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        414,
+        1498,
+        614
+      ],
+      "lines": [
+        {
+          "text": "Arjun Das",
+          "box": [
+            507,
+            469,
+            851,
+            530
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        889,
+        1031,
+        1012
+      ],
+      "lines": [
+        {
+          "text": "1965-02-28",
+          "box": [
+            524,
+            928,
+            883,
+            978
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1121,
+        1079,
+        1655,
+        1198
+      ],
+      "lines": [
+        {
+          "text": "1975-02-28",
+          "box": [
+            1187,
+            1101,
+            1550,
+            1151
+          ]
+        }
+      ]
+    }
+  ]
+}

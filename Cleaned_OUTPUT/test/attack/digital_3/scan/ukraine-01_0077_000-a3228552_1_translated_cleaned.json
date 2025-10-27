@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\ukraine-01_0077_000-a3228552_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-01_0077_000-a3228552_1.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            648,
+            288,
+            864,
+            340
+          ],
+          "original_text": "Бондар /",
+          "translated_en": "Cooper /"
+        },
+        {
+          "box": [
+            645,
+            347,
+            816,
+            383
+          ],
+          "original_text": "Bondar",
+          "translated_en": "bumble-bee"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            643,
+            468,
+            1106,
+            525
+          ],
+          "original_text": "Василь Петрович /",
+          "translated_en": "Vasyl Petrovych /"
+        },
+        {
+          "box": [
+            640,
+            531,
+            771,
+            564
+          ],
+          "original_text": "Rober",
+          "translated_en": "Robert"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            640,
+            676,
+            909,
+            714
+          ],
+          "original_text": "27.04.1972",
+          "translated_en": "27.04.1972"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            633,
+            953,
+            901,
+            990
+          ],
+          "original_text": "17.09.2018",
+          "translated_en": "17.09.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            628,
+            1151,
+            900,
+            1189
+          ],
+          "original_text": "01.07.1914",
+          "translated_en": "01.07.1914"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-01_0077_000-a3228552_1_translated_cleaned.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-NF-1110.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        380,
+        1658,
+        513
+      ],
+      "lines": [
+        {
+          "text": "RENAUD",
+          "box": [
+            913,
+            429,
+            1193,
+            480
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        825,
+        628,
+        1755,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Claire , Justine",
+          "box": [
+            914,
+            666,
+            1384,
+            737
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1944,
+        880,
+        2490,
+        1031
+      ],
+      "lines": [
+        {
+          "text": "22 07 1985",
+          "box": [
+            1995,
+            881,
+            2369,
+            935
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1917,
+        1436,
+        2473,
+        1575
+      ],
+      "lines": [
+        {
+          "text": "05 10 2034",
+          "box": [
+            2006,
+            1436,
+            2378,
+            1483
+          ]
+        }
+      ]
+    }
+  ]
+}

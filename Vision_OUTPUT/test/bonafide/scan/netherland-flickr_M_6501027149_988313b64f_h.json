@@ -1,0 +1,102 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_6501027149_988313b64f_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            690,
+            319,
+            914,
+            362
+          ]
+        },
+        {
+          "text": "Anouk Cornelis",
+          "box": [
+            688,
+            383,
+            1128,
+            430
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            687,
+            450,
+            953,
+            493
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        559,
+        1968,
+        658
+      ],
+      "lines": [
+        {
+          "text": "OF BIRTH",
+          "box": [
+            1751,
+            559,
+            1914,
+            582
+          ]
+        },
+        {
+          "text": "11 11 1979",
+          "box": [
+            1566,
+            605,
+            1895,
+            649
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        730,
+        1961,
+        853
+      ],
+      "lines": [
+        {
+          "text": "ELDIG CARD EXPIRY",
+          "box": [
+            1461,
+            730,
+            1911,
+            761
+          ]
+        },
+        {
+          "text": "28 11 2028",
+          "box": [
+            1529,
+            778,
+            1893,
+            824
+          ]
+        }
+      ]
+    }
+  ]
+}

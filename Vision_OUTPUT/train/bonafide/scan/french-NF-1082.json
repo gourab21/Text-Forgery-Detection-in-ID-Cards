@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-NF-1082.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        265,
+        1180,
+        357
+      ],
+      "lines": [
+        {
+          "text": "MASSON",
+          "box": [
+            659,
+            291,
+            860,
+            327
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        438,
+        1251,
+        549
+      ],
+      "lines": [
+        {
+          "text": "Laure , Sabine",
+          "box": [
+            657,
+            461,
+            977,
+            507
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1384,
+        614,
+        1773,
+        719
+      ],
+      "lines": [
+        {
+          "text": "15 10 1990",
+          "box": [
+            1424,
+            632,
+            1690,
+            673
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1365,
+        1002,
+        1761,
+        1098
+      ],
+      "lines": [
+        {
+          "text": "02 12 2034",
+          "box": [
+            1413,
+            1018,
+            1682,
+            1057
+          ]
+        }
+      ]
+    }
+  ]
+}

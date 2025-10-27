@@ -1,0 +1,18 @@
+LE1
+EN: Kuzmenko /
+OR: Кузьменко /
+EN: Kuzmenko
+
+LE2
+EN: Victoria Sergiivna /
+OR: Вікторія Сергіївна /
+EN: Rogeriia
+
+E3
+EN: 11.08.2095
+
+E4
+EN: 28.12.2015
+
+E5
+EN: 15.06.1970

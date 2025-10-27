@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-NF-1026.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        433,
+        2084,
+        686
+      ],
+      "lines": [
+        {
+          "text": "SORDAIRIBEIRO",
+          "box": [
+            977,
+            501,
+            1527,
+            563
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            982,
+            593,
+            1125,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        834,
+        2852,
+        974
+      ],
+      "lines": [
+        {
+          "text": "22 04 1993",
+          "box": [
+            2440,
+            838,
+            2844,
+            891
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1058,
+        2384,
+        1224
+      ],
+      "lines": [
+        {
+          "text": "19 04 1992",
+          "box": [
+            1873,
+            1085,
+            2287,
+            1151
+          ]
+        }
+      ]
+    }
+  ]
+}

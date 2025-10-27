@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\usa-NF-1062_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-NF-1062.jpg",
+  "width": 3204,
+  "height": 1974,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1046,
+            743,
+            1576,
+            808
+          ],
+          "original_text": "Lyma 1 Brown",
+          "translated_en": "Lyma 1 Brown"
+        },
+        {
+          "box": [
+            1042,
+            828,
+            1737,
+            896
+          ],
+          "original_text": "337 Lakeview Dr",
+          "translated_en": "337 Lakeview Dr"
+        },
+        {
+          "box": [
+            1039,
+            920,
+            1814,
+            994
+          ],
+          "original_text": "Medford OR 97501",
+          "translated_en": "Medford OR 97501"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2402,
+            1232,
+            3034,
+            1307
+          ],
+          "original_text": "13-1-0-44",
+          "translated_en": "13-1-0-44"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1062_translated_cleaned.jpg"
+}

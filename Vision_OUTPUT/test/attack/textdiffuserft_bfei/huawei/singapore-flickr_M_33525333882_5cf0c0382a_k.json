@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_33525333882_5cf0c0382a_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        655,
+        654,
+        2371,
+        969
+      ],
+      "lines": [
+        {
+          "text": "Stacyd bi Ahmad",
+          "box": [
+            803,
+            724,
+            1765,
+            847
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        732,
+        1403,
+        1631,
+        1597
+      ],
+      "lines": [
+        {
+          "text": "20-08-1144",
+          "box": [
+            812,
+            1461,
+            1383,
+            1545
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1773,
+        1704,
+        2618,
+        1892
+      ],
+      "lines": [
+        {
+          "text": "31-11 1052",
+          "box": [
+            1869,
+            1750,
+            2441,
+            1828
+          ]
+        }
+      ]
+    }
+  ]
+}

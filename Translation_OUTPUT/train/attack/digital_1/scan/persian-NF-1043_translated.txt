@@ -1,0 +1,22 @@
+E1
+EN: Nyan
+
+E2
+EN: Ahmadi
+
+L1
+OR: مينا
+EN: enamel
+
+L2
+OR: محمدی
+EN: Mohammadi
+
+E3
+EN: 05/02/2006
+
+E4
+EN: 08/07/2024
+
+E5
+EN: 13/10/2033

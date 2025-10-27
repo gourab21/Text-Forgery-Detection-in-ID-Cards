@@ -1,0 +1,21 @@
+LE1
+OR: Прізви
+EN: Nicknames
+OR: Коваленко /
+EN: Kovalenko /
+EN: Kovalenko
+
+LE2
+OR: Олена Григорівна /
+EN: Olena Grigorivna /
+OR: Oaaha
+EN: Oh no
+
+E3
+EN: 09.05.119 ,
+
+E4
+EN: 09.05.2021
+
+E5
+EN: 08.05.2021

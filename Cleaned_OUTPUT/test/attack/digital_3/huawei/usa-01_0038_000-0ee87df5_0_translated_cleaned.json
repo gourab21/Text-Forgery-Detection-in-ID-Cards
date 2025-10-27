@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\usa-01_0038_000-0ee87df5_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-01_0038_000-0ee87df5_0.jpg",
+  "width": 3235,
+  "height": 2013,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1066,
+            761,
+            1723,
+            825
+          ],
+          "original_text": "Danied Johnson",
+          "translated_en": "Danied Johnson"
+        },
+        {
+          "box": [
+            1050,
+            846,
+            1780,
+            919
+          ],
+          "original_text": "3927 Oak Avenue",
+          "translated_en": "3927 Oak Avenue"
+        },
+        {
+          "box": [
+            1049,
+            948,
+            2007,
+            1014
+          ],
+          "original_text": "Pleasantville NY 11803",
+          "translated_en": "Pleasantville NY 11803"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2424,
+            1253,
+            3071,
+            1326
+          ],
+          "original_text": "22-05-70",
+          "translated_en": "22-05-70"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-01_0038_000-0ee87df5_0_translated_cleaned.jpg"
+}

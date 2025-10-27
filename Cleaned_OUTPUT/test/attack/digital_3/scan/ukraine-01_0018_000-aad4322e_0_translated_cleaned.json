@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\ukraine-01_0018_000-aad4322e_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-01_0018_000-aad4322e_0.jpg",
+  "width": 1993,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            637,
+            295,
+            941,
+            345
+          ],
+          "original_text": "Сидоренко /",
+          "translated_en": "Sydorenko /"
+        },
+        {
+          "box": [
+            635,
+            354,
+            891,
+            398
+          ],
+          "original_text": "Sydorenko",
+          "translated_en": "Sydorenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            643,
+            476,
+            1088,
+            525
+          ],
+          "original_text": "Василь Ігорович /",
+          "translated_en": "Vasyl Igorovych /"
+        },
+        {
+          "box": [
+            650,
+            539,
+            763,
+            576
+          ],
+          "original_text": "Dena",
+          "translated_en": "Everything"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            644,
+            683,
+            917,
+            723
+          ],
+          "original_text": "31.04.2031",
+          "translated_en": "31.04.2031"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            651,
+            961,
+            1049,
+            1004
+          ],
+          "original_text": "12.01.2005 NOT",
+          "translated_en": "12.01.2005 NOT"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            655,
+            1157,
+            926,
+            1194
+          ],
+          "original_text": "31.02.2021",
+          "translated_en": "31.02.2021"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-01_0018_000-aad4322e_0_translated_cleaned.jpg"
+}

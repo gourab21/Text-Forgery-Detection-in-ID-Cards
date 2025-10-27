@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\ukraine-NM-1007_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\ukraine-NM-1007.jpg",
+  "width": 2636,
+  "height": 1610,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            857,
+            373,
+            1297,
+            439
+          ],
+          "original_text": "Бондаренко /",
+          "translated_en": "Bondarenko /"
+        },
+        {
+          "box": [
+            855,
+            447,
+            1233,
+            494
+          ],
+          "original_text": "Bondarenko",
+          "translated_en": "Bondarenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            847,
+            607,
+            1466,
+            672
+          ],
+          "original_text": "Андрій Юрійович /",
+          "translated_en": "Andriy Yuriyovych /"
+        },
+        {
+          "box": [
+            848,
+            678,
+            1050,
+            728
+          ],
+          "original_text": "Antion",
+          "translated_en": "Antion"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            852,
+            872,
+            1202,
+            922
+          ],
+          "original_text": "10.10.2087",
+          "translated_en": "10.10.2087"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            838,
+            1226,
+            1194,
+            1275
+          ],
+          "original_text": "23.05.2018",
+          "translated_en": "23.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            833,
+            1479,
+            1187,
+            1531
+          ],
+          "original_text": "24.02.2019",
+          "translated_en": "24.02.2019"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NM-1007_translated_cleaned.jpg"
+}

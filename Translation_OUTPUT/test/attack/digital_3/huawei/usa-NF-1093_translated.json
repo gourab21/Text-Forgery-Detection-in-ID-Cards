@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\usa-NF-1093.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-NF-1093.jpg",
+  "width": 3059,
+  "height": 1902,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1000,
+            713,
+            1473,
+            776
+          ],
+          "original_text": "Nicholahaw",
+          "translated_en": "Nicholahaw",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            990,
+            800,
+            1600,
+            868
+          ],
+          "original_text": "306 Pine Street",
+          "translated_en": "306 Pine Street",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            989,
+            890,
+            1593,
+            956
+          ],
+          "original_text": "Reno NV 89501",
+          "translated_en": "Reno NV 89501",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2284,
+            1180,
+            2893,
+            1263
+          ],
+          "original_text": "DOB : 05-11-25",
+          "translated_en": "DOB : 05-11-25",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1093_translated.jpg"
+}

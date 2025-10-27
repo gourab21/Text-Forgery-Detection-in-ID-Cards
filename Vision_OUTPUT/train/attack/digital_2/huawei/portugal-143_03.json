@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        938,
+        450,
+        2211,
+        715
+      ],
+      "lines": [
+        {
+          "text": "PNTHONY CASTRO",
+          "box": [
+            1040,
+            520,
+            1733,
+            588
+          ]
+        },
+        {
+          "text": "Luis Antônio",
+          "box": [
+            1041,
+            607,
+            1522,
+            669
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2495,
+        868,
+        3026,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "03 01 1985",
+          "box": [
+            2590,
+            909,
+            3025,
+            967
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1879,
+        1103,
+        2530,
+        1276
+      ],
+      "lines": [
+        {
+          "text": "17 08 1,96",
+          "box": [
+            1972,
+            1153,
+            2428,
+            1227
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+LE1
+OR: Кравчук /
+EN: Kravchuk /
+EN: Kravchuk
+
+LE2
+OR: Тетяна Анатоліївна /
+EN: Tatyana Anatoliivna /
+EN: Jamema
+
+E3
+EN: 25.04.2087
+
+E4
+EN: 12.02.2019
+
+E5
+EN: 16.04.2096

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_36353666424_ab1a94e172_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_36353666424_ab1a94e172_k.jpg",
+  "width": 3212,
+  "height": 2054,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1082,
+            712,
+            1250,
+            789
+          ],
+          "original_text": "马勇",
+          "translated_en": "Ma Yong"
+        },
+        {
+          "box": [
+            1092,
+            819,
+            1444,
+            902
+          ],
+          "original_text": "Zachary",
+          "translated_en": "Zachary"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2004,
+            1153,
+            2582,
+            1223
+          ],
+          "original_text": "25 Jan 2030",
+          "translated_en": "25 Jan 2030"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2004,
+            1453,
+            2589,
+            1533
+          ],
+          "original_text": "06 Nov 2007",
+          "translated_en": "06 Nov 2007"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1114,
+            1778,
+            1700,
+            1855
+          ],
+          "original_text": "20 Jun 2045",
+          "translated_en": "20 Jun 2045"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_36353666424_ab1a94e172_k_translated_cleaned.jpg"
+}

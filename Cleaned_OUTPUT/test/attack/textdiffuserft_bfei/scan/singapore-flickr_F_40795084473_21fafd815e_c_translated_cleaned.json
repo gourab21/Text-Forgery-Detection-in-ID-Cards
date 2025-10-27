@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_40795084473_21fafd815e_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_40795084473_21fafd815e_c.jpg",
+  "width": 1994,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            510,
+            465,
+            958,
+            537
+          ],
+          "original_text": "Daryl Redy",
+          "translated_en": "Daryl Redy"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            520,
+            926,
+            873,
+            982
+          ],
+          "original_text": "18.11.1332",
+          "translated_en": "18.11.1332"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1183,
+            1096,
+            1531,
+            1150
+          ],
+          "original_text": "11.06 6667",
+          "translated_en": "11.06 6667"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_40795084473_21fafd815e_c_translated_cleaned.jpg"
+}

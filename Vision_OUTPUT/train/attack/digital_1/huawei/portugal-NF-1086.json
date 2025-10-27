@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        470,
+        2340,
+        745
+      ],
+      "lines": [
+        {
+          "text": "S HAWNPEREIRA",
+          "box": [
+            1099,
+            535,
+            1738,
+            606
+          ]
+        },
+        {
+          "text": "Claudia",
+          "box": [
+            1099,
+            620,
+            1404,
+            688
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2640,
+        907,
+        3202,
+        1058
+      ],
+      "lines": [
+        {
+          "text": "22 04 2015",
+          "box": [
+            2746,
+            950,
+            3201,
+            1020
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1988,
+        1150,
+        2678,
+        1332
+      ],
+      "lines": [
+        {
+          "text": "20 04 * 1992",
+          "box": [
+            2091,
+            1216,
+            2565,
+            1281
+          ]
+        }
+      ]
+    }
+  ]
+}

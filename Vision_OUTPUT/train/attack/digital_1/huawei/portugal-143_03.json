@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        938,
+        450,
+        2211,
+        715
+      ],
+      "lines": [
+        {
+          "text": "PASEYRACCASTR",
+          "box": [
+            1042,
+            516,
+            1680,
+            586
+          ]
+        },
+        {
+          "text": "Luis Antonio",
+          "box": [
+            1042,
+            604,
+            1522,
+            670
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2495,
+        868,
+        3026,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "03 01 1999",
+          "box": [
+            2589,
+            907,
+            3020,
+            970
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1879,
+        1103,
+        2530,
+        1276
+      ],
+      "lines": [
+        {
+          "text": "17 08 2021",
+          "box": [
+            1974,
+            1160,
+            2409,
+            1220
+          ]
+        }
+      ]
+    }
+  ]
+}

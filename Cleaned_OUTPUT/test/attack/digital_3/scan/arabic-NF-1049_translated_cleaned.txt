@@ -1,0 +1,27 @@
+E1
+EN: Micheealed
+
+L1
+EN: Khaled Sarah
+OR: خالد سارة
+
+E2
+EN: 15 Jul 2069
+
+E3
+EN: 20 Aug 2023
+
+E4
+EN: 07 Jun 2087
+
+L2
+EN: May 5, 1995
+OR: ٠٥ / مايو / ۱۹۹۵
+
+L3
+EN: August 20, 2023
+OR: ٢٠ / أغسطس / ٢٠٢٣
+
+L4
+EN: August 20, 2013
+OR: ٢٠ / أغسطس / ٢٠١٣

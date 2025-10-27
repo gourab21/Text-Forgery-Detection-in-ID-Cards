@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_37019084692_714cba8ac1_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        416,
+        411,
+        1503,
+        610
+      ],
+      "lines": [
+        {
+          "text": "Kevinee",
+          "box": [
+            508,
+            470,
+            774,
+            514
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        883,
+        1033,
+        1005
+      ],
+      "lines": [
+        {
+          "text": "09.11-935",
+          "box": [
+            518,
+            920,
+            872,
+            971
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1125,
+        1072,
+        1660,
+        1190
+      ],
+      "lines": [
+        {
+          "text": "19-10-9995",
+          "box": [
+            1186,
+            1092,
+            1542,
+            1145
+          ]
+        }
+      ]
+    }
+  ]
+}

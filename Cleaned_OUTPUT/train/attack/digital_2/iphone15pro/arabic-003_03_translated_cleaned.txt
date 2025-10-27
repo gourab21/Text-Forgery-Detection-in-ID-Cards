@@ -1,0 +1,27 @@
+E1
+EN: Tavid
+
+L1
+EN: Ahmed Tariq
+OR: الأحمد طارق
+
+E2
+EN: 29 Apr 2007
+
+E3
+EN: 09 Jul 2018
+
+E4
+EN: 24 Dec 200
+
+L2
+EN: April 29, 1985
+OR: ٢٩ / أبريل / ۱۹۸۵ ٩٨٥
+
+L3
+EN: / 1 / July / 2018
+OR: / 1 / يوليو / ۲۰۱۸
+
+L4
+EN: December 24, 20331
+OR: ٢٤ / ديسمبر / ٢٠٣٣١

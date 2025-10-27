@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\scan\\singapore-flickr_F_17178258920_6f5f1eedd0_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\singapore-flickr_F_17178258920_6f5f1eedd0_k.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            511,
+            464,
+            987,
+            516
+          ],
+          "original_text": "Elena Petrova",
+          "translated_en": "Elena Petrova"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            506,
+            919,
+            866,
+            968
+          ],
+          "original_text": "1982-05-28",
+          "translated_en": "1982-05-28"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1160,
+            1111,
+            1524,
+            1160
+          ],
+          "original_text": "1992-05-28",
+          "translated_en": "1992-05-28"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_17178258920_6f5f1eedd0_k_translated_cleaned.jpg"
+}

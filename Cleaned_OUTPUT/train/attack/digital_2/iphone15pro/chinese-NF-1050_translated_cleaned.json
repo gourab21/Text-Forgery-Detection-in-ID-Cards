@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\chinese-NF-1050_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\chinese-NF-1050.jpg",
+  "width": 2781,
+  "height": 1776,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            957,
+            616,
+            1086,
+            682
+          ],
+          "original_text": "黄静",
+          "translated_en": "Huang Jing"
+        },
+        {
+          "box": [
+            957,
+            698,
+            1373,
+            769
+          ],
+          "original_text": "Haitiyning",
+          "translated_en": "Haitian"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1738,
+            994,
+            2172,
+            1052
+          ],
+          "original_text": "15 Jul 1990",
+          "translated_en": "15 Jul 1990"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1742,
+            1248,
+            2202,
+            1321
+          ],
+          "original_text": "08 May 2017",
+          "translated_en": "08 May 2017"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            971,
+            1539,
+            1450,
+            1603
+          ],
+          "original_text": "06 May 2030",
+          "translated_en": "06 May 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1050_translated_cleaned.jpg"
+}

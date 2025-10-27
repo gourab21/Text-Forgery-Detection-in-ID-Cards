@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_14867283357_afe052b7e3_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "width": 1996,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            320,
+            950,
+            364
+          ],
+          "original_text": "DE JONG",
+          "translated_en": "DE JONG"
+        },
+        {
+          "box": [
+            700,
+            380,
+            1171,
+            432
+          ],
+          "original_text": "Davidke Cornelis",
+          "translated_en": "Davidke Cornelis"
+        },
+        {
+          "box": [
+            689,
+            444,
+            792,
+            495
+          ],
+          "original_text": "Ilse",
+          "translated_en": "Ilse"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1572,
+            604,
+            1892,
+            648
+          ],
+          "original_text": "19 02 2065",
+          "translated_en": "19 02 2065"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1534,
+            773,
+            1889,
+            822
+          ],
+          "original_text": "05 01 2071",
+          "translated_en": "05 01 2071"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_14867283357_afe052b7e3_c_translated_cleaned.jpg"
+}

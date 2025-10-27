@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-026_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        989,
+        471,
+        2335,
+        747
+      ],
+      "lines": [
+        {
+          "text": "FRAAWNDESRINHEBO",
+          "box": [
+            1098,
+            536,
+            1898,
+            599
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            1088,
+            627,
+            1318,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2634,
+        906,
+        3195,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "01 09 12031",
+          "box": [
+            2734,
+            946,
+            3194,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1983,
+        1151,
+        2671,
+        1333
+      ],
+      "lines": [
+        {
+          "text": "29 08 2026",
+          "box": [
+            2084,
+            1214,
+            2560,
+            1280
+          ]
+        }
+      ]
+    }
+  ]
+}

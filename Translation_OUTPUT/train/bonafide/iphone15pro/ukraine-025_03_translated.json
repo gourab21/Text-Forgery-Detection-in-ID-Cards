@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\ukraine-025_03.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\ukraine-025_03.jpg",
+  "width": 2820,
+  "height": 1791,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            907,
+            422,
+            1262,
+            487
+          ],
+          "original_text": "Мельник /",
+          "translated_en": "Miller /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            906,
+            504,
+            1146,
+            561
+          ],
+          "original_text": "Melnyk",
+          "translated_en": "Melnyk",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            906,
+            674,
+            1481,
+            744
+          ],
+          "original_text": "Юлія Сергіївна /",
+          "translated_en": "Yulia Sergiivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            908,
+            764,
+            1112,
+            815
+          ],
+          "original_text": "Yuliya",
+          "translated_en": "Julia",
+          "detected_lang": "az"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            915,
+            968,
+            1293,
+            1024
+          ],
+          "original_text": "21.02.1973",
+          "translated_en": "21.02.1973",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            921,
+            1364,
+            1298,
+            1418
+          ],
+          "original_text": "25.02.2019",
+          "translated_en": "25.02.2019",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            925,
+            1645,
+            1302,
+            1697
+          ],
+          "original_text": "24.02.2024",
+          "translated_en": "24.02.2024",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-025_03_translated.jpg"
+}

@@ -1,0 +1,14 @@
+LE1
+EN: Liu Ben
+OR: 刘 本
+EN: Rachel
+OR: Rachele
+
+E2
+EN: 16 Oct 2099
+
+E3
+EN: 13 Apr 2010
+
+E4
+EN: 20 Jan 1907

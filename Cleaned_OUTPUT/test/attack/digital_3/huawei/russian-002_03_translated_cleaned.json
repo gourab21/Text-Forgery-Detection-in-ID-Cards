@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\russian-002_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-002_03.jpg",
+  "width": 3189,
+  "height": 1968,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1149,
+            412,
+            1586,
+            484
+          ],
+          "original_text": "Васильева /",
+          "translated_en": "Vasilyeva /"
+        },
+        {
+          "box": [
+            1140,
+            495,
+            1453,
+            551
+          ],
+          "original_text": "Vasilieva",
+          "translated_en": "Vasilieva"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1136,
+            746,
+            2124,
+            819
+          ],
+          "original_text": "Людмила Анатольевна / в",
+          "translated_en": "Lyudmila Anatolyevna / in"
+        },
+        {
+          "box": [
+            1136,
+            822,
+            1860,
+            887
+          ],
+          "original_text": "Lisamla Anatollena",
+          "translated_en": "Lisamla Anatollena"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1133,
+            1069,
+            1530,
+            1124
+          ],
+          "original_text": "02.05.2024",
+          "translated_en": "02.05.2024"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1127,
+            1509,
+            1526,
+            1566
+          ],
+          "original_text": "20.08.2015",
+          "translated_en": "20.08.2015"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1121,
+            1801,
+            1517,
+            1860
+          ],
+          "original_text": "24.09.2038",
+          "translated_en": "24.09.2038"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-002_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1062.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1062.jpg",
+  "width": 2832,
+  "height": 1808,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            929,
+            685,
+            1404,
+            739
+          ],
+          "original_text": "Les cluvn",
+          "translated_en": "Les cluvn",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            931,
+            756,
+            1540,
+            819
+          ],
+          "original_text": "337 Lakeview Dr",
+          "translated_en": "337 Lakeview Dr",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            930,
+            840,
+            1608,
+            902
+          ],
+          "original_text": "Medford OR 97501",
+          "translated_en": "Medford OR 97501",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2132,
+            1093,
+            2595,
+            1145
+          ],
+          "original_text": "DOB : 07-19-",
+          "translated_en": "DOB : 07-19-",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1062_translated.jpg"
+}

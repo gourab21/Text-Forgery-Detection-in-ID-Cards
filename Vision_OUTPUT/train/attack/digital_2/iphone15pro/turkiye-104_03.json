@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\turkiye-104_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        839,
+        876,
+        1712,
+        1046
+      ],
+      "lines": [
+        {
+          "text": "Yobec",
+          "box": [
+            927,
+            936,
+            1164,
+            1000
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        836,
+        639,
+        1711,
+        817
+      ],
+      "lines": [
+        {
+          "text": "Altun",
+          "box": [
+            923,
+            714,
+            1114,
+            766
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        835,
+        1098,
+        1680,
+        1265
+      ],
+      "lines": [
+        {
+          "text": "14.07.1203",
+          "box": [
+            936,
+            1149,
+            1368,
+            1220
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        841,
+        1555,
+        1668,
+        1736
+      ],
+      "lines": [
+        {
+          "text": "21.09.1998",
+          "box": [
+            943,
+            1608,
+            1373,
+            1667
+          ]
+        }
+      ]
+    }
+  ]
+}

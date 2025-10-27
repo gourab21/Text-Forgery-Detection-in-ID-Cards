@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-NF-1076.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        671,
+        1987,
+        1041
+      ],
+      "lines": [
+        {
+          "text": "Holycia Arderson $ 800",
+          "box": [
+            1048,
+            716,
+            1963,
+            824
+          ]
+        },
+        {
+          "text": "1543 Elm St RATE",
+          "box": [
+            1041,
+            811,
+            1846,
+            935
+          ]
+        },
+        {
+          "text": "Phoenix AZ 85021",
+          "box": [
+            1039,
+            921,
+            1788,
+            991
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2332,
+        1188,
+        3128,
+        1348
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-07-62",
+          "box": [
+            2399,
+            1228,
+            3035,
+            1305
+          ]
+        }
+      ]
+    }
+  ]
+}

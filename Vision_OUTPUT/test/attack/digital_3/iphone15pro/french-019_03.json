@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-019_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        828,
+        376,
+        1648,
+        508
+      ],
+      "lines": [
+        {
+          "text": "BERGER",
+          "box": [
+            903,
+            427,
+            1166,
+            475
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        820,
+        621,
+        1745,
+        778
+      ],
+      "lines": [
+        {
+          "text": "Reginate , Michele",
+          "box": [
+            904,
+            659,
+            1466,
+            733
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1932,
+        871,
+        2475,
+        1021
+      ],
+      "lines": [
+        {
+          "text": "13 10 2050",
+          "box": [
+            1987,
+            885,
+            2358,
+            936
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1905,
+        1421,
+        2458,
+        1558
+      ],
+      "lines": [
+        {
+          "text": "05 07 2066",
+          "box": [
+            1992,
+            1427,
+            2366,
+            1482
+          ]
+        }
+      ]
+    }
+  ]
+}

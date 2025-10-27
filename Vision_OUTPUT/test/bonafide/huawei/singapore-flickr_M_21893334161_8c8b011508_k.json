@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_21893334161_8c8b011508_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        657,
+        652,
+        2378,
+        966
+      ],
+      "lines": [
+        {
+          "text": "Budi Hartono",
+          "box": [
+            802,
+            751,
+            1521,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        733,
+        1399,
+        1637,
+        1593
+      ],
+      "lines": [
+        {
+          "text": "1990-07-25",
+          "box": [
+            823,
+            1471,
+            1395,
+            1544
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1780,
+        1699,
+        2627,
+        1887
+      ],
+      "lines": [
+        {
+          "text": "2000-07-25",
+          "box": [
+            1872,
+            1750,
+            2457,
+            1828
+          ]
+        }
+      ]
+    }
+  ]
+}

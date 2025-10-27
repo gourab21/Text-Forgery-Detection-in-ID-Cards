@@ -1,0 +1,79 @@
+{
+  "source_json": "test\\bonafide\\huawei\\netherland-flickr_M_33239373490_5b5df42090_k.json",
+  "image_relative": "test\\bonafide\\huawei\\netherland-flickr_M_33239373490_5b5df42090_k.jpg",
+  "width": 3176,
+  "height": 1983,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1075,
+            515,
+            1556,
+            585
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1074,
+            614,
+            1694,
+            692
+          ],
+          "original_text": "Fleur Henrike",
+          "translated_en": "Fleur Henrike",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1081,
+            729,
+            1445,
+            807
+          ],
+          "original_text": "Matthijs",
+          "translated_en": "Matthijs",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2486,
+            933,
+            3022,
+            1006
+          ],
+          "original_text": "22 10 2004",
+          "translated_en": "22 10 2004",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2443,
+            1208,
+            3030,
+            1287
+          ],
+          "original_text": "07 08 2029",
+          "translated_en": "07 08 2029",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_33239373490_5b5df42090_k_translated.jpg"
+}

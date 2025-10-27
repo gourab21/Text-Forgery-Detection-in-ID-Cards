@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-117_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        673,
+        1987,
+        1044
+      ],
+      "lines": [
+        {
+          "text": "Michaele D",
+          "box": [
+            1043,
+            731,
+            1969,
+            806
+          ]
+        },
+        {
+          "text": "1234 Elm St RATE",
+          "box": [
+            1041,
+            823,
+            1847,
+            936
+          ]
+        },
+        {
+          "text": "Springfield IL 62704",
+          "box": [
+            1034,
+            930,
+            1886,
+            1002
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2330,
+        1191,
+        3125,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "DOB : 09-11-51",
+          "box": [
+            2397,
+            1236,
+            3032,
+            1309
+          ]
+        }
+      ]
+    }
+  ]
+}

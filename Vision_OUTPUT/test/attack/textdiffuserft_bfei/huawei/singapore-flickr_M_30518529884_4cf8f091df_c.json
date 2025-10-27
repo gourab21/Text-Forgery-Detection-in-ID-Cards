@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_30518529884_4cf8f091df_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        658,
+        653,
+        2380,
+        968
+      ],
+      "lines": [
+        {
+          "text": "Amanal Hin Omar",
+          "box": [
+            792,
+            729,
+            1730,
+            806
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        734,
+        1402,
+        1638,
+        1596
+      ],
+      "lines": [
+        {
+          "text": "100882",
+          "box": [
+            828,
+            1460,
+            1294,
+            1544
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1780,
+        1702,
+        2628,
+        1890
+      ],
+      "lines": [
+        {
+          "text": "10-06-6-64",
+          "box": [
+            1881,
+            1742,
+            2446,
+            1823
+          ]
+        }
+      ]
+    }
+  ]
+}

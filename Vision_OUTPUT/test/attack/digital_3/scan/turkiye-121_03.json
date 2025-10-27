@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-121_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        611,
+        1215,
+        730
+      ],
+      "lines": [
+        {
+          "text": "Brand",
+          "box": [
+            658,
+            651,
+            803,
+            689
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Balcı",
+          "box": [
+            658,
+            496,
+            782,
+            533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        767,
+        1192,
+        884
+      ],
+      "lines": [
+        {
+          "text": "04.12.2002",
+          "box": [
+            652,
+            806,
+            942,
+            850
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1086,
+        1184,
+        1211
+      ],
+      "lines": [
+        {
+          "text": "28.01.2073",
+          "box": [
+            643,
+            1119,
+            931,
+            1162
+          ]
+        }
+      ]
+    }
+  ]
+}

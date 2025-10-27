@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_M_2409019110_4f42632225_o.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        403,
+        1779,
+        751
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            945,
+            451,
+            1365,
+            509
+          ]
+        },
+        {
+          "text": "Joris Petra",
+          "box": [
+            941,
+            542,
+            1357,
+            600
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            941,
+            632,
+            1375,
+            692
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2069,
+        778,
+        2741,
+        916
+      ],
+      "lines": [
+        {
+          "text": "25 01 1981",
+          "box": [
+            2172,
+            810,
+            2639,
+            877
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2034,
+        1016,
+        2731,
+        1187
+      ],
+      "lines": [
+        {
+          "text": "23 01 2034",
+          "box": [
+            2135,
+            1053,
+            2644,
+            1118
+          ]
+        }
+      ]
+    }
+  ]
+}

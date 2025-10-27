@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-091_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        834,
+        381,
+        1659,
+        514
+      ],
+      "lines": [
+        {
+          "text": "ROCHE",
+          "box": [
+            912,
+            434,
+            1143,
+            484
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        629,
+        1757,
+        788
+      ],
+      "lines": [
+        {
+          "text": "Cécile , Marie",
+          "box": [
+            915,
+            670,
+            1342,
+            740
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1945,
+        882,
+        2492,
+        1033
+      ],
+      "lines": [
+        {
+          "text": "08 09 1992",
+          "box": [
+            2001,
+            884,
+            2376,
+            941
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1919,
+        1439,
+        2476,
+        1578
+      ],
+      "lines": [
+        {
+          "text": "15 10 2031",
+          "box": [
+            2019,
+            1439,
+            2386,
+            1489
+          ]
+        }
+      ]
+    }
+  ]
+}

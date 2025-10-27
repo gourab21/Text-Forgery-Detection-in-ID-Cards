@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\turkiye-NM-1033.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        594,
+        613,
+        1213,
+        732
+      ],
+      "lines": [
+        {
+          "text": "Burak",
+          "box": [
+            651,
+            653,
+            800,
+            690
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        448,
+        1213,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Arslan",
+          "box": [
+            649,
+            498,
+            810,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        591,
+        769,
+        1190,
+        886
+      ],
+      "lines": [
+        {
+          "text": "14.11.1990",
+          "box": [
+            648,
+            806,
+            935,
+            846
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        596,
+        1089,
+        1182,
+        1214
+      ],
+      "lines": [
+        {
+          "text": "24.12.2031",
+          "box": [
+            643,
+            1120,
+            928,
+            1162
+          ]
+        }
+      ]
+    }
+  ]
+}

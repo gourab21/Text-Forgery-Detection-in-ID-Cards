@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        817,
+        386,
+        1928,
+        612
+      ],
+      "lines": [
+        {
+          "text": "TRAVISA COSTA",
+          "box": [
+            918,
+            441,
+            1450,
+            494
+          ]
+        },
+        {
+          "text": "Joäo",
+          "box": [
+            904,
+            515,
+            1062,
+            561
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2175,
+        744,
+        2638,
+        868
+      ],
+      "lines": [
+        {
+          "text": "21 10 1943",
+          "box": [
+            2246,
+            771,
+            2578,
+            823
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1638,
+        944,
+        2205,
+        1092
+      ],
+      "lines": [
+        {
+          "text": "23 03 1928",
+          "box": [
+            1720,
+            985,
+            2094,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

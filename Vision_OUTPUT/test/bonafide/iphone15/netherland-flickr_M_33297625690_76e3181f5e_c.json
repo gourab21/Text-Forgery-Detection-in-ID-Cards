@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_M_33297625690_76e3181f5e_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        867,
+        404,
+        1779,
+        753
+      ],
+      "lines": [
+        {
+          "text": "DE VRIES",
+          "box": [
+            951,
+            451,
+            1342,
+            515
+          ]
+        },
+        {
+          "text": "Tess Cornelis",
+          "box": [
+            951,
+            539,
+            1480,
+            604
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            952,
+            634,
+            1276,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2069,
+        781,
+        2741,
+        920
+      ],
+      "lines": [
+        {
+          "text": "24 06 2001",
+          "box": [
+            2177,
+            818,
+            2642,
+            884
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2034,
+        1021,
+        2731,
+        1193
+      ],
+      "lines": [
+        {
+          "text": "18 03 2028",
+          "box": [
+            2142,
+            1059,
+            2646,
+            1125
+          ]
+        }
+      ]
+    }
+  ]
+}

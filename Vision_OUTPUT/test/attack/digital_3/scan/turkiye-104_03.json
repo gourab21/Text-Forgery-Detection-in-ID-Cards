@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-104_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        612,
+        1216,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Tyler",
+          "box": [
+            662,
+            656,
+            809,
+            702
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        448,
+        1216,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Altun",
+          "box": [
+            651,
+            502,
+            787,
+            540
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        768,
+        1193,
+        885
+      ],
+      "lines": [
+        {
+          "text": "19.09.2087",
+          "box": [
+            663,
+            806,
+            949,
+            846
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1088,
+        1185,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "15.12.2088",
+          "box": [
+            671,
+            1122,
+            955,
+            1162
+          ]
+        }
+      ]
+    }
+  ]
+}

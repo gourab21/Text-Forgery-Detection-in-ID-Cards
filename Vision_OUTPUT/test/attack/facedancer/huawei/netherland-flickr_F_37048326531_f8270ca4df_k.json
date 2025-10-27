@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\netherland-flickr_F_37048326531_f8270ca4df_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1006,
+        474,
+        2066,
+        885
+      ],
+      "lines": [
+        {
+          "text": "VAN DER MEER",
+          "box": [
+            1081,
+            527,
+            1822,
+            609
+          ]
+        },
+        {
+          "text": "Hendrik Johannes",
+          "box": [
+            1089,
+            635,
+            1937,
+            712
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            1089,
+            751,
+            1517,
+            823
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2401,
+        917,
+        3181,
+        1080
+      ],
+      "lines": [
+        {
+          "text": "2806 2000",
+          "box": [
+            2528,
+            965,
+            3072,
+            1044
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2361,
+        1197,
+        3170,
+        1400
+      ],
+      "lines": [
+        {
+          "text": "06 10 2028",
+          "box": [
+            2480,
+            1250,
+            3078,
+            1330
+          ]
+        }
+      ]
+    }
+  ]
+}

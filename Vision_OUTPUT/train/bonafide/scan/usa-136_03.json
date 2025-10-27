@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-136_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        425,
+        1238,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Jessica Hill",
+          "box": [
+            647,
+            471,
+            925,
+            513
+          ]
+        },
+        {
+          "text": "518 Spruce St",
+          "box": [
+            650,
+            530,
+            1006,
+            574
+          ]
+        },
+        {
+          "text": "Portland ME 04101",
+          "box": [
+            650,
+            585,
+            1138,
+            629
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1454,
+        753,
+        1949,
+        853
+      ],
+      "lines": [
+        {
+          "text": "DOB : 04-20-89",
+          "box": [
+            1500,
+            759,
+            1892,
+            799
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\indian-108_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\indian-108_03.jpg",
+  "width": 2794,
+  "height": 1786,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            975,
+            674,
+            1192,
+            729
+          ],
+          "original_text": "DESAI",
+          "translated_en": "DESAI"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            972,
+            890,
+            1494,
+            947
+          ],
+          "original_text": "AHMASRANAI",
+          "translated_en": "AHMASRANAI"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            977,
+            1114,
+            1442,
+            1184
+          ],
+          "original_text": "21/06/209",
+          "translated_en": "21/06/209"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            987,
+            1533,
+            1427,
+            1601
+          ],
+          "original_text": "07/04/2022",
+          "translated_en": "07/04/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1991,
+            1523,
+            2447,
+            1585
+          ],
+          "original_text": "04/04/2038",
+          "translated_en": "04/04/2038"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-108_03_translated_cleaned.jpg"
+}

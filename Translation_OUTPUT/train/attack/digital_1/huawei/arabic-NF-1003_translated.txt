@@ -1,0 +1,30 @@
+E1
+EN: AnnaaallSaayed
+
+L1
+OR: السيد أميرة
+EN: Mr. Amira
+
+E2
+EN: 23 Sep 2026
+
+E3
+EN: 07 Jan 2025
+
+E4
+EN: 07 Jan 2012
+
+L2
+OR: تاریخ
+EN: History
+OR: ٢٢ / سبتمبر / /
+EN: September 22
+
+L3
+OR: ٠٧ / يناير / ۲۰۲۵
+EN: January 7, 2025
+
+L4
+EN: 3
+OR: ٠٧ / يناير / ۲۰۳۵
+EN: January 7, 2035

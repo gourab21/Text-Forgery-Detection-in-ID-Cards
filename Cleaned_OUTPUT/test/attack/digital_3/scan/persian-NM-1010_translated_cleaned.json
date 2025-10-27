@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\persian-NM-1010_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\persian-NM-1010.jpg",
+  "width": 1991,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            763,
+            283,
+            970,
+            324
+          ],
+          "original_text": "Thomas",
+          "translated_en": "Thomas"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            756,
+            429,
+            921,
+            472
+          ],
+          "original_text": "Salehi",
+          "translated_en": "Salehi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1347,
+            294,
+            1443,
+            338
+          ],
+          "original_text": "پیمان",
+          "translated_en": "alliance"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1337,
+            435,
+            1474,
+            482
+          ],
+          "original_text": "صالحی",
+          "translated_en": "Salehi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            756,
+            596,
+            1038,
+            636
+          ],
+          "original_text": "21/07/1903",
+          "translated_en": "21/07/1903"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            748,
+            925,
+            1028,
+            965
+          ],
+          "original_text": "02/02/2015",
+          "translated_en": "02/02/2015"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1335,
+            930,
+            1620,
+            974
+          ],
+          "original_text": "21/07/1922",
+          "translated_en": "21/07/1922"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NM-1010_translated_cleaned.jpg"
+}

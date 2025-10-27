@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\chinese-001_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        888,
+        559,
+        1538,
+        823
+      ],
+      "lines": [
+        {
+          "text": "Susan ing",
+          "box": [
+            950,
+            697,
+            1296,
+            757
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1668,
+        932,
+        2241,
+        1120
+      ],
+      "lines": [
+        {
+          "text": "01 Jan 1975",
+          "box": [
+            1732,
+            985,
+            2165,
+            1043
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1644,
+        1201,
+        2273,
+        1383
+      ],
+      "lines": [
+        {
+          "text": "26 Jul 2011",
+          "box": [
+            1736,
+            1239,
+            2150,
+            1303
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        860,
+        1471,
+        1516,
+        1644
+      ],
+      "lines": [
+        {
+          "text": "04 Nov 1986",
+          "box": [
+            966,
+            1529,
+            1373,
+            1579
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-NF-1004.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        682,
+        1987,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "Mary Davis",
+          "box": [
+            1052,
+            757,
+            1507,
+            839
+          ]
+        },
+        {
+          "text": "6784 Creek Rd",
+          "box": [
+            1049,
+            854,
+            1652,
+            924
+          ]
+        },
+        {
+          "text": "Dover DE 19901",
+          "box": [
+            1048,
+            951,
+            1714,
+            1020
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2332,
+        1208,
+        3128,
+        1371
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-10-99",
+          "box": [
+            2407,
+            1260,
+            3033,
+            1333
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+E1
+EN: Marka Al - Khairy
+
+L1
+EN: Father Rania
+OR: الخوري رانيا
+
+E2
+EN: 19 Feb 2003
+
+E3
+EN: 28 May 2023
+
+E4
+EN: 12 Sep 1988
+
+L2
+EN: January 15, 1983
+OR: ١٥ / يناير / ۱۹۸۳
+
+L3
+EN: May 28, 2023
+OR: ۲۸ / مايو / ۲۰۲۳
+
+L4
+EN: September 11, 2028 028
+OR: ۱۱ / سبتمبر / ٢٠٢٨ ۰۲۸

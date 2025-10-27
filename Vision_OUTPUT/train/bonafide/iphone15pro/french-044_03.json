@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-044_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        835,
+        380,
+        1661,
+        513
+      ],
+      "lines": [
+        {
+          "text": "MOREAU",
+          "box": [
+            910,
+            428,
+            1200,
+            477
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        827,
+        628,
+        1759,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Louis , Alain",
+          "box": [
+            915,
+            671,
+            1288,
+            732
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1947,
+        881,
+        2494,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "16 07 1987",
+          "box": [
+            2002,
+            884,
+            2372,
+            935
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1921,
+        1438,
+        2478,
+        1577
+      ],
+      "lines": [
+        {
+          "text": "07 11 2026",
+          "box": [
+            2011,
+            1438,
+            2382,
+            1485
+          ]
+        }
+      ]
+    }
+  ]
+}

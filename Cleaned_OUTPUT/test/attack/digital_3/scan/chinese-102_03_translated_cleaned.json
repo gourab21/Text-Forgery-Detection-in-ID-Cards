@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-102_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-102_03.jpg",
+  "width": 1995,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            674,
+            436,
+            782,
+            483
+          ],
+          "original_text": "刘颖",
+          "translated_en": "Liu Ying"
+        },
+        {
+          "box": [
+            678,
+            496,
+            883,
+            542
+          ],
+          "original_text": "Faithing",
+          "translated_en": "Faithing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1239,
+            702,
+            1561,
+            743
+          ],
+          "original_text": "17 Nov 2085",
+          "translated_en": "17 Nov 2085"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1241,
+            886,
+            1552,
+            929
+          ],
+          "original_text": "14 Jan 2015",
+          "translated_en": "14 Jan 2015"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            691,
+            1088,
+            999,
+            1127
+          ],
+          "original_text": "18 Feb 2052",
+          "translated_en": "18 Feb 2052"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-102_03_translated_cleaned.jpg"
+}

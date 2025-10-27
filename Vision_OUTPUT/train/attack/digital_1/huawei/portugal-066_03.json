@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        999,
+        479,
+        2356,
+        759
+      ],
+      "lines": [
+        {
+          "text": "SICTORIAOSTA",
+          "box": [
+            1103,
+            552,
+            1728,
+            615
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            1103,
+            640,
+            1808,
+            727
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2659,
+        922,
+        3225,
+        1078
+      ],
+      "lines": [
+        {
+          "text": "18 03 12010",
+          "box": [
+            2762,
+            968,
+            3224,
+            1035
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2002,
+        1171,
+        2696,
+        1356
+      ],
+      "lines": [
+        {
+          "text": "04 01 1994",
+          "box": [
+            2098,
+            1238,
+            2576,
+            1302
+          ]
+        }
+      ]
+    }
+  ]
+}

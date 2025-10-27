@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        619,
+        298,
+        1461,
+        471
+      ],
+      "lines": [
+        {
+          "text": "THERESAIBEIRO",
+          "box": [
+            696,
+            344,
+            1107,
+            383
+          ]
+        },
+        {
+          "text": "João Carlos",
+          "box": [
+            684,
+            394,
+            983,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1648,
+        574,
+        1999,
+        670
+      ],
+      "lines": [
+        {
+          "text": "30 02 2001",
+          "box": [
+            1700,
+            598,
+            1958,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1241,
+        729,
+        1671,
+        844
+      ],
+      "lines": [
+        {
+          "text": "06 01 2028",
+          "box": [
+            1303,
+            770,
+            1587,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+LE1
+EN: Kyrylenko /
+OR: Кириленко /
+EN: Kyrylenko
+
+LE2
+EN: Anna Pavlovna /
+OR: Анна Павлівна /
+EN: Tina
+
+E3
+EN: 20.10.1994
+
+E4
+EN: 07.04.2013
+
+E5
+EN: 19.05.2010

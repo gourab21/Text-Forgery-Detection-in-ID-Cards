@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        470,
+        2340,
+        745
+      ],
+      "lines": [
+        {
+          "text": "SILVA PEREIRA",
+          "box": [
+            1099,
+            535,
+            1750,
+            606
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            1096,
+            626,
+            1404,
+            688
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2640,
+        907,
+        3202,
+        1058
+      ],
+      "lines": [
+        {
+          "text": "22 04 1973",
+          "box": [
+            2747,
+            950,
+            3201,
+            1015
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1988,
+        1150,
+        2678,
+        1332
+      ],
+      "lines": [
+        {
+          "text": "20 04 2022",
+          "box": [
+            2093,
+            1215,
+            2558,
+            1281
+          ]
+        }
+      ]
+    }
+  ]
+}

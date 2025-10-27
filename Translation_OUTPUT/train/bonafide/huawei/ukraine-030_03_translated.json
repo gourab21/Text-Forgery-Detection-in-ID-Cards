@@ -1,0 +1,133 @@
+{
+  "source_json": "train\\bonafide\\huawei\\ukraine-030_03.json",
+  "image_relative": "train\\bonafide\\huawei\\ukraine-030_03.jpg",
+  "width": 3193,
+  "height": 1971,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1030,
+            460,
+            1424,
+            535
+          ],
+          "original_text": "Зубенко /",
+          "translated_en": "Zubenko /",
+          "detected_lang": "mk"
+        },
+        {
+          "box": [
+            1031,
+            553,
+            1364,
+            608
+          ],
+          "original_text": "Zubenko",
+          "translated_en": "Zubenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1024,
+            749,
+            1785,
+            833
+          ],
+          "original_text": "Тетяна Василівна /",
+          "translated_en": "Tatyana Vasylivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1024,
+            843,
+            1309,
+            901
+          ],
+          "original_text": "Tetiana",
+          "translated_en": "Tetiana",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1022,
+            1077,
+            1458,
+            1140
+          ],
+          "original_text": "25.12.1995",
+          "translated_en": "25.12.1995",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            993,
+            1458,
+            1856,
+            1506
+          ],
+          "original_text": "Дата вида видачі / Date of issue",
+          "translated_en": "Дата вида видачі / Date of issue",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1019,
+            1517,
+            1445,
+            1580
+          ],
+          "original_text": "10.11.2020",
+          "translated_en": "10.11.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1233,
+            1778,
+            1277,
+            1820
+          ],
+          "original_text": "д",
+          "translated_en": "д",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1011,
+            1828,
+            1440,
+            1890
+          ],
+          "original_text": "10.11.2025",
+          "translated_en": "10.11.2025",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-030_03_translated.jpg"
+}

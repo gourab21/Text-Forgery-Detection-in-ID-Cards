@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\french-091_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        950,
+        419,
+        1890,
+        564
+      ],
+      "lines": [
+        {
+          "text": "ROCHE",
+          "box": [
+            1043,
+            464,
+            1307,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        941,
+        691,
+        2002,
+        864
+      ],
+      "lines": [
+        {
+          "text": "Cécile , Marie",
+          "box": [
+            1036,
+            739,
+            1524,
+            805
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2215,
+        968,
+        2839,
+        1135
+      ],
+      "lines": [
+        {
+          "text": "08 09 12001",
+          "box": [
+            2275,
+            1007,
+            2738,
+            1076
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2186,
+        1581,
+        2819,
+        1732
+      ],
+      "lines": [
+        {
+          "text": "15 10 2012",
+          "box": [
+            2264,
+            1624,
+            2722,
+            1685
+          ]
+        }
+      ]
+    }
+  ]
+}

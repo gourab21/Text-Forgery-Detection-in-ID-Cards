@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-NF-1076.json",
+  "image_relative": "train\\bonafide\\scan\\usa-NF-1076.jpg",
+  "width": 1993,
+  "height": 1252,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            657,
+            469,
+            1109,
+            513
+          ],
+          "original_text": "Patricia Anderson",
+          "translated_en": "Patricia Anderson",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            655,
+            528,
+            965,
+            568
+          ],
+          "original_text": "1543 Elm St",
+          "translated_en": "1543 Elm St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            652,
+            584,
+            1118,
+            630
+          ],
+          "original_text": "Phoenix AZ 85021",
+          "translated_en": "Phoenix AZ 85021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1495,
+            777,
+            1888,
+            822
+          ],
+          "original_text": "DOB : 11-12-83",
+          "translated_en": "DOB : 11-12-83",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1076_translated.jpg"
+}

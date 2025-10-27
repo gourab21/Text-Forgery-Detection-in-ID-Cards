@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\french-022_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        266,
+        1178,
+        359
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            660,
+            295,
+            851,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        587,
+        439,
+        1249,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Pobedar",
+          "box": [
+            655,
+            462,
+            930,
+            518
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1382,
+        615,
+        1770,
+        720
+      ],
+      "lines": [
+        {
+          "text": "23 05 22001",
+          "box": [
+            1421,
+            639,
+            1706,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1363,
+        1004,
+        1759,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "29 09 2025",
+          "box": [
+            1412,
+            1024,
+            1689,
+            1063
+          ]
+        }
+      ]
+    }
+  ]
+}

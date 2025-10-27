@@ -1,0 +1,27 @@
+E1
+EN: Fatima Al - Amin
+
+L1
+OR: الأمين فاطمة
+EN: Secretary Fatima
+
+E2
+EN: 04 May 1981
+
+E3
+EN: 06 Jul 2018
+
+E4
+EN: 06 Jul 2033
+
+L2
+OR: ٤ / مايو / ۱۹۸۱
+EN: May 4, 1981
+
+L3
+OR: ٦ / يوليو / ۲۰۱۸
+EN: July 6, 2018
+
+L4
+OR: ٦ / يوليو / ٢٠٣٣
+EN: July 6, 2033

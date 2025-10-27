@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-011_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        854,
+        612,
+        1751,
+        951
+      ],
+      "lines": [
+        {
+          "text": "Diane Kruger",
+          "box": [
+            922,
+            675,
+            1394,
+            734
+          ]
+        },
+        {
+          "text": "789 Willow Ro",
+          "box": [
+            917,
+            726,
+            1458,
+            819
+          ]
+        },
+        {
+          "text": "Little Rock AR 72201",
+          "box": [
+            925,
+            831,
+            1676,
+            895
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2056,
+        1085,
+        2756,
+        1230
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-05-92",
+          "box": [
+            2119,
+            1086,
+            2674,
+            1137
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+LE1
+OR: Паниковский /
+EN: Panikovsky /
+EN: Panikovsky
+
+LE2
+OR: Михаил Самуэлевич / Б
+EN: Mikhail Samuelevich / B
+EN: Jamesl
+
+E3
+EN: 15.12.1956
+
+E4
+EN: 25.03.2021
+
+E5
+EN: 20.05.2016

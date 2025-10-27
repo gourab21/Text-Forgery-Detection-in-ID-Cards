@@ -1,0 +1,19 @@
+LE1
+OR: Соколова /
+EN: Sokolova /
+EN: Sokolova
+
+LE2
+OR: Елизавета Петровна / E
+EN: Elizaveta Petrovna / E
+OR: Elviar la Petrovora
+EN: Elviar the Petrovora
+
+E3
+EN: 27.05.:2017
+
+E4
+EN: 05.07.2019
+
+E5
+EN: 02.07.2002

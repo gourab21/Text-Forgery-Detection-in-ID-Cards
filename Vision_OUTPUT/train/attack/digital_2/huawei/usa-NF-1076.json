@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-NF-1076.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        671,
+        1987,
+        1041
+      ],
+      "lines": [
+        {
+          "text": "Fizabet",
+          "box": [
+            1043,
+            732,
+            1408,
+            811
+          ]
+        },
+        {
+          "text": "1543 Elm Ston St RATE",
+          "box": [
+            1044,
+            671,
+            1847,
+            991
+          ]
+        },
+        {
+          "text": "Phoenix AZ 85021",
+          "box": [
+            1040,
+            920,
+            1787,
+            990
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2332,
+        1188,
+        3128,
+        1348
+      ],
+      "lines": [
+        {
+          "text": "DOB : 11-12 - a5",
+          "box": [
+            2399,
+            1230,
+            3054,
+            1296
+          ]
+        }
+      ]
+    }
+  ]
+}

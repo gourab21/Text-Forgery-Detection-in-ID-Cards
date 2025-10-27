@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        940,
+        451,
+        2219,
+        716
+      ],
+      "lines": [
+        {
+          "text": "OLIVEIRA MARTINS",
+          "box": [
+            1017,
+            518,
+            1806,
+            580
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            1018,
+            611,
+            1467,
+            665
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2504,
+        870,
+        3037,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "29 04 1992",
+          "box": [
+            2592,
+            870,
+            3031,
+            930
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1886,
+        1105,
+        2539,
+        1278
+      ],
+      "lines": [
+        {
+          "text": "12 10 2029",
+          "box": [
+            1985,
+            1135,
+            2419,
+            1199
+          ]
+        }
+      ]
+    }
+  ]
+}

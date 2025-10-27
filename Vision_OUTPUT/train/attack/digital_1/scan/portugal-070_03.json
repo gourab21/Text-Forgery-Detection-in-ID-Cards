@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "P NIETRARCOSTA",
+          "box": [
+            691,
+            342,
+            1104,
+            386
+          ]
+        },
+        {
+          "text": "João",
+          "box": [
+            686,
+            402,
+            805,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1646,
+        576,
+        1996,
+        673
+      ],
+      "lines": [
+        {
+          "text": "07 05 2006",
+          "box": [
+            1703,
+            601,
+            1995,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        731,
+        1668,
+        846
+      ],
+      "lines": [
+        {
+          "text": "05 05 2021",
+          "box": [
+            1300,
+            768,
+            1593,
+            810
+          ]
+        }
+      ]
+    }
+  ]
+}

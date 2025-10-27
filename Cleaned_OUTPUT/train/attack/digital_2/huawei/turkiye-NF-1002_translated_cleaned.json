@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\turkiye-NF-1002_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\turkiye-NF-1002.jpg",
+  "width": 3200,
+  "height": 1970,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1045,
+            1026,
+            1226,
+            1107
+          ],
+          "original_text": "Eenj",
+          "translated_en": "Eenj"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1048,
+            783,
+            1333,
+            843
+          ],
+          "original_text": "Tezcan",
+          "translated_en": "Tezcan"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1043,
+            1272,
+            1520,
+            1347
+          ],
+          "original_text": "17.09.2034",
+          "translated_en": "17.09.2034"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1036,
+            1774,
+            1512,
+            1840
+          ],
+          "original_text": "27.10.2214",
+          "translated_en": "27.10.2214"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-NF-1002_translated_cleaned.jpg"
+}

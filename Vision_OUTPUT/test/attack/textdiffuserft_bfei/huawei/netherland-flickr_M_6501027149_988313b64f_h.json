@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_6501027149_988313b64f_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        1006,
+        475,
+        2066,
+        887
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            1080,
+            532,
+            1444,
+            608
+          ]
+        },
+        {
+          "text": "Michellernelis",
+          "box": [
+            1095,
+            639,
+            1798,
+            714
+          ]
+        },
+        {
+          "text": "Gerardus",
+          "box": [
+            1088,
+            751,
+            1518,
+            822
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2401,
+        919,
+        3181,
+        1082
+      ],
+      "lines": [
+        {
+          "text": "1101 1915",
+          "box": [
+            2522,
+            958,
+            3050,
+            1040
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2361,
+        1200,
+        3170,
+        1404
+      ],
+      "lines": [
+        {
+          "text": "05 07 1981",
+          "box": [
+            2483,
+            1247,
+            3072,
+            1329
+          ]
+        }
+      ]
+    }
+  ]
+}

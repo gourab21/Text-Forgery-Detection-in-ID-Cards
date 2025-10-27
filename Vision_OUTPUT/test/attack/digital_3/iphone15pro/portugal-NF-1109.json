@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-NF-1109.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        433,
+        2076,
+        686
+      ],
+      "lines": [
+        {
+          "text": "MICHAELANOS",
+          "box": [
+            970,
+            496,
+            1527,
+            558
+          ]
+        },
+        {
+          "text": "Sara",
+          "box": [
+            960,
+            581,
+            1118,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2342,
+        835,
+        2841,
+        975
+      ],
+      "lines": [
+        {
+          "text": "29 06 2064",
+          "box": [
+            2415,
+            837,
+            2778,
+            887
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1764,
+        1060,
+        2375,
+        1226
+      ],
+      "lines": [
+        {
+          "text": "29 10 2099",
+          "box": [
+            1858,
+            1084,
+            2264,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

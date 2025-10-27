@@ -1,0 +1,14 @@
+LE1
+EN: Hu Li
+OR: 胡莉
+EN: He Who
+OR: Hu Li
+
+E2
+EN: 07 MAR 1993
+
+E3
+EN: 04 FEB 2017
+
+E4
+EN: 04 FEB 2037

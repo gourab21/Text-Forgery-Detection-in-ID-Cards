@@ -1,0 +1,18 @@
+LE1
+OR: Кузьменко /
+EN: Kuzmenko /
+EN: Kuzmenko
+
+LE2
+OR: Вікторія Сергіївна /
+EN: Victoria Sergiivna /
+EN: Denifera
+
+E3
+EN: 28.07.1932
+
+E4
+EN: 28.12.2015
+
+E5
+EN: 21.03.2038

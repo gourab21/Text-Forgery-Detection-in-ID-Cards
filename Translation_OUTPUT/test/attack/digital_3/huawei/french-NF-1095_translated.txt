@@ -1,0 +1,11 @@
+E1
+EN: MOREL
+
+E2
+EN: Guznanuence
+
+E3
+EN: 24 12 1909
+
+E4
+EN: 14 08 2081

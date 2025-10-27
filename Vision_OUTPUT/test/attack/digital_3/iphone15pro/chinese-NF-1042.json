@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\chinese-NF-1042.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        861,
+        532,
+        1492,
+        782
+      ],
+      "lines": [
+        {
+          "text": "章子怡",
+          "box": [
+            908,
+            595,
+            1111,
+            656
+          ]
+        },
+        {
+          "text": "Lori Zhang",
+          "box": [
+            927,
+            672,
+            1257,
+            733
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1619,
+        886,
+        2174,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "28 Aug 2069",
+          "box": [
+            1673,
+            956,
+            2063,
+            1014
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1596,
+        1142,
+        2206,
+        1313
+      ],
+      "lines": [
+        {
+          "text": "05 Apr 2021",
+          "box": [
+            1676,
+            1190,
+            2097,
+            1262
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        834,
+        1398,
+        1472,
+        1563
+      ],
+      "lines": [
+        {
+          "text": "23 Nov 1924",
+          "box": [
+            935,
+            1468,
+            1356,
+            1522
+          ]
+        }
+      ]
+    }
+  ]
+}

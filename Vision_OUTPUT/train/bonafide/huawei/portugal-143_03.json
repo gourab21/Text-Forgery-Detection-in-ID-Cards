@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        938,
+        450,
+        2211,
+        715
+      ],
+      "lines": [
+        {
+          "text": "PEREIRA CASTRO",
+          "box": [
+            1040,
+            519,
+            1725,
+            586
+          ]
+        },
+        {
+          "text": "Luis Antônio",
+          "box": [
+            1041,
+            607,
+            1522,
+            668
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2495,
+        868,
+        3026,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "03 01 1985",
+          "box": [
+            2590,
+            909,
+            3025,
+            968
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1879,
+        1103,
+        2530,
+        1276
+      ],
+      "lines": [
+        {
+          "text": "17 08 2030",
+          "box": [
+            1975,
+            1162,
+            2412,
+            1219
+          ]
+        }
+      ]
+    }
+  ]
+}

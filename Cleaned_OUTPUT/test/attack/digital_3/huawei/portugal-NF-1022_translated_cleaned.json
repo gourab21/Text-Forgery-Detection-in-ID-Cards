@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\portugal-NF-1022_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\portugal-NF-1022.jpg",
+  "width": 3193,
+  "height": 1969,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1100,
+            534,
+            1762,
+            605
+          ],
+          "original_text": "SARAH PEREIRA",
+          "translated_en": "SARAH PEREIRA"
+        },
+        {
+          "box": [
+            1086,
+            621,
+            1324,
+            686
+          ],
+          "original_text": "Marta",
+          "translated_en": "Marta"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2719,
+            950,
+            3124,
+            1012
+          ],
+          "original_text": "04 02 1982",
+          "translated_en": "04 02 1982"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2078,
+            1216,
+            2546,
+            1281
+          ],
+          "original_text": "17 07 1943",
+          "translated_en": "17 07 1943"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1022_translated_cleaned.jpg"
+}

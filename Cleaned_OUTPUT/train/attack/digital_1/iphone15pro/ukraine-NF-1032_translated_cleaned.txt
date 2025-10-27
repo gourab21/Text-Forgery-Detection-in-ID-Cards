@@ -1,0 +1,18 @@
+LE1
+EN: Lytvyn /
+OR: Литвин /
+EN: Lytvyn
+
+LE2
+EN: Victoria Andreevna /
+OR: Вікторія Андріївна /
+EN: Vhiistoph
+
+E3
+EN: 03.06.1996
+
+E4
+EN: 18.07.2015
+
+E5
+EN: 18.07.2003

@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\singapore-flickr_F_20411794293_d7a6aae66c_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        660,
+        653,
+        2386,
+        968
+      ],
+      "lines": [
+        {
+          "text": "Intan Ayu",
+          "box": [
+            797,
+            751,
+            1342,
+            833
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        736,
+        1402,
+        1643,
+        1596
+      ],
+      "lines": [
+        {
+          "text": "1971-12-21",
+          "box": [
+            822,
+            1472,
+            1401,
+            1548
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1785,
+        1702,
+        2635,
+        1890
+      ],
+      "lines": [
+        {
+          "text": "1981-12-21",
+          "box": [
+            1884,
+            1750,
+            2463,
+            1831
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-042_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        886,
+        435,
+        2090,
+        689
+      ],
+      "lines": [
+        {
+          "text": "PLICAIN CRIST",
+          "box": [
+            971,
+            505,
+            1583,
+            562
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            974,
+            589,
+            1183,
+            639
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2359,
+        838,
+        2861,
+        979
+      ],
+      "lines": [
+        {
+          "text": "05 08 1991",
+          "box": [
+            2439,
+            839,
+            2848,
+            889
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1776,
+        1064,
+        2393,
+        1231
+      ],
+      "lines": [
+        {
+          "text": "02 08 2994",
+          "box": [
+            1869,
+            1090,
+            2299,
+            1149
+          ]
+        }
+      ]
+    }
+  ]
+}

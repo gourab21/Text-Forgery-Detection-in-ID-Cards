@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-011_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        970,
+        672,
+        1991,
+        1046
+      ],
+      "lines": [
+        {
+          "text": "Anita Kruger",
+          "box": [
+            1057,
+            740,
+            1594,
+            818
+          ]
+        },
+        {
+          "text": "789 Willow Road SLA",
+          "box": [
+            1042,
+            829,
+            1985,
+            906
+          ]
+        },
+        {
+          "text": "Little Rock AR 72201",
+          "box": [
+            1047,
+            928,
+            1915,
+            1002
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2336,
+        1193,
+        3133,
+        1354
+      ],
+      "lines": [
+        {
+          "text": "DOB : 19-07-22",
+          "box": [
+            2409,
+            1237,
+            3043,
+            1313
+          ]
+        }
+      ]
+    }
+  ]
+}

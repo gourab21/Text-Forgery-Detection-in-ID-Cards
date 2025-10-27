@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-NF-1004.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        682,
+        1987,
+        1060
+      ],
+      "lines": [
+        {
+          "text": "Gabri & Vis",
+          "box": [
+            1049,
+            750,
+            1512,
+            830
+          ]
+        },
+        {
+          "text": "6784 Creek Rd",
+          "box": [
+            1050,
+            853,
+            1652,
+            922
+          ]
+        },
+        {
+          "text": "Dover DE 19901",
+          "box": [
+            1048,
+            950,
+            1714,
+            1020
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2332,
+        1208,
+        3128,
+        1371
+      ],
+      "lines": [
+        {
+          "text": "DOB : 12-08-15",
+          "box": [
+            2408,
+            1259,
+            3038,
+            1337
+          ]
+        }
+      ]
+    }
+  ]
+}

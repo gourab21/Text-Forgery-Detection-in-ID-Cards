@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        940,
+        451,
+        2219,
+        716
+      ],
+      "lines": [
+        {
+          "text": "06TVERAAMARIIMS",
+          "box": [
+            1016,
+            518,
+            1756,
+            583
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            1018,
+            609,
+            1465,
+            668
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2504,
+        870,
+        3037,
+        1016
+      ],
+      "lines": [
+        {
+          "text": "29 04 2025",
+          "box": [
+            2593,
+            871,
+            3036,
+            929
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1886,
+        1105,
+        2539,
+        1278
+      ],
+      "lines": [
+        {
+          "text": "12 10 2007",
+          "box": [
+            1984,
+            1132,
+            2441,
+            1201
+          ]
+        }
+      ]
+    }
+  ]
+}

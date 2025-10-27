@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\turkiye-036_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        612,
+        1215,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Richa",
+          "box": [
+            653,
+            651,
+            801,
+            692
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        448,
+        1215,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Akçam",
+          "box": [
+            648,
+            497,
+            820,
+            542
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        768,
+        1192,
+        885
+      ],
+      "lines": [
+        {
+          "text": "04.05.1967",
+          "box": [
+            647,
+            807,
+            936,
+            850
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1088,
+        1184,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "29.05.2053",
+          "box": [
+            643,
+            1120,
+            934,
+            1163
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+E1
+EN: Richardayam
+
+L1
+EN: Omar Khayyam
+OR: خیام عمر
+
+E2
+EN: 23 Jul 1963
+
+E3
+EN: 18 Apr 2024
+
+E4
+EN: 29 Apr 1955
+
+L2
+EN: October 9, 1990
+OR: ٠٩ / أكتوبر / ۱۹۹۰ ١٩٩
+
+L3
+EN: April 18, 2024
+OR: ١٨ / أبريل / ٢٠٢٤
+
+L4
+EN: April 18, 2034
+OR: ١٨ / أبريل / ٢٠٣٤

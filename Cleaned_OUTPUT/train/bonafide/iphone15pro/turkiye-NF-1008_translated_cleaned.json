@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\iphone15pro\\turkiye-NF-1008_translated.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\turkiye-NF-1008.jpg",
+  "width": 2641,
+  "height": 1611,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            869,
+            832,
+            1036,
+            884
+          ],
+          "original_text": "Seda",
+          "translated_en": "Seda"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            876,
+            634,
+            1039,
+            686
+          ],
+          "original_text": "Çelik",
+          "translated_en": "Çelik"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            867,
+            1033,
+            1249,
+            1090
+          ],
+          "original_text": "05.12.1994",
+          "translated_en": "05.12.1994"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            862,
+            1435,
+            1567,
+            1496
+          ],
+          "original_text": "17.02.2034 A",
+          "translated_en": "17.02.2034 A"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-NF-1008_translated_cleaned.jpg"
+}

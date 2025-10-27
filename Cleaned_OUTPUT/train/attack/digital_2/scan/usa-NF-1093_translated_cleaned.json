@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\usa-NF-1093_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\usa-NF-1093.jpg",
+  "width": 1997,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            651,
+            472,
+            978,
+            513
+          ],
+          "original_text": "Engela Shaw",
+          "translated_en": "Engela Shaw"
+        },
+        {
+          "box": [
+            650,
+            527,
+            1048,
+            569
+          ],
+          "original_text": "306 Pine Street",
+          "translated_en": "306 Pine Street"
+        },
+        {
+          "box": [
+            649,
+            586,
+            1043,
+            628
+          ],
+          "original_text": "Reno NV 89501",
+          "translated_en": "Reno NV 89501"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            776,
+            1900,
+            828
+          ],
+          "original_text": "05-18-98",
+          "translated_en": "05-18-98"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1093_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NF-1060.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "FERNANDES RIBEIRO",
+          "box": [
+            679,
+            342,
+            1235,
+            388
+          ]
+        },
+        {
+          "text": "Carla",
+          "box": [
+            679,
+            407,
+            811,
+            442
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        575,
+        1995,
+        671
+      ],
+      "lines": [
+        {
+          "text": "08 10 1986",
+          "box": [
+            1705,
+            578,
+            1994,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        730,
+        1668,
+        845
+      ],
+      "lines": [
+        {
+          "text": "05 10 2026",
+          "box": [
+            1306,
+            755,
+            1594,
+            797
+          ]
+        }
+      ]
+    }
+  ]
+}

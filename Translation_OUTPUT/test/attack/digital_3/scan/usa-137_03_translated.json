@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\usa-137_03.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-137_03.jpg",
+  "width": 1992,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            646,
+            472,
+            980,
+            517
+          ],
+          "original_text": "Brian Knight",
+          "translated_en": "Brian Knight",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            644,
+            531,
+            952,
+            572
+          ],
+          "original_text": "678 Pine Rd",
+          "translated_en": "678 Pine Rd",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            646,
+            588,
+            1092,
+            631
+          ],
+          "original_text": "Denver CO 80203",
+          "translated_en": "Denver CO 80203",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1494,
+            762,
+            1884,
+            801
+          ],
+          "original_text": "DOB : 15-03-64",
+          "translated_en": "DOB : 15-03-64",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-137_03_translated.jpg"
+}

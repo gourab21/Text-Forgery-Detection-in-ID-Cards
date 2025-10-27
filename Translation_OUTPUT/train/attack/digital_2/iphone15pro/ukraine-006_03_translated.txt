@@ -1,0 +1,18 @@
+LE1
+OR: Кравчук /
+EN: Kravchuk /
+EN: Kravchuk
+
+LE2
+OR: Тетяна Анатоліївна /
+EN: Tatyana Anatoliivna /
+EN: Tatthew
+
+E3
+EN: 15.04.12013
+
+E4
+EN: 12.02.2019
+
+E5
+EN: 11.02.2010

@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\russian-062_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\russian-062_03.jpg",
+  "width": 1995,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            706,
+            270,
+            1001,
+            316
+          ],
+          "original_text": "Журавлева /",
+          "translated_en": "Zhuravleva /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            707,
+            325,
+            951,
+            355
+          ],
+          "original_text": "Zhuravleva",
+          "translated_en": "Zhuravleva",
+          "detected_lang": "ru-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            711,
+            474,
+            1326,
+            524
+          ],
+          "original_text": "Дарья Сергеевна / K",
+          "translated_en": "Daria Sergeevna / K",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            713,
+            528,
+            1086,
+            573
+          ],
+          "original_text": "ChaniaSergevia",
+          "translated_en": "ChaniaSergevia",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            718,
+            684,
+            978,
+            718
+          ],
+          "original_text": "13.05.2032",
+          "translated_en": "13.05.2032",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            724,
+            959,
+            966,
+            993
+          ],
+          "original_text": "17.12.2014",
+          "translated_en": "17.12.2014",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            726,
+            1142,
+            990,
+            1181
+          ],
+          "original_text": "14.12.2017",
+          "translated_en": "14.12.2017",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-062_03_translated.jpg"
+}

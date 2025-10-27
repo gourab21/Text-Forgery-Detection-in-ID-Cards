@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-070_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        817,
+        386,
+        1928,
+        612
+      ],
+      "lines": [
+        {
+          "text": "P ONMYA COSTA",
+          "box": [
+            909,
+            437,
+            1472,
+            499
+          ]
+        },
+        {
+          "text": "João",
+          "box": [
+            905,
+            516,
+            1065,
+            562
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2175,
+        744,
+        2638,
+        868
+      ],
+      "lines": [
+        {
+          "text": "07 05 1988",
+          "box": [
+            2249,
+            770,
+            2630,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1638,
+        944,
+        2205,
+        1092
+      ],
+      "lines": [
+        {
+          "text": "05 05 2010",
+          "box": [
+            1717,
+            988,
+            2114,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

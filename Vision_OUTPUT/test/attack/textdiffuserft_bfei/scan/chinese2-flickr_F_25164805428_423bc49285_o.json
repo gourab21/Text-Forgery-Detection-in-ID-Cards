@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_F_25164805428_423bc49285_o.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        395,
+        1194,
+        589
+      ],
+      "lines": [
+        {
+          "text": "胡莉",
+          "box": [
+            689,
+            432,
+            795,
+            479
+          ]
+        },
+        {
+          "text": "Sanan",
+          "box": [
+            677,
+            496,
+            826,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1208,
+        657,
+        1674,
+        776
+      ],
+      "lines": [
+        {
+          "text": "04 Sep 2026",
+          "box": [
+            1246,
+            695,
+            1617,
+            752
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1212,
+        842,
+        1691,
+        966
+      ],
+      "lines": [
+        {
+          "text": "23 Nov 2038",
+          "box": [
+            1251,
+            878,
+            1596,
+            926
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        643,
+        1043,
+        1120,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "09 Mar 2038",
+          "box": [
+            695,
+            1078,
+            1041,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

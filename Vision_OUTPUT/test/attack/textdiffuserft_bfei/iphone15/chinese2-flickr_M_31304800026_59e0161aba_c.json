@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_31304800026_59e0161aba_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        858,
+        548,
+        1654,
+        819
+      ],
+      "lines": [
+        {
+          "text": "刘明",
+          "box": [
+            948,
+            595,
+            1087,
+            660
+          ]
+        },
+        {
+          "text": "Brianing",
+          "box": [
+            948,
+            678,
+            1243,
+            739
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1674,
+        912,
+        2319,
+        1077
+      ],
+      "lines": [
+        {
+          "text": "22 Mar 2013",
+          "box": [
+            1723,
+            958,
+            2216,
+            1023
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1679,
+        1169,
+        2345,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "04 Apr 1996",
+          "box": [
+            1722,
+            1208,
+            2204,
+            1285
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        890,
+        1449,
+        1553,
+        1632
+      ],
+      "lines": [
+        {
+          "text": "21 Sep 1936",
+          "box": [
+            959,
+            1484,
+            1444,
+            1566
+          ]
+        }
+      ]
+    }
+  ]
+}

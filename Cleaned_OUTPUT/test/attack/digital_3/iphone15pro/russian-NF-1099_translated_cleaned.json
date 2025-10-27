@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\russian-NF-1099_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\russian-NF-1099.jpg",
+  "width": 2636,
+  "height": 1620,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            948,
+            343,
+            1298,
+            403
+          ],
+          "original_text": "Федорова /",
+          "translated_en": "Fedorova /"
+        },
+        {
+          "box": [
+            950,
+            409,
+            1217,
+            457
+          ],
+          "original_text": "Fedorova",
+          "translated_en": "Fedorova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            946,
+            607,
+            1754,
+            674
+          ],
+          "original_text": "Полина Геннадиевна / F",
+          "translated_en": "Polina Gennadievna / F"
+        },
+        {
+          "box": [
+            945,
+            684,
+            1523,
+            736
+          ],
+          "original_text": "Douglas Genadevna",
+          "translated_en": "Douglas Genadevna"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            945,
+            878,
+            1266,
+            923
+          ],
+          "original_text": "17.04.1917",
+          "translated_en": "17.04.1917"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            935,
+            1235,
+            1264,
+            1280
+          ],
+          "original_text": "13.09.2014",
+          "translated_en": "13.09.2014"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            926,
+            1471,
+            1253,
+            1520
+          ],
+          "original_text": "05.04.2007",
+          "translated_en": "05.04.2007"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1099_translated_cleaned.jpg"
+}

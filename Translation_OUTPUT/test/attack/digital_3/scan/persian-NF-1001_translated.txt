@@ -1,0 +1,22 @@
+E1
+EN: Emilya
+
+E2
+EN: Najafi
+
+L1
+OR: فاطمه
+EN: Fatima
+
+L2
+OR: نجفی
+EN: Najafi
+
+E3
+EN: 07/06/1933
+
+E4
+EN: 22/10/2024
+
+E5
+EN: 19/11/2012

@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\usa-011_03.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-011_03.jpg",
+  "width": 2821,
+  "height": 1796,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            921,
+            652,
+            1417,
+            751
+          ],
+          "original_text": "Lettherruger I",
+          "translated_en": "Lettherruger I",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            920,
+            726,
+            1734,
+            813
+          ],
+          "original_text": "789 Willow Road STA",
+          "translated_en": "789 Willow Road STA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            925,
+            831,
+            1675,
+            895
+          ],
+          "original_text": "Little Rock AR 72201",
+          "translated_en": "Little Rock AR 72201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2119,
+            1086,
+            2675,
+            1137
+          ],
+          "original_text": "DOB : 03-05-05",
+          "translated_en": "DOB : 03-05-05",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-011_03_translated.jpg"
+}

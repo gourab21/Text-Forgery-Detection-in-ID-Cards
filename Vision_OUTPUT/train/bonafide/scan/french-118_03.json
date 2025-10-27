@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-118_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "JACQUET",
+          "box": [
+            643,
+            298,
+            860,
+            340
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Isabelle , Hélène",
+          "box": [
+            648,
+            461,
+            1033,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        615,
+        1774,
+        720
+      ],
+      "lines": [
+        {
+          "text": "19 01 1986",
+          "box": [
+            1426,
+            619,
+            1690,
+            657
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1004,
+        1763,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "05 11 2030",
+          "box": [
+            1432,
+            1007,
+            1697,
+            1043
+          ]
+        }
+      ]
+    }
+  ]
+}

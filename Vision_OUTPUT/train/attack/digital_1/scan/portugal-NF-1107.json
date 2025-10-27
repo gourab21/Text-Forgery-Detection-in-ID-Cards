@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        298,
+        1459,
+        471
+      ],
+      "lines": [
+        {
+          "text": "S INAALUNA",
+          "box": [
+            685,
+            338,
+            991,
+            386
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            685,
+            398,
+            1070,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "09 02 2021",
+          "box": [
+            1708,
+            597,
+            1997,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        728,
+        1670,
+        843
+      ],
+      "lines": [
+        {
+          "text": "24 06 2027",
+          "box": [
+            1304,
+            766,
+            1598,
+            804
+          ]
+        }
+      ]
+    }
+  ]
+}

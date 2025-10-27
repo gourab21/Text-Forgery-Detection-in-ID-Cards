@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\turkiye-NF-1008_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\turkiye-NF-1008.jpg",
+  "width": 3047,
+  "height": 1899,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            997,
+            984,
+            1207,
+            1042
+          ],
+          "original_text": "Sona",
+          "translated_en": "Sona"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1002,
+            754,
+            1191,
+            817
+          ],
+          "original_text": "Çelik",
+          "translated_en": "Çelik"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1644,
+            1166,
+            1694,
+            1222
+          ],
+          "original_text": "5",
+          "translated_en": "5"
+        },
+        {
+          "box": [
+            995,
+            1219,
+            1464,
+            1280
+          ],
+          "original_text": "05.12.2 021",
+          "translated_en": "05.12.2 021"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            985,
+            1694,
+            1454,
+            1761
+          ],
+          "original_text": "17.02.2 990",
+          "translated_en": "17.02.2 990"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-NF-1008_translated_cleaned.jpg"
+}

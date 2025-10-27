@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_M_31998389253_0a26f25b0d_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        404,
+        1777,
+        753
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            943,
+            447,
+            1251,
+            515
+          ]
+        },
+        {
+          "text": "Johnte Anemare",
+          "box": [
+            945,
+            528,
+            1704,
+            610
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            952,
+            636,
+            1268,
+            704
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2067,
+        781,
+        2738,
+        920
+      ],
+      "lines": [
+        {
+          "text": "04 07 1910",
+          "box": [
+            2172,
+            815,
+            2623,
+            878
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2032,
+        1020,
+        2728,
+        1192
+      ],
+      "lines": [
+        {
+          "text": "25 09 1928",
+          "box": [
+            2137,
+            1050,
+            2642,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

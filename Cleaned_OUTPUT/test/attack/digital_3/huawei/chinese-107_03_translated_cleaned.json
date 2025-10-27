@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\chinese-107_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\chinese-107_03.jpg",
+  "width": 3213,
+  "height": 1999,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1091,
+            698,
+            1258,
+            765
+          ],
+          "original_text": "吳 情",
+          "translated_en": "Wu Qing"
+        },
+        {
+          "box": [
+            1096,
+            789,
+            1432,
+            873
+          ],
+          "original_text": "JoyQian",
+          "translated_en": "JoyQian"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1987,
+            1153,
+            2505,
+            1218
+          ],
+          "original_text": "21 Dec 1944",
+          "translated_en": "21 Dec 1944"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1978,
+            1448,
+            2484,
+            1510
+          ],
+          "original_text": "14 Jun 2012",
+          "translated_en": "14 Jun 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1072,
+            1742,
+            1582,
+            1811
+          ],
+          "original_text": "14 Apr 1966",
+          "translated_en": "14 Apr 1966"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-107_03_translated_cleaned.jpg"
+}

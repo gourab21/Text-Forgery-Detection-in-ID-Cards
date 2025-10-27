@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\indian-01_0097_000-b71b0c19_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\indian-01_0097_000-b71b0c19_0.jpg",
+  "width": 1990,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            687,
+            471,
+            876,
+            508
+          ],
+          "original_text": "VARMA",
+          "translated_en": "VARMA"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            695,
+            621,
+            1154,
+            666
+          ],
+          "original_text": "JORGEA SOUMYA",
+          "translated_en": "JORGEA SOUMYA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            695,
+            781,
+            1005,
+            831
+          ],
+          "original_text": "16/03/1927",
+          "translated_en": "16/03/1927"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            701,
+            1077,
+            1015,
+            1123
+          ],
+          "original_text": "05/03/2014",
+          "translated_en": "05/03/2014"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1422,
+            1068,
+            1742,
+            1118
+          ],
+          "original_text": "19/07/1949",
+          "translated_en": "19/07/1949"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-01_0097_000-b71b0c19_0_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-NF-1105.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        998,
+        477,
+        2354,
+        756
+      ],
+      "lines": [
+        {
+          "text": "NICOLEDES COSTA",
+          "box": [
+            1119,
+            551,
+            1928,
+            619
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            1100,
+            624,
+            1256,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2657,
+        919,
+        3222,
+        1074
+      ],
+      "lines": [
+        {
+          "text": "10 11 1943",
+          "box": [
+            2755,
+            963,
+            3148,
+            1031
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2000,
+        1167,
+        2694,
+        1351
+      ],
+      "lines": [
+        {
+          "text": "23 06 1951",
+          "box": [
+            2106,
+            1230,
+            2573,
+            1296
+          ]
+        }
+      ]
+    }
+  ]
+}

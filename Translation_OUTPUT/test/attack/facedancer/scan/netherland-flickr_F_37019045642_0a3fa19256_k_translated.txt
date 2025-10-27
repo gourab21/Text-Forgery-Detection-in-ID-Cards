@@ -1,0 +1,12 @@
+E1
+EN: VISSER
+EN: Daan Gerardus
+EN: Petra
+
+E2
+EN: OF BIRTH
+EN: 03 06 2002
+
+E3
+EN: CARD EXPIRY
+EN: 29 09 2030

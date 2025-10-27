@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-NF-1036.json",
+  "image_relative": "train\\bonafide\\scan\\usa-NF-1036.jpg",
+  "width": 1999,
+  "height": 1245,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            653,
+            462,
+            1227,
+            514
+          ],
+          "original_text": "Barbara Thomas d",
+          "translated_en": "Barbara Thomas d",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            652,
+            526,
+            991,
+            567
+          ],
+          "original_text": "8342 Pine Rd",
+          "translated_en": "8342 Pine Rd",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            651,
+            587,
+            1077,
+            628
+          ],
+          "original_text": "Naples FL 34102",
+          "translated_en": "Naples FL 34102",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1492,
+            777,
+            1888,
+            824
+          ],
+          "original_text": "DOB : 04-07-76",
+          "translated_en": "DOB : 04-07-76",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1036_translated.jpg"
+}

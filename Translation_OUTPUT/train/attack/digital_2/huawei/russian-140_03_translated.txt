@@ -1,0 +1,19 @@
+LE1
+OR: Паниковский /
+EN: Panikovsky /
+EN: Panikovsky
+
+LE2
+OR: Михаил Самуэлевич / :
+EN: Mikhail Samuelevich / :
+EN: Mrantil
+
+E3
+EN: 04.05.:202
+
+E4
+EN: Да ата выда
+EN: 25.03.2021
+
+E5
+EN: 24.03.2013

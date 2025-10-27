@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_33239373490_5b5df42090_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        540
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            693,
+            323,
+            995,
+            366
+          ]
+        },
+        {
+          "text": "Fleur Henrike",
+          "box": [
+            692,
+            386,
+            1081,
+            433
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            690,
+            455,
+            921,
+            508
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        560,
+        1969,
+        659
+      ],
+      "lines": [
+        {
+          "text": "TE OF BIRTH",
+          "box": [
+            1701,
+            560,
+            1919,
+            585
+          ]
+        },
+        {
+          "text": "22 10 2004",
+          "box": [
+            1562,
+            607,
+            1897,
+            652
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1462,
+        731,
+        1962,
+        854
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD / CARD EXPIRY",
+          "box": [
+            1462,
+            731,
+            1913,
+            761
+          ]
+        },
+        {
+          "text": "07 08 2029",
+          "box": [
+            1528,
+            778,
+            1894,
+            826
+          ]
+        }
+      ]
+    }
+  ]
+}

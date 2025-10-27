@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_F_40837237721_dedac367d4_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        995,
+        646,
+        1916,
+        965
+      ],
+      "lines": [
+        {
+          "text": "赵萍",
+          "box": [
+            1086,
+            698,
+            1259,
+            782
+          ]
+        },
+        {
+          "text": "EricaPing",
+          "box": [
+            1100,
+            813,
+            1514,
+            887
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1939,
+        1076,
+        2688,
+        1270
+      ],
+      "lines": [
+        {
+          "text": "08 Nov 1901",
+          "box": [
+            1999,
+            1139,
+            2583,
+            1218
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1945,
+        1377,
+        2717,
+        1582
+      ],
+      "lines": [
+        {
+          "text": "10 Feb 204",
+          "box": [
+            2013,
+            1437,
+            2566,
+            1522
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1032,
+        1708,
+        1799,
+        1923
+      ],
+      "lines": [
+        {
+          "text": "05 Sep 1938",
+          "box": [
+            1113,
+            1767,
+            1676,
+            1860
+          ]
+        }
+      ]
+    }
+  ]
+}

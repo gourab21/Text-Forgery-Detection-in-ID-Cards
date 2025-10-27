@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-NF-1020.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        419,
+        1892,
+        565
+      ],
+      "lines": [
+        {
+          "text": "ROUX",
+          "box": [
+            1051,
+            461,
+            1263,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        693,
+        2004,
+        866
+      ],
+      "lines": [
+        {
+          "text": "Céline , Emma",
+          "box": [
+            1041,
+            731,
+            1557,
+            801
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2219,
+        970,
+        2844,
+        1137
+      ],
+      "lines": [
+        {
+          "text": "14 11 1990",
+          "box": [
+            2286,
+            1004,
+            2714,
+            1067
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2190,
+        1582,
+        2824,
+        1736
+      ],
+      "lines": [
+        {
+          "text": "30 03 2030",
+          "box": [
+            2265,
+            1620,
+            2699,
+            1680
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\chinese-01_0028_000-611e103a_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\chinese-01_0028_000-611e103a_0.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            682,
+            429,
+            782,
+            477
+          ],
+          "original_text": "王强",
+          "translated_en": "Wang Qiang"
+        },
+        {
+          "box": [
+            688,
+            482,
+            989,
+            535
+          ],
+          "original_text": "Reginaing",
+          "translated_en": "Reginaing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1232,
+            713,
+            1571,
+            759
+          ],
+          "original_text": "25 May 1969",
+          "translated_en": "25 May 1969"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1228,
+            895,
+            1562,
+            937
+          ],
+          "original_text": "18 AUG 2008",
+          "translated_en": "18 AUG 2008"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            672,
+            1076,
+            1003,
+            1120
+          ],
+          "original_text": "30 Dec 1951",
+          "translated_en": "30 Dec 1951"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-01_0028_000-611e103a_0_translated_cleaned.jpg"
+}

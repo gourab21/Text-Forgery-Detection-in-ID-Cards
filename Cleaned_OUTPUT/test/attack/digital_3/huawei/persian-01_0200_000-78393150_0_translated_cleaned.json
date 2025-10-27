@@ -1,0 +1,124 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\persian-01_0200_000-78393150_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\persian-01_0200_000-78393150_0.jpg",
+  "width": 3220,
+  "height": 1981,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1237,
+            448,
+            1435,
+            510
+          ],
+          "original_text": "Melis",
+          "translated_en": "Melis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1233,
+            682,
+            1598,
+            745
+          ],
+          "original_text": "Mousavi",
+          "translated_en": "Mousavi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2192,
+            456,
+            2286,
+            524
+          ],
+          "original_text": "ليلا",
+          "translated_en": "At night"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2442,
+            639,
+            2508,
+            673
+          ],
+          "original_text": "L",
+          "translated_en": "L"
+        },
+        {
+          "box": [
+            2182,
+            688,
+            2376,
+            768
+          ],
+          "original_text": "کاظمی",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1227,
+            944,
+            1667,
+            1004
+          ],
+          "original_text": "04/07/2051",
+          "translated_en": "04/07/2051"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1219,
+            1469,
+            1669,
+            1538
+          ],
+          "original_text": "17/04/2024",
+          "translated_en": "17/04/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2171,
+            1482,
+            2622,
+            1545
+          ],
+          "original_text": "20/11/2026",
+          "translated_en": "20/11/2026"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-01_0200_000-78393150_0_translated_cleaned.jpg"
+}

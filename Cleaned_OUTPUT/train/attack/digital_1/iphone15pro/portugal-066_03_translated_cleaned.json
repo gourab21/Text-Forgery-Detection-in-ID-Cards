@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\portugal-066_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\portugal-066_03.jpg",
+  "width": 2868,
+  "height": 1796,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            973,
+            497,
+            1538,
+            564
+          ],
+          "original_text": "SHRISTINASTA",
+          "translated_en": "SHRISTINASTA"
+        },
+        {
+          "box": [
+            977,
+            583,
+            1598,
+            642
+          ],
+          "original_text": "Isabel Margarida",
+          "translated_en": "Isabel Margarida"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2445,
+            838,
+            2853,
+            892
+          ],
+          "original_text": "18 03 2001",
+          "translated_en": "18 03 2001"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1871,
+            1085,
+            2302,
+            1149
+          ],
+          "original_text": "04 01 2018",
+          "translated_en": "04 01 2018"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-066_03_translated_cleaned.jpg"
+}

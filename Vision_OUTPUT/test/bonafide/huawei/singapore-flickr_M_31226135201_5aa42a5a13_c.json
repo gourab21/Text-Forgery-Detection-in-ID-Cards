@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_31226135201_5aa42a5a13_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        658,
+        660,
+        2380,
+        978
+      ],
+      "lines": [
+        {
+          "text": "Ravi Menon",
+          "box": [
+            801,
+            763,
+            1426,
+            831
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        734,
+        1415,
+        1639,
+        1613
+      ],
+      "lines": [
+        {
+          "text": "1993-02-08",
+          "box": [
+            821,
+            1484,
+            1392,
+            1564
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1781,
+        1719,
+        2629,
+        1909
+      ],
+      "lines": [
+        {
+          "text": "2003-02-08",
+          "box": [
+            1873,
+            1767,
+            2457,
+            1844
+          ]
+        }
+      ]
+    }
+  ]
+}

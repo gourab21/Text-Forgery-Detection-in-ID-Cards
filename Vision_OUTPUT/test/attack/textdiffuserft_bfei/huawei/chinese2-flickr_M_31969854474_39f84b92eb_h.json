@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_31969854474_39f84b92eb_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1003,
+        647,
+        1934,
+        967
+      ],
+      "lines": [
+        {
+          "text": "马勇",
+          "box": [
+            1095,
+            706,
+            1264,
+            782
+          ]
+        },
+        {
+          "text": "Jacobng",
+          "box": [
+            1094,
+            808,
+            1472,
+            890
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1957,
+        1078,
+        2712,
+        1273
+      ],
+      "lines": [
+        {
+          "text": "22 Mar 2073",
+          "box": [
+            2014,
+            1147,
+            2579,
+            1223
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1963,
+        1380,
+        2742,
+        1586
+      ],
+      "lines": [
+        {
+          "text": "04 Jun 1986",
+          "box": [
+            2021,
+            1446,
+            2601,
+            1522
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1040,
+        1712,
+        1816,
+        1928
+      ],
+      "lines": [
+        {
+          "text": "19 Jun 1987",
+          "box": [
+            1126,
+            1773,
+            1682,
+            1851
+          ]
+        }
+      ]
+    }
+  ]
+}

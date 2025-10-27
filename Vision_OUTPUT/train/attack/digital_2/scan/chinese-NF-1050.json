@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\chinese-NF-1050.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        636,
+        395,
+        1103,
+        580
+      ],
+      "lines": [
+        {
+          "text": "黄 灣",
+          "box": [
+            692,
+            429,
+            788,
+            495
+          ]
+        },
+        {
+          "text": "Hneryl Jing",
+          "box": [
+            688,
+            492,
+            980,
+            537
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1198,
+        658,
+        1607,
+        791
+      ],
+      "lines": [
+        {
+          "text": "15 Jul 1196",
+          "box": [
+            1236,
+            712,
+            1537,
+            760
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1179,
+        849,
+        1630,
+        976
+      ],
+      "lines": [
+        {
+          "text": "08 May 2017",
+          "box": [
+            1230,
+            897,
+            1562,
+            942
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        617,
+        1039,
+        1088,
+        1161
+      ],
+      "lines": [
+        {
+          "text": "06 May 2003",
+          "box": [
+            674,
+            1080,
+            1015,
+            1128
+          ]
+        }
+      ]
+    }
+  ]
+}

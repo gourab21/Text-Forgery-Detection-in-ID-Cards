@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-NF-1062.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        424,
+        1238,
+        658
+      ],
+      "lines": [
+        {
+          "text": "Amyra Brown",
+          "box": [
+            647,
+            464,
+            977,
+            510
+          ]
+        },
+        {
+          "text": "337 Lakeview Dr",
+          "box": [
+            655,
+            524,
+            1085,
+            567
+          ]
+        },
+        {
+          "text": "Medford OR 97501",
+          "box": [
+            651,
+            582,
+            1132,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1454,
+        751,
+        1949,
+        851
+      ],
+      "lines": [
+        {
+          "text": "DOB : 30-02-28",
+          "box": [
+            1491,
+            775,
+            1882,
+            825
+          ]
+        }
+      ]
+    }
+  ]
+}

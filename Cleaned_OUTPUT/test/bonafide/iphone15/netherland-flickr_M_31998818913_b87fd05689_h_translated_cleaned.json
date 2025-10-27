@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\iphone15\\netherland-flickr_M_31998818913_b87fd05689_h_translated.json",
+  "image_relative": "test\\bonafide\\iphone15\\netherland-flickr_M_31998818913_b87fd05689_h.jpg",
+  "width": 2773,
+  "height": 1736,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            941,
+            447,
+            1441,
+            512
+          ],
+          "original_text": "STEVENSON",
+          "translated_en": "STEVENSON"
+        },
+        {
+          "box": [
+            946,
+            533,
+            1503,
+            611
+          ],
+          "original_text": "Fleur Matthijs",
+          "translated_en": "Fleur Matthijs"
+        },
+        {
+          "box": [
+            944,
+            635,
+            1380,
+            695
+          ],
+          "original_text": "Annemarie",
+          "translated_en": "Annemarie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2168,
+            813,
+            2636,
+            876
+          ],
+          "original_text": "07 11 2002",
+          "translated_en": "07 11 2002"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2133,
+            1052,
+            2645,
+            1118
+          ],
+          "original_text": "31 03 2030",
+          "translated_en": "31 03 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_31998818913_b87fd05689_h_translated_cleaned.jpg"
+}

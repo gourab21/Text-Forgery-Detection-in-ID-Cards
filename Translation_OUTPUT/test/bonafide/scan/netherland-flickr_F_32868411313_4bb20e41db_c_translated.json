@@ -1,0 +1,101 @@
+{
+  "source_json": "test\\bonafide\\scan\\netherland-flickr_F_32868411313_4bb20e41db_c.json",
+  "image_relative": "test\\bonafide\\scan\\netherland-flickr_F_32868411313_4bb20e41db_c.jpg",
+  "width": 1999,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            321,
+            916,
+            362
+          ],
+          "original_text": "BELSER",
+          "translated_en": "BELSER",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            689,
+            380,
+            1070,
+            436
+          ],
+          "original_text": "Thijs Henrike",
+          "translated_en": "Thijs Henrike",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            691,
+            450,
+            948,
+            495
+          ],
+          "original_text": "Elisabeth",
+          "translated_en": "Elisabeth",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1754,
+            558,
+            1919,
+            581
+          ],
+          "original_text": "OF BIRTH",
+          "translated_en": "OF BIRTH",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1564,
+            605,
+            1899,
+            649
+          ],
+          "original_text": "09 01 1973",
+          "translated_en": "09 01 1973",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1464,
+            729,
+            1914,
+            760
+          ],
+          "original_text": "ELDIG TOD ! CARD EXPIRY",
+          "translated_en": "ELDIG TOD ! CARD EXPIRY",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1531,
+            775,
+            1896,
+            823
+          ],
+          "original_text": "18 04 2032",
+          "translated_en": "18 04 2032",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_F_32868411313_4bb20e41db_c_translated.jpg"
+}

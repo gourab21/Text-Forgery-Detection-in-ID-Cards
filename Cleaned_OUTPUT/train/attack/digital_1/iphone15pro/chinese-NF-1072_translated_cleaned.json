@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\chinese-NF-1072_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\chinese-NF-1072.jpg",
+  "width": 2790,
+  "height": 1767,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            945,
+            609,
+            1091,
+            677
+          ],
+          "original_text": "吳 倩",
+          "translated_en": "Wu Qian"
+        },
+        {
+          "box": [
+            945,
+            697,
+            1227,
+            750
+          ],
+          "original_text": "Varlaan",
+          "translated_en": "Varlaan"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1736,
+            986,
+            2201,
+            1045
+          ],
+          "original_text": "10 Mar 2029",
+          "translated_en": "10 Mar 2029"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1740,
+            1241,
+            2173,
+            1314
+          ],
+          "original_text": "17 Apr 2016",
+          "translated_en": "17 Apr 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            965,
+            1522,
+            1424,
+            1598
+          ],
+          "original_text": "15 Apr 2036",
+          "translated_en": "15 Apr 2036"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1072_translated_cleaned.jpg"
+}

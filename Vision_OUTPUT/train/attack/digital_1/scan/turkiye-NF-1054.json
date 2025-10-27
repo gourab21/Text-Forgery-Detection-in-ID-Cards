@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\turkiye-NF-1054.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        594,
+        612,
+        1213,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Non",
+          "box": [
+            646,
+            653,
+            750,
+            689
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        448,
+        1213,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Kara",
+          "box": [
+            650,
+            497,
+            767,
+            534
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        768,
+        1191,
+        885
+      ],
+      "lines": [
+        {
+          "text": "31.03.2030",
+          "box": [
+            645,
+            804,
+            947,
+            848
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        596,
+        1088,
+        1182,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "15.05.2017",
+          "box": [
+            638,
+            1118,
+            943,
+            1158
+          ]
+        }
+      ]
+    }
+  ]
+}

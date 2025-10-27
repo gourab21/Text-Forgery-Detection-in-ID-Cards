@@ -1,0 +1,19 @@
+LE1
+OR: Зубенко /
+EN: Zubenko /
+EN: Zubenko
+
+LE2
+OR: Тетяна Василівна /
+EN: Tatyana Vasylivna /
+OR: Patrici
+EN: Patricius
+
+E3
+EN: 19.05.2033
+
+E4
+EN: 10.11.2020
+
+E5
+EN: 02.03.1935

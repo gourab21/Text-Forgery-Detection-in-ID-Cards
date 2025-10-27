@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        817,
+        386,
+        1928,
+        612
+      ],
+      "lines": [
+        {
+          "text": "WILLIAMA MARINS",
+          "box": [
+            906,
+            438,
+            1577,
+            494
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            897,
+            510,
+            1287,
+            564
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2176,
+        744,
+        2639,
+        868
+      ],
+      "lines": [
+        {
+          "text": "11 12 2064",
+          "box": [
+            2242,
+            770,
+            2577,
+            826
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1639,
+        944,
+        2206,
+        1092
+      ],
+      "lines": [
+        {
+          "text": "01 03 2060",
+          "box": [
+            1716,
+            984,
+            2094,
+            1041
+          ]
+        }
+      ]
+    }
+  ]
+}

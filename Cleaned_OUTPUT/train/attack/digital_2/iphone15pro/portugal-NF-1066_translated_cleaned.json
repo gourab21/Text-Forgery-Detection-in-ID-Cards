@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\portugal-NF-1066_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1066.jpg",
+  "width": 2639,
+  "height": 1613,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            899,
+            436,
+            1597,
+            500
+          ],
+          "original_text": "OUSTIRA MARTINS",
+          "translated_en": "OUSTIRA MARTINS"
+        },
+        {
+          "box": [
+            897,
+            510,
+            1288,
+            563
+          ],
+          "original_text": "Sofia Joana",
+          "translated_en": "Sofia Joana"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2248,
+            771,
+            2630,
+            824
+          ],
+          "original_text": "29 04 1992",
+          "translated_en": "29 04 1992"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1712,
+            984,
+            2108,
+            1040
+          ],
+          "original_text": "12 10 2009",
+          "translated_en": "12 10 2009"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1066_translated_cleaned.jpg"
+}

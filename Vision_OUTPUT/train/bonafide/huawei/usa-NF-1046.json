@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\huawei\\usa-NF-1046.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        977,
+        683,
+        2004,
+        1062
+      ],
+      "lines": [
+        {
+          "text": "Natalie White",
+          "box": [
+            1048,
+            754,
+            1614,
+            820
+          ]
+        },
+        {
+          "text": "881 Willow Dr",
+          "box": [
+            1048,
+            848,
+            1640,
+            912
+          ]
+        },
+        {
+          "text": "Burlington VT 05401",
+          "box": [
+            1049,
+            946,
+            1900,
+            1019
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        1211,
+        3154,
+        1374
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-15-93",
+          "box": [
+            2413,
+            1252,
+            3049,
+            1321
+          ]
+        }
+      ]
+    }
+  ]
+}

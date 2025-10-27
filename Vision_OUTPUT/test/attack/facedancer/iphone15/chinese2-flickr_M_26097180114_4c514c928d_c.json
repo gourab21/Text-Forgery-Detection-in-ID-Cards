@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\chinese2-flickr_M_26097180114_4c514c928d_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        858,
+        546,
+        1655,
+        816
+      ],
+      "lines": [
+        {
+          "text": "马 磊",
+          "box": [
+            948,
+            598,
+            1096,
+            664
+          ]
+        },
+        {
+          "text": "Ma Lei",
+          "box": [
+            947,
+            683,
+            1186,
+            742
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1675,
+        909,
+        2321,
+        1074
+      ],
+      "lines": [
+        {
+          "text": "04 MAY 1981",
+          "box": [
+            1727,
+            958,
+            2220,
+            1022
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1680,
+        1165,
+        2346,
+        1337
+      ],
+      "lines": [
+        {
+          "text": "02 JUL 2003",
+          "box": [
+            1734,
+            1212,
+            2207,
+            1275
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        890,
+        1443,
+        1554,
+        1626
+      ],
+      "lines": [
+        {
+          "text": "02 JUL 2023",
+          "box": [
+            962,
+            1489,
+            1436,
+            1553
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\usa-063_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-063_03.jpg",
+  "width": 2810,
+  "height": 1793,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            918,
+            673,
+            1275,
+            739
+          ],
+          "original_text": "AddȧKing",
+          "translated_en": "AddȧKing"
+        },
+        {
+          "box": [
+            922,
+            727,
+            1734,
+            829
+          ],
+          "original_text": "910 Apple Blvd RATE SA",
+          "translated_en": "910 Apple Blvd RATE SA"
+        },
+        {
+          "box": [
+            921,
+            836,
+            1510,
+            897
+          ],
+          "original_text": "Austin TX 78701",
+          "translated_en": "Austin TX 78701"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2118,
+            1085,
+            2665,
+            1138
+          ],
+          "original_text": "05-08-21",
+          "translated_en": "05-08-21"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-063_03_translated_cleaned.jpg"
+}

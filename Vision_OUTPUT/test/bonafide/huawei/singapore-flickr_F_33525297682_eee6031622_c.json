@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_F_33525297682_eee6031622_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        658,
+        655,
+        2380,
+        971
+      ],
+      "lines": [
+        {
+          "text": "Angelica Ramos",
+          "box": [
+            791,
+            740,
+            1678,
+            842
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        734,
+        1406,
+        1638,
+        1601
+      ],
+      "lines": [
+        {
+          "text": "1998-12-05",
+          "box": [
+            823,
+            1474,
+            1397,
+            1553
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1780,
+        1707,
+        2628,
+        1896
+      ],
+      "lines": [
+        {
+          "text": "2008-12-05",
+          "box": [
+            1874,
+            1754,
+            2458,
+            1831
+          ]
+        }
+      ]
+    }
+  ]
+}

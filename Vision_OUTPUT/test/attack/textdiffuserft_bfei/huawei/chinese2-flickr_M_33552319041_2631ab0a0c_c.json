@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_33552319041_2631ab0a0c_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1007,
+        661,
+        1941,
+        987
+      ],
+      "lines": [
+        {
+          "text": "赵 超",
+          "box": [
+            1092,
+            720,
+            1270,
+            804
+          ]
+        },
+        {
+          "text": "Amyo Chao",
+          "box": [
+            1090,
+            823,
+            1579,
+            916
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1965,
+        1100,
+        2722,
+        1300
+      ],
+      "lines": [
+        {
+          "text": "28 Jul 2047",
+          "box": [
+            2027,
+            1165,
+            2609,
+            1250
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1971,
+        1408,
+        2752,
+        1618
+      ],
+      "lines": [
+        {
+          "text": "30 Nov 2092",
+          "box": [
+            2027,
+            1476,
+            2617,
+            1554
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1044,
+        1746,
+        1822,
+        1968
+      ],
+      "lines": [
+        {
+          "text": "25 Jun 1994",
+          "box": [
+            1132,
+            1812,
+            1691,
+            1884
+          ]
+        }
+      ]
+    }
+  ]
+}

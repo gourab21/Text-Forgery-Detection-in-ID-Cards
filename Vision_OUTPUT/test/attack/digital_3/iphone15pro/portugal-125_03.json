@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-125_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        816,
+        385,
+        1925,
+        611
+      ],
+      "lines": [
+        {
+          "text": "LISAA RIBIRO",
+          "box": [
+            920,
+            433,
+            1444,
+            499
+          ]
+        },
+        {
+          "text": "João Carlos",
+          "box": [
+            903,
+            512,
+            1292,
+            567
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2172,
+        743,
+        2634,
+        867
+      ],
+      "lines": [
+        {
+          "text": "3105 1945",
+          "box": [
+            2242,
+            773,
+            2575,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1636,
+        943,
+        2202,
+        1091
+      ],
+      "lines": [
+        {
+          "text": "12 05 1994",
+          "box": [
+            1716,
+            988,
+            2082,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

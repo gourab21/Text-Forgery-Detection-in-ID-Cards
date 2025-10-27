@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\usa-NF-1065.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        425,
+        1238,
+        659
+      ],
+      "lines": [
+        {
+          "text": "Amardavera",
+          "box": [
+            659,
+            468,
+            960,
+            507
+          ]
+        },
+        {
+          "text": "1325 Cedar Lane",
+          "box": [
+            655,
+            524,
+            1085,
+            568
+          ]
+        },
+        {
+          "text": "Tacoma WA 98402",
+          "box": [
+            651,
+            582,
+            1131,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        754,
+        1948,
+        855
+      ],
+      "lines": [
+        {
+          "text": "DOB : 14-01-08",
+          "box": [
+            1493,
+            777,
+            1890,
+            821
+          ]
+        }
+      ]
+    }
+  ]
+}

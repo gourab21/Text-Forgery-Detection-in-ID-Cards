@@ -1,0 +1,19 @@
+LE1
+EN: Zubenko /
+OR: Зубенко /
+EN: Zubenko
+
+LE2
+EN: Tatyana Vasylivna /
+OR: Тетяна Василівна /
+EN: The other
+OR: Teijand
+
+E3
+EN: 25.12.18135
+
+E4
+EN: 10.11.2020
+
+E5
+EN: 10.11.2014 .

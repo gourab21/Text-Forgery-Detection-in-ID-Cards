@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\chinese-NF-1042.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        397,
+        1106,
+        583
+      ],
+      "lines": [
+        {
+          "text": "章子怡",
+          "box": [
+            674,
+            432,
+            825,
+            483
+          ]
+        },
+        {
+          "text": "Jennifeng",
+          "box": [
+            675,
+            493,
+            932,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1200,
+        660,
+        1610,
+        794
+      ],
+      "lines": [
+        {
+          "text": "22 Apr 2072",
+          "box": [
+            1231,
+            705,
+            1522,
+            747
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        852,
+        1634,
+        979
+      ],
+      "lines": [
+        {
+          "text": "05 Apr 2021",
+          "box": [
+            1238,
+            885,
+            1551,
+            932
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1043,
+        1089,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "19 Apr 1951",
+          "box": [
+            689,
+            1087,
+            1004,
+            1134
+          ]
+        }
+      ]
+    }
+  ]
+}

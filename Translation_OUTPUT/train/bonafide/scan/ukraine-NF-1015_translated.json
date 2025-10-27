@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\bonafide\\scan\\ukraine-NF-1015.json",
+  "image_relative": "train\\bonafide\\scan\\ukraine-NF-1015.jpg",
+  "width": 1993,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            652,
+            290,
+            893,
+            338
+          ],
+          "original_text": "Козлова /",
+          "translated_en": "Kozlova /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            652,
+            351,
+            834,
+            383
+          ],
+          "original_text": "Kozlova",
+          "translated_en": "Kozlova",
+          "detected_lang": "lv"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            643,
+            472,
+            1127,
+            525
+          ],
+          "original_text": "Тетяна Романівна /",
+          "translated_en": "Tatyana Romanivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            647,
+            533,
+            823,
+            568
+          ],
+          "original_text": "Tetiana",
+          "translated_en": "Tetiana",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            645,
+            679,
+            913,
+            716
+          ],
+          "original_text": "24.11.1991",
+          "translated_en": "24.11.1991",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1011,
+            922,
+            1090,
+            940
+          ],
+          "original_text": "of Is",
+          "translated_en": "of Is",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            641,
+            955,
+            907,
+            993
+          ],
+          "original_text": "10.12.2016",
+          "translated_en": "10.12.2016",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            636,
+            1150,
+            901,
+            1186
+          ],
+          "original_text": "10.12.2021",
+          "translated_en": "10.12.2021",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1015_translated.jpg"
+}

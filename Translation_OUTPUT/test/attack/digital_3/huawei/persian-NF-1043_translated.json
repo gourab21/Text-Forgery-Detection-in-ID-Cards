@@ -1,0 +1,121 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\persian-NF-1043.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\persian-NF-1043.jpg",
+  "width": 3193,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1230,
+            449,
+            1432,
+            507
+          ],
+          "original_text": "Tere",
+          "translated_en": "Tere",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1214,
+            676,
+            1551,
+            741
+          ],
+          "original_text": "Ahmadi",
+          "translated_en": "Ahmadi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2168,
+            454,
+            2276,
+            517
+          ],
+          "original_text": "مینا",
+          "translated_en": "Mina",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2162,
+            698,
+            2378,
+            753
+          ],
+          "original_text": "محمدی",
+          "translated_en": "Mohammadi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1216,
+            938,
+            1669,
+            1004
+          ],
+          "original_text": "23/02/1904",
+          "translated_en": "23/02/1904",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1199,
+            1462,
+            1647,
+            1526
+          ],
+          "original_text": "08/07/2024",
+          "translated_en": "08/07/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2140,
+            1476,
+            2599,
+            1546
+          ],
+          "original_text": "08/10/1952",
+          "translated_en": "08/10/1952",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1043_translated.jpg"
+}

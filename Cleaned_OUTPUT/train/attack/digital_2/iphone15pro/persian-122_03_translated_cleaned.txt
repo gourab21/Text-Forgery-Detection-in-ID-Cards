@@ -1,0 +1,20 @@
+E1
+EN: Mamero
+
+E2
+EN: Kermani
+
+L1
+EN: Mariam
+OR: مريم
+
+L2
+
+E3
+EN: 23/07/2006
+
+E4
+EN: 15/12/2024
+
+E5
+EN: 17 / 01 / 20 /

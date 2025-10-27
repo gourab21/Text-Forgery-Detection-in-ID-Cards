@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-026_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-026_03.jpg",
+  "width": 1993,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            696,
+            337,
+            1240,
+            382
+          ],
+          "original_text": "ANNANDES RIBEIRO",
+          "translated_en": "ANNANDES RIBEIRO"
+        },
+        {
+          "box": [
+            683,
+            398,
+            825,
+            441
+          ],
+          "original_text": "Tiago",
+          "translated_en": "Tiago"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1699,
+            600,
+            1952,
+            642
+          ],
+          "original_text": "25 08 1900",
+          "translated_en": "25 08 1900"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1298,
+            767,
+            1581,
+            809
+          ],
+          "original_text": "28 09 1906",
+          "translated_en": "28 09 1906"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-026_03_translated_cleaned.jpg"
+}

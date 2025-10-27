@@ -1,0 +1,31 @@
+E1
+EN: Jocely Al - Said
+
+L1
+OR: السعيد حسان
+EN: Saeed Hassan
+
+E2
+EN: 06 Feb 1940
+
+E3
+EN: 11 Jun 2022
+
+E4
+EN: 25 Apr 2098
+
+L2
+OR: سلاد تاریخ
+EN: Salad history
+OR: ٢٤ / مارس / ۱۹۸۷
+EN: March 24, 1987
+
+L3
+OR: ۱۱ / يونيو / ٢٠٢٢
+EN: June 11, 2022
+
+L4
+OR: ع
+EN: A
+OR: - ٧ / مايو / ۲۰۳۰
+EN: - May 7, 2030

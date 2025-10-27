@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\singapore-flickr_M_33525333882_5cf0c0382a_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1501,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Rashid bin Ahmad",
+          "box": [
+            509,
+            469,
+            1132,
+            521
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        886,
+        1033,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1974-02-07",
+          "box": [
+            521,
+            927,
+            886,
+            977
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1076,
+        1658,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "1984-02-07",
+          "box": [
+            1185,
+            1099,
+            1550,
+            1151
+          ]
+        }
+      ]
+    }
+  ]
+}

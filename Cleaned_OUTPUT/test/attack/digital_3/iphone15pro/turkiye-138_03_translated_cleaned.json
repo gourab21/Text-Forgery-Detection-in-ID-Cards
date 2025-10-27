@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\turkiye-138_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\turkiye-138_03.jpg",
+  "width": 2642,
+  "height": 1616,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            877,
+            844,
+            1063,
+            897
+          ],
+          "original_text": "Danie",
+          "translated_en": "Danie"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            872,
+            636,
+            1082,
+            692
+          ],
+          "original_text": "Özden",
+          "translated_en": "Özden"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            887,
+            1042,
+            1267,
+            1097
+          ],
+          "original_text": "31.12.2055",
+          "translated_en": "31.12.2055"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            892,
+            1447,
+            1276,
+            1504
+          ],
+          "original_text": "31.06.1941",
+          "translated_en": "31.06.1941"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-138_03_translated_cleaned.jpg"
+}

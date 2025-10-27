@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\portugal-NF-1109_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\portugal-NF-1109.jpg",
+  "width": 2841,
+  "height": 1810,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            970,
+            496,
+            1527,
+            558
+          ],
+          "original_text": "MICHAELANOS",
+          "translated_en": "MICHAELANOS"
+        },
+        {
+          "box": [
+            960,
+            581,
+            1118,
+            636
+          ],
+          "original_text": "Sara",
+          "translated_en": "Sara"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2415,
+            837,
+            2778,
+            887
+          ],
+          "original_text": "29 06 2064",
+          "translated_en": "29 06 2064"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1858,
+            1084,
+            2264,
+            1142
+          ],
+          "original_text": "29 10 2099",
+          "translated_en": "29 10 2099"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1109_translated_cleaned.jpg"
+}

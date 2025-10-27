@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\russian-082_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\russian-082_03.jpg",
+  "width": 2002,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            726,
+            267,
+            907,
+            311
+          ],
+          "original_text": "Ершов /",
+          "translated_en": "Ershov /"
+        },
+        {
+          "box": [
+            723,
+            319,
+            869,
+            353
+          ],
+          "original_text": "Ershov",
+          "translated_en": "Ershov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1294,
+            433,
+            1331,
+            462
+          ],
+          "original_text": "ре",
+          "translated_en": "re"
+        },
+        {
+          "box": [
+            719,
+            470,
+            1331,
+            529
+          ],
+          "original_text": "Роман Федорович / C",
+          "translated_en": "Roman Fedorovich / C"
+        },
+        {
+          "box": [
+            719,
+            520,
+            1128,
+            561
+          ],
+          "original_text": "Rhristensen vicl",
+          "translated_en": "Rhistensen village"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            718,
+            681,
+            975,
+            715
+          ],
+          "original_text": "16.08.:2031",
+          "translated_en": "16.08.:2031"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            710,
+            959,
+            958,
+            992
+          ],
+          "original_text": "03.12.2013",
+          "translated_en": "03.12.2013"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            706,
+            1141,
+            962,
+            1178
+          ],
+          "original_text": "01.12.2000",
+          "translated_en": "01.12.2000"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-082_03_translated_cleaned.jpg"
+}

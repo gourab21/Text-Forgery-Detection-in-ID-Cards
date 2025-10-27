@@ -1,0 +1,14 @@
+LE1
+EN: Wu Qing
+OR: 吴 情
+EN: Debra
+OR: Debran
+
+E2
+EN: 28 Jan 1920
+
+E3
+EN: 14 Jun 2012
+
+E4
+EN: 15 Mar 2070

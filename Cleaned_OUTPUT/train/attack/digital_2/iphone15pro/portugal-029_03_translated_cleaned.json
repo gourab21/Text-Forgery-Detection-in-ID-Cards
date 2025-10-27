@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\portugal-029_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-029_03.jpg",
+  "width": 2835,
+  "height": 1795,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            953,
+            491,
+            1686,
+            557
+          ],
+          "original_text": "PAMSRA OLIVERA",
+          "translated_en": "PAMSRA OLIVERA"
+        },
+        {
+          "box": [
+            952,
+            577,
+            1150,
+            643
+          ],
+          "original_text": "Tiago",
+          "translated_en": "Tiago"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2421,
+            829,
+            2827,
+            877
+          ],
+          "original_text": "03 06 2003",
+          "translated_en": "03 06 2003"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1850,
+            1079,
+            2272,
+            1134
+          ],
+          "original_text": "31 05 2995",
+          "translated_en": "31 05 2995"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-029_03_translated_cleaned.jpg"
+}

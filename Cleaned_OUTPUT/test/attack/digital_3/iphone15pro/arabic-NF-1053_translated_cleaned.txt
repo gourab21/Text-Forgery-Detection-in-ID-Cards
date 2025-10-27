@@ -1,0 +1,27 @@
+E1
+EN: Robin A - Ghandi
+
+L1
+EN: Al-Ghamdi Layla
+OR: الغامدي ليلي
+
+E2
+EN: 31 Dec 1950
+
+E3
+EN: 11 Nov 2024
+
+E4
+EN: 29 Feb 2042
+
+L2
+EN: February 16, 1988
+OR: ١٦ / فبراير / ۱۹۸۸
+
+L3
+EN: November 11, 2024
+OR: ١١ / نوفمبر / ٢٢٤
+
+L4
+EN: November 11, 2014
+OR: ١١ / نوفمبر / ٢٠١٤

@@ -1,0 +1,27 @@
+E1
+EN: Litfan thood
+
+L1
+OR: محمود ليلى
+EN: Mahmoud Laila
+
+E2
+EN: 23 Feb 20
+
+E3
+EN: 15 Jan 2020
+
+E4
+EN: 05 Oct 2015
+
+L2
+OR: TY ۲۳ / فبراير / ۱۹۸۱
+EN: TY 23 / February / 1981
+
+L3
+OR: ١٥ / يناير / ۲۰۲۰
+EN: January 15, 2020
+
+L4
+OR: ٥ / أكتوبر / ۲۰۳۲
+EN: October 5, 2032

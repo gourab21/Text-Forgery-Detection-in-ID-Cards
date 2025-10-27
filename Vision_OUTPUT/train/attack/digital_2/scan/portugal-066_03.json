@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "SARCUS COTA",
+          "box": [
+            681,
+            342,
+            1094,
+            389
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            683,
+            402,
+            1118,
+            448
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        575,
+        1997,
+        671
+      ],
+      "lines": [
+        {
+          "text": "18 03 1989",
+          "box": [
+            1711,
+            577,
+            1996,
+            617
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        730,
+        1669,
+        845
+      ],
+      "lines": [
+        {
+          "text": "04 04 01 2034",
+          "box": [
+            1309,
+            730,
+            1605,
+            800
+          ]
+        }
+      ]
+    }
+  ]
+}

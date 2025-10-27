@@ -1,0 +1,132 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\persian-NF-1108.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\persian-NF-1108.jpg",
+  "width": 2797,
+  "height": 1776,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1060,
+            344,
+            1239,
+            377
+          ],
+          "original_text": "Name",
+          "translated_en": "Name",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1062,
+            406,
+            1288,
+            465
+          ],
+          "original_text": "Fohnh",
+          "translated_en": "Fohnh",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1060,
+            610,
+            1349,
+            670
+          ],
+          "original_text": "Ahmadi",
+          "translated_en": "Ahmadi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1869,
+            391,
+            1989,
+            475
+          ],
+          "original_text": "فرح",
+          "translated_en": "joy",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1874,
+            608,
+            2060,
+            678
+          ],
+          "original_text": "حسینی",
+          "translated_en": "Hosseini",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1071,
+            839,
+            1461,
+            904
+          ],
+          "original_text": "14/11/2005",
+          "translated_en": "14/11/2005",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1078,
+            1308,
+            1465,
+            1365
+          ],
+          "original_text": "30/06/2024",
+          "translated_en": "30/06/2024",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1888,
+            1301,
+            2283,
+            1355
+          ],
+          "original_text": "23/04/1997",
+          "translated_en": "23/04/1997",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1108_translated.jpg"
+}

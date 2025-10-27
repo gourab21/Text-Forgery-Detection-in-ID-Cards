@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\usa-034_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        672,
+        1987,
+        1043
+      ],
+      "lines": [
+        {
+          "text": "Michelerter",
+          "box": [
+            1055,
+            736,
+            1556,
+            806
+          ]
+        },
+        {
+          "text": "456 Pine Road",
+          "box": [
+            1038,
+            831,
+            1639,
+            900
+          ]
+        },
+        {
+          "text": "Winchester MA 01890",
+          "box": [
+            1037,
+            927,
+            1957,
+            999
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2330,
+        1190,
+        3125,
+        1350
+      ],
+      "lines": [
+        {
+          "text": "DOB : 24-12-33",
+          "box": [
+            2399,
+            1236,
+            3038,
+            1312
+          ]
+        }
+      ]
+    }
+  ]
+}

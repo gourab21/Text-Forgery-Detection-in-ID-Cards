@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "RACHEL COSTA",
+          "box": [
+            687,
+            343,
+            1085,
+            389
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            683,
+            402,
+            1118,
+            449
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        575,
+        1997,
+        671
+      ],
+      "lines": [
+        {
+          "text": "30 11 1945",
+          "box": [
+            1704,
+            577,
+            1951,
+            615
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        730,
+        1669,
+        845
+      ],
+      "lines": [
+        {
+          "text": "23 12 1945",
+          "box": [
+            1312,
+            755,
+            1598,
+            799
+          ]
+        }
+      ]
+    }
+  ]
+}

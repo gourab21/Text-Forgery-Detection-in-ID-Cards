@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\indian-NM-1058_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\indian-NM-1058.jpg",
+  "width": 1999,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            694,
+            463,
+            1046,
+            503
+          ],
+          "original_text": "CHOWDHURY",
+          "translated_en": "CHOWDHURY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            696,
+            612,
+            946,
+            651
+          ],
+          "original_text": "JUSTINAJ",
+          "translated_en": "JUSTINAJ"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            688,
+            777,
+            1001,
+            825
+          ],
+          "original_text": "28/07/1953",
+          "translated_en": "28/07/1953"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            681,
+            1070,
+            996,
+            1117
+          ],
+          "original_text": "29/04/2008",
+          "translated_en": "29/04/2008"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1407,
+            1082,
+            1719,
+            1127
+          ],
+          "original_text": "20/11/2083",
+          "translated_en": "20/11/2083"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NM-1058_translated_cleaned.jpg"
+}

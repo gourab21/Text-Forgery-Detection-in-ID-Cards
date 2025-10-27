@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_24291592906_b097dd45e5_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        394,
+        1194,
+        587
+      ],
+      "lines": [
+        {
+          "text": "吴刚",
+          "box": [
+            691,
+            421,
+            795,
+            471
+          ]
+        },
+        {
+          "text": "Kahryn",
+          "box": [
+            695,
+            483,
+            928,
+            538
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1208,
+        655,
+        1674,
+        773
+      ],
+      "lines": [
+        {
+          "text": "14 Oct 1950",
+          "box": [
+            1246,
+            701,
+            1603,
+            750
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1213,
+        839,
+        1692,
+        963
+      ],
+      "lines": [
+        {
+          "text": "20 Jul 2074 500",
+          "box": [
+            1241,
+            885,
+            1691,
+            962
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        643,
+        1039,
+        1121,
+        1171
+      ],
+      "lines": [
+        {
+          "text": "29 Mar 1902",
+          "box": [
+            678,
+            1072,
+            1023,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

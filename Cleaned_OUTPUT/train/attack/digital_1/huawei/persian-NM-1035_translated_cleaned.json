@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\persian-NM-1035_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\persian-NM-1035.jpg",
+  "width": 3192,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1228,
+            449,
+            1460,
+            510
+          ],
+          "original_text": "Javie",
+          "translated_en": "Javie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1222,
+            676,
+            1620,
+            743
+          ],
+          "original_text": "Shahbazi",
+          "translated_en": "Shahbazi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            2169,
+            456,
+            2317,
+            532
+          ],
+          "original_text": "جواد",
+          "translated_en": "Javad"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2163,
+            691,
+            2411,
+            755
+          ],
+          "original_text": "شهبازی",
+          "translated_en": "Shahbazi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1223,
+            941,
+            1668,
+            1005
+          ],
+          "original_text": "18/11/1995",
+          "translated_en": "18/11/1995"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1214,
+            1465,
+            1654,
+            1528
+          ],
+          "original_text": "18/11/2022",
+          "translated_en": "18/11/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2153,
+            1474,
+            2600,
+            1542
+          ],
+          "original_text": "18 / 11 / : 2007",
+          "translated_en": "18 / 11 / : 2007"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NM-1035_translated_cleaned.jpg"
+}

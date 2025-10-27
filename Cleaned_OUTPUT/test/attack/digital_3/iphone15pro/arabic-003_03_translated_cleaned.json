@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\arabic-003_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\arabic-003_03.jpg",
+  "width": 2619,
+  "height": 1605,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            983,
+            598,
+            1568,
+            676
+          ],
+          "original_text": "Jorge AAhmad",
+          "translated_en": "Jorge AAhmad"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            962,
+            412,
+            1410,
+            503
+          ],
+          "original_text": "الأحمد طارق",
+          "translated_en": "Ahmed Tariq"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            975,
+            996,
+            1454,
+            1059
+          ],
+          "original_text": "12 Feb 2083",
+          "translated_en": "12 Feb 2083"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            969,
+            1215,
+            1413,
+            1272
+          ],
+          "original_text": "09 Jul 2018",
+          "translated_en": "09 Jul 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            965,
+            1420,
+            1427,
+            1486
+          ],
+          "original_text": "22 Jul 1952",
+          "translated_en": "22 Jul 1952"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1664,
+            1002,
+            2263,
+            1084
+          ],
+          "original_text": "٢٩ / أبريل / ۱۹۸۵ ٩٨٥",
+          "translated_en": "April 29, 1985"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1671,
+            1220,
+            2197,
+            1295
+          ],
+          "original_text": "/ / يوليو / ۲۰۱۸",
+          "translated_en": "/ / July / 2018"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1601,
+            1433,
+            2132,
+            1512
+          ],
+          "original_text": "٢٤ / ديسمبر /",
+          "translated_en": "December 24"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-003_03_translated_cleaned.jpg"
+}

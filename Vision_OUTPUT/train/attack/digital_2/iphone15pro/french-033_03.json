@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\french-033_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        832,
+        381,
+        1656,
+        515
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            908,
+            434,
+            1176,
+            485
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        824,
+        630,
+        1753,
+        789
+      ],
+      "lines": [
+        {
+          "text": "Julien , Émile",
+          "box": [
+            909,
+            658,
+            1331,
+            745
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1941,
+        882,
+        2487,
+        1036
+      ],
+      "lines": [
+        {
+          "text": "27 08 1-016",
+          "box": [
+            1995,
+            892,
+            2397,
+            943
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1914,
+        1441,
+        2469,
+        1580
+      ],
+      "lines": [
+        {
+          "text": "21 11 2028",
+          "box": [
+            2008,
+            1444,
+            2407,
+            1491
+          ]
+        }
+      ]
+    }
+  ]
+}

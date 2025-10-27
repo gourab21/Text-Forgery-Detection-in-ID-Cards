@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_M_31998389253_0a26f25b0d_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        404,
+        1777,
+        753
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            944,
+            451,
+            1252,
+            513
+          ]
+        },
+        {
+          "text": "Juliëtte Annemarie",
+          "box": [
+            943,
+            536,
+            1704,
+            605
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            952,
+            636,
+            1268,
+            705
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2067,
+        781,
+        2738,
+        920
+      ],
+      "lines": [
+        {
+          "text": "03 11 1992",
+          "box": [
+            2170,
+            816,
+            2638,
+            881
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2032,
+        1020,
+        2728,
+        1192
+      ],
+      "lines": [
+        {
+          "text": "27 01 2028",
+          "box": [
+            2133,
+            1056,
+            2642,
+            1126
+          ]
+        }
+      ]
+    }
+  ]
+}

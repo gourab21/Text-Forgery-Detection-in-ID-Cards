@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\usa-NF-1076.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        427,
+        1236,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Fhristopherderson",
+          "box": [
+            657,
+            471,
+            1118,
+            520
+          ]
+        },
+        {
+          "text": "1543 Elm St",
+          "box": [
+            655,
+            527,
+            966,
+            569
+          ]
+        },
+        {
+          "text": "Phoenix AZ 85021",
+          "box": [
+            654,
+            587,
+            1119,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1452,
+        756,
+        1946,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 11-12-12",
+          "box": [
+            1495,
+            777,
+            1895,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

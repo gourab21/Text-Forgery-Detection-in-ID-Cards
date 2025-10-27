@@ -1,0 +1,139 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\arabic-NF-1100_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\arabic-NF-1100.jpg",
+  "width": 3192,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1187,
+            741,
+            1850,
+            819
+          ],
+          "original_text": "Jemifer Salah",
+          "translated_en": "Jemifer Salah"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1165,
+            519,
+            1611,
+            615
+          ],
+          "original_text": "الصباح هنا",
+          "translated_en": "Morning is here"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1176,
+            1240,
+            1743,
+            1318
+          ],
+          "original_text": "02 Nov 195",
+          "translated_en": "02 Nov 195"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1175,
+            1502,
+            1765,
+            1575
+          ],
+          "original_text": "19 Nov 2021",
+          "translated_en": "19 Nov 2021"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1166,
+            1759,
+            1736,
+            1838
+          ],
+          "original_text": "02 Jan 1377",
+          "translated_en": "02 Jan 1377"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2116,
+            1250,
+            2809,
+            1337
+          ],
+          "original_text": "/ سبتمبر / ۱ ۱۳",
+          "translated_en": "/ September / 1 13"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2027,
+            1512,
+            2802,
+            1593
+          ],
+          "original_text": "۱۹ / نوفمبر / ۲۰۲۱",
+          "translated_en": "November 19, 2021"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2313,
+            1688,
+            2392,
+            1731
+          ],
+          "original_text": "6",
+          "translated_en": "6"
+        },
+        {
+          "box": [
+            2019,
+            1782,
+            2722,
+            1861
+          ],
+          "original_text": "۲۰ / سبتمبر / ۲۰",
+          "translated_en": "September 20"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1100_translated_cleaned.jpg"
+}

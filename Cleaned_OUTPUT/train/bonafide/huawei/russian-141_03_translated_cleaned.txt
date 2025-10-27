@@ -1,0 +1,18 @@
+LE1
+EN: Novikov /
+OR: Новиков /
+EN: Novikov
+
+LE2
+EN: Kirill Igorevich /
+OR: Кирилл Игоревич /
+EN: Kirill Igorevich
+
+E3
+EN: 23.05.1985
+
+E4
+EN: 23.02.2012
+
+E5
+EN: 20.02.2022

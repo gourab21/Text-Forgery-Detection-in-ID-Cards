@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\chinese-018_03.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        888,
+        562,
+        1539,
+        827
+      ],
+      "lines": [
+        {
+          "text": "刘洋",
+          "box": [
+            945,
+            613,
+            1094,
+            684
+          ]
+        },
+        {
+          "text": "Lhomasng",
+          "box": [
+            955,
+            703,
+            1255,
+            761
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1670,
+        937,
+        2243,
+        1126
+      ],
+      "lines": [
+        {
+          "text": "16 FEB 2041",
+          "box": [
+            1736,
+            996,
+            2177,
+            1052
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1645,
+        1208,
+        2275,
+        1390
+      ],
+      "lines": [
+        {
+          "text": "25 DEC 2005",
+          "box": [
+            1740,
+            1250,
+            2194,
+            1311
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        861,
+        1479,
+        1517,
+        1655
+      ],
+      "lines": [
+        {
+          "text": "24 DEC 2016",
+          "box": [
+            971,
+            1535,
+            1440,
+            1594
+          ]
+        }
+      ]
+    }
+  ]
+}

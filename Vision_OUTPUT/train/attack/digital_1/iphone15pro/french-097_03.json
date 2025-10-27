@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-097_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        829,
+        375,
+        1651,
+        504
+      ],
+      "lines": [
+        {
+          "text": "FONTAINE",
+          "box": [
+            898,
+            420,
+            1244,
+            472
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        822,
+        617,
+        1749,
+        773
+      ],
+      "lines": [
+        {
+          "text": "Anaïs , Laura",
+          "box": [
+            896,
+            663,
+            1304,
+            727
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1935,
+        865,
+        2479,
+        1014
+      ],
+      "lines": [
+        {
+          "text": "07 07 2014",
+          "box": [
+            1977,
+            879,
+            2378,
+            929
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1909,
+        1412,
+        2463,
+        1548
+      ],
+      "lines": [
+        {
+          "text": "25 03 2027",
+          "box": [
+            1984,
+            1426,
+            2374,
+            1475
+          ]
+        }
+      ]
+    }
+  ]
+}

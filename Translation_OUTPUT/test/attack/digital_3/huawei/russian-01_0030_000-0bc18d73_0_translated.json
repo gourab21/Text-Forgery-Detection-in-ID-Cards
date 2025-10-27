@@ -1,0 +1,122 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\russian-01_0030_000-0bc18d73_0.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\russian-01_0030_000-0bc18d73_0.jpg",
+  "width": 3202,
+  "height": 1982,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1151,
+            421,
+            1472,
+            490
+          ],
+          "original_text": "Петров /",
+          "translated_en": "Petrov /",
+          "detected_lang": "bg"
+        },
+        {
+          "box": [
+            1148,
+            503,
+            1379,
+            556
+          ],
+          "original_text": "Petrov",
+          "translated_en": "Petrov",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            2066,
+            686,
+            2132,
+            730
+          ],
+          "original_text": "ра",
+          "translated_en": "ra",
+          "detected_lang": "sr"
+        },
+        {
+          "box": [
+            1147,
+            748,
+            1996,
+            828
+          ],
+          "original_text": "Николай Николаевич /",
+          "translated_en": "Nikolai Nikolaevich /",
+          "detected_lang": "sah"
+        },
+        {
+          "box": [
+            1136,
+            840,
+            1379,
+            892
+          ],
+          "original_text": "Christo",
+          "translated_en": "Christo",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1138,
+            1084,
+            1532,
+            1142
+          ],
+          "original_text": "22.08.2025",
+          "translated_en": "22.08.2025",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1128,
+            1523,
+            1529,
+            1583
+          ],
+          "original_text": "21.08.2020",
+          "translated_en": "21.08.2020",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1123,
+            1815,
+            1523,
+            1878
+          ],
+          "original_text": "20.01.1932",
+          "translated_en": "20.01.1932",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-01_0030_000-0bc18d73_0_translated.jpg"
+}

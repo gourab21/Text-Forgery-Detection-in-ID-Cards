@@ -1,0 +1,31 @@
+E1
+EN: Davida Hassan
+
+L1
+OR: حسن فاطمة
+EN: Hassan Fatima
+
+E2
+EN: 01 Jul 2202
+
+E3
+EN: 17 Sep 2022
+
+E4
+EN: 21 Dec 1977
+
+L2
+OR: تاريخ
+EN: History
+OR: ٤ أكتوبر / ١٨٩
+EN: October 4, 189
+
+L3
+OR: ۱۷ / ستمبر / ٢٠٢٢
+EN: 17 / September / 2022
+
+L4
+OR: ع
+EN: A
+OR: ۲۸ / يوليو / ۲۰۳۳
+EN: July 28, 2033

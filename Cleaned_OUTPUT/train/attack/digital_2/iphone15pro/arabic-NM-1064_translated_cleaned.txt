@@ -1,0 +1,27 @@
+E1
+EN: Arreeditd / الان احد لانا
+
+L1
+EN: Rashid Abdul Ahmed
+OR: الرشيد عبد أحمد
+
+E2
+EN: 16 Sep 20 2
+
+E3
+EN: 21 Jan 2019
+
+E4
+EN: 16 Sep 2029
+
+L2
+EN: September 16, 1981
+OR: ١٦ / سبتمبر / ۱۹۸۱
+
+L3
+EN: January 21, 2019
+OR: ۲۱ ۱ / يناير / ۲۰۱۹
+
+L4
+EN: September 16, 2030
+OR: ١٦ / سبتمبر / ۲۰۳۰

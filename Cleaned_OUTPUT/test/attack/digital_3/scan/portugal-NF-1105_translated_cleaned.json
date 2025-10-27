@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-NF-1105_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-NF-1105.jpg",
+  "width": 1995,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            691,
+            338,
+            1192,
+            384
+          ],
+          "original_text": "MATTHEVES COSTA",
+          "translated_en": "MATTHEVES COSTA"
+        },
+        {
+          "box": [
+            685,
+            396,
+            781,
+            436
+          ],
+          "original_text": "Ana",
+          "translated_en": "Ana"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1698,
+            603,
+            1951,
+            644
+          ],
+          "original_text": "02 03 1903",
+          "translated_en": "02 03 1903"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1298,
+            773,
+            1586,
+            812
+          ],
+          "original_text": "01 04 2043",
+          "translated_en": "01 04 2043"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1105_translated_cleaned.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-061_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "GAING1 PIEIPO",
+          "box": [
+            678,
+            340,
+            1109,
+            388
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            681,
+            404,
+            830,
+            440
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "03 06 2001",
+          "box": [
+            1707,
+            576,
+            1997,
+            615
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        729,
+        1670,
+        844
+      ],
+      "lines": [
+        {
+          "text": "01 06 2042",
+          "box": [
+            1309,
+            752,
+            1607,
+            793
+          ]
+        }
+      ]
+    }
+  ]
+}

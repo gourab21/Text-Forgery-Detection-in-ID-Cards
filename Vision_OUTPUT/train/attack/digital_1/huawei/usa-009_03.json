@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\usa-009_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        969,
+        674,
+        1989,
+        1048
+      ],
+      "lines": [
+        {
+          "text": "LamesClark",
+          "box": [
+            1048,
+            741,
+            1455,
+            807
+          ]
+        },
+        {
+          "text": "654 Spruce St",
+          "box": [
+            1042,
+            833,
+            1620,
+            906
+          ]
+        },
+        {
+          "text": "Philadelphia PA 19104",
+          "box": [
+            1043,
+            929,
+            1976,
+            1006
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2334,
+        1195,
+        3130,
+        1356
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-25-17",
+          "box": [
+            2405,
+            1237,
+            3036,
+            1305
+          ]
+        }
+      ]
+    }
+  ]
+}

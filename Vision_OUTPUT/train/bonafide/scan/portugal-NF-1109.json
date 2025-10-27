@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NF-1109.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "COSTA SANTOS",
+          "box": [
+            673,
+            343,
+            1070,
+            387
+          ]
+        },
+        {
+          "text": "Sara",
+          "box": [
+            674,
+            407,
+            786,
+            443
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        576,
+        1995,
+        673
+      ],
+      "lines": [
+        {
+          "text": "09 10 1979",
+          "box": [
+            1702,
+            577,
+            1991,
+            617
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        731,
+        1668,
+        846
+      ],
+      "lines": [
+        {
+          "text": "06 10 2029",
+          "box": [
+            1305,
+            755,
+            1591,
+            797
+          ]
+        }
+      ]
+    }
+  ]
+}

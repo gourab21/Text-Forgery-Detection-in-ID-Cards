@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\usa-NM-1038.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        426,
+        1236,
+        661
+      ],
+      "lines": [
+        {
+          "text": "Jyanua Taylor",
+          "box": [
+            642,
+            472,
+            1006,
+            521
+          ]
+        },
+        {
+          "text": "204 Pine St",
+          "box": [
+            646,
+            532,
+            939,
+            572
+          ]
+        },
+        {
+          "text": "Bozeman MT 59715",
+          "box": [
+            647,
+            589,
+            1149,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1452,
+        755,
+        1946,
+        856
+      ],
+      "lines": [
+        {
+          "text": "DOB : 03-22-40",
+          "box": [
+            1496,
+            765,
+            1900,
+            803
+          ]
+        }
+      ]
+    }
+  ]
+}

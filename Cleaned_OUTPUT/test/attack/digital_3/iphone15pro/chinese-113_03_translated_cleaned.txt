@@ -1,0 +1,12 @@
+LE1
+EN: Joshua
+OR: Joshaiin
+
+E2
+EN: 03 Sep 2077
+
+E3
+EN: 29 Sep 2010
+
+E4
+EN: 12 Dec 1995

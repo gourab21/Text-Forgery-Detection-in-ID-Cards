@@ -1,0 +1,30 @@
+E1
+EN: Hichelabah
+
+L1
+OR: الصباح هنا
+EN: Morning is here
+
+E2
+EN: 03 Sep 294
+
+E3
+EN: 19 Nov 2021
+
+E4
+EN: 20 Sep 19
+
+L2
+OR: تاریخ
+EN: History
+OR: / سبتمبر / ۱ ۱۳
+EN: / September / 1 13
+
+L3
+OR: ۱۹ / نوفمبر / ٢٠٢١
+EN: November 19, 2021
+
+L4
+EN: 6
+OR: ۲۰ / سبتمبر / ۲۰
+EN: September 20

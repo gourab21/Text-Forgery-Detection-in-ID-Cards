@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        828,
+        379,
+        1649,
+        512
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            908,
+            424,
+            1174,
+            476
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        821,
+        625,
+        1747,
+        783
+      ],
+      "lines": [
+        {
+          "text": "Jessent , Paul",
+          "box": [
+            908,
+            665,
+            1350,
+            733
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1933,
+        877,
+        2477,
+        1028
+      ],
+      "lines": [
+        {
+          "text": "28 03 2082",
+          "box": [
+            2001,
+            881,
+            2376,
+            932
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1907,
+        1430,
+        2460,
+        1568
+      ],
+      "lines": [
+        {
+          "text": "07 03 1989",
+          "box": [
+            2011,
+            1430,
+            2381,
+            1481
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\portugal-004_03.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\portugal-004_03.jpg",
+  "width": 2843,
+  "height": 1797,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            969,
+            499,
+            1622,
+            559
+          ],
+          "original_text": "CKHARD GOMES",
+          "translated_en": "CKHARD GOMES",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            976,
+            580,
+            1543,
+            643
+          ],
+          "original_text": "Francisco Jorge",
+          "translated_en": "Francisco Jorge",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2431,
+            834,
+            2841,
+            889
+          ],
+          "original_text": "07 06 1983",
+          "translated_en": "07 06 1983",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1865,
+            1088,
+            2294,
+            1142
+          ],
+          "original_text": "22 09 2037",
+          "translated_en": "22 09 2037",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-004_03_translated.jpg"
+}

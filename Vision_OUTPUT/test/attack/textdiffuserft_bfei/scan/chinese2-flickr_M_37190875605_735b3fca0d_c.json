@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_37190875605_735b3fca0d_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        395,
+        1194,
+        589
+      ],
+      "lines": [
+        {
+          "text": "杨军",
+          "box": [
+            688,
+            418,
+            796,
+            470
+          ]
+        },
+        {
+          "text": "Jose Jun",
+          "box": [
+            693,
+            490,
+            939,
+            531
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1208,
+        657,
+        1674,
+        776
+      ],
+      "lines": [
+        {
+          "text": "08 Jun 2099",
+          "box": [
+            1243,
+            703,
+            1595,
+            750
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1212,
+        841,
+        1691,
+        965
+      ],
+      "lines": [
+        {
+          "text": "14 Jul 2096 000",
+          "box": [
+            1243,
+            887,
+            1690,
+            964
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        643,
+        1043,
+        1120,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "23 Aug 207",
+          "box": [
+            677,
+            1072,
+            1018,
+            1127
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\ukraine-NF-1106_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\ukraine-NF-1106.jpg",
+  "width": 3199,
+  "height": 1962,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1042,
+            456,
+            1345,
+            531
+          ],
+          "original_text": "Мороз /",
+          "translated_en": "Frost /"
+        },
+        {
+          "box": [
+            1037,
+            548,
+            1269,
+            602
+          ],
+          "original_text": "Moroz",
+          "translated_en": "Frost"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1028,
+            745,
+            1879,
+            826
+          ],
+          "original_text": "Ірина Олександрівна",
+          "translated_en": "Iryna Oleksandrivna"
+        },
+        {
+          "box": [
+            1029,
+            840,
+            1250,
+            890
+          ],
+          "original_text": "I teve",
+          "translated_en": "I had"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1029,
+            1070,
+            1481,
+            1132
+          ],
+          "original_text": "17.09.11990",
+          "translated_en": "17.09.11990"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1016,
+            1508,
+            1450,
+            1570
+          ],
+          "original_text": "21.12.2023",
+          "translated_en": "21.12.2023"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1235,
+            1770,
+            1282,
+            1810
+          ],
+          "original_text": "д",
+          "translated_en": "д"
+        },
+        {
+          "box": [
+            1013,
+            1818,
+            1463,
+            1878
+          ],
+          "original_text": "19.12.12028",
+          "translated_en": "19.12.12028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1106_translated_cleaned.jpg"
+}

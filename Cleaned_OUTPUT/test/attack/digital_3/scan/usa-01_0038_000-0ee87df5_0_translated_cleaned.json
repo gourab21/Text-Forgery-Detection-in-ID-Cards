@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\usa-01_0038_000-0ee87df5_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-01_0038_000-0ee87df5_0.jpg",
+  "width": 1992,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            646,
+            473,
+            1068,
+            514
+          ],
+          "original_text": "Amberel Johnson",
+          "translated_en": "Amberel Johnson"
+        },
+        {
+          "box": [
+            647,
+            528,
+            1094,
+            571
+          ],
+          "original_text": "3927 Oak Avenue",
+          "translated_en": "3927 Oak Avenue"
+        },
+        {
+          "box": [
+            647,
+            585,
+            1235,
+            629
+          ],
+          "original_text": "Pleasantville NY 11803",
+          "translated_en": "Pleasantville NY 11803"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1498,
+            763,
+            1895,
+            800
+          ],
+          "original_text": "308-12-23",
+          "translated_en": "308-12-23"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-01_0038_000-0ee87df5_0_translated_cleaned.jpg"
+}

@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\persian-NF-1001_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\persian-NF-1001.jpg",
+  "width": 1995,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            754,
+            285,
+            948,
+            326
+          ],
+          "original_text": "Fianaa",
+          "translated_en": "Fianaa"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            757,
+            432,
+            908,
+            480
+          ],
+          "original_text": "Najafi",
+          "translated_en": "Najafi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1335,
+            270,
+            1445,
+            306
+          ],
+          "original_text": "فاطمه",
+          "translated_en": "Fatima"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1342,
+            421,
+            1435,
+            475
+          ],
+          "original_text": "نجفی",
+          "translated_en": "Najafi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            758,
+            594,
+            1044,
+            637
+          ],
+          "original_text": "07/11/12014",
+          "translated_en": "07/11/12014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            768,
+            924,
+            1046,
+            964
+          ],
+          "original_text": "22/10/2024",
+          "translated_en": "22/10/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1352,
+            916,
+            1634,
+            957
+          ],
+          "original_text": "22/10/12000",
+          "translated_en": "22/10/12000"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1001_translated_cleaned.jpg"
+}

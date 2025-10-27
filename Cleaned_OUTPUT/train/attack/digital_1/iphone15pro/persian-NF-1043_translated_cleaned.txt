@@ -1,0 +1,22 @@
+E1
+EN: Mark
+
+E2
+EN: Ahmadi
+
+L1
+EN: Mina
+OR: مینا
+
+L2
+EN: Mohammadi
+OR: محمدی
+
+E3
+EN: 05/02/1991
+
+E4
+EN: 08/07/2024
+
+E5
+EN: 13/10/2031

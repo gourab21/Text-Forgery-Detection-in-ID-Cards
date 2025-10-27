@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-NF-1016.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        433,
+        2084,
+        687
+      ],
+      "lines": [
+        {
+          "text": "STHOVYEMEIRELLS",
+          "box": [
+            969,
+            500,
+            1687,
+            564
+          ]
+        },
+        {
+          "text": "Ana Maria",
+          "box": [
+            968,
+            588,
+            1336,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        835,
+        2852,
+        976
+      ],
+      "lines": [
+        {
+          "text": "06 08 2011",
+          "box": [
+            2432,
+            841,
+            2837,
+            893
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1060,
+        2384,
+        1227
+      ],
+      "lines": [
+        {
+          "text": "28 03 1997",
+          "box": [
+            1867,
+            1087,
+            2282,
+            1152
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+E1
+EN: S bigailaled
+
+L1
+OR: خالد سارة
+EN: Khaled Sarah
+
+E2
+EN: 05 May 2031
+
+E3
+EN: 20 Aug 2023
+
+E4
+EN: 20 Aug 2009
+
+L2
+OR: تاريخ
+EN: History
+OR: ٠٥ / مايو / / ۱۹۹۲
+EN: May 5, 1992
+
+L3
+OR: ٢٠ / أغسطس / ٢٠٢٣
+EN: August 20, 2023
+
+L4
+OR: ٢٠ / أغسطس / ٢٠٢٣
+EN: August 20, 2023

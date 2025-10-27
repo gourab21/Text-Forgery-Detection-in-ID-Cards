@@ -1,0 +1,11 @@
+E1
+EN: MOREL
+
+E2
+EN: Eachia punee
+
+E3
+EN: 05 03 120
+
+E4
+EN: 12 04 204 1

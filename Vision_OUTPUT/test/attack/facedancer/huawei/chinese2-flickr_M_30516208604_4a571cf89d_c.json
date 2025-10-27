@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_30516208604_4a571cf89d_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        997,
+        644,
+        1923,
+        962
+      ],
+      "lines": [
+        {
+          "text": "黄磊",
+          "box": [
+            1094,
+            704,
+            1263,
+            786
+          ]
+        },
+        {
+          "text": "Huang Lei",
+          "box": [
+            1093,
+            801,
+            1529,
+            896
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1945,
+        1072,
+        2696,
+        1266
+      ],
+      "lines": [
+        {
+          "text": "09 JUN 1986",
+          "box": [
+            2001,
+            1141,
+            2574,
+            1213
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1951,
+        1372,
+        2726,
+        1577
+      ],
+      "lines": [
+        {
+          "text": "29 JUL 2011",
+          "box": [
+            2005,
+            1442,
+            2559,
+            1512
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1034,
+        1702,
+        1806,
+        1917
+      ],
+      "lines": [
+        {
+          "text": "29 JUL 2031",
+          "box": [
+            1112,
+            1769,
+            1658,
+            1840
+          ]
+        }
+      ]
+    }
+  ]
+}

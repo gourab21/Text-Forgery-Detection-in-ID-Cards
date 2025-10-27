@@ -1,0 +1,18 @@
+LE1
+EN: Sydorenko /
+OR: Сидоренко /
+EN: Sydorenko
+
+LE2
+EN: Vasyl Igorovych /
+OR: Василь Ігорович /
+EN: James
+
+E3
+EN: 19.08.1960
+
+E4
+EN: 12.01.2005
+
+E5
+EN: 11.03.2016

@@ -1,0 +1,18 @@
+LE1
+EN: Kovalenko /
+OR: Коваленко /
+EN: Kovalenko
+
+LE2
+EN: Olena Grigorivna /
+OR: Олена Григорівна /
+EN: Sarah
+
+E3
+EN: 04.07.2036
+
+E4
+EN: 09.05.2021
+
+E5
+EN: 27.04.1933

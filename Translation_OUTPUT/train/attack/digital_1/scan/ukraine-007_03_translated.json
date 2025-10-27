@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\ukraine-007_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\ukraine-007_03.jpg",
+  "width": 1991,
+  "height": 1253,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            636,
+            297,
+            937,
+            347
+          ],
+          "original_text": "Кузьменко /",
+          "translated_en": "Kuzmenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            635,
+            355,
+            883,
+            390
+          ],
+          "original_text": "Kuzmenko",
+          "translated_en": "Kuzmenko",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            640,
+            477,
+            1121,
+            530
+          ],
+          "original_text": "Вікторія Сергіївна /",
+          "translated_en": "Victoria Sergiivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            635,
+            535,
+            841,
+            575
+          ],
+          "original_text": "Vontoria",
+          "translated_en": "Vontoria",
+          "detected_lang": "el-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            643,
+            685,
+            931,
+            721
+          ],
+          "original_text": "12.11.2032",
+          "translated_en": "12.11.2032",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            646,
+            961,
+            914,
+            997
+          ],
+          "original_text": "28.12.2015",
+          "translated_en": "28.12.2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            649,
+            1151,
+            939,
+            1194
+          ],
+          "original_text": "28.12 . 1996",
+          "translated_en": "28.12 . 1996",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-007_03_translated.jpg"
+}

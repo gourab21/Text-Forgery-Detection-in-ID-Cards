@@ -1,0 +1,84 @@
+{
+  "source_json": "test\\bonafide\\iphone15\\chinese2-flickr_M_33525327222_f112b468ed_k.json",
+  "image_relative": "test\\bonafide\\iphone15\\chinese2-flickr_M_33525327222_f112b468ed_k.jpg",
+  "width": 2768,
+  "height": 1737,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            952,
+            598,
+            1094,
+            662
+          ],
+          "original_text": "孙超",
+          "translated_en": "Sun Chao",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            945,
+            685,
+            1307,
+            747
+          ],
+          "original_text": "Sun Chao",
+          "translated_en": "Sun Chao",
+          "detected_lang": "zh-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1728,
+            967,
+            2206,
+            1031
+          ],
+          "original_text": "19 JUN 1971",
+          "translated_en": "19 JUN 1971",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1730,
+            1219,
+            2237,
+            1285
+          ],
+          "original_text": "28 MAR 1993",
+          "translated_en": "28 MAR 1993",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            960,
+            1497,
+            1472,
+            1565
+          ],
+          "original_text": "28 MAR 2013",
+          "translated_en": "28 MAR 2013",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_33525327222_f112b468ed_k_translated.jpg"
+}

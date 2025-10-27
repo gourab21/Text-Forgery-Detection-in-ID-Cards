@@ -1,0 +1,20 @@
+LE1
+EN: Belov /
+OR: Белов /
+EN: Belov
+
+LE2
+EN: Ro
+OR: Ρο
+EN: Artem Vasilievich /
+OR: Артём Васильевич /
+EN: Stephanleievich
+
+E3
+EN: 08.04.2074
+
+E4
+EN: 03.10.2017
+
+E5
+EN: 20.01.1914

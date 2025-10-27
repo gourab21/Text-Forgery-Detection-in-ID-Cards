@@ -1,0 +1,18 @@
+LE1
+EN: Blacksmith /
+OR: Коваль /
+EN: Koval
+
+LE2
+EN: Natalia Viktorivna /
+OR: Наталія Вікторівна /
+EN: Nephan
+
+E3
+EN: 08.10.:1900
+
+E4
+EN: 23.01.2013
+
+E5
+EN: 23.01.2019

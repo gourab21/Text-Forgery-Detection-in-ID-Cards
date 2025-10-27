@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_40795084473_21fafd815e_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        413,
+        1498,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Daryl Redy",
+          "box": [
+            510,
+            465,
+            958,
+            537
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "18.11.1332",
+          "box": [
+            520,
+            926,
+            873,
+            982
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "11.06 6667",
+          "box": [
+            1183,
+            1096,
+            1531,
+            1150
+          ]
+        }
+      ]
+    }
+  ]
+}

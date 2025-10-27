@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\portugal-NF-1086.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\portugal-NF-1086.jpg",
+  "width": 3202,
+  "height": 1965,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1099,
+            535,
+            1738,
+            606
+          ],
+          "original_text": "S HAWNPEREIRA",
+          "translated_en": "S HAWNPEREIRA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1099,
+            620,
+            1404,
+            688
+          ],
+          "original_text": "Claudia",
+          "translated_en": "Claudia",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2746,
+            950,
+            3201,
+            1020
+          ],
+          "original_text": "22 04 2015",
+          "translated_en": "22 04 2015",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2091,
+            1216,
+            2565,
+            1281
+          ],
+          "original_text": "20 04 * 1992",
+          "translated_en": "20 04 * 1992",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1086_translated.jpg"
+}

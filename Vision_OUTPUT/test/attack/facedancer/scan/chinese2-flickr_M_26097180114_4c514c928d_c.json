@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\chinese2-flickr_M_26097180114_4c514c928d_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        619,
+        395,
+        1194,
+        589
+      ],
+      "lines": [
+        {
+          "text": "马 磊",
+          "box": [
+            688,
+            434,
+            797,
+            479
+          ]
+        },
+        {
+          "text": "Ma Lei",
+          "box": [
+            687,
+            494,
+            863,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1208,
+        657,
+        1674,
+        776
+      ],
+      "lines": [
+        {
+          "text": "04 MAY 1981",
+          "box": [
+            1251,
+            695,
+            1608,
+            741
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1212,
+        842,
+        1691,
+        966
+      ],
+      "lines": [
+        {
+          "text": "02 JUL 2003",
+          "box": [
+            1254,
+            878,
+            1592,
+            923
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        643,
+        1043,
+        1120,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "02 JUL 2023",
+          "box": [
+            697,
+            1076,
+            1040,
+            1123
+          ]
+        }
+      ]
+    }
+  ]
+}

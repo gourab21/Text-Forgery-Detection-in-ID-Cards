@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\french-NF-1095.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        901,
+        401,
+        1793,
+        541
+      ],
+      "lines": [
+        {
+          "text": "MOREL",
+          "box": [
+            993,
+            444,
+            1247,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        893,
+        663,
+        1898,
+        830
+      ],
+      "lines": [
+        {
+          "text": "Guznanuence",
+          "box": [
+            980,
+            701,
+            1497,
+            761
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2102,
+        928,
+        2693,
+        1089
+      ],
+      "lines": [
+        {
+          "text": "24 12 1909",
+          "box": [
+            2161,
+            962,
+            2573,
+            1018
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2073,
+        1515,
+        2674,
+        1661
+      ],
+      "lines": [
+        {
+          "text": "14 08 2081",
+          "box": [
+            2154,
+            1541,
+            2555,
+            1599
+          ]
+        }
+      ]
+    }
+  ]
+}

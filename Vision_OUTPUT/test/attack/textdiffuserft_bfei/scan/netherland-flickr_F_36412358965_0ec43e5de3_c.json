@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_F_36412358965_0ec43e5de3_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        539
+      ],
+      "lines": [
+        {
+          "text": "SMITS",
+          "box": [
+            693,
+            319,
+            881,
+            362
+          ]
+        },
+        {
+          "text": "Johnem Ilse",
+          "box": [
+            692,
+            388,
+            1015,
+            426
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            693,
+            449,
+            925,
+            505
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        559,
+        1969,
+        658
+      ],
+      "lines": [
+        {
+          "text": "TE OF BIRTH",
+          "box": [
+            1709,
+            559,
+            1917,
+            582
+          ]
+        },
+        {
+          "text": "31 02 1927",
+          "box": [
+            1571,
+            602,
+            1892,
+            648
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1462,
+        730,
+        1962,
+        853
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD / CARD EXPIRY",
+          "box": [
+            1462,
+            730,
+            1912,
+            758
+          ]
+        },
+        {
+          "text": "05 08 2060",
+          "box": [
+            1535,
+            774,
+            1901,
+            824
+          ]
+        }
+      ]
+    }
+  ]
+}

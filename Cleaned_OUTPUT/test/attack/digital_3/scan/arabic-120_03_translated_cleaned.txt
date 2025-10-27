@@ -1,0 +1,27 @@
+E1
+EN: Angela Ibahim
+
+L1
+EN: Ibrahim Salma
+OR: إبراهيم سلمى
+
+E2
+EN: 09 Nov 1945
+
+E3
+EN: 09 Jul 2023
+
+E4
+EN: 07 Apr 1993
+
+L2
+EN: February 26, 1990
+OR: ٢٦ / فبراير / ۱۹۹۰
+
+L3
+EN: July 9, 2023
+OR: ٩ / يوليو / ۲۰۲۳
+
+L4
+EN: 14 / June / 2030
+OR: ١٤ / یونیو / ۲۰۳۰

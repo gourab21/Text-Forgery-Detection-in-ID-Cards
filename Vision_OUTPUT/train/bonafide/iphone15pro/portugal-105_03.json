@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-105_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        884,
+        432,
+        2086,
+        685
+      ],
+      "lines": [
+        {
+          "text": "RIBEIRO FERNANDES",
+          "box": [
+            968,
+            491,
+            1765,
+            557
+          ]
+        },
+        {
+          "text": "Ricardo",
+          "box": [
+            970,
+            584,
+            1243,
+            637
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2354,
+        832,
+        2855,
+        972
+      ],
+      "lines": [
+        {
+          "text": "26 11 1997",
+          "box": [
+            2431,
+            832,
+            2841,
+            887
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1772,
+        1057,
+        2388,
+        1223
+      ],
+      "lines": [
+        {
+          "text": "24 11 2027",
+          "box": [
+            1863,
+            1086,
+            2271,
+            1140
+          ]
+        }
+      ]
+    }
+  ]
+}

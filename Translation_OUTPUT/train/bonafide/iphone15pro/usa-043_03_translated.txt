@@ -1,0 +1,7 @@
+E1
+EN: Ethan Wright
+EN: 15 Cedar Ln RATE STAT
+EN: Salem OR 97301
+
+E2
+EN: DOB : 02-08-83

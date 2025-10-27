@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\persian-NF-1034_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\persian-NF-1034.jpg",
+  "width": 1993,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            770,
+            280,
+            968,
+            327
+          ],
+          "original_text": "Segana",
+          "translated_en": "Segana"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            771,
+            430,
+            965,
+            470
+          ],
+          "original_text": "Kazemi",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1356,
+            285,
+            1424,
+            331
+          ],
+          "original_text": "ثريا",
+          "translated_en": "chandelier"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1350,
+            431,
+            1473,
+            482
+          ],
+          "original_text": "کاظمی",
+          "translated_en": "Kazemi"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            765,
+            591,
+            1053,
+            631
+          ],
+          "original_text": "22/06/2030",
+          "translated_en": "22/06/2030"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            761,
+            921,
+            1036,
+            962
+          ],
+          "original_text": "12/06/2024",
+          "translated_en": "12/06/2024"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1345,
+            926,
+            1631,
+            970
+          ],
+          "original_text": "12/06/2031",
+          "translated_en": "12/06/2031"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1034_translated_cleaned.jpg"
+}

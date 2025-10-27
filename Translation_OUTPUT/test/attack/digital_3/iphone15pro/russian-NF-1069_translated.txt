@@ -1,0 +1,17 @@
+LE1
+OR: Журавлева /
+EN: Zhuravleva /
+EN: Zhuravleva
+
+LE2
+OR: Анна Михайловна /
+EN: Anna Mikhailovna /
+
+E3
+EN: 19.06.1941
+
+E4
+EN: 02.01.2021
+
+E5
+EN: 20.12.2030

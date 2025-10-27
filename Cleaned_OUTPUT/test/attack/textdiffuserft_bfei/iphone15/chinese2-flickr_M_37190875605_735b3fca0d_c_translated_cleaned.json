@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_37190875605_735b3fca0d_c_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_37190875605_735b3fca0d_c.jpg",
+  "width": 2775,
+  "height": 1741,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            949,
+            595,
+            1095,
+            662
+          ],
+          "original_text": "杨军",
+          "translated_en": "Yang Jun"
+        },
+        {
+          "box": [
+            949,
+            682,
+            1284,
+            753
+          ],
+          "original_text": "Stephani",
+          "translated_en": "Stephen"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1729,
+            965,
+            2220,
+            1035
+          ],
+          "original_text": "13 May 2016",
+          "translated_en": "13 May 2016"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1737,
+            1214,
+            2240,
+            1292
+          ],
+          "original_text": "15 May 2015",
+          "translated_en": "15 May 2015"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            971,
+            1498,
+            1475,
+            1562
+          ],
+          "original_text": "31 Jun 1983",
+          "translated_en": "31 Jun 1983"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_37190875605_735b3fca0d_c_translated_cleaned.jpg"
+}

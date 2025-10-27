@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\usa-NF-1036.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        971,
+        677,
+        1993,
+        1053
+      ],
+      "lines": [
+        {
+          "text": "Bri ( fara Thomas",
+          "box": [
+            1045,
+            739,
+            1743,
+            824
+          ]
+        },
+        {
+          "text": "8342 Pine Rd",
+          "box": [
+            1044,
+            842,
+            1593,
+            908
+          ]
+        },
+        {
+          "text": "Naples FL 34102",
+          "box": [
+            1043,
+            941,
+            1729,
+            1007
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2339,
+        1200,
+        3137,
+        1362
+      ],
+      "lines": [
+        {
+          "text": "DOB : 04-07-203",
+          "box": [
+            2406,
+            1241,
+            3072,
+            1324
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_F_32272417100_7c8c616f37_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1501,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Maria Rossi",
+          "box": [
+            506,
+            470,
+            902,
+            522
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        885,
+        1033,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "1970-07-26",
+          "box": [
+            520,
+            925,
+            884,
+            976
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1075,
+        1658,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "1980-07-26",
+          "box": [
+            1184,
+            1098,
+            1547,
+            1148
+          ]
+        }
+      ]
+    }
+  ]
+}

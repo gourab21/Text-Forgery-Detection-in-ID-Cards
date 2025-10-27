@@ -1,0 +1,18 @@
+LE1
+EN: Kravchuk /
+OR: Кравчук /
+EN: Kravchuk
+
+LE2
+EN: Tatyana Anatoliivna /
+OR: Тетяна Анатоліївна /
+EN: Catheri
+
+E3
+EN: 02.01.2078
+
+E4
+EN: 12.02.2019
+
+E5
+EN: 04.06.1989

@@ -1,0 +1,8 @@
+E1
+20
+Emma Stone
+321 Alder St
+Portland OR 97201
+
+E2
+DOB : 02-13-94

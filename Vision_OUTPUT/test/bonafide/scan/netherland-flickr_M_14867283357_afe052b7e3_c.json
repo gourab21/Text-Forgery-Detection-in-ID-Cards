@@ -1,0 +1,93 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_14867283357_afe052b7e3_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        540
+      ],
+      "lines": [
+        {
+          "text": "DE JONG",
+          "box": [
+            694,
+            321,
+            949,
+            363
+          ]
+        },
+        {
+          "text": "Henrike Cornelis",
+          "box": [
+            692,
+            383,
+            1173,
+            432
+          ]
+        },
+        {
+          "text": "Ilse",
+          "box": [
+            689,
+            449,
+            790,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        560,
+        1969,
+        659
+      ],
+      "lines": [
+        {
+          "text": "13 05 1995",
+          "box": [
+            1568,
+            604,
+            1898,
+            650
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1462,
+        731,
+        1962,
+        854
+      ],
+      "lines": [
+        {
+          "text": "CARD EXPIRY",
+          "box": [
+            1678,
+            732,
+            1914,
+            757
+          ]
+        },
+        {
+          "text": "23 03 2035",
+          "box": [
+            1531,
+            774,
+            1900,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

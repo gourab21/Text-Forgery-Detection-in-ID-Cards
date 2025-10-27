@@ -1,0 +1,21 @@
+LE1
+EN: Frost /
+OR: Мороз /
+EN: Frost
+OR: Moroz
+
+LE2
+EN: Iryna Oleksandrivna
+OR: Ірина Олександрівна
+EN: I had
+OR: I teve
+
+E3
+EN: 17.09.11990
+
+E4
+EN: 21.12.2023
+
+E5
+EN: д
+EN: 19.12.12028

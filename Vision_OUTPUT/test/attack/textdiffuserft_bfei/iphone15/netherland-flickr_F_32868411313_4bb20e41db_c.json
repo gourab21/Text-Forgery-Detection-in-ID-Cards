@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\netherland-flickr_F_32868411313_4bb20e41db_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        873,
+        410,
+        1790,
+        767
+      ],
+      "lines": [
+        {
+          "text": "BELSER",
+          "box": [
+            956,
+            459,
+            1263,
+            521
+          ]
+        },
+        {
+          "text": "Pauls Henrike",
+          "box": [
+            954,
+            548,
+            1497,
+            608
+          ]
+        },
+        {
+          "text": "Elisabeth",
+          "box": [
+            955,
+            641,
+            1321,
+            708
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2081,
+        794,
+        2756,
+        935
+      ],
+      "lines": [
+        {
+          "text": "10 02 2080",
+          "box": [
+            2193,
+            824,
+            2651,
+            888
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2046,
+        1036,
+        2746,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "24 08 1900",
+          "box": [
+            2158,
+            1066,
+            2665,
+            1137
+          ]
+        }
+      ]
+    }
+  ]
+}

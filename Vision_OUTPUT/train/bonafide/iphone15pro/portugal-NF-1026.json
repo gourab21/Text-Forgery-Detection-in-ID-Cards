@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1026.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        433,
+        2084,
+        686
+      ],
+      "lines": [
+        {
+          "text": "SILVA RIBEIRO",
+          "box": [
+            977,
+            498,
+            1543,
+            562
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            982,
+            592,
+            1125,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        834,
+        2852,
+        974
+      ],
+      "lines": [
+        {
+          "text": "22 04 1970",
+          "box": [
+            2441,
+            835,
+            2850,
+            893
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1058,
+        2384,
+        1224
+      ],
+      "lines": [
+        {
+          "text": "19 04 2024",
+          "box": [
+            1873,
+            1088,
+            2278,
+            1150
+          ]
+        }
+      ]
+    }
+  ]
+}

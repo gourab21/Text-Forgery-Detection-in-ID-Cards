@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\iphone15\\netherland-flickr_F_37019045642_0a3fa19256_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        863,
+        404,
+        1772,
+        753
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            937,
+            453,
+            1245,
+            512
+          ]
+        },
+        {
+          "text": "Daan Gerardus",
+          "box": [
+            942,
+            535,
+            1545,
+            606
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            945,
+            639,
+            1143,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2060,
+        781,
+        2729,
+        920
+      ],
+      "lines": [
+        {
+          "text": "03 06 2002",
+          "box": [
+            2161,
+            812,
+            2628,
+            880
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2025,
+        1021,
+        2719,
+        1193
+      ],
+      "lines": [
+        {
+          "text": "29 09 2030",
+          "box": [
+            2127,
+            1054,
+            2635,
+            1121
+          ]
+        }
+      ]
+    }
+  ]
+}

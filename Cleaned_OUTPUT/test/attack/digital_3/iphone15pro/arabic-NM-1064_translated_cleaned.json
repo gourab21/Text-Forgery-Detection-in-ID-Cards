@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\arabic-NM-1064_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\arabic-NM-1064.jpg",
+  "width": 2794,
+  "height": 1774,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1064,
+            653,
+            1930,
+            739
+          ],
+          "original_text": "Kristinad A Rashid",
+          "translated_en": "Kristinad A Rashid"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1014,
+            450,
+            1637,
+            559
+          ],
+          "original_text": "الرشيد عبد أحمد",
+          "translated_en": "Rashid Abdul Ahmed"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1056,
+            1098,
+            1558,
+            1169
+          ],
+          "original_text": "15 Oct 2006",
+          "translated_en": "15 Oct 2006"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1051,
+            1331,
+            1544,
+            1399
+          ],
+          "original_text": "21 Jan 2019",
+          "translated_en": "21 Jan 2019"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1055,
+            1564,
+            1557,
+            1631
+          ],
+          "original_text": "28 Jun 2089",
+          "translated_en": "28 Jun 2089"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1793,
+            1083,
+            2497,
+            1181
+          ],
+          "original_text": "١٦ / سبتمبر / ۱۹۸۱",
+          "translated_en": "September 16, 1981"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1788,
+            1317,
+            2392,
+            1408
+          ],
+          "original_text": "۲۱ ۱ / يناير / ۲۰۱۹",
+          "translated_en": "January 21, 2019"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1797,
+            1552,
+            2516,
+            1644
+          ],
+          "original_text": "١٦ / سبتمبر / ۲۰۳۰",
+          "translated_en": "September 16, 2030"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NM-1064_translated_cleaned.jpg"
+}

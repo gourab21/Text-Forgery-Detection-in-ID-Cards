@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\usa-117_03.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\usa-117_03.jpg",
+  "width": 2819,
+  "height": 1791,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            910,
+            610,
+            1676,
+            812
+          ],
+          "original_text": "John Doe 2000 St ...",
+          "translated_en": "John Doe 2000 St ...",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            904,
+            709,
+            1620,
+            872
+          ],
+          "original_text": "1234 Elm RATE",
+          "translated_en": "1234 Elm RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            913,
+            827,
+            1649,
+            911
+          ],
+          "original_text": "Springfield IL 62704",
+          "translated_en": "Springfield IL 62704",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2109,
+            1087,
+            2665,
+            1145
+          ],
+          "original_text": "DOB : 01-15-90",
+          "translated_en": "DOB : 01-15-90",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-117_03_translated.jpg"
+}

@@ -1,0 +1,22 @@
+E1
+EN: Geor
+
+E2
+EN: Ghorbani
+
+L1
+EN: Neda 11
+OR: ندا 11
+
+L2
+EN: Sacrifice
+OR: قربانی
+
+E3
+EN: 22/02/1996
+
+E4
+EN: 16/04/2022
+
+E5
+EN: 06/06/1917

@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\russian-01_0001_000-ff703650_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\russian-01_0001_000-ff703650_1.jpg",
+  "width": 1990,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            723,
+            265,
+            953,
+            312
+          ],
+          "original_text": "Лебедев /",
+          "translated_en": "Lebedev /"
+        },
+        {
+          "box": [
+            722,
+            317,
+            905,
+            354
+          ],
+          "original_text": "Lebedev",
+          "translated_en": "Lebedev"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1286,
+            433,
+            1324,
+            460
+          ],
+          "original_text": "ро",
+          "translated_en": "road"
+        },
+        {
+          "box": [
+            720,
+            478,
+            1324,
+            522
+          ],
+          "original_text": "Игорь Николаевич / E",
+          "translated_en": "Igor Nikolaevich / E"
+        },
+        {
+          "box": [
+            721,
+            528,
+            1080,
+            565
+          ],
+          "original_text": "Lauen kobevich",
+          "translated_en": "Lauen Kobevich"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            711,
+            680,
+            958,
+            714
+          ],
+          "original_text": "09.09.2064",
+          "translated_en": "09.09.2064"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            710,
+            956,
+            954,
+            991
+          ],
+          "original_text": "11.06.2019",
+          "translated_en": "11.06.2019"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            705,
+            1141,
+            950,
+            1178
+          ],
+          "original_text": "20.12.2033",
+          "translated_en": "20.12.2033"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-01_0001_000-ff703650_1_translated_cleaned.jpg"
+}

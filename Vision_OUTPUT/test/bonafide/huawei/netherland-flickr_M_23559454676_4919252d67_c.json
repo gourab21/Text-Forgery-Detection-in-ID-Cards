@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\huawei\\netherland-flickr_M_23559454676_4919252d67_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        993,
+        459,
+        2037,
+        859
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            1067,
+            512,
+            1426,
+            584
+          ]
+        },
+        {
+          "text": "Koen Henrike",
+          "box": [
+            1072,
+            612,
+            1693,
+            691
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            1070,
+            721,
+            1446,
+            796
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2367,
+        889,
+        3137,
+        1048
+      ],
+      "lines": [
+        {
+          "text": "30 07 1976",
+          "box": [
+            2487,
+            924,
+            3023,
+            1006
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2327,
+        1161,
+        3126,
+        1359
+      ],
+      "lines": [
+        {
+          "text": "24 07 2034",
+          "box": [
+            2443,
+            1206,
+            3034,
+            1283
+          ]
+        }
+      ]
+    }
+  ]
+}

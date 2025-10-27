@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1083.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "F ISOANDES OLIVEIRA",
+          "box": [
+            688,
+            338,
+            1284,
+            392
+          ]
+        },
+        {
+          "text": "Rita",
+          "box": [
+            688,
+            395,
+            789,
+            435
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "31 07 2003",
+          "box": [
+            1704,
+            597,
+            1993,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "28 07 1194",
+          "box": [
+            1298,
+            762,
+            1600,
+            808
+          ]
+        }
+      ]
+    }
+  ]
+}

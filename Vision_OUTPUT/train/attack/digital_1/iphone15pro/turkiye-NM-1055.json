@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\turkiye-NM-1055.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        841,
+        881,
+        1716,
+        1052
+      ],
+      "lines": [
+        {
+          "text": "Biche",
+          "box": [
+            930,
+            940,
+            1135,
+            992
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        838,
+        644,
+        1718,
+        823
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            923,
+            709,
+            1170,
+            769
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        837,
+        1106,
+        1684,
+        1274
+      ],
+      "lines": [
+        {
+          "text": "14.03.:2034",
+          "box": [
+            936,
+            1158,
+            1362,
+            1214
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        843,
+        1566,
+        1673,
+        1748
+      ],
+      "lines": [
+        {
+          "text": "29.11.2015",
+          "box": [
+            941,
+            1602,
+            1369,
+            1667
+          ]
+        }
+      ]
+    }
+  ]
+}

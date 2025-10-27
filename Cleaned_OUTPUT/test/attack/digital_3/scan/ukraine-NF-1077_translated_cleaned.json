@@ -1,0 +1,94 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\ukraine-NF-1077_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\ukraine-NF-1077.jpg",
+  "width": 1989,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            647,
+            289,
+            921,
+            339
+          ],
+          "original_text": "Ткаченко /",
+          "translated_en": "Tkachenko /"
+        },
+        {
+          "box": [
+            648,
+            349,
+            905,
+            387
+          ],
+          "original_text": "Tkachenko",
+          "translated_en": "Tkachenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            646,
+            478,
+            1183,
+            523
+          ],
+          "original_text": "Олександра Михайлів",
+          "translated_en": "Oleksandra Mykhailiv"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            643,
+            677,
+            912,
+            714
+          ],
+          "original_text": "29.02.2088",
+          "translated_en": "29.02.2088"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            637,
+            954,
+            904,
+            994
+          ],
+          "original_text": "29.06.2017",
+          "translated_en": "29.06.2017"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            629,
+            1148,
+            901,
+            1187
+          ],
+          "original_text": "03.09.2022",
+          "translated_en": "03.09.2022"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1077_translated_cleaned.jpg"
+}

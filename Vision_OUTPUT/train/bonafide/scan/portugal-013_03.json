@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-013_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        298,
+        1459,
+        471
+      ],
+      "lines": [
+        {
+          "text": "ALMEIDA ANDRADE",
+          "box": [
+            687,
+            340,
+            1197,
+            383
+          ]
+        },
+        {
+          "text": "Carla Patrícia",
+          "box": [
+            687,
+            396,
+            1028,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "13 07 1996",
+          "box": [
+            1707,
+            598,
+            1995,
+            639
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        728,
+        1670,
+        843
+      ],
+      "lines": [
+        {
+          "text": "05 02 2034",
+          "box": [
+            1302,
+            766,
+            1589,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

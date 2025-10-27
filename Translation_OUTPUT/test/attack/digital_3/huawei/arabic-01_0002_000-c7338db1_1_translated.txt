@@ -1,0 +1,28 @@
+E1
+EN: Annea AThani
+
+L1
+OR: الثاني زهرة
+EN: The second flower
+EN: Name
+
+E2
+EN: 03 Oct 2050
+
+E3
+EN: 26 Feb 2019
+
+E4
+EN: 01 Feb 2053
+
+L2
+OR: ١٢ / يوليو / ١٩٨٥
+EN: July 12, 1985
+
+L3
+OR: ٢٦ / فبراير / ۲۰۱۹
+EN: February 26, 2019
+
+L4
+OR: ٦ / أكتوبر / ۲۰۲۸
+EN: October 6, 2028

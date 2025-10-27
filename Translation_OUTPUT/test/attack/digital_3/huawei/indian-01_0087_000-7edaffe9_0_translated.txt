@@ -1,0 +1,15 @@
+E1
+EN: GUPTA
+
+E2
+EN: SAMUEL HIMANI
+
+E3
+EN: 04/10/2096
+
+E4
+EN: काताय Date G
+EN: 28/12/2010
+
+E5
+EN: 21/03/1973

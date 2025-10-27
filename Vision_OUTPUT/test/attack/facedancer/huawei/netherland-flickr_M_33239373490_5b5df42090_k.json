@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_33239373490_5b5df42090_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        992,
+        459,
+        2036,
+        858
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            1075,
+            515,
+            1556,
+            585
+          ]
+        },
+        {
+          "text": "Fleur Henrike",
+          "box": [
+            1074,
+            614,
+            1695,
+            691
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            1081,
+            728,
+            1444,
+            806
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2366,
+        888,
+        3136,
+        1046
+      ],
+      "lines": [
+        {
+          "text": "22 10 2004",
+          "box": [
+            2486,
+            933,
+            3022,
+            1006
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2326,
+        1160,
+        3124,
+        1355
+      ],
+      "lines": [
+        {
+          "text": "07 08 2029",
+          "box": [
+            2443,
+            1208,
+            3029,
+            1287
+          ]
+        }
+      ]
+    }
+  ]
+}

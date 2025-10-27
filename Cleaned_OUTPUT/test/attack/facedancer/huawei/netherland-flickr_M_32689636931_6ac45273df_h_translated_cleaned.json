@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\netherland-flickr_M_32689636931_6ac45273df_h_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_32689636931_6ac45273df_h.jpg",
+  "width": 3174,
+  "height": 1975,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1072,
+            508,
+            1743,
+            587
+          ],
+          "original_text": "SCHOEMAKER",
+          "translated_en": "SCHOEMAKER"
+        },
+        {
+          "box": [
+            1077,
+            616,
+            1513,
+            689
+          ],
+          "original_text": "Daan Ilse",
+          "translated_en": "Daan Ilse"
+        },
+        {
+          "box": [
+            1077,
+            725,
+            1241,
+            791
+          ],
+          "original_text": "Ilse",
+          "translated_en": "Ilse"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2500,
+            927,
+            3028,
+            1005
+          ],
+          "original_text": "17 02 2002",
+          "translated_en": "17 02 2002"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2456,
+            1202,
+            3033,
+            1282
+          ],
+          "original_text": "16 03 2029",
+          "translated_en": "16 03 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_32689636931_6ac45273df_h_translated_cleaned.jpg"
+}

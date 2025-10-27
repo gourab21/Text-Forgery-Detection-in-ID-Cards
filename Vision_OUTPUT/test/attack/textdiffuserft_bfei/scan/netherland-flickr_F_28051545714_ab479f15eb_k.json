@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_F_28051545714_ab479f15eb_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        290,
+        1277,
+        541
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            679,
+            328,
+            904,
+            372
+          ]
+        },
+        {
+          "text": "Shawn se",
+          "box": [
+            677,
+            391,
+            959,
+            434
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            681,
+            460,
+            996,
+            503
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1485,
+        561,
+        1966,
+        660
+      ],
+      "lines": [
+        {
+          "text": "22 04 2041",
+          "box": [
+            1566,
+            591,
+            1885,
+            637
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1460,
+        733,
+        1959,
+        856
+      ],
+      "lines": [
+        {
+          "text": "05 08 2064",
+          "box": [
+            1537,
+            761,
+            1893,
+            813
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+E1
+SMITS
+Johnem Ilse
+Matthijs
+
+E2
+TE OF BIRTH
+31 02 1927
+
+E3
+ELDIG TOD / CARD EXPIRY
+05 08 2060

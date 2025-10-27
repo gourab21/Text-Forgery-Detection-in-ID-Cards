@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-061_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1459,
+        472
+      ],
+      "lines": [
+        {
+          "text": "RACHELIBIRO",
+          "box": [
+            685,
+            344,
+            1106,
+            390
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            681,
+            403,
+            829,
+            442
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "26 05 1959",
+          "box": [
+            1702,
+            576,
+            1950,
+            616
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        729,
+        1670,
+        844
+      ],
+      "lines": [
+        {
+          "text": "04 09 1985",
+          "box": [
+            1308,
+            752,
+            1595,
+            792
+          ]
+        }
+      ]
+    }
+  ]
+}

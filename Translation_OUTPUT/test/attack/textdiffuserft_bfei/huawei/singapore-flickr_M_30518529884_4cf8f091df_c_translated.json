@@ -1,0 +1,57 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_30518529884_4cf8f091df_c.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_30518529884_4cf8f091df_c.jpg",
+  "width": 3164,
+  "height": 1973,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            792,
+            729,
+            1730,
+            806
+          ],
+          "original_text": "Amanal Hin Omar",
+          "translated_en": "Amanal Hin Omar",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            828,
+            1460,
+            1294,
+            1544
+          ],
+          "original_text": "100882",
+          "translated_en": "100882",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1881,
+            1742,
+            2446,
+            1823
+          ],
+          "original_text": "10-06-6-64",
+          "translated_en": "10-06-6-64",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_30518529884_4cf8f091df_c_translated.jpg"
+}

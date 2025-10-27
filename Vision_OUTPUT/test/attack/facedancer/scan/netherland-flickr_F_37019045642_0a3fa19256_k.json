@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_F_37019045642_0a3fa19256_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        539
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            689,
+            320,
+            912,
+            364
+          ]
+        },
+        {
+          "text": "Daan Gerardus",
+          "box": [
+            691,
+            385,
+            1130,
+            430
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            691,
+            452,
+            834,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        559,
+        1971,
+        658
+      ],
+      "lines": [
+        {
+          "text": "OF BIRTH",
+          "box": [
+            1753,
+            560,
+            1915,
+            582
+          ]
+        },
+        {
+          "text": "03 06 2002",
+          "box": [
+            1560,
+            602,
+            1895,
+            651
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1463,
+        730,
+        1963,
+        853
+      ],
+      "lines": [
+        {
+          "text": "CARD EXPIRY",
+          "box": [
+            1676,
+            731,
+            1911,
+            758
+          ]
+        },
+        {
+          "text": "29 09 2030",
+          "box": [
+            1530,
+            777,
+            1898,
+            822
+          ]
+        }
+      ]
+    }
+  ]
+}

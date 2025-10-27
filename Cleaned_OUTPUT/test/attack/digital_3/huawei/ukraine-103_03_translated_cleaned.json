@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\ukraine-103_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\ukraine-103_03.jpg",
+  "width": 3193,
+  "height": 1980,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1033,
+            461,
+            1525,
+            548
+          ],
+          "original_text": "Коваленко /",
+          "translated_en": "Kovalenko /"
+        },
+        {
+          "box": [
+            1030,
+            559,
+            1430,
+            613
+          ],
+          "original_text": "Kovalenko",
+          "translated_en": "Kovalenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1028,
+            760,
+            1887,
+            834
+          ],
+          "original_text": "Олександр Михайлов",
+          "translated_en": "Oleksandr Mykhaylov"
+        },
+        {
+          "box": [
+            1017,
+            841,
+            1396,
+            905
+          ],
+          "original_text": "Courtnes",
+          "translated_en": "Courtnes"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1021,
+            1085,
+            1460,
+            1148
+          ],
+          "original_text": "25.11.1960",
+          "translated_en": "25.11.1960"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1012,
+            1525,
+            1444,
+            1586
+          ],
+          "original_text": "21.02.2018",
+          "translated_en": "21.02.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1002,
+            1838,
+            1441,
+            1897
+          ],
+          "original_text": "04.03.2058",
+          "translated_en": "04.03.2058"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-103_03_translated_cleaned.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\french-NF-1110.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        954,
+        422,
+        1900,
+        568
+      ],
+      "lines": [
+        {
+          "text": "RENAUD",
+          "box": [
+            1058,
+            464,
+            1381,
+            521
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        946,
+        695,
+        2011,
+        871
+      ],
+      "lines": [
+        {
+          "text": "Wilie , Justine",
+          "box": [
+            1052,
+            737,
+            1597,
+            809
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2226,
+        975,
+        2853,
+        1143
+      ],
+      "lines": [
+        {
+          "text": "28 03 2029",
+          "box": [
+            2295,
+            1010,
+            2723,
+            1075
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2196,
+        1590,
+        2834,
+        1744
+      ],
+      "lines": [
+        {
+          "text": "03 04 1999",
+          "box": [
+            2276,
+            1630,
+            2707,
+            1691
+          ]
+        }
+      ]
+    }
+  ]
+}

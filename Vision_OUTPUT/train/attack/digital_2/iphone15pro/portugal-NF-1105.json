@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1105.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        431,
+        2083,
+        683
+      ],
+      "lines": [
+        {
+          "text": "FNDEADE ADAL",
+          "box": [
+            973,
+            497,
+            1703,
+            566
+          ]
+        },
+        {
+          "text": "Ana",
+          "box": [
+            971,
+            591,
+            1107,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2350,
+        831,
+        2850,
+        971
+      ],
+      "lines": [
+        {
+          "text": "26 07 2005",
+          "box": [
+            2435,
+            831,
+            2843,
+            885
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1770,
+        1055,
+        2383,
+        1221
+      ],
+      "lines": [
+        {
+          "text": "24 07 20",
+          "box": [
+            1864,
+            1083,
+            2212,
+            1142
+          ]
+        }
+      ]
+    }
+  ]
+}

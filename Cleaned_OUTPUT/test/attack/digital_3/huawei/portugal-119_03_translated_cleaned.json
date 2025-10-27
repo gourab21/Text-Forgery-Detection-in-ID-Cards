@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\portugal-119_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\portugal-119_03.jpg",
+  "width": 3213,
+  "height": 1973,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1108,
+            532,
+            1884,
+            608
+          ],
+          "original_text": "JOSHUADES SILVA",
+          "translated_en": "JOSHUADES SILVA"
+        },
+        {
+          "box": [
+            1101,
+            624,
+            1266,
+            688
+          ],
+          "original_text": "Luis",
+          "translated_en": "Luis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2741,
+            948,
+            3144,
+            1017
+          ],
+          "original_text": "23 01 2072",
+          "translated_en": "23 01 2072"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2093,
+            1219,
+            2560,
+            1287
+          ],
+          "original_text": "0503 2055",
+          "translated_en": "0503 2055"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-119_03_translated_cleaned.jpg"
+}

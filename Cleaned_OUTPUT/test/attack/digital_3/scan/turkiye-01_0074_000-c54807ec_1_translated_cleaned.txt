@@ -1,0 +1,12 @@
+E2
+EN: Matt
+
+E1
+EN: Soya
+EN: Erbil
+
+E3
+EN: 18.01.1932
+
+E4
+EN: 29.08.2078

@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\french-01_0070_000-a4a25cda_0.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        960,
+        428,
+        1912,
+        576
+      ],
+      "lines": [
+        {
+          "text": "COLIN",
+          "box": [
+            1063,
+            482,
+            1301,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        952,
+        706,
+        2024,
+        885
+      ],
+      "lines": [
+        {
+          "text": "Alexis , Rémy",
+          "box": [
+            1055,
+            760,
+            1549,
+            827
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2240,
+        989,
+        2871,
+        1160
+      ],
+      "lines": [
+        {
+          "text": "1001 1988",
+          "box": [
+            2306,
+            1033,
+            2736,
+            1099
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2210,
+        1615,
+        2852,
+        1771
+      ],
+      "lines": [
+        {
+          "text": "08 02 1947",
+          "box": [
+            2290,
+            1657,
+            2716,
+            1715
+          ]
+        }
+      ]
+    }
+  ]
+}

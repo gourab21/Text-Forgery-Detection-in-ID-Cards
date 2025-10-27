@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_M_32689636931_6ac45273df_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        624,
+        289,
+        1279,
+        539
+      ],
+      "lines": [
+        {
+          "text": "SCHOEMAKER",
+          "box": [
+            695,
+            318,
+            1115,
+            368
+          ]
+        },
+        {
+          "text": "Penny Ise",
+          "box": [
+            696,
+            387,
+            969,
+            435
+          ]
+        },
+        {
+          "text": "Ilse",
+          "box": [
+            691,
+            447,
+            796,
+            497
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1488,
+        559,
+        1972,
+        658
+      ],
+      "lines": [
+        {
+          "text": "DATE OF BIRTH",
+          "box": [
+            1652,
+            560,
+            1920,
+            582
+          ]
+        },
+        {
+          "text": "06 11 2017",
+          "box": [
+            1572,
+            607,
+            1892,
+            650
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1464,
+        730,
+        1965,
+        853
+      ],
+      "lines": [
+        {
+          "text": "ELDIG TOD / CARD EXPIRY",
+          "box": [
+            1464,
+            730,
+            1916,
+            762
+          ]
+        },
+        {
+          "text": "06 09 2046",
+          "box": [
+            1537,
+            776,
+            1897,
+            825
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\chinese2-flickr_M_31840786965_77af814416_h_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\chinese2-flickr_M_31840786965_77af814416_h.jpg",
+  "width": 3223,
+  "height": 2060,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1096,
+            713,
+            1263,
+            789
+          ],
+          "original_text": "吴勇",
+          "translated_en": "Wu Yong"
+        },
+        {
+          "box": [
+            1091,
+            813,
+            1478,
+            896
+          ],
+          "original_text": "Wu Yong",
+          "translated_en": "Wu Yong"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2012,
+            1150,
+            2594,
+            1228
+          ],
+          "original_text": "04 DEC 1999",
+          "translated_en": "04 DEC 1999"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2017,
+            1454,
+            2583,
+            1535
+          ],
+          "original_text": "09 JAN 2018",
+          "translated_en": "09 JAN 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1118,
+            1785,
+            1682,
+            1858
+          ],
+          "original_text": "09 JAN 2038",
+          "translated_en": "09 JAN 2038"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_31840786965_77af814416_h_translated_cleaned.jpg"
+}

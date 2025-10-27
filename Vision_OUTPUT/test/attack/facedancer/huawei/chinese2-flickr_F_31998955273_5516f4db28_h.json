@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_F_31998955273_5516f4db28_h.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1001,
+        649,
+        1930,
+        970
+      ],
+      "lines": [
+        {
+          "text": "朱芳",
+          "box": [
+            1092,
+            708,
+            1261,
+            789
+          ]
+        },
+        {
+          "text": "Zhu Fang",
+          "box": [
+            1091,
+            815,
+            1496,
+            895
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1953,
+        1080,
+        2706,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "20 JAN 1953",
+          "box": [
+            2006,
+            1147,
+            2571,
+            1225
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1959,
+        1383,
+        2736,
+        1589
+      ],
+      "lines": [
+        {
+          "text": "22 OCT 2006",
+          "box": [
+            2008,
+            1452,
+            2596,
+            1529
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1038,
+        1715,
+        1812,
+        1931
+      ],
+      "lines": [
+        {
+          "text": "22 OCT 2026",
+          "box": [
+            1115,
+            1783,
+            1700,
+            1856
+          ]
+        }
+      ]
+    }
+  ]
+}

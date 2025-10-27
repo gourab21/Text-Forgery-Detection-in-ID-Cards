@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\huawei\\usa-011_03.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-011_03.jpg",
+  "width": 3207,
+  "height": 1975,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1049,
+            739,
+            1592,
+            818
+          ],
+          "original_text": "Diane Kruger",
+          "translated_en": "Diane Kruger",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1047,
+            829,
+            1985,
+            903
+          ],
+          "original_text": "789 Willow Road SLA",
+          "translated_en": "789 Willow Road SLA",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1047,
+            928,
+            1915,
+            1001
+          ],
+          "original_text": "Little Rock AR 72201",
+          "translated_en": "Little Rock AR 72201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2408,
+            1235,
+            3042,
+            1309
+          ],
+          "original_text": "DOB : 03-05-92",
+          "translated_en": "DOB : 03-05-92",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-011_03_translated.jpg"
+}

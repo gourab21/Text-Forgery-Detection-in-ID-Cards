@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\usa-134_03.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-134_03.jpg",
+  "width": 2813,
+  "height": 1794,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            923,
+            665,
+            1463,
+            734
+          ],
+          "original_text": "Jniicar AMiller",
+          "translated_en": "Jniicar AMiller",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            929,
+            751,
+            1598,
+            814
+          ],
+          "original_text": "9202 Lakeside Ave",
+          "translated_en": "9202 Lakeside Ave",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            929,
+            836,
+            1564,
+            897
+          ],
+          "original_text": "Orlando FL 32808",
+          "translated_en": "Orlando FL 32808",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2118,
+            1086,
+            2665,
+            1138
+          ],
+          "original_text": "DOB : 08-01-19",
+          "translated_en": "DOB : 08-01-19",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-134_03_translated.jpg"
+}

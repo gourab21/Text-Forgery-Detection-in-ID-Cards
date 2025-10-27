@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\usa-137_03.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-137_03.jpg",
+  "width": 3229,
+  "height": 1989,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1054,
+            748,
+            1594,
+            824
+          ],
+          "original_text": "Margaret ht",
+          "translated_en": "Margaret ht",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1045,
+            840,
+            1544,
+            903
+          ],
+          "original_text": "678 Pine Rd",
+          "translated_en": "678 Pine Rd",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1046,
+            935,
+            1777,
+            1000
+          ],
+          "original_text": "Denver CO 80203",
+          "translated_en": "Denver CO 80203",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2423,
+            1242,
+            3062,
+            1317
+          ],
+          "original_text": "DOB : 25-05-91",
+          "translated_en": "DOB : 25-05-91",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-137_03_translated.jpg"
+}

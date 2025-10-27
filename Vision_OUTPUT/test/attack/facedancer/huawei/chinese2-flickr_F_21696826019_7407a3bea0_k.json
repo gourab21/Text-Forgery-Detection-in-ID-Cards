@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_F_21696826019_7407a3bea0_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1001,
+        644,
+        1930,
+        963
+      ],
+      "lines": [
+        {
+          "text": "陈燕",
+          "box": [
+            1093,
+            696,
+            1263,
+            780
+          ]
+        },
+        {
+          "text": "Chen Yan",
+          "box": [
+            1090,
+            806,
+            1502,
+            876
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1953,
+        1073,
+        2706,
+        1267
+      ],
+      "lines": [
+        {
+          "text": "09 APR 1984",
+          "box": [
+            2007,
+            1139,
+            2581,
+            1211
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1959,
+        1374,
+        2736,
+        1579
+      ],
+      "lines": [
+        {
+          "text": "15 DEC 2004",
+          "box": [
+            2021,
+            1438,
+            2602,
+            1514
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1038,
+        1704,
+        1812,
+        1919
+      ],
+      "lines": [
+        {
+          "text": "15 DEC 2024",
+          "box": [
+            1119,
+            1768,
+            1699,
+            1833
+          ]
+        }
+      ]
+    }
+  ]
+}

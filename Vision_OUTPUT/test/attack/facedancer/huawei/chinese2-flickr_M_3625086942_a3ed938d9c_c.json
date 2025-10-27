@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_3625086942_a3ed938d9c_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1003,
+        649,
+        1934,
+        970
+      ],
+      "lines": [
+        {
+          "text": "徐辉",
+          "box": [
+            1107,
+            706,
+            1268,
+            782
+          ]
+        },
+        {
+          "text": "Xu Hui",
+          "box": [
+            1096,
+            812,
+            1390,
+            883
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1957,
+        1080,
+        2712,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "15 MAY 1987",
+          "box": [
+            2021,
+            1146,
+            2602,
+            1224
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1963,
+        1383,
+        2742,
+        1589
+      ],
+      "lines": [
+        {
+          "text": "26 JUL 2009",
+          "box": [
+            2022,
+            1449,
+            2574,
+            1526
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1040,
+        1715,
+        1816,
+        1931
+      ],
+      "lines": [
+        {
+          "text": "26 JUL 2029",
+          "box": [
+            1119,
+            1780,
+            1669,
+            1852
+          ]
+        }
+      ]
+    }
+  ]
+}

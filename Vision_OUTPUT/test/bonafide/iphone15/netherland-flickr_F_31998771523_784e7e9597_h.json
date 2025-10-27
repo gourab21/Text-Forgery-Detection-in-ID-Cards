@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\iphone15\\netherland-flickr_F_31998771523_784e7e9597_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        866,
+        404,
+        1777,
+        756
+      ],
+      "lines": [
+        {
+          "text": "VAN DEN BERG",
+          "box": [
+            936,
+            445,
+            1555,
+            518
+          ]
+        },
+        {
+          "text": "Daan Johannes",
+          "box": [
+            941,
+            537,
+            1557,
+            604
+          ]
+        },
+        {
+          "text": "Cornelis",
+          "box": [
+            940,
+            634,
+            1265,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2065,
+        782,
+        2736,
+        921
+      ],
+      "lines": [
+        {
+          "text": "06 11 1976",
+          "box": [
+            2165,
+            816,
+            2630,
+            879
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2030,
+        1022,
+        2726,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "17 02 2027",
+          "box": [
+            2129,
+            1057,
+            2640,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

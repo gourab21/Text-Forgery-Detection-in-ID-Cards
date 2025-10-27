@@ -1,0 +1,20 @@
+E1
+EN: Kare
+
+E2
+EN: Rahimi
+
+L1
+
+L2
+EN: Rahimi
+OR: رحیمی
+
+E3
+EN: 10/11/2067
+
+E4
+EN: 22/12/2016
+
+E5
+EN: 23/01/1917

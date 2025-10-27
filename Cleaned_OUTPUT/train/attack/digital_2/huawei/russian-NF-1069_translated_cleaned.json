@@ -1,0 +1,94 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\russian-NF-1069_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\russian-NF-1069.jpg",
+  "width": 3205,
+  "height": 1965,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1156,
+            405,
+            1635,
+            486
+          ],
+          "original_text": "Журавлева /",
+          "translated_en": "Zhuravleva /"
+        },
+        {
+          "box": [
+            1156,
+            490,
+            1551,
+            548
+          ],
+          "original_text": "Zhuravleva",
+          "translated_en": "Zhuravleva"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1150,
+            738,
+            1877,
+            813
+          ],
+          "original_text": "Анна Михайловна /",
+          "translated_en": "Anna Mikhailovna /"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1148,
+            1061,
+            1564,
+            1131
+          ],
+          "original_text": "07.01.:203",
+          "translated_en": "07.01.:203"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1141,
+            1506,
+            1541,
+            1564
+          ],
+          "original_text": "02.01.2021",
+          "translated_en": "02.01.2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1135,
+            1800,
+            1553,
+            1857
+          ],
+          "original_text": "31.12.2008",
+          "translated_en": "31.12.2008"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1069_translated_cleaned.jpg"
+}

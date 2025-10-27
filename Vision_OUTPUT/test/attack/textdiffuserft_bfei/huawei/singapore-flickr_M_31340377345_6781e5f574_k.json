@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_31340377345_6781e5f574_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        657,
+        656,
+        2378,
+        972
+      ],
+      "lines": [
+        {
+          "text": "JohnTsang Ooi",
+          "box": [
+            806,
+            735,
+            1579,
+            839
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        733,
+        1408,
+        1637,
+        1603
+      ],
+      "lines": [
+        {
+          "text": "21-12-887",
+          "box": [
+            826,
+            1479,
+            1393,
+            1566
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1779,
+        1710,
+        2626,
+        1899
+      ],
+      "lines": [
+        {
+          "text": "09 02 995",
+          "box": [
+            1879,
+            1749,
+            2447,
+            1833
+          ]
+        }
+      ]
+    }
+  ]
+}

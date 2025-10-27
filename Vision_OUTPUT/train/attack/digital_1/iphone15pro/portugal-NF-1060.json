@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-NF-1060.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        888,
+        429,
+        2094,
+        680
+      ],
+      "lines": [
+        {
+          "text": "FMESNESARIEROO",
+          "box": [
+            981,
+            492,
+            1703,
+            557
+          ]
+        },
+        {
+          "text": "Carla",
+          "box": [
+            980,
+            583,
+            1166,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2364,
+        828,
+        2867,
+        967
+      ],
+      "lines": [
+        {
+          "text": "08 10 2003",
+          "box": [
+            2441,
+            833,
+            2852,
+            886
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1779,
+        1051,
+        2397,
+        1216
+      ],
+      "lines": [
+        {
+          "text": "05 10 2023",
+          "box": [
+            1873,
+            1077,
+            2304,
+            1145
+          ]
+        }
+      ]
+    }
+  ]
+}

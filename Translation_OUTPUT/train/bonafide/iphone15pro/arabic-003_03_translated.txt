@@ -1,0 +1,27 @@
+E1
+EN: Tariq Al - Ahmad
+
+L1
+OR: الأحمد طارق
+EN: Ahmed Tariq
+
+E2
+EN: 29 Apr 1985
+
+E3
+EN: 09 Jul 2018
+
+E4
+EN: 24 Dec 2033
+
+L2
+OR: ٢٩ / أبريل / ۱۹۸۵ ٩٨٥
+EN: April 29, 1985
+
+L3
+OR: / / يوليو / ۲۰۱۸
+EN: / / July / 2018
+
+L4
+OR: - ٢٤ / ديسمبر /
+EN: - December 24

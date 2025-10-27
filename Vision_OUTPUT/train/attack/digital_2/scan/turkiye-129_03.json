@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-129_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        612,
+        1215,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Sreg",
+          "box": [
+            652,
+            652,
+            787,
+            699
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        448,
+        1215,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Öztürk",
+          "box": [
+            658,
+            488,
+            833,
+            534
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        768,
+        1193,
+        885
+      ],
+      "lines": [
+        {
+          "text": "17.02.:2043",
+          "box": [
+            654,
+            804,
+            957,
+            847
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1088,
+        1184,
+        1213
+      ],
+      "lines": [
+        {
+          "text": "15.11.2006",
+          "box": [
+            649,
+            1119,
+            948,
+            1162
+          ]
+        }
+      ]
+    }
+  ]
+}

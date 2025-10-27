@@ -1,0 +1,139 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\arabic-01_0095_000-18471808_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\arabic-01_0095_000-18471808_1.jpg",
+  "width": 3185,
+  "height": 1971,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1206,
+            737,
+            1906,
+            847
+          ],
+          "original_text": "Jonath > -Fayed",
+          "translated_en": "Jonath > -Fayed"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1180,
+            534,
+            1601,
+            630
+          ],
+          "original_text": "الفايد رانيا",
+          "translated_en": "Al Fayed Rania"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1190,
+            1247,
+            1767,
+            1327
+          ],
+          "original_text": "06 Aug 2057",
+          "translated_en": "06 Aug 2057"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1183,
+            1510,
+            1750,
+            1583
+          ],
+          "original_text": "12 Jan 2020",
+          "translated_en": "12 Jan 2020"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1176,
+            1763,
+            1754,
+            1843
+          ],
+          "original_text": "20 Nov 2019",
+          "translated_en": "20 Nov 2019"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2042,
+            1266,
+            2723,
+            1350
+          ],
+          "original_text": "٤ / فبراير / ۱۹۹۰",
+          "translated_en": "February 4, 1990"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2034,
+            1523,
+            2699,
+            1592
+          ],
+          "original_text": "۱۲ / بنات / ۲۰۲۰",
+          "translated_en": "12 / Girls / 2020"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2212,
+            1687,
+            2403,
+            1748
+          ],
+          "original_text": "صالح",
+          "translated_en": "righteous"
+        },
+        {
+          "box": [
+            2024,
+            1790,
+            2786,
+            1862
+          ],
+          "original_text": "/ / سبتمبر / ۲۰۲۹",
+          "translated_en": "/ / September / 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-01_0095_000-18471808_1_translated_cleaned.jpg"
+}

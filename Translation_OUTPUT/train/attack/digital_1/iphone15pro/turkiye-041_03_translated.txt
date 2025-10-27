@@ -1,0 +1,12 @@
+E2
+EN: Eic
+
+E1
+EN: Soya
+EN: Akgül
+
+E3
+EN: 30.10.2028
+
+E4
+EN: 15.12.2021

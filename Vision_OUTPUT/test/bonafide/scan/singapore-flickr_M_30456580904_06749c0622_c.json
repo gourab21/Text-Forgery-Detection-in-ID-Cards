@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\scan\\singapore-flickr_M_30456580904_06749c0622_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        414,
+        413,
+        1498,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Hafiz bin Rahman",
+          "box": [
+            508,
+            467,
+            1113,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1975-02-22",
+          "box": [
+            521,
+            925,
+            884,
+            974
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "1985-02-22",
+          "box": [
+            1184,
+            1099,
+            1546,
+            1148
+          ]
+        }
+      ]
+    }
+  ]
+}

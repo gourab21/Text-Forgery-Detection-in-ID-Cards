@@ -1,0 +1,27 @@
+E1
+EN: Zacharyahnoud
+
+L1
+OR: محمود لیلی
+EN: Mahmoud Leili
+
+E2
+EN: 21 Nov 2036
+
+E3
+EN: 15 Jan 2020
+
+E4
+EN: 12 May 1914
+
+L2
+OR: ٢٣ / فبراير / ۱۹۸۱
+EN: February 23, 1981
+
+L3
+OR: ١٥ / يناير / ۲۰۲۰
+EN: January 15, 2020
+
+L4
+OR: ٥ / أكتوبر / ٢٠٣٢
+EN: October 5, 2032

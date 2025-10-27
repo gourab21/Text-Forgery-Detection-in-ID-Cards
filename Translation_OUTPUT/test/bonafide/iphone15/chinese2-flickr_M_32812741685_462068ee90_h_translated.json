@@ -1,0 +1,84 @@
+{
+  "source_json": "test\\bonafide\\iphone15\\chinese2-flickr_M_32812741685_462068ee90_h.json",
+  "image_relative": "test\\bonafide\\iphone15\\chinese2-flickr_M_32812741685_462068ee90_h.jpg",
+  "width": 2775,
+  "height": 1726,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            941,
+            590,
+            1088,
+            656
+          ],
+          "original_text": "赵 钢",
+          "translated_en": "Zhao Gang",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            946,
+            679,
+            1361,
+            745
+          ],
+          "original_text": "Zhao Gang",
+          "translated_en": "Zhao Gang",
+          "detected_lang": "zh-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1726,
+            955,
+            2215,
+            1019
+          ],
+          "original_text": "24 Dec 1990",
+          "translated_en": "24 Dec 1990",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1734,
+            1209,
+            2223,
+            1275
+          ],
+          "original_text": "01 Nov 2011",
+          "translated_en": "01 Nov 2011",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            959,
+            1489,
+            1427,
+            1550
+          ],
+          "original_text": "29 Oct 2021",
+          "translated_en": "29 Oct 2021",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_32812741685_462068ee90_h_translated.jpg"
+}

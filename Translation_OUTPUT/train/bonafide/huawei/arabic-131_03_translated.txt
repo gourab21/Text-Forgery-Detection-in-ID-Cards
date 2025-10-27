@@ -1,0 +1,30 @@
+E1
+EN: Khalil Al - Mubarak
+
+L1
+OR: المبارك خليل
+EN: Mubarak Khalil
+
+E2
+EN: 17 Aug 1994
+
+E3
+EN: 20 Apr 2022
+
+E4
+EN: 10 May 2032
+
+L2
+OR: تاریخ
+EN: History
+OR: ١٧ / أغسطس / ١٩٩٤
+EN: August 17, 1994
+
+L3
+OR: ۲۰ / ابريل / ۲۰۲۲
+EN: April 20, 2022
+
+L4
+EN: 3
+OR: ۱۰ / مايو / ۲۰۳۲
+EN: May 10, 2032

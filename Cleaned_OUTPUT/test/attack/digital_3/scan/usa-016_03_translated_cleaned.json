@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\usa-016_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-016_03.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            661,
+            469,
+            1003,
+            517
+          ],
+          "original_text": "Kennet Bioop",
+          "translated_en": "Kennet Bioop"
+        },
+        {
+          "box": [
+            648,
+            527,
+            932,
+            567
+          ],
+          "original_text": "891 Oak St",
+          "translated_en": "891 Oak St"
+        },
+        {
+          "box": [
+            648,
+            582,
+            1054,
+            628
+          ],
+          "original_text": "Miami FL 33101",
+          "translated_en": "Miami FL 33101"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1490,
+            777,
+            1883,
+            819
+          ],
+          "original_text": "21-11-66",
+          "translated_en": "21-11-66"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-016_03_translated_cleaned.jpg"
+}

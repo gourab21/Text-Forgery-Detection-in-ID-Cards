@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\indian-012_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\indian-012_03.jpg",
+  "width": 3198,
+  "height": 1973,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1115,
+            733,
+            1388,
+            792
+          ],
+          "original_text": "SINGH",
+          "translated_en": "SINGH"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1108,
+            964,
+            1794,
+            1067
+          ],
+          "original_text": "RAVICCYDIAR",
+          "translated_en": "RAVICCYDIAR"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1108,
+            1227,
+            1627,
+            1317
+          ],
+          "original_text": "12/01/197",
+          "translated_en": "12/01/197"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1098,
+            1704,
+            1605,
+            1774
+          ],
+          "original_text": "20/03/2015",
+          "translated_en": "20/03/2015"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2263,
+            1719,
+            2789,
+            1789
+          ],
+          "original_text": "20/03/2002",
+          "translated_en": "20/03/2002"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-012_03_translated_cleaned.jpg"
+}

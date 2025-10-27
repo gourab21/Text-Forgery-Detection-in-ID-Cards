@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\usa-016_03.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\usa-016_03.jpg",
+  "width": 1993,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            661,
+            469,
+            1003,
+            517
+          ],
+          "original_text": "Kennet Bioop",
+          "translated_en": "Kennet Bioop",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            648,
+            527,
+            932,
+            567
+          ],
+          "original_text": "891 Oak St",
+          "translated_en": "891 Oak St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            648,
+            582,
+            1054,
+            628
+          ],
+          "original_text": "Miami FL 33101",
+          "translated_en": "Miami FL 33101",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1490,
+            777,
+            1883,
+            819
+          ],
+          "original_text": "DOB 21-11-66",
+          "translated_en": "DOB 21-11-66",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-016_03_translated.jpg"
+}

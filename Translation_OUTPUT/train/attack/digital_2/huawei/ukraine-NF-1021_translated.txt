@@ -1,0 +1,19 @@
+LE1
+OR: Лисенко /
+EN: Lysenko /
+EN: Lysenko
+
+LE2
+OR: Марія Іванівна /
+EN: Maria Ivanovna /
+EN: M remy
+
+E3
+EN: 29.07.12013
+
+E4
+EN: ата вида ate of issue
+EN: 15.02.2011
+
+E5
+EN: 15.02.:204

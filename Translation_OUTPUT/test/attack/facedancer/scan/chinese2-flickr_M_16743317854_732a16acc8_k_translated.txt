@@ -1,0 +1,14 @@
+LE1
+OR: 陈超
+EN: Chen Chao
+EN: Chen Chao
+
+E2
+EN: 25 DEC 1984
+
+E3
+EN: 05 NOV 2008
+EN: 1121
+
+E4
+EN: 05 NOV 2028

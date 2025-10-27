@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\russian-141_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\russian-141_03.jpg",
+  "width": 2831,
+  "height": 1791,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1017,
+            386,
+            1342,
+            451
+          ],
+          "original_text": "Новиков /",
+          "translated_en": "Novikov /"
+        },
+        {
+          "box": [
+            1014,
+            464,
+            1265,
+            511
+          ],
+          "original_text": "Novikov",
+          "translated_en": "Novikov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1021,
+            679,
+            1640,
+            749
+          ],
+          "original_text": "Кирилл Игоревич /",
+          "translated_en": "Kirill Igorevich /"
+        },
+        {
+          "box": [
+            1021,
+            763,
+            1504,
+            807
+          ],
+          "original_text": "Muren -Eurevich",
+          "translated_en": "Muren -Eurevich"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1027,
+            978,
+            1390,
+            1026
+          ],
+          "original_text": "23.05.2030",
+          "translated_en": "23.05.2030"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1031,
+            1371,
+            1386,
+            1424
+          ],
+          "original_text": "23.02.2012",
+          "translated_en": "23.02.2012"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1037,
+            1634,
+            1397,
+            1691
+          ],
+          "original_text": "20.02.2044",
+          "translated_en": "20.02.2044"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-141_03_translated_cleaned.jpg"
+}

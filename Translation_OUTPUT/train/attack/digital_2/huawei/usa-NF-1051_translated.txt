@@ -1,0 +1,7 @@
+E1
+EN: Lrian Tay or
+EN: 3714 Maple Ave
+EN: Dallas TX 75235
+
+E2
+EN: DOB : 08-04-24

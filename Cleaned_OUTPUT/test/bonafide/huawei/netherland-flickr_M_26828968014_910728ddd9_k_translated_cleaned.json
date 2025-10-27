@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\netherland-flickr_M_26828968014_910728ddd9_k_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\netherland-flickr_M_26828968014_910728ddd9_k.jpg",
+  "width": 3175,
+  "height": 1979,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1076,
+            506,
+            1527,
+            585
+          ],
+          "original_text": "DE VRIES",
+          "translated_en": "DE VRIES"
+        },
+        {
+          "box": [
+            1077,
+            608,
+            1829,
+            685
+          ],
+          "original_text": "Henrike Henrike",
+          "translated_en": "Henrike Henrike"
+        },
+        {
+          "box": [
+            1076,
+            719,
+            1450,
+            791
+          ],
+          "original_text": "Cornelis",
+          "translated_en": "Cornelis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2499,
+            928,
+            3030,
+            1000
+          ],
+          "original_text": "14 03 2002",
+          "translated_en": "14 03 2002"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2456,
+            1204,
+            3039,
+            1279
+          ],
+          "original_text": "15 07 2027",
+          "translated_en": "15 07 2027"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_26828968014_910728ddd9_k_translated_cleaned.jpg"
+}

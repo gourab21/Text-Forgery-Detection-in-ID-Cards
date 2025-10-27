@@ -1,0 +1,20 @@
+LE1
+OR: Михайлова /
+EN: Mihaylova /
+EN: Mikhailova
+
+LE2
+OR: pa
+EN: but
+OR: Вера Николаевна / M
+EN: Vera Nikolaevna / M
+EN: Velasmnlawa
+
+E3
+EN: 18.12.2026
+
+E4
+EN: 02.04.2019
+
+E5
+EN: 30.03 . 2012

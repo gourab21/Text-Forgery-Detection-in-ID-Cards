@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\ukraine-01_0077_000-a3228552_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\ukraine-01_0077_000-a3228552_1.jpg",
+  "width": 3193,
+  "height": 1974,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1029,
+            460,
+            1375,
+            537
+          ],
+          "original_text": "Бондар /",
+          "translated_en": "Cooper /"
+        },
+        {
+          "box": [
+            1026,
+            553,
+            1297,
+            606
+          ],
+          "original_text": "Bondar",
+          "translated_en": "bumble-bee"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1021,
+            742,
+            1766,
+            834
+          ],
+          "original_text": "Василь Петрович /",
+          "translated_en": "Vasyl Petrovych /"
+        },
+        {
+          "box": [
+            1023,
+            846,
+            1224,
+            904
+          ],
+          "original_text": "Kelse",
+          "translated_en": "Kelsey"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1016,
+            1078,
+            1449,
+            1140
+          ],
+          "original_text": "03.05.2018",
+          "translated_en": "03.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1008,
+            1518,
+            1434,
+            1577
+          ],
+          "original_text": "17.09.2018",
+          "translated_en": "17.09.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1004,
+            1830,
+            1431,
+            1889
+          ],
+          "original_text": "22.10.2061",
+          "translated_en": "22.10.2061"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-01_0077_000-a3228552_1_translated_cleaned.jpg"
+}

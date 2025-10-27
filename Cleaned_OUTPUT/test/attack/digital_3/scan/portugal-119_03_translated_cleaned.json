@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-119_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-119_03.jpg",
+  "width": 1992,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            695,
+            340,
+            1172,
+            382
+          ],
+          "original_text": "MARIANDES SILVA",
+          "translated_en": "MARIANDES SILVA"
+        },
+        {
+          "box": [
+            692,
+            397,
+            794,
+            439
+          ],
+          "original_text": "Luis",
+          "translated_en": "Luis"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1699,
+            600,
+            1950,
+            637
+          ],
+          "original_text": "04 08 1921",
+          "translated_en": "04 08 1921"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1304,
+            768,
+            1589,
+            807
+          ],
+          "original_text": "18 02 1939",
+          "translated_en": "18 02 1939"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-119_03_translated_cleaned.jpg"
+}

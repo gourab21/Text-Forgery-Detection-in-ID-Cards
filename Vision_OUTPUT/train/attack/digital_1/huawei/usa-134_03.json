@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\usa-134_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        968,
+        673,
+        1987,
+        1047
+      ],
+      "lines": [
+        {
+          "text": "Joelifera Miller",
+          "box": [
+            1037,
+            742,
+            1619,
+            808
+          ]
+        },
+        {
+          "text": "9202 Lakeside Ave",
+          "box": [
+            1039,
+            835,
+            1812,
+            905
+          ]
+        },
+        {
+          "text": "Orlando FL 32808",
+          "box": [
+            1036,
+            929,
+            1769,
+            1001
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2330,
+        1193,
+        3125,
+        1354
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-01-25",
+          "box": [
+            2399,
+            1237,
+            3048,
+            1312
+          ]
+        }
+      ]
+    }
+  ]
+}

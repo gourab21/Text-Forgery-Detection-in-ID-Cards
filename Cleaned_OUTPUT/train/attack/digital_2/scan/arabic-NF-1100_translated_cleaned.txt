@@ -1,0 +1,27 @@
+E1
+EN: Hjd 2Lsalon
+
+L1
+EN: Morning is here
+OR: الصباح هنا
+
+E2
+EN: 03 Sep 20.7
+
+E3
+EN: 19 Nov 2021
+
+E4
+EN: 20 Sep 2018
+
+L2
+EN: 3 / September / 1985
+OR: ۳ / سبتمبر / ۱۹۸۵
+
+L3
+EN: November 19, 2011
+OR: ١٩ / نوفمبر / ٢٠١
+
+L4
+EN: September 20
+OR: ۲۰ / سبتمبر / ۲

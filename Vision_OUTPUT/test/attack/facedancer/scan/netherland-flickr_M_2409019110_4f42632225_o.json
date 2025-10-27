@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_2409019110_4f42632225_o.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        622,
+        289,
+        1275,
+        539
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            678,
+            326,
+            977,
+            370
+          ]
+        },
+        {
+          "text": "Joris Petra",
+          "box": [
+            675,
+            389,
+            975,
+            435
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            676,
+            456,
+            992,
+            501
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1485,
+        559,
+        1966,
+        658
+      ],
+      "lines": [
+        {
+          "text": "25 01 1981",
+          "box": [
+            1560,
+            584,
+            1897,
+            634
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1459,
+        730,
+        1958,
+        853
+      ],
+      "lines": [
+        {
+          "text": "23 01 2034",
+          "box": [
+            1534,
+            759,
+            1900,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+E1
+EN: Nicole Farouk
+
+L1
+OR: فاروق نادية
+EN: Farouk Nadia
+
+E2
+EN: 05 Sep 2021
+
+E3
+EN: 15 Mar 2022
+
+E4
+EN: 16 Oct 2085
+
+L2
+OR: ملاد المـ تاريخ
+EN: Date of birth
+OR: ۲۰ / يناير / ۱۹۹۳
+EN: January 20, 1993
+
+L3
+OR: ١٥ / مارس /
+EN: March 15
+
+L4
+OR: ١٥ / مارس / ٢۰۲۲۲
+EN: March 15, 2022

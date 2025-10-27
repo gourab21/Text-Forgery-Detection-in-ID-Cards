@@ -1,0 +1,21 @@
+LE1
+EN: Nicknames
+OR: Прізви
+EN: Shevchenko /
+OR: Шевченко /
+EN: Shevchenko
+
+LE2
+EN: Iryna Olegivna /
+OR: Ірина Олегівна /
+EN: Irina
+OR: Iryna
+
+E3
+EN: 19.03.1995
+
+E4
+EN: 04.08.2020
+
+E5
+EN: 04.08.2025

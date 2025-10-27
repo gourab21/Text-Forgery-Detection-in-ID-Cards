@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\chinese-064_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\chinese-064_03.jpg",
+  "width": 3225,
+  "height": 1971,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1114,
+            672,
+            1270,
+            748
+          ],
+          "original_text": "张 輪",
+          "translated_en": "Zhang Lun"
+        },
+        {
+          "box": [
+            1104,
+            752,
+            1486,
+            855
+          ],
+          "original_text": "ZURE",
+          "translated_en": "YOURS"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2004,
+            1121,
+            2552,
+            1201
+          ],
+          "original_text": "30 Nov 203",
+          "translated_en": "30 Nov 203"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1998,
+            1419,
+            2503,
+            1482
+          ],
+          "original_text": "22 Jan 2014",
+          "translated_en": "22 Jan 2014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1087,
+            1700,
+            1616,
+            1779
+          ],
+          "original_text": "20 Jan 2023",
+          "translated_en": "20 Jan 2023"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-064_03_translated_cleaned.jpg"
+}

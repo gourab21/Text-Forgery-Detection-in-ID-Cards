@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\portugal-NF-1024_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\portugal-NF-1024.jpg",
+  "width": 3212,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1096,
+            538,
+            1698,
+            601
+          ],
+          "original_text": "G HEILASOUSA",
+          "translated_en": "G HEILASOUSA"
+        },
+        {
+          "box": [
+            1094,
+            632,
+            1369,
+            696
+          ],
+          "original_text": "Teresa",
+          "translated_en": "Teresa"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2753,
+            952,
+            3211,
+            1019
+          ],
+          "original_text": "02 05 22012",
+          "translated_en": "02 05 22012"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2094,
+            1220,
+            2574,
+            1284
+          ],
+          "original_text": "29 04 2044",
+          "translated_en": "29 04 2044"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1024_translated_cleaned.jpg"
+}

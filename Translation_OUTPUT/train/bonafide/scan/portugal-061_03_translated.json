@@ -1,0 +1,68 @@
+{
+  "source_json": "train\\bonafide\\scan\\portugal-061_03.json",
+  "image_relative": "train\\bonafide\\scan\\portugal-061_03.jpg",
+  "width": 1998,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            680,
+            341,
+            1111,
+            384
+          ],
+          "original_text": "GOMES RIBEIRO",
+          "translated_en": "GOMES RIBEIRO",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            681,
+            404,
+            829,
+            440
+          ],
+          "original_text": "Pedro",
+          "translated_en": "Pedro",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1707,
+            576,
+            1997,
+            615
+          ],
+          "original_text": "03 06 2001",
+          "translated_en": "03 06 2001",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1309,
+            753,
+            1594,
+            793
+          ],
+          "original_text": "01 06 2011",
+          "translated_en": "01 06 2011",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-061_03_translated.jpg"
+}

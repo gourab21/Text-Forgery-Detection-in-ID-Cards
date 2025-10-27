@@ -1,0 +1,12 @@
+E1
+EN: VISSER
+EN: Anouk Cornelis
+EN: Gerardus
+
+E2
+EN: OF BIRTH
+EN: 11 11 1979
+
+E3
+EN: ELDIG CARD EXPIRY
+EN: 28 11 2028

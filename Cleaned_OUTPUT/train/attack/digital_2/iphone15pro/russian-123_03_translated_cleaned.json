@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\russian-123_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\russian-123_03.jpg",
+  "width": 2819,
+  "height": 1789,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1010,
+            379,
+            1289,
+            439
+          ],
+          "original_text": "Козлов /",
+          "translated_en": "Kozlov /"
+        },
+        {
+          "box": [
+            1010,
+            461,
+            1216,
+            504
+          ],
+          "original_text": "Kozlov",
+          "translated_en": "Kozlov"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1017,
+            677,
+            1611,
+            738
+          ],
+          "original_text": "Никита Юрьевич /",
+          "translated_en": "Nikita Yurevich /"
+        },
+        {
+          "box": [
+            1017,
+            755,
+            1521,
+            814
+          ],
+          "original_text": "Milics Buriovich",
+          "translated_en": "Milics Buriovich"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1017,
+            965,
+            1390,
+            1038
+          ],
+          "original_text": "05.02.2018",
+          "translated_en": "05.02.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1367,
+            1377,
+            1421
+          ],
+          "original_text": "18.10.2016",
+          "translated_en": "18.10.2016"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1030,
+            1638,
+            1401,
+            1687
+          ],
+          "original_text": "16.10..2028",
+          "translated_en": "16.10..2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-123_03_translated_cleaned.jpg"
+}

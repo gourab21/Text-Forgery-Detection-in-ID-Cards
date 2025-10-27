@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NM-1038.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        801,
+        551,
+        1645,
+        855
+      ],
+      "lines": [
+        {
+          "text": "Nicholasalor",
+          "box": [
+            870,
+            604,
+            1332,
+            659
+          ]
+        },
+        {
+          "text": "204 Pine St KAFE",
+          "box": [
+            867,
+            669,
+            1529,
+            759
+          ]
+        },
+        {
+          "text": "Bozeman M 59715",
+          "box": [
+            865,
+            761,
+            1534,
+            814
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1931,
+        976,
+        2588,
+        1108
+      ],
+      "lines": [
+        {
+          "text": "DOB 03-06-37",
+          "box": [
+            1980,
+            1004,
+            2503,
+            1064
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\bonafide\\iphone15pro\\ukraine-NF-1068.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\ukraine-NF-1068.jpg",
+  "width": 2828,
+  "height": 1799,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            900,
+            375,
+            1091,
+            414
+          ],
+          "original_text": "Прізви",
+          "translated_en": "Nicknames",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            917,
+            429,
+            1342,
+            495
+          ],
+          "original_text": "Коваленко /",
+          "translated_en": "Kovalenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            919,
+            514,
+            1265,
+            565
+          ],
+          "original_text": "Kovalenko",
+          "translated_en": "Kovalenko",
+          "detected_lang": "et"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            922,
+            686,
+            1591,
+            757
+          ],
+          "original_text": "Олена Григорівна /",
+          "translated_en": "Olena Grigorivna /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            919,
+            773,
+            1109,
+            823
+          ],
+          "original_text": "Olena",
+          "translated_en": "Elena",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            925,
+            980,
+            1304,
+            1037
+          ],
+          "original_text": "09.05.1976",
+          "translated_en": "09.05.1976",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            929,
+            1376,
+            1308,
+            1429
+          ],
+          "original_text": "09.05.2021",
+          "translated_en": "09.05.2021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            932,
+            1657,
+            1311,
+            1710
+          ],
+          "original_text": "08.05.2026",
+          "translated_en": "08.05.2026",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1068_translated.jpg"
+}

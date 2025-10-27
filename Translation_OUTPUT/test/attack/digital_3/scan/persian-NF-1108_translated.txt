@@ -1,0 +1,22 @@
+E1
+EN: Seth
+
+E2
+EN: Ahmadi
+
+L1
+OR: فرح
+EN: joy
+
+L2
+OR: حسینی
+EN: Hosseini
+
+E3
+EN: 23/05/2015
+
+E4
+EN: 30/06/2024
+
+E5
+EN: 06/07/1911

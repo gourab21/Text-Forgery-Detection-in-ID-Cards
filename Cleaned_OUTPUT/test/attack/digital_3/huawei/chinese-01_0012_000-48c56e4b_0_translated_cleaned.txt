@@ -1,0 +1,12 @@
+LE1
+EN: Tiffany
+OR: Tifffanyei
+
+E2
+EN: 30 Nov 1901
+
+E3
+EN: 30 OCT 2012
+
+E4
+EN: 22 Feb 1901

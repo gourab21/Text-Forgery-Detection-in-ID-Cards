@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-NM-1011.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        595,
+        612,
+        1215,
+        731
+      ],
+      "lines": [
+        {
+          "text": "Shar",
+          "box": [
+            649,
+            657,
+            783,
+            697
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        593,
+        447,
+        1215,
+        570
+      ],
+      "lines": [
+        {
+          "text": "Ergin",
+          "box": [
+            649,
+            503,
+            783,
+            550
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        592,
+        767,
+        1192,
+        884
+      ],
+      "lines": [
+        {
+          "text": "19.06.12035",
+          "box": [
+            657,
+            808,
+            961,
+            852
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        597,
+        1087,
+        1184,
+        1212
+      ],
+      "lines": [
+        {
+          "text": "05.09.2044",
+          "box": [
+            662,
+            1124,
+            967,
+            1165
+          ]
+        }
+      ]
+    }
+  ]
+}

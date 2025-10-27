@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\huawei\\chinese2-flickr_M_26097180114_4c514c928d_c_translated.json",
+  "image_relative": "test\\bonafide\\huawei\\chinese2-flickr_M_26097180114_4c514c928d_c.jpg",
+  "width": 3233,
+  "height": 2050,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1099,
+            709,
+            1274,
+            788
+          ],
+          "original_text": "马 磊",
+          "translated_en": "Ma Lei"
+        },
+        {
+          "box": [
+            1098,
+            811,
+            1378,
+            880
+          ],
+          "original_text": "Ma Lei",
+          "translated_en": "Ma Lei"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2016,
+            1146,
+            2601,
+            1221
+          ],
+          "original_text": "04 MAY 1981",
+          "translated_en": "04 MAY 1981"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2022,
+            1447,
+            2578,
+            1523
+          ],
+          "original_text": "02 JUL 2003",
+          "translated_en": "02 JUL 2003"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1120,
+            1778,
+            1674,
+            1851
+          ],
+          "original_text": "02 JUL 2023",
+          "translated_en": "02 JUL 2023"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_26097180114_4c514c928d_c_translated_cleaned.jpg"
+}

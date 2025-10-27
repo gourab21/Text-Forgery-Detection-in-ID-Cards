@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\french-090_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        787,
+        345,
+        1566,
+        465
+      ],
+      "lines": [
+        {
+          "text": "DURAND",
+          "box": [
+            874,
+            378,
+            1148,
+            422
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        780,
+        569,
+        1660,
+        712
+      ],
+      "lines": [
+        {
+          "text": "Isabelle , Marie",
+          "box": [
+            868,
+            602,
+            1331,
+            655
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1836,
+        797,
+        2353,
+        935
+      ],
+      "lines": [
+        {
+          "text": "24 06 1991",
+          "box": [
+            1882,
+            817,
+            2235,
+            870
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1812,
+        1301,
+        2336,
+        1426
+      ],
+      "lines": [
+        {
+          "text": "21 12 2027",
+          "box": [
+            1873,
+            1318,
+            2227,
+            1372
+          ]
+        }
+      ]
+    }
+  ]
+}

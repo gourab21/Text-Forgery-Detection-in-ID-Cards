@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-NF-1060.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        888,
+        429,
+        2094,
+        680
+      ],
+      "lines": [
+        {
+          "text": "TODBANDS RIBEIRO",
+          "box": [
+            992,
+            491,
+            1783,
+            556
+          ]
+        },
+        {
+          "text": "Carla",
+          "box": [
+            981,
+            586,
+            1166,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2364,
+        828,
+        2867,
+        967
+      ],
+      "lines": [
+        {
+          "text": "07 01 1946",
+          "box": [
+            2433,
+            829,
+            2801,
+            886
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1779,
+        1051,
+        2397,
+        1216
+      ],
+      "lines": [
+        {
+          "text": "2901 2038",
+          "box": [
+            1879,
+            1084,
+            2292,
+            1145
+          ]
+        }
+      ]
+    }
+  ]
+}

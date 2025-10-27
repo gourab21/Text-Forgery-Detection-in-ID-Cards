@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\singapore-flickr_M_31226135201_5aa42a5a13_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        658,
+        660,
+        2380,
+        978
+      ],
+      "lines": [
+        {
+          "text": "Paul Menon",
+          "box": [
+            798,
+            755,
+            1422,
+            823
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        734,
+        1415,
+        1639,
+        1613
+      ],
+      "lines": [
+        {
+          "text": "04-07-992",
+          "box": [
+            814,
+            1477,
+            1378,
+            1560
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1781,
+        1719,
+        2629,
+        1909
+      ],
+      "lines": [
+        {
+          "text": "25-05-1919",
+          "box": [
+            1878,
+            1758,
+            2436,
+            1852
+          ]
+        }
+      ]
+    }
+  ]
+}

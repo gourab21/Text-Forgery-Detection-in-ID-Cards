@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-NF-1082.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        380,
+        1658,
+        513
+      ],
+      "lines": [
+        {
+          "text": "MASSON",
+          "box": [
+            915,
+            429,
+            1196,
+            480
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        628,
+        1757,
+        787
+      ],
+      "lines": [
+        {
+          "text": "L dames Sabine",
+          "box": [
+            921,
+            672,
+            1356,
+            731
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1944,
+        881,
+        2490,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "15 10 2035",
+          "box": [
+            2004,
+            886,
+            2402,
+            935
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1918,
+        1437,
+        2474,
+        1576
+      ],
+      "lines": [
+        {
+          "text": "02 12 2033",
+          "box": [
+            2014,
+            1439,
+            2406,
+            1484
+          ]
+        }
+      ]
+    }
+  ]
+}

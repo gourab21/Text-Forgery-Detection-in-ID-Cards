@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-NM-1104.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        828,
+        379,
+        1649,
+        512
+      ],
+      "lines": [
+        {
+          "text": "DUBOIS",
+          "box": [
+            908,
+            425,
+            1175,
+            477
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        821,
+        625,
+        1747,
+        783
+      ],
+      "lines": [
+        {
+          "text": "Yamentts IPaul",
+          "box": [
+            935,
+            665,
+            1371,
+            723
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1933,
+        877,
+        2477,
+        1028
+      ],
+      "lines": [
+        {
+          "text": "15 01 12027",
+          "box": [
+            1999,
+            884,
+            2396,
+            933
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1907,
+        1430,
+        2460,
+        1568
+      ],
+      "lines": [
+        {
+          "text": "28 02 11998",
+          "box": [
+            2010,
+            1430,
+            2409,
+            1483
+          ]
+        }
+      ]
+    }
+  ]
+}

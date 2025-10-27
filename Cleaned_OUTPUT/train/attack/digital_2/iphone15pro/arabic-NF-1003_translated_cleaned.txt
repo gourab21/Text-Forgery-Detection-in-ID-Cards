@@ -1,0 +1,27 @@
+E1
+EN: Aason -A - Sayed
+
+L1
+EN: Mr. Amira
+OR: السيد أميرة
+
+E2
+EN: 23 Sep 199
+
+E3
+EN: 07 Jan 2025
+
+E4
+EN: 07 Jan 2012
+
+L2
+EN: September 23, 1987
+OR: ۲۳ / سبتمبر / ۱۹۸۷
+
+L3
+EN: January 7, 2025
+OR: ٠٧ / يناير / ٢٠٢٥
+
+L4
+EN: January 7, 2035
+OR: ٠٧ / يناير / ٢٠٣٥

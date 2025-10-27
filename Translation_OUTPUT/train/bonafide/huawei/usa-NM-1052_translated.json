@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\huawei\\usa-NM-1052.json",
+  "image_relative": "train\\bonafide\\huawei\\usa-NM-1052.jpg",
+  "width": 3239,
+  "height": 1989,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1045,
+            737,
+            1539,
+            832
+          ],
+          "original_text": "Christopher",
+          "translated_en": "Christopher",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1046,
+            681,
+            2003,
+            1015
+          ],
+          "original_text": "112 Oak St Areena RATE",
+          "translated_en": "112 Oak St Areena RATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1046,
+            937,
+            1838,
+            1007
+          ],
+          "original_text": "Laramie WY 82070",
+          "translated_en": "Laramie WY 82070",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2422,
+            1247,
+            3061,
+            1318
+          ],
+          "original_text": "DOB : 10-11-87",
+          "translated_en": "DOB : 10-11-87",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1052_translated.jpg"
+}

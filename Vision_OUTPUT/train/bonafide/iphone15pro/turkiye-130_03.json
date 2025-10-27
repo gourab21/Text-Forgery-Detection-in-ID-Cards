@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\turkiye-130_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        844,
+        880,
+        1721,
+        1050
+      ],
+      "lines": [
+        {
+          "text": "Kerem",
+          "box": [
+            934,
+            946,
+            1159,
+            996
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        841,
+        642,
+        1723,
+        821
+      ],
+      "lines": [
+        {
+          "text": "Yılmaz",
+          "box": [
+            922,
+            721,
+            1174,
+            775
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        840,
+        1103,
+        1690,
+        1271
+      ],
+      "lines": [
+        {
+          "text": "18.04.1987",
+          "box": [
+            941,
+            1157,
+            1345,
+            1221
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        846,
+        1562,
+        1678,
+        1744
+      ],
+      "lines": [
+        {
+          "text": "29.09.2031",
+          "box": [
+            950,
+            1607,
+            1354,
+            1669
+          ]
+        }
+      ]
+    }
+  ]
+}

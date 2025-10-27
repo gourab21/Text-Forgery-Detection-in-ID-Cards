@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\iphone15\\chinese2-flickr_M_31840786965_77af814416_h_translated.json",
+  "image_relative": "test\\attack\\facedancer\\iphone15\\chinese2-flickr_M_31840786965_77af814416_h.jpg",
+  "width": 2774,
+  "height": 1744,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            946,
+            601,
+            1089,
+            663
+          ],
+          "original_text": "吴勇",
+          "translated_en": "Wu Yong"
+        },
+        {
+          "box": [
+            948,
+            686,
+            1275,
+            754
+          ],
+          "original_text": "Wu Yong",
+          "translated_en": "Wu Yong"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1730,
+            967,
+            2226,
+            1032
+          ],
+          "original_text": "04 DEC 1999",
+          "translated_en": "04 DEC 1999"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1735,
+            1221,
+            2218,
+            1286
+          ],
+          "original_text": "09 JAN 2018",
+          "translated_en": "09 JAN 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            964,
+            1500,
+            1449,
+            1567
+          ],
+          "original_text": "09 JAN 2038",
+          "translated_en": "09 JAN 2038"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_31840786965_77af814416_h_translated_cleaned.jpg"
+}

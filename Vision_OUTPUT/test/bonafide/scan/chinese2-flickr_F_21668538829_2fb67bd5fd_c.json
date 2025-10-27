@@ -1,0 +1,95 @@
+{
+  "image": "test\\bonafide\\scan\\chinese2-flickr_F_21668538829_2fb67bd5fd_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        618,
+        395,
+        1192,
+        589
+      ],
+      "lines": [
+        {
+          "text": "胡 霞",
+          "box": [
+            687,
+            423,
+            798,
+            474
+          ]
+        },
+        {
+          "text": "Hu Xia",
+          "box": [
+            687,
+            490,
+            866,
+            532
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1205,
+        657,
+        1670,
+        776
+      ],
+      "lines": [
+        {
+          "text": "02 NOV 1979",
+          "box": [
+            1238,
+            708,
+            1601,
+            755
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1209,
+        842,
+        1687,
+        966
+      ],
+      "lines": [
+        {
+          "text": "02 MAR 2000 A",
+          "box": [
+            1233,
+            890,
+            1665,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        641,
+        1043,
+        1118,
+        1175
+      ],
+      "lines": [
+        {
+          "text": "02 MAR 2020",
+          "box": [
+            674,
+            1075,
+            1041,
+            1118
+          ]
+        }
+      ]
+    }
+  ]
+}

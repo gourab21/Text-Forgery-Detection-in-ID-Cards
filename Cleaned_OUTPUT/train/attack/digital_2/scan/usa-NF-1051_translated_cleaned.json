@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\usa-NF-1051_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\usa-NF-1051.jpg",
+  "width": 1989,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            646,
+            467,
+            976,
+            520
+          ],
+          "original_text": "Loson Taylor",
+          "translated_en": "Loson Taylor"
+        },
+        {
+          "box": [
+            647,
+            525,
+            1056,
+            576
+          ],
+          "original_text": "3714 Maple Ave",
+          "translated_en": "3714 Maple Ave"
+        },
+        {
+          "box": [
+            646,
+            583,
+            1059,
+            628
+          ],
+          "original_text": "Dallas TX 75235",
+          "translated_en": "Dallas TX 75235"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1488,
+            776,
+            1889,
+            822
+          ],
+          "original_text": "08-04-25",
+          "translated_en": "08-04-25"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1051_translated_cleaned.jpg"
+}

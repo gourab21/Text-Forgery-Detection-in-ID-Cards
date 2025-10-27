@@ -1,0 +1,65 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        884,
+        426,
+        2086,
+        676
+      ],
+      "lines": [
+        {
+          "text": "SILVA PEREIRA",
+          "box": [
+            948,
+            477,
+            1513,
+            544
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            949,
+            560,
+            1217,
+            622
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2354,
+        821,
+        2855,
+        959
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1772,
+        1042,
+        2388,
+        1206
+      ],
+      "lines": [
+        {
+          "text": "20 04 2022",
+          "box": [
+            1845,
+            1059,
+            2258,
+            1119
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NM-1102.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        880,
+        431,
+        2077,
+        683
+      ],
+      "lines": [
+        {
+          "text": "BRANDA FER EER M",
+          "box": [
+            971,
+            489,
+            1730,
+            562
+          ]
+        },
+        {
+          "text": "Roberto Filipe",
+          "box": [
+            974,
+            580,
+            1482,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2343,
+        830,
+        2842,
+        970
+      ],
+      "lines": [
+        {
+          "text": "15 09 1991",
+          "box": [
+            2422,
+            830,
+            2824,
+            884
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1765,
+        1054,
+        2376,
+        1220
+      ],
+      "lines": [
+        {
+          "text": "30 11 2036",
+          "box": [
+            1861,
+            1080,
+            2279,
+            1143
+          ]
+        }
+      ]
+    }
+  ]
+}

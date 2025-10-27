@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_33552363961_ea0fc80afb_k_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\iphone15\\singapore-flickr_F_33552363961_ea0fc80afb_k.jpg",
+  "width": 2774,
+  "height": 1745,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            707,
+            634,
+            1446,
+            737
+          ],
+          "original_text": "Gregoryrisnan",
+          "translated_en": "Gregoryrisnan"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            718,
+            1288,
+            1225,
+            1364
+          ],
+          "original_text": "21.01.2125",
+          "translated_en": "21.01.2125"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1645,
+            1529,
+            2151,
+            1608
+          ],
+          "original_text": "31.11.2612",
+          "translated_en": "31.11.2612"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_33552363961_ea0fc80afb_k_translated_cleaned.jpg"
+}

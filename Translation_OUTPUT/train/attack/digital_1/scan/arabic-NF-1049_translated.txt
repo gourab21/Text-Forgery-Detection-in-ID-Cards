@@ -1,0 +1,27 @@
+E1
+EN: Srlethaled
+
+L1
+OR: خالد سارة
+EN: Khaled Sarah
+
+E2
+EN: 05 May 2035
+
+E3
+EN: 20 Aug 2023
+
+E4
+EN: 20 Aug 2004
+
+L2
+OR: ٠٥ / مايو / ۱۹۹۵
+EN: May 5, 1995
+
+L3
+OR: ٢٠ / أغسطس / ٢٠٢٣
+EN: August 20, 2023
+
+L4
+OR: ٢٠ / أغسطس / ٢٠١٣
+EN: August 20, 2013

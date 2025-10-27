@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1009.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1009.jpg",
+  "width": 2797,
+  "height": 1779,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            908,
+            670,
+            1206,
+            722
+          ],
+          "original_text": "Jatricke",
+          "translated_en": "Jatricke",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            911,
+            737,
+            1580,
+            826
+          ],
+          "original_text": "5678 Maple D RAT",
+          "translated_en": "5678 Maple D RAT",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            917,
+            829,
+            1650,
+            893
+          ],
+          "original_text": "Rochester NY 14623",
+          "translated_en": "Rochester NY 14623",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2106,
+            1077,
+            2670,
+            1131
+          ],
+          "original_text": "DOB : 03-22-34",
+          "translated_en": "DOB : 03-22-34",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1009_translated.jpg"
+}

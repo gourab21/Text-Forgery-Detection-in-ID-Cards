@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_31304800026_59e0161aba_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        999,
+        647,
+        1926,
+        967
+      ],
+      "lines": [
+        {
+          "text": "対 明",
+          "box": [
+            1096,
+            701,
+            1262,
+            786
+          ]
+        },
+        {
+          "text": "Liu Ming",
+          "box": [
+            1096,
+            806,
+            1463,
+            893
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1948,
+        1077,
+        2700,
+        1271
+      ],
+      "lines": [
+        {
+          "text": "29 MAY 1977",
+          "box": [
+            2008,
+            1146,
+            2590,
+            1221
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1954,
+        1378,
+        2730,
+        1584
+      ],
+      "lines": [
+        {
+          "text": "17 SEP 1998",
+          "box": [
+            2021,
+            1443,
+            2578,
+            1521
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1036,
+        1710,
+        1809,
+        1926
+      ],
+      "lines": [
+        {
+          "text": "17 SEP 2018",
+          "box": [
+            1120,
+            1774,
+            1680,
+            1848
+          ]
+        }
+      ]
+    }
+  ]
+}

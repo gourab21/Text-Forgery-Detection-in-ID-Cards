@@ -1,0 +1,102 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\netherland-flickr_M_19475853574_c947539b18_c.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        540
+      ],
+      "lines": [
+        {
+          "text": "BROUWER",
+          "box": [
+            693,
+            319,
+            998,
+            363
+          ]
+        },
+        {
+          "text": "Noa Elisabeth",
+          "box": [
+            690,
+            386,
+            1088,
+            429
+          ]
+        },
+        {
+          "text": "Sophie",
+          "box": [
+            687,
+            450,
+            888,
+            502
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1485,
+        560,
+        1966,
+        659
+      ],
+      "lines": [
+        {
+          "text": "OF BIRTH",
+          "box": [
+            1754,
+            560,
+            1918,
+            582
+          ]
+        },
+        {
+          "text": "27 06 1972",
+          "box": [
+            1563,
+            602,
+            1899,
+            651
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1460,
+        731,
+        1959,
+        854
+      ],
+      "lines": [
+        {
+          "text": "ELDIG OD CARD EXPIRY",
+          "box": [
+            1460,
+            731,
+            1913,
+            759
+          ]
+        },
+        {
+          "text": "07 04 2027",
+          "box": [
+            1529,
+            776,
+            1898,
+            825
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\indian-NF-1025_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\indian-NF-1025.jpg",
+  "width": 2625,
+  "height": 1601,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            914,
+            595,
+            1156,
+            639
+          ],
+          "original_text": "KUMAR",
+          "translated_en": "KUMAR"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            908,
+            787,
+            1319,
+            843
+          ],
+          "original_text": "GERESASITA",
+          "translated_en": "GERESASITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            904,
+            994,
+            1336,
+            1052
+          ],
+          "original_text": "29/03/2016",
+          "translated_en": "29/03/2016"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            894,
+            1374,
+            1305,
+            1432
+          ],
+          "original_text": "03/10/2021",
+          "translated_en": "03/10/2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1839,
+            1385,
+            2270,
+            1448
+          ],
+          "original_text": "01/10/1990",
+          "translated_en": "01/10/1990"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1025_translated_cleaned.jpg"
+}

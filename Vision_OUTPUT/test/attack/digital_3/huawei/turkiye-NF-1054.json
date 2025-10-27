@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\turkiye-NF-1054.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        907,
+        921,
+        1850,
+        1101
+      ],
+      "lines": [
+        {
+          "text": "Miel",
+          "box": [
+            997,
+            982,
+            1136,
+            1033
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        903,
+        673,
+        1851,
+        860
+      ],
+      "lines": [
+        {
+          "text": "Kara",
+          "box": [
+            990,
+            747,
+            1166,
+            805
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        903,
+        1155,
+        1817,
+        1332
+      ],
+      "lines": [
+        {
+          "text": "31.04.1956",
+          "box": [
+            985,
+            1209,
+            1427,
+            1276
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        909,
+        1636,
+        1804,
+        1825
+      ],
+      "lines": [
+        {
+          "text": "17.06.2012",
+          "box": [
+            977,
+            1681,
+            1422,
+            1744
+          ]
+        }
+      ]
+    }
+  ]
+}

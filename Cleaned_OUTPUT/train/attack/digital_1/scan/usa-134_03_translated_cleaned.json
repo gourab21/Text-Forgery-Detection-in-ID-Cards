@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\usa-134_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\usa-134_03.jpg",
+  "width": 1995,
+  "height": 1251,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            654,
+            461,
+            1031,
+            506
+          ],
+          "original_text": "J. chelleiMille",
+          "translated_en": "J. chelleiMille"
+        },
+        {
+          "box": [
+            657,
+            524,
+            1136,
+            569
+          ],
+          "original_text": "9202 Lakeside Ave",
+          "translated_en": "9202 Lakeside Ave"
+        },
+        {
+          "box": [
+            655,
+            583,
+            1112,
+            627
+          ],
+          "original_text": "Orlando FL 32808",
+          "translated_en": "Orlando FL 32808"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1497,
+            776,
+            1888,
+            817
+          ],
+          "original_text": "08-01-06",
+          "translated_en": "08-01-06"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-134_03_translated_cleaned.jpg"
+}

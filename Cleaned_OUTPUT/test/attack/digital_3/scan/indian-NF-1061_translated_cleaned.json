@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\indian-NF-1061_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\indian-NF-1061.jpg",
+  "width": 1995,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            697,
+            465,
+            886,
+            501
+          ],
+          "original_text": "KUMAR",
+          "translated_en": "KUMAR"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            690,
+            616,
+            1059,
+            662
+          ],
+          "original_text": "TOMY MERA",
+          "translated_en": "TOMY MERA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            692,
+            778,
+            1003,
+            825
+          ],
+          "original_text": "12/03/2086",
+          "translated_en": "12/03/2086"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            683,
+            1071,
+            998,
+            1115
+          ],
+          "original_text": "07/07/2022",
+          "translated_en": "07/07/2022"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1404,
+            1082,
+            1718,
+            1128
+          ],
+          "original_text": "09/08/1922",
+          "translated_en": "09/08/1922"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NF-1061_translated_cleaned.jpg"
+}

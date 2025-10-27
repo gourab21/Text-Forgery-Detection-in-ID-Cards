@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_33525297682_eee6031622_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        575,
+        576,
+        2081,
+        853
+      ],
+      "lines": [
+        {
+          "text": "Angelica Ramos",
+          "box": [
+            699,
+            648,
+            1467,
+            734
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1235,
+        1432,
+        1406
+      ],
+      "lines": [
+        {
+          "text": "1998-12-05",
+          "box": [
+            721,
+            1287,
+            1225,
+            1356
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1558,
+        1500,
+        2299,
+        1666
+      ],
+      "lines": [
+        {
+          "text": "2008-12-05",
+          "box": [
+            1640,
+            1530,
+            2153,
+            1604
+          ]
+        }
+      ]
+    }
+  ]
+}

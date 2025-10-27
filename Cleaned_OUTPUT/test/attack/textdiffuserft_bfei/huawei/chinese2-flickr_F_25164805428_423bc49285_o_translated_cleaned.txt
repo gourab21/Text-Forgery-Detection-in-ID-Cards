@@ -1,0 +1,14 @@
+LE1
+EN: Hu Li
+OR: 胡莉
+EN: To the Father
+OR: Patri
+
+E2
+EN: 22 Jul 1958
+
+E3
+EN: 16 Apr 2000
+
+E4
+EN: 05 Dec 2050

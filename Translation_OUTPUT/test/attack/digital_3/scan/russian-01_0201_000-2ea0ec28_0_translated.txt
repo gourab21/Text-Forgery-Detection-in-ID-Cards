@@ -1,0 +1,18 @@
+LE1
+OR: Кузнецова /
+EN: Kuznetsova /
+EN: Kuznetsova
+
+LE2
+OR: Ксения Романовна / B
+EN: Ksenia Romanovna / B
+EN: Cathernem novna
+
+E3
+EN: 05.06.2044
+
+E4
+EN: 17.05.2018
+
+E5
+EN: 14.09.1967

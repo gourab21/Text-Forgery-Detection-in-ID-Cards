@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\singapore-flickr_M_24170605047_501e882ccc_o_translated.json",
+  "image_relative": "test\\bonafide\\scan\\singapore-flickr_M_24170605047_501e882ccc_o.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            508,
+            469,
+            1136,
+            524
+          ],
+          "original_text": "Firdaus bin Ismail",
+          "translated_en": "Firdaus bin Ismail"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            520,
+            930,
+            880,
+            978
+          ],
+          "original_text": "1967-08-03",
+          "translated_en": "1967-08-03"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1183,
+            1101,
+            1546,
+            1153
+          ],
+          "original_text": "1977-08-03",
+          "translated_en": "1977-08-03"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_24170605047_501e882ccc_o_translated_cleaned.jpg"
+}

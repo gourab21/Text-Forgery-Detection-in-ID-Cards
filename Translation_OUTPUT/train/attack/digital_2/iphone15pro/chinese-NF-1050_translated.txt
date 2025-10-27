@@ -1,0 +1,14 @@
+LE1
+OR: 黄静
+EN: Huang Jing
+OR: Haitiyning
+EN: Haitian
+
+E2
+EN: 15 Jul 1990
+
+E3
+EN: 08 May 2017
+
+E4
+EN: 06 May 2030

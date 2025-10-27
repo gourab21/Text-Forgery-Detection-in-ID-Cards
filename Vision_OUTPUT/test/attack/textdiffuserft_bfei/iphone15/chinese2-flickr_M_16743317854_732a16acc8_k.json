@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_16743317854_732a16acc8_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        860,
+        547,
+        1658,
+        818
+      ],
+      "lines": [
+        {
+          "text": "陈超",
+          "box": [
+            956,
+            594,
+            1093,
+            657
+          ]
+        },
+        {
+          "text": "Thomashao",
+          "box": [
+            947,
+            683,
+            1353,
+            736
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1678,
+        911,
+        2325,
+        1076
+      ],
+      "lines": [
+        {
+          "text": "09 - Oct 2086",
+          "box": [
+            1737,
+            958,
+            2224,
+            1023
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1683,
+        1167,
+        2351,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "11 Dec 2053",
+          "box": [
+            1740,
+            1207,
+            2236,
+            1281
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        892,
+        1447,
+        1557,
+        1630
+      ],
+      "lines": [
+        {
+          "text": "31 Mar 2052",
+          "box": [
+            968,
+            1490,
+            1477,
+            1553
+          ]
+        }
+      ]
+    }
+  ]
+}

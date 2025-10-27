@@ -1,0 +1,22 @@
+E1
+EN: Favisa
+
+E2
+EN: Najafi
+
+L1
+OR: فاطمه
+EN: Fatima
+
+L2
+OR: نجفى
+EN: Najafi
+
+E3
+EN: 07/11/191
+
+E4
+EN: 22/10/2024
+
+E5
+EN: 22/10/200

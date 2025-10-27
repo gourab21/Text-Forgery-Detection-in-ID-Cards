@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\huawei\\portugal-061_03_translated.json",
+  "image_relative": "train\\bonafide\\huawei\\portugal-061_03.jpg",
+  "width": 3192,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1096,
+            543,
+            1789,
+            609
+          ],
+          "original_text": "GOMES RIBEIRO",
+          "translated_en": "GOMES RIBEIRO"
+        },
+        {
+          "box": [
+            1096,
+            638,
+            1333,
+            697
+          ],
+          "original_text": "Pedro",
+          "translated_en": "Pedro"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2739,
+            953,
+            3191,
+            1018
+          ],
+          "original_text": "03 06 2001",
+          "translated_en": "03 06 2001"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2082,
+            1221,
+            2544,
+            1290
+          ],
+          "original_text": "01 06 2011",
+          "translated_en": "01 06 2011"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-061_03_translated_cleaned.jpg"
+}

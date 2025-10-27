@@ -1,0 +1,22 @@
+E1
+EN: Kare
+
+E2
+EN: Rahimi
+
+L1
+OR: مينا
+EN: enamel
+
+L2
+OR: رحیمی
+EN: Rahimi
+
+E3
+EN: 10/11/2067
+
+E4
+EN: 22/12/2016
+
+E5
+EN: 23/01/1917

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\turkiye-104_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        839,
+        876,
+        1712,
+        1046
+      ],
+      "lines": [
+        {
+          "text": "Yusuf",
+          "box": [
+            923,
+            933,
+            1142,
+            989
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        836,
+        639,
+        1711,
+        817
+      ],
+      "lines": [
+        {
+          "text": "Altun",
+          "box": [
+            923,
+            714,
+            1114,
+            766
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        835,
+        1098,
+        1680,
+        1265
+      ],
+      "lines": [
+        {
+          "text": "14.07.1985",
+          "box": [
+            936,
+            1152,
+            1343,
+            1212
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        841,
+        1555,
+        1668,
+        1736
+      ],
+      "lines": [
+        {
+          "text": "21.09.2030",
+          "box": [
+            944,
+            1604,
+            1357,
+            1666
+          ]
+        }
+      ]
+    }
+  ]
+}

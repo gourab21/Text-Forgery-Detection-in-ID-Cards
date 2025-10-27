@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\facedancer\\huawei\\netherland-flickr_M_32689636931_6ac45273df_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        457,
+        2034,
+        855
+      ],
+      "lines": [
+        {
+          "text": "SCHOEMAKER",
+          "box": [
+            1072,
+            508,
+            1743,
+            587
+          ]
+        },
+        {
+          "text": "Daan Ilse",
+          "box": [
+            1077,
+            616,
+            1513,
+            689
+          ]
+        },
+        {
+          "text": "Ilse",
+          "box": [
+            1077,
+            725,
+            1241,
+            791
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2365,
+        885,
+        3132,
+        1043
+      ],
+      "lines": [
+        {
+          "text": "17 02 2002",
+          "box": [
+            2500,
+            927,
+            3028,
+            1005
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2324,
+        1156,
+        3122,
+        1351
+      ],
+      "lines": [
+        {
+          "text": "16 03 2029",
+          "box": [
+            2456,
+            1202,
+            3033,
+            1282
+          ]
+        }
+      ]
+    }
+  ]
+}

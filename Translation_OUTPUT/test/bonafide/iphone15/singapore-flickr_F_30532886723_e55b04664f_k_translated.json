@@ -1,0 +1,57 @@
+{
+  "source_json": "test\\bonafide\\iphone15\\singapore-flickr_F_30532886723_e55b04664f_k.json",
+  "image_relative": "test\\bonafide\\iphone15\\singapore-flickr_F_30532886723_e55b04664f_k.jpg",
+  "width": 2767,
+  "height": 1743,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            705,
+            643,
+            1595,
+            736
+          ],
+          "original_text": "Tanya binti Azman",
+          "translated_en": "Tanya binti Azman",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            720,
+            1293,
+            1229,
+            1362
+          ],
+          "original_text": "2006-12-06",
+          "translated_en": "2006-12-06",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1642,
+            1534,
+            2150,
+            1607
+          ],
+          "original_text": "2016-12-06",
+          "translated_en": "2016-12-06",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_F_30532886723_e55b04664f_k_translated.jpg"
+}

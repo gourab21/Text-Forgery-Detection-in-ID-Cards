@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\turkiye-NF-1054.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        784,
+        789,
+        1601,
+        943
+      ],
+      "lines": [
+        {
+          "text": "Nur",
+          "box": [
+            854,
+            834,
+            980,
+            883
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        782,
+        576,
+        1602,
+        736
+      ],
+      "lines": [
+        {
+          "text": "Kara",
+          "box": [
+            859,
+            637,
+            1013,
+            686
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        780,
+        990,
+        1572,
+        1140
+      ],
+      "lines": [
+        {
+          "text": "31.03.1995",
+          "box": [
+            852,
+            1031,
+            1234,
+            1086
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        786,
+        1402,
+        1561,
+        1565
+      ],
+      "lines": [
+        {
+          "text": "15.05.2034",
+          "box": [
+            844,
+            1439,
+            1223,
+            1493
+          ]
+        }
+      ]
+    }
+  ]
+}

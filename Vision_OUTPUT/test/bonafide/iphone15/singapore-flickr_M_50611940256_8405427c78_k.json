@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_50611940256_8405427c78_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        577,
+        576,
+        2085,
+        853
+      ],
+      "lines": [
+        {
+          "text": "Arjun Das",
+          "box": [
+            709,
+            652,
+            1183,
+            735
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1236,
+        1436,
+        1407
+      ],
+      "lines": [
+        {
+          "text": "1965-02-28",
+          "box": [
+            730,
+            1293,
+            1227,
+            1365
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1561,
+        1501,
+        2303,
+        1667
+      ],
+      "lines": [
+        {
+          "text": "1975-02-28",
+          "box": [
+            1651,
+            1535,
+            2155,
+            1605
+          ]
+        }
+      ]
+    }
+  ]
+}

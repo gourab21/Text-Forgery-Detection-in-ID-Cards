@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_24170605047_501e882ccc_o.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1500,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Richard bn Ismal",
+          "box": [
+            518,
+            466,
+            1128,
+            522
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "08-06-6055",
+          "box": [
+            518,
+            924,
+            876,
+            976
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "16-06-8882",
+          "box": [
+            1186,
+            1098,
+            1539,
+            1154
+          ]
+        }
+      ]
+    }
+  ]
+}

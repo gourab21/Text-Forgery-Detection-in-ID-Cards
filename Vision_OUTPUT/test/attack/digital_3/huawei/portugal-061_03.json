@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-061_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        988,
+        473,
+        2333,
+        750
+      ],
+      "lines": [
+        {
+          "text": "ERICS RIBEIRO",
+          "box": [
+            1111,
+            542,
+            1787,
+            613
+          ]
+        },
+        {
+          "text": "Pedro",
+          "box": [
+            1097,
+            636,
+            1332,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2632,
+        911,
+        3192,
+        1065
+      ],
+      "lines": [
+        {
+          "text": "29 04 1997",
+          "box": [
+            2728,
+            954,
+            3120,
+            1021
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1981,
+        1157,
+        2669,
+        1340
+      ],
+      "lines": [
+        {
+          "text": "04 01 1919",
+          "box": [
+            2087,
+            1222,
+            2549,
+            1290
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_F_32272417100_7c8c616f37_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        412,
+        1501,
+        611
+      ],
+      "lines": [
+        {
+          "text": "Janea Rossi",
+          "box": [
+            505,
+            467,
+            904,
+            518
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        464,
+        885,
+        1033,
+        1007
+      ],
+      "lines": [
+        {
+          "text": "26-09-6960",
+          "box": [
+            522,
+            924,
+            888,
+            979
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1123,
+        1075,
+        1658,
+        1194
+      ],
+      "lines": [
+        {
+          "text": "26-05-3422",
+          "box": [
+            1187,
+            1093,
+            1543,
+            1147
+          ]
+        }
+      ]
+    }
+  ]
+}

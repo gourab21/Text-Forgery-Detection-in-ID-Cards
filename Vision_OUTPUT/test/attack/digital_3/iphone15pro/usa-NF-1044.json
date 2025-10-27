@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1044.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        849,
+        612,
+        1742,
+        951
+      ],
+      "lines": [
+        {
+          "text": "Gregorvone",
+          "box": [
+            914,
+            653,
+            1382,
+            768
+          ]
+        },
+        {
+          "text": "321 Alder St RATE",
+          "box": [
+            916,
+            739,
+            1622,
+            847
+          ]
+        },
+        {
+          "text": "Portland OR 97201",
+          "box": [
+            922,
+            842,
+            1596,
+            906
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2045,
+        1085,
+        2742,
+        1230
+      ],
+      "lines": [
+        {
+          "text": "DOB : 26-10-92",
+          "box": [
+            2109,
+            1092,
+            2659,
+            1143
+          ]
+        }
+      ]
+    }
+  ]
+}

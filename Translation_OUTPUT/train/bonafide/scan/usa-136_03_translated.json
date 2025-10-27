@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\bonafide\\scan\\usa-136_03.json",
+  "image_relative": "train\\bonafide\\scan\\usa-136_03.jpg",
+  "width": 1996,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            647,
+            471,
+            925,
+            513
+          ],
+          "original_text": "Jessica Hill",
+          "translated_en": "Jessica Hill",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            650,
+            530,
+            1006,
+            574
+          ],
+          "original_text": "518 Spruce St",
+          "translated_en": "518 Spruce St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            650,
+            585,
+            1138,
+            629
+          ],
+          "original_text": "Portland ME 04101",
+          "translated_en": "Portland ME 04101",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1500,
+            759,
+            1892,
+            799
+          ],
+          "original_text": "DOB : 04-20-89",
+          "translated_en": "DOB : 04-20-89",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-136_03_translated.jpg"
+}

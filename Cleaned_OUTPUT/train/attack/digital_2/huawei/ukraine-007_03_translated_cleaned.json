@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\ukraine-007_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\ukraine-007_03.jpg",
+  "width": 3226,
+  "height": 1967,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1053,
+            451,
+            1550,
+            530
+          ],
+          "original_text": "Кузьменко /",
+          "translated_en": "Kuzmenko /"
+        },
+        {
+          "box": [
+            1049,
+            545,
+            1456,
+            601
+          ],
+          "original_text": "Kuzmenko",
+          "translated_en": "Kuzmenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1048,
+            745,
+            1831,
+            823
+          ],
+          "original_text": "Вікторія Сергіївна /",
+          "translated_en": "Victoria Sergiivna /"
+        },
+        {
+          "box": [
+            1037,
+            827,
+            1379,
+            889
+          ],
+          "original_text": "Vichelia",
+          "translated_en": "Vichelia"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1039,
+            1066,
+            1506,
+            1137
+          ],
+          "original_text": "12.11.1807",
+          "translated_en": "12.11.1807"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1508,
+            1464,
+            1572
+          ],
+          "original_text": "28.12.2015",
+          "translated_en": "28.12.2015"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1019,
+            1819,
+            1482,
+            1880
+          ],
+          "original_text": "28.12.2015",
+          "translated_en": "28.12.2015"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-007_03_translated_cleaned.jpg"
+}

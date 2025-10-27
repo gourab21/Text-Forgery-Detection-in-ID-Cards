@@ -1,0 +1,14 @@
+LE1
+EN: Zhang Qiang
+OR: 张强
+EN: Just Qiang
+OR: Gerad Qiang
+
+E2
+EN: 03 May 1916
+
+E3
+EN: 06 Mar 2061 000
+
+E4
+EN: 26 Dec 1971

@@ -1,0 +1,121 @@
+{
+  "source_json": "test\\attack\\digital_3\\scan\\persian-144_03.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\persian-144_03.jpg",
+  "width": 1997,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            774,
+            281,
+            902,
+            322
+          ],
+          "original_text": "Kare",
+          "translated_en": "Kare",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            770,
+            428,
+            954,
+            468
+          ],
+          "original_text": "Rahimi",
+          "translated_en": "Rahimi",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1356,
+            289,
+            1425,
+            329
+          ],
+          "original_text": "مينا",
+          "translated_en": "enamel",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1351,
+            449,
+            1479,
+            485
+          ],
+          "original_text": "رحیمی",
+          "translated_en": "Rahimi",
+          "detected_lang": "fa"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            766,
+            592,
+            1043,
+            636
+          ],
+          "original_text": "10/11/2067",
+          "translated_en": "10/11/2067",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            757,
+            921,
+            1038,
+            963
+          ],
+          "original_text": "22/12/2016",
+          "translated_en": "22/12/2016",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1343,
+            928,
+            1618,
+            969
+          ],
+          "original_text": "23/01/1917",
+          "translated_en": "23/01/1917",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-144_03_translated.jpg"
+}

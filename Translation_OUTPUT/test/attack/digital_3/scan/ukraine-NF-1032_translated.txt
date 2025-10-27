@@ -1,0 +1,19 @@
+LE1
+OR: Литвин /
+EN: Lytvyn /
+EN: Lytvyn
+
+LE2
+OR: Вікторія Андріївна /
+EN: Victoria Andreevna /
+OR: Anthonya
+EN: Anthony
+
+E3
+EN: 28.07.1981
+
+E4
+EN: 18.07.2015
+
+E5
+EN: 13.12.2027

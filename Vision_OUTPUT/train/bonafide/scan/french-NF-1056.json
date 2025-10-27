@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-NF-1056.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "PERRIN",
+          "box": [
+            646,
+            301,
+            826,
+            334
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Émilie , Pauline",
+          "box": [
+            649,
+            466,
+            1000,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1386,
+        615,
+        1775,
+        720
+      ],
+      "lines": [
+        {
+          "text": "21 01 1989",
+          "box": [
+            1424,
+            621,
+            1689,
+            658
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1367,
+        1004,
+        1764,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "09 05 2028",
+          "box": [
+            1431,
+            1009,
+            1695,
+            1046
+          ]
+        }
+      ]
+    }
+  ]
+}

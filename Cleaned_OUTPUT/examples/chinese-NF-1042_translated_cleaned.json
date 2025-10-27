@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\examples\\chinese-NF-1042_translated.json",
+  "image_relative": "examples\\chinese-NF-1042.png",
+  "width": 3488,
+  "height": 2200,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1208,
+            762,
+            1378,
+            848
+          ],
+          "original_text": "孙悦",
+          "translated_en": "Sun Yue"
+        },
+        {
+          "box": [
+            1205,
+            876,
+            1564,
+            934
+          ],
+          "original_text": "Sun Yue",
+          "translated_en": "Sun Yue"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2160,
+            1241,
+            2667,
+            1302
+          ],
+          "original_text": "12 Jul 1984",
+          "translated_en": "12 Jul 1984"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2158,
+            1547,
+            2689,
+            1634
+          ],
+          "original_text": "06 Apr 2014",
+          "translated_en": "06 Apr 2014"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1209,
+            1879,
+            1738,
+            1954
+          ],
+          "original_text": "03 Apr 2024",
+          "translated_en": "03 Apr 2024"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1042_translated_cleaned.jpg"
+}

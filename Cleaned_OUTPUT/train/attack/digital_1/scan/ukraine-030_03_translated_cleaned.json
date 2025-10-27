@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\scan\\ukraine-030_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\ukraine-030_03.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            651,
+            289,
+            898,
+            341
+          ],
+          "original_text": "Зубенко /",
+          "translated_en": "Zubenko /"
+        },
+        {
+          "box": [
+            651,
+            347,
+            859,
+            382
+          ],
+          "original_text": "Zubenko",
+          "translated_en": "Zubenko"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            645,
+            471,
+            1121,
+            524
+          ],
+          "original_text": "Тетяна Василівна /",
+          "translated_en": "Tatyana Vasylivna /"
+        },
+        {
+          "box": [
+            646,
+            525,
+            828,
+            568
+          ],
+          "original_text": "Tharlot",
+          "translated_en": "Tharlot"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            644,
+            679,
+            927,
+            714
+          ],
+          "original_text": "25.12.2019",
+          "translated_en": "25.12.2019"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            641,
+            954,
+            910,
+            993
+          ],
+          "original_text": "10.11.2020",
+          "translated_en": "10.11.2020"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            635,
+            1149,
+            915,
+            1186
+          ],
+          "original_text": "10.11.:2025",
+          "translated_en": "10.11.:2025"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-030_03_translated_cleaned.jpg"
+}

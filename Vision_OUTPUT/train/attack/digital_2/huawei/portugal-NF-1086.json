@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        470,
+        2340,
+        745
+      ],
+      "lines": [
+        {
+          "text": "SENAL NECIRA",
+          "box": [
+            1095,
+            534,
+            1771,
+            609
+          ]
+        },
+        {
+          "text": "Claudia",
+          "box": [
+            1097,
+            627,
+            1405,
+            688
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2640,
+        907,
+        3202,
+        1058
+      ],
+      "lines": [
+        {
+          "text": "22 04 1973",
+          "box": [
+            2747,
+            950,
+            3201,
+            1015
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1988,
+        1150,
+        2678,
+        1332
+      ],
+      "lines": [
+        {
+          "text": "2004 298",
+          "box": [
+            2093,
+            1213,
+            2575,
+            1284
+          ]
+        }
+      ]
+    }
+  ]
+}

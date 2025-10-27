@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-NF-1024.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        616,
+        299,
+        1454,
+        475
+      ],
+      "lines": [
+        {
+          "text": "GYNTHIAOUSA",
+          "box": [
+            668,
+            351,
+            1062,
+            393
+          ]
+        },
+        {
+          "text": "Teresa",
+          "box": [
+            669,
+            413,
+            838,
+            448
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1641,
+        578,
+        1990,
+        675
+      ],
+      "lines": [
+        {
+          "text": "02 05 2039",
+          "box": [
+            1695,
+            583,
+            1989,
+            623
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1235,
+        733,
+        1663,
+        848
+      ],
+      "lines": [
+        {
+          "text": "29 04 1996",
+          "box": [
+            1299,
+            757,
+            1596,
+            805
+          ]
+        }
+      ]
+    }
+  ]
+}

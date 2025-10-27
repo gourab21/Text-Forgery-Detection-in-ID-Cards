@@ -1,0 +1,20 @@
+LE1
+OR: Прізви
+EN: Nicknames
+OR: Кулик /
+EN: Sandpiper /
+EN: Kulyk
+
+LE2
+OR: Олег Юрійович /
+EN: Oleg Yuriyovych /
+EN: Jenn
+
+E3
+EN: 15.05.2006
+
+E4
+EN: 08.03.2010
+
+E5
+EN: 13.08.2087

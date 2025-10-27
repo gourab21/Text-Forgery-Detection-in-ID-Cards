@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\scan\\usa-134_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        604,
+        427,
+        1238,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Jennifer Miller",
+          "box": [
+            657,
+            466,
+            1027,
+            509
+          ]
+        },
+        {
+          "text": "9202 Lakeside Ave",
+          "box": [
+            657,
+            525,
+            1136,
+            569
+          ]
+        },
+        {
+          "text": "Orlando FL 32808",
+          "box": [
+            655,
+            583,
+            1111,
+            627
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1453,
+        756,
+        1948,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-01-95",
+          "box": [
+            1496,
+            776,
+            1891,
+            819
+          ]
+        }
+      ]
+    }
+  ]
+}

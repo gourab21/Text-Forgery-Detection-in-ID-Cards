@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\huawei\\portugal-NF-1022.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        988,
+        471,
+        2333,
+        747
+      ],
+      "lines": [
+        {
+          "text": "COSTA PEREIRA",
+          "box": [
+            1089,
+            533,
+            1761,
+            602
+          ]
+        },
+        {
+          "text": "Marta",
+          "box": [
+            1088,
+            631,
+            1326,
+            689
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2633,
+        907,
+        3193,
+        1061
+      ],
+      "lines": [
+        {
+          "text": "13 01 2002",
+          "box": [
+            2734,
+            947,
+            3192,
+            1013
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1982,
+        1152,
+        2670,
+        1334
+      ],
+      "lines": [
+        {
+          "text": "1101 2027",
+          "box": [
+            2080,
+            1216,
+            2541,
+            1278
+          ]
+        }
+      ]
+    }
+  ]
+}

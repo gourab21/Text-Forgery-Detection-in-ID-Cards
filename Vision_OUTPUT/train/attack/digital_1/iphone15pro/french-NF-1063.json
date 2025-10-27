@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\french-NF-1063.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        380,
+        1658,
+        513
+      ],
+      "lines": [
+        {
+          "text": "DUPONT",
+          "box": [
+            916,
+            431,
+            1195,
+            484
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        825,
+        627,
+        1755,
+        785
+      ],
+      "lines": [
+        {
+          "text": "Amélie , Solène",
+          "box": [
+            913,
+            663,
+            1406,
+            743
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1944,
+        879,
+        2490,
+        1030
+      ],
+      "lines": [
+        {
+          "text": "09 05 12044",
+          "box": [
+            1995,
+            891,
+            2388,
+            942
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1917,
+        1434,
+        2473,
+        1572
+      ],
+      "lines": [
+        {
+          "text": "14 03 2013",
+          "box": [
+            2007,
+            1439,
+            2404,
+            1491
+          ]
+        }
+      ]
+    }
+  ]
+}

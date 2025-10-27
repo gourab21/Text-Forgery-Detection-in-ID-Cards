@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\ukraine-NF-1015_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\ukraine-NF-1015.jpg",
+  "width": 1993,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            652,
+            290,
+            893,
+            338
+          ],
+          "original_text": "Козлова /",
+          "translated_en": "Kozlova /"
+        },
+        {
+          "box": [
+            653,
+            351,
+            834,
+            383
+          ],
+          "original_text": "Kozlova",
+          "translated_en": "Kozlova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            643,
+            472,
+            1126,
+            525
+          ],
+          "original_text": "Тетяна Романівна /",
+          "translated_en": "Tatyana Romanivna /"
+        },
+        {
+          "box": [
+            647,
+            534,
+            834,
+            568
+          ],
+          "original_text": "Taurana",
+          "translated_en": "Taurus"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            644,
+            678,
+            931,
+            716
+          ],
+          "original_text": "24.11.2000",
+          "translated_en": "24.11.2000"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            641,
+            955,
+            907,
+            992
+          ],
+          "original_text": "10.12.2016",
+          "translated_en": "10.12.2016"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            636,
+            1149,
+            912,
+            1188
+          ],
+          "original_text": "10.12.2025",
+          "translated_en": "10.12.2025"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1015_translated_cleaned.jpg"
+}

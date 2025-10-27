@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\huawei\\usa-034_03_translated.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\usa-034_03.jpg",
+  "width": 3199,
+  "height": 1971,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1045,
+            744,
+            1570,
+            815
+          ],
+          "original_text": "EmmyiCarter",
+          "translated_en": "EmmyiCarter"
+        },
+        {
+          "box": [
+            1039,
+            834,
+            1637,
+            901
+          ],
+          "original_text": "456 Pine Road",
+          "translated_en": "456 Pine Road"
+        },
+        {
+          "box": [
+            1037,
+            928,
+            1957,
+            999
+          ],
+          "original_text": "Winchester MA 01890",
+          "translated_en": "Winchester MA 01890"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2398,
+            1233,
+            3037,
+            1308
+          ],
+          "original_text": "05-14-92",
+          "translated_en": "05-14-92"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-034_03_translated_cleaned.jpg"
+}

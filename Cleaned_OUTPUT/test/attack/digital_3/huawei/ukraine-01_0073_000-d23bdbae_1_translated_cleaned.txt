@@ -1,0 +1,19 @@
+LE1
+EN: Sandpiper /
+OR: Кулик /
+EN: Kulyk
+
+LE2
+EN: Oleg Yuriyovych /
+OR: Олег Юрійович /
+EN: ROCA torvah
+OR: ROCA торвах
+
+E3
+EN: 18.04.1994
+
+E4
+EN: 08.03.2010
+
+E5
+EN: 31.09.2093

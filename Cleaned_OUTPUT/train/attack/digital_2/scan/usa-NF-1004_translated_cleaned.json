@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\usa-NF-1004_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\usa-NF-1004.jpg",
+  "width": 1994,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            657,
+            465,
+            946,
+            508
+          ],
+          "original_text": "Maielavis",
+          "translated_en": "Maielavis"
+        },
+        {
+          "box": [
+            656,
+            528,
+            1028,
+            566
+          ],
+          "original_text": "6784 Creek Rd",
+          "translated_en": "6784 Creek Rd"
+        },
+        {
+          "box": [
+            656,
+            584,
+            1066,
+            627
+          ],
+          "original_text": "Dover DE 19901",
+          "translated_en": "Dover DE 19901"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1495,
+            774,
+            1894,
+            818
+          ],
+          "original_text": "10-10-97",
+          "translated_en": "10-10-97"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1004_translated_cleaned.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1009.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        846,
+        606,
+        1736,
+        942
+      ],
+      "lines": [
+        {
+          "text": "Scot Roe",
+          "box": [
+            913,
+            672,
+            1239,
+            721
+          ]
+        },
+        {
+          "text": "5678 Maple Dr RATE TESTA",
+          "box": [
+            912,
+            721,
+            1717,
+            828
+          ]
+        },
+        {
+          "text": "Rochester NY 14623",
+          "box": [
+            917,
+            828,
+            1650,
+            892
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2038,
+        1074,
+        2732,
+        1218
+      ],
+      "lines": [
+        {
+          "text": "DOB : 08-01-57",
+          "box": [
+            2106,
+            1074,
+            2656,
+            1131
+          ]
+        }
+      ]
+    }
+  ]
+}

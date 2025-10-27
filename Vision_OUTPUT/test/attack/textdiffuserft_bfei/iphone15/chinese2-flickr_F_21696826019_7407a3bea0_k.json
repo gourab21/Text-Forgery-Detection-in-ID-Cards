@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_21696826019_7407a3bea0_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        857,
+        546,
+        1652,
+        816
+      ],
+      "lines": [
+        {
+          "text": "陈燕",
+          "box": [
+            941,
+            592,
+            1088,
+            661
+          ]
+        },
+        {
+          "text": "Alpertam",
+          "box": [
+            941,
+            681,
+            1298,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1672,
+        909,
+        2317,
+        1074
+      ],
+      "lines": [
+        {
+          "text": "06 Dec 2000",
+          "box": [
+            1719,
+            960,
+            2205,
+            1028
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1677,
+        1165,
+        2342,
+        1337
+      ],
+      "lines": [
+        {
+          "text": "31 Feb 1930",
+          "box": [
+            1726,
+            1214,
+            2216,
+            1278
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        889,
+        1443,
+        1552,
+        1626
+      ],
+      "lines": [
+        {
+          "text": "21 Nov 1927",
+          "box": [
+            965,
+            1488,
+            1450,
+            1555
+          ]
+        }
+      ]
+    }
+  ]
+}

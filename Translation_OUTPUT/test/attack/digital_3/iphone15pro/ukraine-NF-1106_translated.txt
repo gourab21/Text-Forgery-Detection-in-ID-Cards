@@ -1,0 +1,24 @@
+LE1
+OR: прізвищ
+EN: surname
+OR: Мороз /
+EN: Frost /
+OR: Moroz
+EN: Frost
+
+LE2
+OR: Ірина Олександрівна
+EN: Iryna Oleksandrivna
+OR: Lawre
+EN: Law
+
+E3
+EN: 30.10.2030
+
+E4
+EN: Дата видачі
+EN: 21.12.2023
+
+E5
+EN: строк
+EN: 05.01.1991

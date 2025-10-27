@@ -1,0 +1,148 @@
+{
+  "source_json": "train\\attack\\digital_2\\scan\\arabic-NF-1100.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\arabic-NF-1100.jpg",
+  "width": 1998,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            747,
+            469,
+            1179,
+            534
+          ],
+          "original_text": "Hjd 2Lsalon",
+          "translated_en": "Hjd 2Lsalon",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            730,
+            330,
+            1011,
+            388
+          ],
+          "original_text": "الصباح هنا",
+          "translated_en": "Morning is here",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            738,
+            780,
+            1108,
+            836
+          ],
+          "original_text": "03 Sep 20.7",
+          "translated_en": "03 Sep 20.7",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            737,
+            947,
+            1105,
+            993
+          ],
+          "original_text": "19 Nov 2021",
+          "translated_en": "19 Nov 2021",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            731,
+            1113,
+            1096,
+            1166
+          ],
+          "original_text": "20 Sep 2018",
+          "translated_en": "20 Sep 2018",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1421,
+            737,
+            1535,
+            774
+          ],
+          "original_text": "تاریخ",
+          "translated_en": "History",
+          "detected_lang": "fa"
+        },
+        {
+          "box": [
+            1267,
+            792,
+            1754,
+            847
+          ],
+          "original_text": "۳ / سبتمبر / ۱۹۸۵",
+          "translated_en": "3 / September / 1985",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1265,
+            956,
+            1746,
+            1008
+          ],
+          "original_text": "١٩ / نوفمبر / ٢٠١",
+          "translated_en": "November 19, 2011",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1258,
+            1122,
+            1671,
+            1175
+          ],
+          "original_text": "۲۰ / سبتمبر / ۲",
+          "translated_en": "September 20",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1100_translated.jpg"
+}

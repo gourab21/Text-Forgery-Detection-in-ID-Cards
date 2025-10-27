@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\scan\\portugal-NF-1107.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        298,
+        1459,
+        471
+      ],
+      "lines": [
+        {
+          "text": "MICHALIMA",
+          "box": [
+            695,
+            339,
+            997,
+            378
+          ]
+        },
+        {
+          "text": "Teresa Cristina",
+          "box": [
+            685,
+            396,
+            1069,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1647,
+        574,
+        1998,
+        670
+      ],
+      "lines": [
+        {
+          "text": "16 10 1977",
+          "box": [
+            1704,
+            597,
+            1957,
+            635
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1240,
+        728,
+        1670,
+        843
+      ],
+      "lines": [
+        {
+          "text": "30 11 1929",
+          "box": [
+            1302,
+            763,
+            1585,
+            803
+          ]
+        }
+      ]
+    }
+  ]
+}

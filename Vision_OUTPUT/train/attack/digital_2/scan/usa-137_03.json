@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\usa-137_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        603,
+        427,
+        1236,
+        662
+      ],
+      "lines": [
+        {
+          "text": "Eessicanight",
+          "box": [
+            644,
+            469,
+            988,
+            521
+          ]
+        },
+        {
+          "text": "678 Pine Rd",
+          "box": [
+            644,
+            531,
+            950,
+            573
+          ]
+        },
+        {
+          "text": "Denver CO 80203",
+          "box": [
+            645,
+            588,
+            1093,
+            632
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1451,
+        756,
+        1945,
+        857
+      ],
+      "lines": [
+        {
+          "text": "DOB : 09-15-34",
+          "box": [
+            1494,
+            763,
+            1894,
+            803
+          ]
+        }
+      ]
+    }
+  ]
+}

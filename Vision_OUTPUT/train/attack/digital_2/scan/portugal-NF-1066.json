@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        472
+      ],
+      "lines": [
+        {
+          "text": "ON MMRTIS",
+          "box": [
+            679,
+            338,
+            1218,
+            392
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            682,
+            395,
+            977,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        574,
+        1995,
+        670
+      ],
+      "lines": [
+        {
+          "text": "29 04 1992",
+          "box": [
+            1702,
+            601,
+            1991,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        729,
+        1668,
+        844
+      ],
+      "lines": [
+        {
+          "text": "12 10 2036",
+          "box": [
+            1296,
+            766,
+            1598,
+            808
+          ]
+        }
+      ]
+    }
+  ]
+}

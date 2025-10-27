@@ -1,0 +1,14 @@
+LE1
+EN: Wu Qing
+OR: 吴 情
+EN: Vanice
+OR: Vanicen
+
+E2
+EN: 15 Mar 2023
+
+E3
+EN: 14 Jun 2012
+
+E4
+EN: 12 Jun 2009

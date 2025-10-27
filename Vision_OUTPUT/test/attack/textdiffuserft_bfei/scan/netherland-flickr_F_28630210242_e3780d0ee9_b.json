@@ -1,0 +1,84 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\scan\\netherland-flickr_F_28630210242_e3780d0ee9_b.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            679,
+            326,
+            1038,
+            371
+          ]
+        },
+        {
+          "text": "Christopherra",
+          "box": [
+            683,
+            388,
+            1086,
+            441
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            685,
+            461,
+            828,
+            502
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1968,
+        657
+      ],
+      "lines": [
+        {
+          "text": "26 07 1916",
+          "box": [
+            1563,
+            587,
+            1887,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        729,
+        1961,
+        852
+      ],
+      "lines": [
+        {
+          "text": "09 11 2035",
+          "box": [
+            1539,
+            758,
+            1898,
+            807
+          ]
+        }
+      ]
+    }
+  ]
+}

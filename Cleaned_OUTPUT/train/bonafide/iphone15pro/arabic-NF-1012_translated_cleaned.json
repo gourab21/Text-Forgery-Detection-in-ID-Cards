@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\iphone15pro\\arabic-NF-1012_translated.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\arabic-NF-1012.jpg",
+  "width": 2793,
+  "height": 1759,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1042,
+            668,
+            1631,
+            730
+          ],
+          "original_text": "Fatima Hassan",
+          "translated_en": "Fatima Hassan"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1011,
+            464,
+            1504,
+            564
+          ],
+          "original_text": "حسن فاطمة",
+          "translated_en": "Hassan Fatima"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1048,
+            1100,
+            1539,
+            1166
+          ],
+          "original_text": "04 Oct 1989",
+          "translated_en": "04 Oct 1989"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1053,
+            1328,
+            1558,
+            1404
+          ],
+          "original_text": "17 Sep 2022",
+          "translated_en": "17 Sep 2022"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1057,
+            1564,
+            1528,
+            1629
+          ],
+          "original_text": "28 Jul 2033",
+          "translated_en": "28 Jul 2033"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1788,
+            1066,
+            2395,
+            1175
+          ],
+          "original_text": "٤ / أكتوبر / ١٨٩",
+          "translated_en": "October 4, 189"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1790,
+            1310,
+            2398,
+            1409
+          ],
+          "original_text": "۱۷ ١٧ / سبتمبر / ٢٠",
+          "translated_en": "17 17 / September / 20"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1793,
+            1544,
+            2417,
+            1639
+          ],
+          "original_text": "٢٨ / يوليو / ۲۰۳۲",
+          "translated_en": "July 28, 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1012_translated_cleaned.jpg"
+}

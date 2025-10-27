@@ -1,0 +1,85 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\turkiye-041_03.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        841,
+        876,
+        1715,
+        1046
+      ],
+      "lines": []
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        838,
+        640,
+        1715,
+        818
+      ],
+      "lines": [
+        {
+          "text": "Soya",
+          "box": [
+            914,
+            640,
+            1067,
+            681
+          ]
+        },
+        {
+          "text": "Akgül",
+          "box": [
+            913,
+            715,
+            1122,
+            780
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        837,
+        1099,
+        1684,
+        1266
+      ],
+      "lines": [
+        {
+          "text": "02.10.1081",
+          "box": [
+            928,
+            1153,
+            1330,
+            1214
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        843,
+        1556,
+        1672,
+        1737
+      ],
+      "lines": [
+        {
+          "text": "06.08.1943",
+          "box": [
+            932,
+            1602,
+            1346,
+            1663
+          ]
+        }
+      ]
+    }
+  ]
+}

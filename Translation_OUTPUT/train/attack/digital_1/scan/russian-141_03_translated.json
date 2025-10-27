@@ -1,0 +1,111 @@
+{
+  "source_json": "train\\attack\\digital_1\\scan\\russian-141_03.json",
+  "image_relative": "train\\attack\\digital_1\\scan\\russian-141_03.jpg",
+  "width": 1993,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            716,
+            265,
+            947,
+            309
+          ],
+          "original_text": "Новиков /",
+          "translated_en": "Novikov /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            714,
+            317,
+            894,
+            358
+          ],
+          "original_text": "Novikov",
+          "translated_en": "Novikov",
+          "detected_lang": "et"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            720,
+            474,
+            1158,
+            522
+          ],
+          "original_text": "Кирилл Игоревич /",
+          "translated_en": "Kirill Igorevich /",
+          "detected_lang": "ru"
+        },
+        {
+          "box": [
+            720,
+            526,
+            1059,
+            566
+          ],
+          "original_text": "Hatherlane vit",
+          "translated_en": "Hatherlane white",
+          "detected_lang": "bn-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            723,
+            682,
+            984,
+            714
+          ],
+          "original_text": "23.05.:2016",
+          "translated_en": "23.05.:2016",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            727,
+            956,
+            976,
+            992
+          ],
+          "original_text": "23.02.2012",
+          "translated_en": "23.02.2012",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            732,
+            1140,
+            992,
+            1179
+          ],
+          "original_text": "20.02.2044",
+          "translated_en": "20.02.2044",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-141_03_translated.jpg"
+}

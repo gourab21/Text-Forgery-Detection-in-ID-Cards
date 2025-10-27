@@ -1,0 +1,7 @@
+E1
+EN: Collinavis
+EN: 6784 Creek Rd
+EN: Dover DE 19901
+
+E2
+EN: DOB : 04-01-06

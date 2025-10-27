@@ -1,0 +1,148 @@
+{
+  "source_json": "train\\attack\\digital_2\\huawei\\arabic-NF-1049.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\arabic-NF-1049.jpg",
+  "width": 3184,
+  "height": 1964,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1172,
+            732,
+            1757,
+            830
+          ],
+          "original_text": "Syokhaled",
+          "translated_en": "Syokhaled",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1156,
+            515,
+            1594,
+            622
+          ],
+          "original_text": "خالد سارة",
+          "translated_en": "Khaled Sarah",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1168,
+            1226,
+            1776,
+            1327
+          ],
+          "original_text": "05 May 201",
+          "translated_en": "05 May 201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1164,
+            1500,
+            1756,
+            1580
+          ],
+          "original_text": "20 Aug 2023",
+          "translated_en": "20 Aug 2023",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1159,
+            1761,
+            1747,
+            1847
+          ],
+          "original_text": "20 Aug 203",
+          "translated_en": "20 Aug 203",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            2272,
+            1159,
+            2450,
+            1223
+          ],
+          "original_text": "تاريخ",
+          "translated_en": "History",
+          "detected_lang": "sd"
+        },
+        {
+          "box": [
+            2027,
+            1251,
+            2710,
+            1345
+          ],
+          "original_text": "٠٥ / مايو / / ۱۹۹۲",
+          "translated_en": "May 5, 1992",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            2018,
+            1505,
+            2946,
+            1586
+          ],
+          "original_text": "٢٠ / أغسطس / ٢٠٢٣",
+          "translated_en": "August 20, 2023",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            2007,
+            1763,
+            2959,
+            1859
+          ],
+          "original_text": "٢٠ / أغسطس / ٢٠٢٣",
+          "translated_en": "August 20, 2023",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1049_translated.jpg"
+}

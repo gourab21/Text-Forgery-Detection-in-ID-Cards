@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\chinese-018_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\chinese-018_03.jpg",
+  "width": 3189,
+  "height": 1971,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1092,
+            674,
+            1261,
+            756
+          ],
+          "original_text": "刘洋",
+          "translated_en": "Liu Yang"
+        },
+        {
+          "box": [
+            1095,
+            780,
+            1459,
+            849
+          ],
+          "original_text": "Andrevng",
+          "translated_en": "Andervang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1988,
+            1130,
+            2491,
+            1197
+          ],
+          "original_text": "05 Jul 1955",
+          "translated_en": "05 Jul 1955"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1978,
+            1424,
+            2501,
+            1482
+          ],
+          "original_text": "25 DEC 2005",
+          "translated_en": "25 DEC 2005"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1084,
+            1714,
+            1600,
+            1783
+          ],
+          "original_text": "26 Jan 1981",
+          "translated_en": "26 Jan 1981"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-018_03_translated_cleaned.jpg"
+}

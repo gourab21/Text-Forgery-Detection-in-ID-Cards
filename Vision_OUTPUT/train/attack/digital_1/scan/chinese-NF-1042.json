@@ -1,0 +1,95 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\chinese-NF-1042.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        638,
+        397,
+        1106,
+        583
+      ],
+      "lines": [
+        {
+          "text": "章子怡",
+          "box": [
+            673,
+            434,
+            827,
+            482
+          ]
+        },
+        {
+          "text": "Zariehang",
+          "box": [
+            672,
+            489,
+            932,
+            537
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1200,
+        660,
+        1610,
+        794
+      ],
+      "lines": [
+        {
+          "text": "9 Feb 1995",
+          "box": [
+            1234,
+            699,
+            1532,
+            745
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1182,
+        852,
+        1634,
+        979
+      ],
+      "lines": [
+        {
+          "text": "05 Apr 2021",
+          "box": [
+            1238,
+            885,
+            1551,
+            933
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        618,
+        1043,
+        1089,
+        1166
+      ],
+      "lines": [
+        {
+          "text": "04 Apr 2024",
+          "box": [
+            686,
+            1081,
+            1014,
+            1133
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\ukraine-NF-1057_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\ukraine-NF-1057.jpg",
+  "width": 3040,
+  "height": 1882,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            982,
+            433,
+            1304,
+            514
+          ],
+          "original_text": "Ткачук /",
+          "translated_en": "Tkachuk /"
+        },
+        {
+          "box": [
+            986,
+            524,
+            1292,
+            579
+          ],
+          "original_text": "Tkachuk",
+          "translated_en": "Tkachuk"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            984,
+            708,
+            1628,
+            790
+          ],
+          "original_text": "Анна Василівна /",
+          "translated_en": "Anna Vasylivna /"
+        },
+        {
+          "box": [
+            980,
+            800,
+            1174,
+            852
+          ],
+          "original_text": "Kare",
+          "translated_en": "Protect"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            983,
+            1018,
+            1394,
+            1078
+          ],
+          "original_text": "19.05.2061",
+          "translated_en": "19.05.2061"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            974,
+            1434,
+            1384,
+            1493
+          ],
+          "original_text": "07.09.2018",
+          "translated_en": "07.09.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            970,
+            1726,
+            1379,
+            1782
+          ],
+          "original_text": "14.07.2091",
+          "translated_en": "14.07.2091"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1057_translated_cleaned.jpg"
+}

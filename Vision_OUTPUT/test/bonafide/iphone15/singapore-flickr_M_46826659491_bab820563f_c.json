@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_M_46826659491_bab820563f_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        578,
+        576,
+        2088,
+        853
+      ],
+      "lines": [
+        {
+          "text": "Tariq Saeed",
+          "box": [
+            706,
+            645,
+            1270,
+            735
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        644,
+        1235,
+        1438,
+        1406
+      ],
+      "lines": [
+        {
+          "text": "2004-12-05",
+          "box": [
+            719,
+            1288,
+            1227,
+            1356
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1563,
+        1499,
+        2306,
+        1665
+      ],
+      "lines": [
+        {
+          "text": "2014-12-05",
+          "box": [
+            1644,
+            1532,
+            2159,
+            1604
+          ]
+        }
+      ]
+    }
+  ]
+}

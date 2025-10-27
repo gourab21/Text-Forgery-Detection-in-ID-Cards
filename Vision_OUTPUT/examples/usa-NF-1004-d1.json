@@ -1,0 +1,64 @@
+{
+  "image": "examples\\usa-NF-1004-d1.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        850,
+        613,
+        1743,
+        952
+      ],
+      "lines": [
+        {
+          "text": "Maganavis",
+          "box": [
+            922,
+            680,
+            1287,
+            750
+          ]
+        },
+        {
+          "text": "6784 Creek Rd RATE",
+          "box": [
+            922,
+            741,
+            1620,
+            835
+          ]
+        },
+        {
+          "text": "Dover DE 19901",
+          "box": [
+            923,
+            843,
+            1499,
+            907
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2046,
+        1086,
+        2743,
+        1232
+      ],
+      "lines": [
+        {
+          "text": "DOB : 10-10-96",
+          "box": [
+            2111,
+            1086,
+            2665,
+            1141
+          ]
+        }
+      ]
+    }
+  ]
+}

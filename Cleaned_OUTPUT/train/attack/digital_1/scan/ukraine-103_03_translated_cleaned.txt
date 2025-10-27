@@ -1,0 +1,18 @@
+LE1
+EN: Kovalenko /
+OR: Коваленко /
+EN: Kovalenko
+
+LE2
+EN: Alexander Mykhailovy
+OR: Олександр Михайлови
+EN: Crianandr
+
+E3
+EN: 21.08.2000
+
+E4
+EN: 21.02.2018 TAST
+
+E5
+EN: 20.02.2044

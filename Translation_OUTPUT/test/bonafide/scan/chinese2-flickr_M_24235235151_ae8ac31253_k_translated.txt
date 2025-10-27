@@ -1,0 +1,15 @@
+LE1
+OR: 吴勇
+EN: Wu Yong
+EN: Wu Ming
+
+E2
+EN: 01 JUN 1973
+
+E3
+EN: 14 JUL 1993
+EN: 0.0
+
+E4
+EN: 14 JUL 2013
+EN: Rance

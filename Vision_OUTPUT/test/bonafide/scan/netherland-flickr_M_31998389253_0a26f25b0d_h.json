@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_M_31998389253_0a26f25b0d_h.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        290,
+        1277,
+        541
+      ],
+      "lines": [
+        {
+          "text": "VISSER",
+          "box": [
+            676,
+            324,
+            900,
+            367
+          ]
+        },
+        {
+          "text": "Juliëtte Annemarie",
+          "box": [
+            677,
+            383,
+            1224,
+            434
+          ]
+        },
+        {
+          "text": "Matthijs",
+          "box": [
+            683,
+            457,
+            912,
+            507
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1486,
+        560,
+        1967,
+        659
+      ],
+      "lines": [
+        {
+          "text": "03 11 1992",
+          "box": [
+            1560,
+            585,
+            1894,
+            629
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        731,
+        1961,
+        854
+      ],
+      "lines": [
+        {
+          "text": "27 01 2028",
+          "box": [
+            1533,
+            756,
+            1899,
+            804
+          ]
+        }
+      ]
+    }
+  ]
+}

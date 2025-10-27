@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\chinese2-flickr_F_40837237721_dedac367d4_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\chinese2-flickr_F_40837237721_dedac367d4_c.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            681,
+            427,
+            786,
+            479
+          ],
+          "original_text": "赵萍",
+          "translated_en": "Zhao Ping"
+        },
+        {
+          "box": [
+            685,
+            494,
+            955,
+            543
+          ],
+          "original_text": "Zhao Ping",
+          "translated_en": "Zhao Ping"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1246,
+            697,
+            1610,
+            742
+          ],
+          "original_text": "24 MAR 1974",
+          "translated_en": "24 MAR 1974"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1251,
+            876,
+            1595,
+            925
+          ],
+          "original_text": "20 JAN 2012",
+          "translated_en": "20 JAN 2012"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            697,
+            1078,
+            1041,
+            1124
+          ],
+          "original_text": "20 JAN 2032",
+          "translated_en": "20 JAN 2032"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_F_40837237721_dedac367d4_c_translated_cleaned.jpg"
+}

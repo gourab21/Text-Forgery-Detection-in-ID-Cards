@@ -1,0 +1,30 @@
+E1
+EN: Jemifer Salah
+
+L1
+OR: الصباح هنا
+EN: Morning is here
+
+E2
+EN: 02 Nov 195
+
+E3
+EN: 19 Nov 2021
+
+E4
+EN: 02 Jan 1377
+
+L2
+OR: تاريخ
+EN: History
+OR: / سبتمبر / ۱ ۱۳
+EN: / September / 1 13
+
+L3
+OR: ۱۹ / نوفمبر / ۲۰۲۱
+EN: November 19, 2021
+
+L4
+EN: 6
+OR: ۲۰ / سبتمبر / ۲۰
+EN: September 20

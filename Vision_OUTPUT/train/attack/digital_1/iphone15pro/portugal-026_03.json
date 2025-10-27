@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\iphone15pro\\portugal-026_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        893,
+        429,
+        2107,
+        680
+      ],
+      "lines": [
+        {
+          "text": "F ODDAIDESRAIBEOG",
+          "box": [
+            979,
+            499,
+            1702,
+            563
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            977,
+            591,
+            1177,
+            654
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2377,
+        827,
+        2883,
+        966
+      ],
+      "lines": [
+        {
+          "text": "01 09 2027",
+          "box": [
+            2446,
+            839,
+            2874,
+            893
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1790,
+        1050,
+        2411,
+        1215
+      ],
+      "lines": [
+        {
+          "text": "29 08 2021",
+          "box": [
+            1875,
+            1085,
+            2290,
+            1150
+          ]
+        }
+      ]
+    }
+  ]
+}

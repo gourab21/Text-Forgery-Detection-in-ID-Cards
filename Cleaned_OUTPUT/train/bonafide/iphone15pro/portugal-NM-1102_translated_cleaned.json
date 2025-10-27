@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\iphone15pro\\portugal-NM-1102_translated.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\portugal-NM-1102.jpg",
+  "width": 2842,
+  "height": 1801,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            972,
+            493,
+            1719,
+            556
+          ],
+          "original_text": "BARBOSA FERREIRA",
+          "translated_en": "BARBOSA FERREIRA"
+        },
+        {
+          "box": [
+            975,
+            580,
+            1481,
+            644
+          ],
+          "original_text": "Roberto Filipe",
+          "translated_en": "Roberto Filipe"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2422,
+            830,
+            2824,
+            884
+          ],
+          "original_text": "15 09 1991",
+          "translated_en": "15 09 1991"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1861,
+            1081,
+            2265,
+            1142
+          ],
+          "original_text": "30 11 2034",
+          "translated_en": "30 11 2034"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NM-1102_translated_cleaned.jpg"
+}

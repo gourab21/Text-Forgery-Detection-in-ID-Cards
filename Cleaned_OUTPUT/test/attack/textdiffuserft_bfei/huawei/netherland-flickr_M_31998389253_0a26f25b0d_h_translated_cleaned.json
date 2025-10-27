@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_31998389253_0a26f25b0d_h_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\huawei\\netherland-flickr_M_31998389253_0a26f25b0d_h.jpg",
+  "width": 3173,
+  "height": 1982,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1066,
+            514,
+            1425,
+            588
+          ],
+          "original_text": "VISSER",
+          "translated_en": "VISSER"
+        },
+        {
+          "box": [
+            1065,
+            616,
+            1939,
+            679
+          ],
+          "original_text": "Shawnte Anemarie",
+          "translated_en": "Shawnte Anemarie"
+        },
+        {
+          "box": [
+            1081,
+            730,
+            1445,
+            808
+          ],
+          "original_text": "Matthijs",
+          "translated_en": "Matthijs"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2485,
+            931,
+            3006,
+            1007
+          ],
+          "original_text": "06 09 2032",
+          "translated_en": "06 09 2032"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2447,
+            1204,
+            3029,
+            1292
+          ],
+          "original_text": "06 02 1921",
+          "translated_en": "06 02 1921"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_31998389253_0a26f25b0d_h_translated_cleaned.jpg"
+}

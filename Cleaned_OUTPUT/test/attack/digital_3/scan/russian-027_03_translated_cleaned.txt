@@ -1,0 +1,18 @@
+LE1
+EN: Sokolova /
+OR: Соколова /
+EN: Sokolova
+
+LE2
+EN: Maria Alekseevna /
+OR: Мария Алексеевна /
+EN: Misty
+
+E3
+EN: 12.03.2031
+
+E4
+EN: 15.08.2020
+
+E5
+EN: 13.01.1934

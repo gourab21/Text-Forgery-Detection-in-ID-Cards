@@ -1,0 +1,63 @@
+{
+  "source_json": "train\\attack\\digital_2\\iphone15pro\\usa-134_03.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\usa-134_03.jpg",
+  "width": 2813,
+  "height": 1794,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            924,
+            669,
+            1454,
+            743
+          ],
+          "original_text": "Jeffer miler",
+          "translated_en": "Jeffer miler",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            929,
+            750,
+            1598,
+            816
+          ],
+          "original_text": "9202 Lakeside Ave",
+          "translated_en": "9202 Lakeside Ave",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            929,
+            836,
+            1564,
+            898
+          ],
+          "original_text": "Orlando FL 32808",
+          "translated_en": "Orlando FL 32808",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2119,
+            1084,
+            2692,
+            1140
+          ],
+          "original_text": "DOB : 08-01--3",
+          "translated_en": "DOB : 08-01--3",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-134_03_translated.jpg"
+}

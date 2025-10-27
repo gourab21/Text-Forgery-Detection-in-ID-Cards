@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\usa-NF-1036_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\usa-NF-1036.jpg",
+  "width": 2807,
+  "height": 1800,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            924,
+            678,
+            1493,
+            759
+          ],
+          "original_text": "BJegory Thoma",
+          "translated_en": "BJegory Thoma"
+        },
+        {
+          "box": [
+            928,
+            725,
+            1739,
+            835
+          ],
+          "original_text": "8342 Pine Rd KATE STA",
+          "translated_en": "8342 Pine Rd KATE STA"
+        },
+        {
+          "box": [
+            931,
+            838,
+            1524,
+            918
+          ],
+          "original_text": "Naples FL 34102",
+          "translated_en": "Naples FL 34102"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2119,
+            1091,
+            2579,
+            1145
+          ],
+          "original_text": "04-07",
+          "translated_en": "04-07"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1036_translated_cleaned.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_19679296994_d0fc2a7ac6_o.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        575,
+        574,
+        2081,
+        850
+      ],
+      "lines": [
+        {
+          "text": "Jasmine dela Cruz",
+          "box": [
+            698,
+            649,
+            1572,
+            718
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        643,
+        1232,
+        1432,
+        1402
+      ],
+      "lines": [
+        {
+          "text": "1982-07-15",
+          "box": [
+            721,
+            1286,
+            1221,
+            1354
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1558,
+        1496,
+        2299,
+        1661
+      ],
+      "lines": [
+        {
+          "text": "1992-07-15",
+          "box": [
+            1639,
+            1526,
+            2145,
+            1601
+          ]
+        }
+      ]
+    }
+  ]
+}

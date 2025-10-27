@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\huawei\\chinese2-flickr_M_30518538704_383875f8c4_c.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        1002,
+        648,
+        1932,
+        968
+      ],
+      "lines": [
+        {
+          "text": "陈伟",
+          "box": [
+            1094,
+            708,
+            1260,
+            784
+          ]
+        },
+        {
+          "text": "Jacqueli",
+          "box": [
+            1082,
+            805,
+            1500,
+            887
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1955,
+        1080,
+        2709,
+        1275
+      ],
+      "lines": [
+        {
+          "text": "01 Jul 2094",
+          "box": [
+            2013,
+            1150,
+            2571,
+            1222
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1961,
+        1382,
+        2739,
+        1588
+      ],
+      "lines": [
+        {
+          "text": "21 Oct 2054",
+          "box": [
+            2013,
+            1457,
+            2581,
+            1533
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1039,
+        1714,
+        1814,
+        1930
+      ],
+      "lines": [
+        {
+          "text": "29 Nov 1935",
+          "box": [
+            1117,
+            1781,
+            1674,
+            1853
+          ]
+        }
+      ]
+    }
+  ]
+}

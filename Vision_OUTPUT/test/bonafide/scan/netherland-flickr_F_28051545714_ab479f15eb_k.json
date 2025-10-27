@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_F_28051545714_ab479f15eb_k.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        290,
+        1277,
+        541
+      ],
+      "lines": [
+        {
+          "text": "JANSEN",
+          "box": [
+            678,
+            326,
+            904,
+            371
+          ]
+        },
+        {
+          "text": "Daan Ilse",
+          "box": [
+            683,
+            391,
+            956,
+            438
+          ]
+        },
+        {
+          "text": "Annemarie",
+          "box": [
+            680,
+            460,
+            998,
+            503
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1485,
+        561,
+        1966,
+        660
+      ],
+      "lines": [
+        {
+          "text": "18 01 1975",
+          "box": [
+            1566,
+            590,
+            1894,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1460,
+        733,
+        1959,
+        856
+      ],
+      "lines": [
+        {
+          "text": "12 10 2031",
+          "box": [
+            1537,
+            762,
+            1900,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

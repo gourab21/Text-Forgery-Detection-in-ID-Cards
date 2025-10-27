@@ -1,0 +1,23 @@
+LE1
+EN: Last name
+OR: Прізвищ
+EN: Frost /
+OR: Мороз /
+EN: Frost
+OR: Moroz
+
+LE2
+EN: Iryna Oleksandrivna
+OR: Ірина Олександрівна
+EN: I am
+OR: I isty
+
+E3
+EN: 17.09.1202.5
+
+E4
+EN: 21.12.2023
+
+E5
+EN: строку ди
+EN: 19.12.2JI 03

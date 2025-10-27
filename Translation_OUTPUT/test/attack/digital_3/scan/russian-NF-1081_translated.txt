@@ -1,0 +1,18 @@
+LE1
+OR: Попова /
+EN: Popova /
+EN: Popova
+
+LE2
+OR: Анастасия Владимировна 4
+EN: Anastasia Vladimirovna 4
+EN: Bradeda Vadimivna
+
+E3
+EN: 16.01.2088
+
+E4
+EN: 23.05.2018
+
+E5
+EN: 27.07.1934

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\turkiye-NF-1103.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        613,
+        1216,
+        732
+      ],
+      "lines": [
+        {
+          "text": "Lndr",
+          "box": [
+            646,
+            649,
+            765,
+            688
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        448,
+        1216,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Durmaz",
+          "box": [
+            653,
+            495,
+            855,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        769,
+        1193,
+        886
+      ],
+      "lines": [
+        {
+          "text": "13.02.197",
+          "box": [
+            647,
+            798,
+            949,
+            855
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1089,
+        1185,
+        1214
+      ],
+      "lines": [
+        {
+          "text": "23.12.7931",
+          "box": [
+            639,
+            1116,
+            938,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

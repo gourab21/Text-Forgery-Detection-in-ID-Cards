@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-NF-1020.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        267,
+        1181,
+        360
+      ],
+      "lines": [
+        {
+          "text": "ROUX",
+          "box": [
+            662,
+            295,
+            797,
+            329
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        440,
+        1251,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Céline , Emma",
+          "box": [
+            658,
+            467,
+            980,
+            510
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        618,
+        1774,
+        724
+      ],
+      "lines": [
+        {
+          "text": "14 11 1990",
+          "box": [
+            1429,
+            637,
+            1692,
+            675
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1008,
+        1763,
+        1105
+      ],
+      "lines": [
+        {
+          "text": "30 03 2030",
+          "box": [
+            1417,
+            1024,
+            1686,
+            1060
+          ]
+        }
+      ]
+    }
+  ]
+}

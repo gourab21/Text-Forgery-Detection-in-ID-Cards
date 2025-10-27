@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_M_36353666424_ab1a94e172_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        860,
+        554,
+        1658,
+        828
+      ],
+      "lines": [
+        {
+          "text": "马勇",
+          "box": [
+            946,
+            603,
+            1086,
+            665
+          ]
+        },
+        {
+          "text": "Davidng",
+          "box": [
+            954,
+            694,
+            1254,
+            761
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1678,
+        923,
+        2325,
+        1090
+      ],
+      "lines": [
+        {
+          "text": "11 Dec 1936",
+          "box": [
+            1729,
+            971,
+            2229,
+            1039
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1683,
+        1181,
+        2351,
+        1358
+      ],
+      "lines": [
+        {
+          "text": "23 Oct 2060",
+          "box": [
+            1738,
+            1229,
+            2241,
+            1296
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        892,
+        1465,
+        1557,
+        1650
+      ],
+      "lines": [
+        {
+          "text": "12 Nov 1953",
+          "box": [
+            961,
+            1506,
+            1471,
+            1572
+          ]
+        }
+      ]
+    }
+  ]
+}

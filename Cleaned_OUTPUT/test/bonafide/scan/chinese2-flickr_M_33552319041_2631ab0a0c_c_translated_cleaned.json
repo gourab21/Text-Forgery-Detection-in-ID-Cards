@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\chinese2-flickr_M_33552319041_2631ab0a0c_c_translated.json",
+  "image_relative": "test\\bonafide\\scan\\chinese2-flickr_M_33552319041_2631ab0a0c_c.jpg",
+  "width": 1995,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            680,
+            428,
+            786,
+            477
+          ],
+          "original_text": "赵 超",
+          "translated_en": "Zhao Chao"
+        },
+        {
+          "box": [
+            681,
+            492,
+            974,
+            534
+          ],
+          "original_text": "Zhao Chao",
+          "translated_en": "Zhao Chao"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1242,
+            693,
+            1597,
+            741
+          ],
+          "original_text": "30 MAY 1989",
+          "translated_en": "30 MAY 1989"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1246,
+            876,
+            1598,
+            922
+          ],
+          "original_text": "03 APR 2009",
+          "translated_en": "03 APR 2009"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            694,
+            1075,
+            1047,
+            1123
+          ],
+          "original_text": "03 APR 2029",
+          "translated_en": "03 APR 2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_33552319041_2631ab0a0c_c_translated_cleaned.jpg"
+}

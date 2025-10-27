@@ -1,0 +1,7 @@
+E1
+EN: Kimberlight
+EN: 15 Cedar Ln RATE STAT
+EN: Salem OR 97301
+
+E2
+EN: 24-04-35

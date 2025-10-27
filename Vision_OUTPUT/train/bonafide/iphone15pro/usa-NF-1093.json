@@ -1,0 +1,64 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\usa-NF-1093.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        802,
+        550,
+        1646,
+        853
+      ],
+      "lines": [
+        {
+          "text": "Evelyn Shaw",
+          "box": [
+            856,
+            608,
+            1279,
+            677
+          ]
+        },
+        {
+          "text": "306 Pine Street EXTE S",
+          "box": [
+            857,
+            662,
+            1568,
+            738
+          ]
+        },
+        {
+          "text": "Reno NV 89501",
+          "box": [
+            860,
+            760,
+            1381,
+            815
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1932,
+        974,
+        2589,
+        1106
+      ],
+      "lines": [
+        {
+          "text": "DOB : 05-18-96",
+          "box": [
+            1988,
+            985,
+            2504,
+            1038
+          ]
+        }
+      ]
+    }
+  ]
+}

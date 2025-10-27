@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\textdiffuserft_bfei\\iphone15\\chinese2-flickr_F_31196390972_be24a6067c_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        861,
+        552,
+        1660,
+        825
+      ],
+      "lines": [
+        {
+          "text": "黄 芳",
+          "box": [
+            956,
+            594,
+            1101,
+            666
+          ]
+        },
+        {
+          "text": "Robin Fang",
+          "box": [
+            959,
+            685,
+            1393,
+            754
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1680,
+        919,
+        2328,
+        1085
+      ],
+      "lines": [
+        {
+          "text": "22 May 1905",
+          "box": [
+            1731,
+            969,
+            2208,
+            1041
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1685,
+        1176,
+        2353,
+        1352
+      ],
+      "lines": [
+        {
+          "text": "05 Mar 1927",
+          "box": [
+            1743,
+            1222,
+            2244,
+            1285
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        893,
+        1459,
+        1559,
+        1644
+      ],
+      "lines": [
+        {
+          "text": "28 Mar 1946",
+          "box": [
+            973,
+            1503,
+            1474,
+            1572
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\french-097_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        267,
+        1177,
+        360
+      ],
+      "lines": [
+        {
+          "text": "FONTAINE",
+          "box": [
+            657,
+            298,
+            906,
+            333
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        586,
+        440,
+        1247,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Anaïs , Laura",
+          "box": [
+            649,
+            472,
+            941,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1381,
+        618,
+        1769,
+        724
+      ],
+      "lines": [
+        {
+          "text": "07 07 2204",
+          "box": [
+            1416,
+            631,
+            1706,
+            686
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1362,
+        1008,
+        1758,
+        1105
+      ],
+      "lines": [
+        {
+          "text": "25 03 22012",
+          "box": [
+            1410,
+            1025,
+            1689,
+            1060
+          ]
+        }
+      ]
+    }
+  ]
+}

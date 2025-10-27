@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\chinese-113_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\chinese-113_03.jpg",
+  "width": 2791,
+  "height": 1770,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            946,
+            612,
+            1091,
+            689
+          ],
+          "original_text": "馬琳",
+          "translated_en": "Ma Lin"
+        },
+        {
+          "box": [
+            940,
+            687,
+            1280,
+            765
+          ],
+          "original_text": "Z Lin",
+          "translated_en": "From Lin"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1735,
+            985,
+            2189,
+            1048
+          ],
+          "original_text": "04 Jan 197",
+          "translated_en": "04 Jan 197"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1740,
+            1242,
+            2189,
+            1318
+          ],
+          "original_text": "29 Sep 2010",
+          "translated_en": "29 Sep 2010"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            964,
+            1527,
+            1429,
+            1600
+          ],
+          "original_text": "26 Sep 2011",
+          "translated_en": "26 Sep 2011"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-113_03_translated_cleaned.jpg"
+}

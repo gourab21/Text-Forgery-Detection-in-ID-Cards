@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\iphone15\\singapore-flickr_F_30532886723_e55b04664f_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        575,
+        577,
+        2080,
+        854
+      ],
+      "lines": [
+        {
+          "text": "Tanya binti Azman",
+          "box": [
+            705,
+            643,
+            1595,
+            736
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        642,
+        1238,
+        1431,
+        1409
+      ],
+      "lines": [
+        {
+          "text": "2006-12-06",
+          "box": [
+            720,
+            1293,
+            1229,
+            1362
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1557,
+        1504,
+        2298,
+        1670
+      ],
+      "lines": [
+        {
+          "text": "2016-12-06",
+          "box": [
+            1642,
+            1534,
+            2150,
+            1607
+          ]
+        }
+      ]
+    }
+  ]
+}

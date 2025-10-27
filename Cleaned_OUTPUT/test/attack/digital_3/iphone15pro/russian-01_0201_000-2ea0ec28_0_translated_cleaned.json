@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\russian-01_0201_000-2ea0ec28_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\russian-01_0201_000-2ea0ec28_0.jpg",
+  "width": 2834,
+  "height": 1799,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1011,
+            382,
+            1399,
+            452
+          ],
+          "original_text": "Кузнецова /",
+          "translated_en": "Kuznetsova /"
+        },
+        {
+          "box": [
+            1011,
+            462,
+            1368,
+            506
+          ],
+          "original_text": "Kuznetsova",
+          "translated_en": "Kuznetsova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1017,
+            676,
+            1882,
+            740
+          ],
+          "original_text": "Ксения Романовна / |",
+          "translated_en": "Ksenia Romanovna / |"
+        },
+        {
+          "box": [
+            1018,
+            743,
+            1611,
+            818
+          ],
+          "original_text": "Cathya Ronanovna",
+          "translated_en": "Cathya Ronanovna"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1021,
+            972,
+            1362,
+            1024
+          ],
+          "original_text": "17.07.1968",
+          "translated_en": "17.07.1968"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1030,
+            1371,
+            1380,
+            1418
+          ],
+          "original_text": "17.05.2018",
+          "translated_en": "17.05.2018"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1034,
+            1636,
+            1380,
+            1687
+          ],
+          "original_text": "28.05.2067",
+          "translated_en": "28.05.2067"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-01_0201_000-2ea0ec28_0_translated_cleaned.jpg"
+}

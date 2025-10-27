@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\usa-NM-1038_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-NM-1038.jpg",
+  "width": 2650,
+  "height": 1617,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            862,
+            605,
+            1321,
+            662
+          ],
+          "original_text": "Jobert Tayior",
+          "translated_en": "Jobert Tayior"
+        },
+        {
+          "box": [
+            868,
+            670,
+            1529,
+            759
+          ],
+          "original_text": "204 Pine St RAFF",
+          "translated_en": "204 Pine St RAFF"
+        },
+        {
+          "box": [
+            865,
+            761,
+            1534,
+            813
+          ],
+          "original_text": "Bozeman M 59715",
+          "translated_en": "Bozeman M 59715"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1980,
+            1004,
+            2508,
+            1061
+          ],
+          "original_text": "03-22-30",
+          "translated_en": "03-22-30"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1038_translated_cleaned.jpg"
+}

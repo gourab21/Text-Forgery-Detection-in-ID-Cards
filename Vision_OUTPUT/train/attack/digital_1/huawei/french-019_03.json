@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-019_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        959,
+        422,
+        1910,
+        568
+      ],
+      "lines": [
+        {
+          "text": "BERGER",
+          "box": [
+            1060,
+            466,
+            1360,
+            518
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        951,
+        696,
+        2022,
+        872
+      ],
+      "lines": [
+        {
+          "text": "Jugentre Migcte",
+          "box": [
+            1045,
+            743,
+            1639,
+            803
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2238,
+        976,
+        2868,
+        1144
+      ],
+      "lines": [
+        {
+          "text": "30 12 2014",
+          "box": [
+            2298,
+            1010,
+            2757,
+            1070
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2208,
+        1592,
+        2849,
+        1746
+      ],
+      "lines": [
+        {
+          "text": "05 01 22041",
+          "box": [
+            2288,
+            1630,
+            2741,
+            1689
+          ]
+        }
+      ]
+    }
+  ]
+}

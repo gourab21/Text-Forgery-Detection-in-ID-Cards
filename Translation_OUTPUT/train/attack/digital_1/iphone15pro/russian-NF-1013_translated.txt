@@ -1,0 +1,20 @@
+LE1
+OR: Ковалева /
+EN: Kovaleva /
+OR: Kovaleva
+EN: Kovalev
+
+LE2
+OR: Елена Сергеевна / E
+EN: Elena Sergeevna / E
+OR: Ehili
+EN: Excavate
+
+E3
+EN: 28.06.2032
+
+E4
+EN: 21.05.2021
+
+E5
+EN: 19.05.2036

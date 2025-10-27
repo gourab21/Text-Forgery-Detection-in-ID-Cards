@@ -1,0 +1,122 @@
+{
+  "source_json": "train\\attack\\digital_1\\huawei\\ukraine-NF-1005.json",
+  "image_relative": "train\\attack\\digital_1\\huawei\\ukraine-NF-1005.jpg",
+  "width": 3212,
+  "height": 1976,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1044,
+            462,
+            1484,
+            536
+          ],
+          "original_text": "Петренко /",
+          "translated_en": "Petrenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1043,
+            554,
+            1388,
+            608
+          ],
+          "original_text": "Petrenko",
+          "translated_en": "Petrenko",
+          "detected_lang": "lv"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1030,
+            753,
+            1889,
+            834
+          ],
+          "original_text": "Ірина Олександрівна",
+          "translated_en": "Iryna Oleksandrivna",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1032,
+            842,
+            1252,
+            899
+          ],
+          "original_text": "I shle",
+          "translated_en": "I am tired.",
+          "detected_lang": "sq"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1078,
+            1480,
+            1141
+          ],
+          "original_text": "09.09.11999",
+          "translated_en": "09.09.11999",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            999,
+            1462,
+            1867,
+            1508
+          ],
+          "original_text": "Дата вида Date of ISSUE",
+          "translated_en": "Дата вида Date of ISSUE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1023,
+            1519,
+            1453,
+            1581
+          ],
+          "original_text": "14.08.2017",
+          "translated_en": "14.08.2017",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1016,
+            1830,
+            1464,
+            1893
+          ],
+          "original_text": "14.08.22009",
+          "translated_en": "14.08.22009",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1005_translated.jpg"
+}

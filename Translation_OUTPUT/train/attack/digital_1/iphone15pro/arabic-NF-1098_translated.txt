@@ -1,0 +1,28 @@
+E1
+EN: ZamestAlii
+
+L1
+OR: على زهراء
+EN: On Zahra
+
+E2
+EN: 29 Jun 1992
+
+E3
+EN: 18 Feb 2020
+
+E4
+EN: 25 Oct 2028
+
+L2
+OR: / ۲۹ / يونيو / ۱۹۹۵ ११०
+EN: / 29 / June / 1995 1995
+
+L3
+OR: ۱۸ / فبراير / ۲۰۲۰
+EN: February 18, 2020
+
+L4
+EN: 3
+OR: ٢٥ / أكتوبر / ٢٠٢٩
+EN: October 25, 2029

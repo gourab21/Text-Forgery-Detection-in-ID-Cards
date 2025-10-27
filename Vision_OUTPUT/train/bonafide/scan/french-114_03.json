@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\french-114_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "DAVID",
+          "box": [
+            656,
+            295,
+            812,
+            326
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        440,
+        1251,
+        551
+      ],
+      "lines": [
+        {
+          "text": "Gabriel , Étienne",
+          "box": [
+            651,
+            451,
+            1035,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1385,
+        617,
+        1774,
+        722
+      ],
+      "lines": [
+        {
+          "text": "08 12 1989",
+          "box": [
+            1422,
+            636,
+            1690,
+            673
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1366,
+        1006,
+        1763,
+        1103
+      ],
+      "lines": [
+        {
+          "text": "13 02 € 2030",
+          "box": [
+            1415,
+            1020,
+            1681,
+            1060
+          ]
+        }
+      ]
+    }
+  ]
+}

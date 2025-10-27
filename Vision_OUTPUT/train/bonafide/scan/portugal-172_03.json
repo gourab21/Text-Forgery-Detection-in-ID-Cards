@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-172_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        618,
+        299,
+        1458,
+        475
+      ],
+      "lines": [
+        {
+          "text": "RIBEIRO SANTOS",
+          "box": [
+            684,
+            343,
+            1138,
+            386
+          ]
+        },
+        {
+          "text": "Carlos",
+          "box": [
+            680,
+            402,
+            840,
+            440
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1645,
+        577,
+        1995,
+        674
+      ],
+      "lines": [
+        {
+          "text": "15 11 1989",
+          "box": [
+            1703,
+            603,
+            1991,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1239,
+        733,
+        1668,
+        848
+      ],
+      "lines": [
+        {
+          "text": "13 11 2022",
+          "box": [
+            1297,
+            772,
+            1584,
+            812
+          ]
+        }
+      ]
+    }
+  ]
+}

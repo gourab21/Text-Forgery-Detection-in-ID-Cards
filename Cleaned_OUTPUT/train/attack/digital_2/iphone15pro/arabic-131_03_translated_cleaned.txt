@@ -1,0 +1,27 @@
+E1
+EN: KU - Mlubzak
+
+L1
+EN: Mubarak Khalil
+OR: المبارك خليل
+
+E2
+EN: 17 Aug 208
+
+E3
+EN: 20 Apr 2022
+
+E4
+EN: 10 May 2013
+
+L2
+EN: 17 YV / August / 1994
+OR: ١٧ YV / أغسطس / ١٩٩٤
+
+L3
+EN: April 20, 2022
+OR: ٢٠ / أبريل / ۲۰۲۲
+
+L4
+EN: May 10, 2032
+OR: ١٠ / مايو / ۲۰۳۲

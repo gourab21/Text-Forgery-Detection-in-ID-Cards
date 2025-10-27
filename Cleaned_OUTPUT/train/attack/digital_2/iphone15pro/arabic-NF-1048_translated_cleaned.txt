@@ -1,0 +1,27 @@
+E1
+EN: Head Jas
+
+L1
+EN: Youssef Hanaa
+OR: يوسف هناء
+
+E2
+EN: 31 Dec 207
+
+E3
+EN: 07 Oct 2023
+
+E4
+EN: 19 Feb 2032
+
+L2
+EN: ۳۱ / December دیسمبر / / ۱۹۸۳
+OR: ۳۱ / ديسمبر دیسمبر / / ۱۹۸۳
+
+L3
+EN: October 7, 2023
+OR: ٧ / أكتوبر / ۲۰۲۳
+
+L4
+EN: February 19, 2029
+OR: ۱۹ / فبراير / ۲۰۲۹

@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\scan\\portugal-013_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\scan\\portugal-013_03.jpg",
+  "width": 1998,
+  "height": 1244,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            692,
+            340,
+            1199,
+            383
+          ],
+          "original_text": "MICHAEL ANDRADE",
+          "translated_en": "MICHAEL ANDRADE"
+        },
+        {
+          "box": [
+            687,
+            394,
+            1029,
+            438
+          ],
+          "original_text": "Carla Patrícia",
+          "translated_en": "Carla Patrícia"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1702,
+            598,
+            1955,
+            635
+          ],
+          "original_text": "16 09 2082",
+          "translated_en": "16 09 2082"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1304,
+            765,
+            1591,
+            804
+          ],
+          "original_text": "16 11 2031",
+          "translated_en": "16 11 2031"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-013_03_translated_cleaned.jpg"
+}

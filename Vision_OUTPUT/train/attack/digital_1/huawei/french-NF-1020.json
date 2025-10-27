@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\huawei\\french-NF-1020.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        951,
+        419,
+        1892,
+        565
+      ],
+      "lines": [
+        {
+          "text": "ROUX",
+          "box": [
+            1051,
+            461,
+            1262,
+            515
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        942,
+        693,
+        2004,
+        866
+      ],
+      "lines": [
+        {
+          "text": "Céline , Emma",
+          "box": [
+            1041,
+            731,
+            1557,
+            802
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2219,
+        970,
+        2844,
+        1137
+      ],
+      "lines": [
+        {
+          "text": "14 11 2044",
+          "box": [
+            2285,
+            1007,
+            2733,
+            1065
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2190,
+        1582,
+        2824,
+        1736
+      ],
+      "lines": [
+        {
+          "text": "30 03 2015",
+          "box": [
+            2267,
+            1621,
+            2722,
+            1684
+          ]
+        }
+      ]
+    }
+  ]
+}

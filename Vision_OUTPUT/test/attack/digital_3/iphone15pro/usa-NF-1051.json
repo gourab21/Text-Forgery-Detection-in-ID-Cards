@@ -1,0 +1,64 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\usa-NF-1051.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        850,
+        611,
+        1744,
+        949
+      ],
+      "lines": [
+        {
+          "text": "Tabithayor",
+          "box": [
+            908,
+            675,
+            1349,
+            738
+          ]
+        },
+        {
+          "text": "3714 Maple Ave ATE STA",
+          "box": [
+            915,
+            734,
+            1725,
+            823
+          ]
+        },
+        {
+          "text": "Dallas TX 75235",
+          "box": [
+            917,
+            838,
+            1496,
+            898
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2047,
+        1083,
+        2744,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "DOB : 25-12-74",
+          "box": [
+            2108,
+            1090,
+            2658,
+            1143
+          ]
+        }
+      ]
+    }
+  ]
+}

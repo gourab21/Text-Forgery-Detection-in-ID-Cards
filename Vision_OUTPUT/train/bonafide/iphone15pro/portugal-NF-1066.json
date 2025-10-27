@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\iphone15pro\\portugal-NF-1066.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        817,
+        386,
+        1928,
+        612
+      ],
+      "lines": [
+        {
+          "text": "OLIVEIRA MARTINS",
+          "box": [
+            901,
+            436,
+            1585,
+            496
+          ]
+        },
+        {
+          "text": "Sofia Joana",
+          "box": [
+            899,
+            511,
+            1288,
+            564
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2176,
+        744,
+        2639,
+        868
+      ],
+      "lines": [
+        {
+          "text": "29 04 1992",
+          "box": [
+            2248,
+            771,
+            2631,
+            824
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1639,
+        944,
+        2206,
+        1092
+      ],
+      "lines": [
+        {
+          "text": "12 10 2029",
+          "box": [
+            1712,
+            982,
+            2091,
+            1040
+          ]
+        }
+      ]
+    }
+  ]
+}

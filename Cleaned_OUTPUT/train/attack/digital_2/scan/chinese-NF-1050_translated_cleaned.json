@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\chinese-NF-1050_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\chinese-NF-1050.jpg",
+  "width": 1993,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            692,
+            429,
+            788,
+            495
+          ],
+          "original_text": "黄 灣",
+          "translated_en": "Huangwan"
+        },
+        {
+          "box": [
+            688,
+            492,
+            980,
+            537
+          ],
+          "original_text": "Hneryl Jing",
+          "translated_en": "Hneryl Jing"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1236,
+            712,
+            1537,
+            760
+          ],
+          "original_text": "15 Jul 1196",
+          "translated_en": "15 Jul 1196"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1230,
+            897,
+            1562,
+            942
+          ],
+          "original_text": "08 May 2017",
+          "translated_en": "08 May 2017"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            674,
+            1080,
+            1015,
+            1128
+          ],
+          "original_text": "06 May 2003",
+          "translated_en": "06 May 2003"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese-NF-1050_translated_cleaned.jpg"
+}

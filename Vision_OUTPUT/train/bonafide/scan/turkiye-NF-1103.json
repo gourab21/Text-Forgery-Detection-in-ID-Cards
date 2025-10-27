@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\scan\\turkiye-NF-1103.jpg",
+  "template": "turkiye",
+  "comments": [
+    {
+      "comment": "E2",
+      "region_box": [
+        596,
+        613,
+        1216,
+        732
+      ],
+      "lines": [
+        {
+          "text": "Lale",
+          "box": [
+            648,
+            647,
+            756,
+            690
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        448,
+        1216,
+        571
+      ],
+      "lines": [
+        {
+          "text": "Durmaz",
+          "box": [
+            653,
+            495,
+            855,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        593,
+        769,
+        1193,
+        886
+      ],
+      "lines": [
+        {
+          "text": "13.02.1996",
+          "box": [
+            647,
+            804,
+            937,
+            843
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        598,
+        1089,
+        1185,
+        1214
+      ],
+      "lines": [
+        {
+          "text": "23.12.2034",
+          "box": [
+            641,
+            1116,
+            930,
+            1160
+          ]
+        }
+      ]
+    }
+  ]
+}

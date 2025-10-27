@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\french-022_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        592,
+        266,
+        1178,
+        359
+      ],
+      "lines": [
+        {
+          "text": "MARTIN",
+          "box": [
+            660,
+            295,
+            851,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        587,
+        439,
+        1249,
+        550
+      ],
+      "lines": [
+        {
+          "text": "pannaHeni",
+          "box": [
+            657,
+            462,
+            922,
+            501
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1382,
+        615,
+        1770,
+        720
+      ],
+      "lines": [
+        {
+          "text": "23 05 2019",
+          "box": [
+            1420,
+            638,
+            1706,
+            676
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1363,
+        1004,
+        1759,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "29 09 1994",
+          "box": [
+            1411,
+            1023,
+            1695,
+            1061
+          ]
+        }
+      ]
+    }
+  ]
+}

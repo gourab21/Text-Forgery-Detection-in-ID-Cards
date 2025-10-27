@@ -1,0 +1,59 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_1\\iphone15pro\\usa-NF-1036_translated.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\usa-NF-1036.jpg",
+  "width": 2807,
+  "height": 1800,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            923,
+            676,
+            1510,
+            746
+          ],
+          "original_text": "Bamuela Thomas",
+          "translated_en": "Bamuela Thomas"
+        },
+        {
+          "box": [
+            927,
+            727,
+            1737,
+            824
+          ],
+          "original_text": "8342 Pine Rd ATE STA",
+          "translated_en": "8342 Pine Rd ATE STA"
+        },
+        {
+          "box": [
+            931,
+            838,
+            1524,
+            918
+          ],
+          "original_text": "Naples FL 34102",
+          "translated_en": "Naples FL 34102"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2119,
+            1090,
+            2677,
+            1146
+          ],
+          "original_text": "04-07-42",
+          "translated_en": "04-07-42"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1036_translated_cleaned.jpg"
+}

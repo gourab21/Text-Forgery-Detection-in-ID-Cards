@@ -1,0 +1,64 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\scan\\portugal-NF-1086_translated.json",
+  "image_relative": "train\\attack\\digital_2\\scan\\portugal-NF-1086.jpg",
+  "width": 1993,
+  "height": 1249,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            676,
+            346,
+            1094,
+            387
+          ],
+          "original_text": "SERRY DEEIRA",
+          "translated_en": "SERRY DEEIRA"
+        },
+        {
+          "box": [
+            678,
+            403,
+            867,
+            441
+          ],
+          "original_text": "Cláudia",
+          "translated_en": "Cláudia"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1704,
+            580,
+            1991,
+            618
+          ],
+          "original_text": "22 04 1973",
+          "translated_en": "22 04 1973"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1306,
+            759,
+            1601,
+            796
+          ],
+          "original_text": "20 04 2022",
+          "translated_en": "20 04 2022"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "portugal-NF-1086_translated_cleaned.jpg"
+}

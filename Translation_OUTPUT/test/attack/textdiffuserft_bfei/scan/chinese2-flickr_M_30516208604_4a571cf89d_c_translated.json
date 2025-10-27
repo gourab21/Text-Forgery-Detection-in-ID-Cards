@@ -1,0 +1,106 @@
+{
+  "source_json": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_30516208604_4a571cf89d_c.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\chinese2-flickr_M_30516208604_4a571cf89d_c.jpg",
+  "width": 1996,
+  "height": 1250,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            681,
+            432,
+            786,
+            484
+          ],
+          "original_text": "黄磊",
+          "translated_en": "Huang Lei",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            675,
+            495,
+            935,
+            532
+          ],
+          "original_text": "Chloe Lei",
+          "translated_en": "Chloe Lei",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1648,
+            667,
+            1661,
+            684
+          ],
+          "original_text": "S",
+          "translated_en": "S",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1242,
+            696,
+            1585,
+            742
+          ],
+          "original_text": "24 Feb 1978",
+          "translated_en": "24 Feb 1978",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1246,
+            885,
+            1585,
+            923
+          ],
+          "original_text": "15 Mar 2000",
+          "translated_en": "15 Mar 2000",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1644,
+            915,
+            1689,
+            966
+          ],
+          "original_text": "21532 100",
+          "translated_en": "21532 100",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            689,
+            1076,
+            1019,
+            1122
+          ],
+          "original_text": "21 Dec 1917",
+          "translated_en": "21 Dec 1917",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_30516208604_4a571cf89d_c_translated.jpg"
+}

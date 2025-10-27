@@ -1,0 +1,29 @@
+E1
+EN: Michael Mubarak
+
+L1
+OR: مبارك يوسف
+EN: Mubarak Youssef
+
+E2
+EN: 27 May 2009
+
+E3
+EN: 25 May 2023
+
+E4
+EN: 25 Jun 1965
+
+L2
+OR: تاريخ
+EN: History
+OR: / ٠٣ / ديسمبر / ١٢
+EN: / 03 / December / 12
+
+L3
+OR: ٢٥ / مايو / ٢۰۲۳
+EN: May 25, 2023
+
+L4
+OR: ٢٥ / مايو / ٢٠ ۳۳
+EN: May 25, 2033

@@ -1,0 +1,19 @@
+LE1
+EN: Kovalenko /
+OR: Коваленко /
+EN: Kovalenko
+
+LE2
+EN: Oleksandr Mykhaylov
+OR: Олександр Михайлов
+EN: Caurennd
+
+E3
+EN: 21.08.12015
+
+E4
+EN: 21.02.2018
+
+E5
+EN: לון
+EN: 20.02.12003

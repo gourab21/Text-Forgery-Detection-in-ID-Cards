@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\iphone15pro\\portugal-143_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        815,
+        388,
+        1924,
+        615
+      ],
+      "lines": [
+        {
+          "text": "CLAY ON CASTRO",
+          "box": [
+            916,
+            442,
+            1505,
+            500
+          ]
+        },
+        {
+          "text": "Luis Antônio",
+          "box": [
+            913,
+            511,
+            1332,
+            569
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2171,
+        748,
+        2633,
+        873
+      ],
+      "lines": [
+        {
+          "text": "26 03 1937",
+          "box": [
+            2245,
+            773,
+            2572,
+            826
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1635,
+        949,
+        2201,
+        1098
+      ],
+      "lines": [
+        {
+          "text": "24 05 1936",
+          "box": [
+            1723,
+            990,
+            2099,
+            1042
+          ]
+        }
+      ]
+    }
+  ]
+}

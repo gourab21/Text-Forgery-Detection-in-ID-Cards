@@ -1,0 +1,129 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\iphone15pro\\arabic-024_03_translated.json",
+  "image_relative": "train\\attack\\digital_2\\iphone15pro\\arabic-024_03.jpg",
+  "width": 2769,
+  "height": 1748,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1024,
+            662,
+            1662,
+            741
+          ],
+          "original_text": "Oabrcany gro",
+          "translated_en": "Oabrcany gro"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            989,
+            477,
+            1342,
+            561
+          ],
+          "original_text": "خیام عمر",
+          "translated_en": "Omar Khayyam"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1034,
+            1103,
+            1532,
+            1165
+          ],
+          "original_text": "09 Oct 2018",
+          "translated_en": "09 Oct 2018"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1043,
+            1328,
+            1531,
+            1406
+          ],
+          "original_text": "18 Apr 2024",
+          "translated_en": "18 Apr 2024"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1047,
+            1564,
+            1539,
+            1640
+          ],
+          "original_text": "18 Apr 0994",
+          "translated_en": "18 Apr 0994"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1775,
+            1069,
+            2412,
+            1176
+          ],
+          "original_text": "٠٩ / أكتوبر / ۱۹۹۰ ١٩٩",
+          "translated_en": "October 9, 1990"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1774,
+            1305,
+            2402,
+            1405
+          ],
+          "original_text": "١٨ / أبريل / ٢٠٢٤",
+          "translated_en": "April 18, 2024"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1780,
+            1535,
+            2406,
+            1641
+          ],
+          "original_text": "١٨ / أبريل / ٢٠٣٤",
+          "translated_en": "April 18, 2034"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-024_03_translated_cleaned.jpg"
+}

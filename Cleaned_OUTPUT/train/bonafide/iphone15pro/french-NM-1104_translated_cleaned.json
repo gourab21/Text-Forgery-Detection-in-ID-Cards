@@ -1,0 +1,69 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\iphone15pro\\french-NM-1104_translated.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\french-NM-1104.jpg",
+  "width": 2785,
+  "height": 1777,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            908,
+            424,
+            1174,
+            476
+          ],
+          "original_text": "DUBOIS",
+          "translated_en": "DUBOIS"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            910,
+            665,
+            1346,
+            730
+          ],
+          "original_text": "Vincent , Paul",
+          "translated_en": "Vincent , Paul"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1999,
+            878,
+            2366,
+            934
+          ],
+          "original_text": "15 01 1987",
+          "translated_en": "15 01 1987"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            2010,
+            1432,
+            2380,
+            1481
+          ],
+          "original_text": "28 02 2035",
+          "translated_en": "28 02 2035"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "french-NM-1104_translated_cleaned.jpg"
+}

@@ -1,0 +1,18 @@
+LE1
+EN: Ostapenko /
+OR: Остапенко /
+EN: Ostapenko
+
+LE2
+EN: Natalia Ruslanivna /
+OR: Наталія Русланівна /
+EN: Erinlia
+
+E3
+EN: 28.10.1975
+
+E4
+EN: 05.06.2016
+
+E5
+EN: 09.11.2059

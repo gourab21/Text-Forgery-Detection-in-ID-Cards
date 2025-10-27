@@ -1,0 +1,18 @@
+LE1
+OR: Мельник /
+EN: Miller /
+EN: Melnyk
+
+LE2
+OR: Юлія Сергіївна /
+EN: Yulia Sergiivna /
+EN: Briana
+
+E3
+EN: 19.01.1946
+
+E4
+EN: 25.02.2019
+
+E5
+EN: 26.06.2004

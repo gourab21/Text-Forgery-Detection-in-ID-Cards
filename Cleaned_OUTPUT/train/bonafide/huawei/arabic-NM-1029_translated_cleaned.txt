@@ -1,0 +1,27 @@
+E1
+EN: Nawaf Al - Khalidi
+
+L1
+EN: Khalidi Nawaf
+OR: الخالدي نواف
+
+E2
+EN: 12 Jul 1983
+
+E3
+EN: 11 Mar 2020
+
+E4
+EN: 06 Oct 2033
+
+L2
+EN: 12 / July / 1983
+OR: ١٢ / يوليو / ۱۹۸۳
+
+L3
+EN: March 11, 200
+OR: ١١ / مارس / ٢٠٠
+
+L4
+EN: October 6, 2033
+OR: ٦ / أكتوبر / ٢٠٣٣

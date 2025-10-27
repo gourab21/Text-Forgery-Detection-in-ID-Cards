@@ -1,0 +1,122 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\ukraine-NF-1077.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\ukraine-NF-1077.jpg",
+  "width": 3194,
+  "height": 1969,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1034,
+            450,
+            1475,
+            529
+          ],
+          "original_text": "Ткаченко /",
+          "translated_en": "Tkachenko /",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1037,
+            547,
+            1451,
+            604
+          ],
+          "original_text": "Tkachenko",
+          "translated_en": "Tkachenko",
+          "detected_lang": "uk-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1034,
+            744,
+            1902,
+            829
+          ],
+          "original_text": "Олександра Михайлів",
+          "translated_en": "Oleksandra Mykhailiv",
+          "detected_lang": "uk"
+        },
+        {
+          "box": [
+            1034,
+            836,
+            1464,
+            903
+          ],
+          "original_text": "Amyksadra",
+          "translated_en": "Amyxadra",
+          "detected_lang": "is"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1032,
+            1073,
+            1467,
+            1134
+          ],
+          "original_text": "27.08.1937",
+          "translated_en": "27.08.1937",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1181,
+            1457,
+            1856,
+            1499
+          ],
+          "original_text": "вид OT ISSUE",
+          "translated_en": "вид OT ISSUE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1020,
+            1513,
+            1451,
+            1574
+          ],
+          "original_text": "29.06.2017",
+          "translated_en": "29.06.2017",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1014,
+            1820,
+            1448,
+            1884
+          ],
+          "original_text": "20.10.2052",
+          "translated_en": "20.10.2052",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "ukraine-NF-1077_translated.jpg"
+}

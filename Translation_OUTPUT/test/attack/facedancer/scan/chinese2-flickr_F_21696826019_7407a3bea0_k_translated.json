@@ -1,0 +1,95 @@
+{
+  "source_json": "test\\attack\\facedancer\\scan\\chinese2-flickr_F_21696826019_7407a3bea0_k.json",
+  "image_relative": "test\\attack\\facedancer\\scan\\chinese2-flickr_F_21696826019_7407a3bea0_k.jpg",
+  "width": 1998,
+  "height": 1247,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            681,
+            428,
+            788,
+            477
+          ],
+          "original_text": "陈燕",
+          "translated_en": "Chen Yan",
+          "detected_lang": "zh-CN"
+        },
+        {
+          "box": [
+            678,
+            494,
+            930,
+            535
+          ],
+          "original_text": "Chen Yan",
+          "translated_en": "Chen Yan",
+          "detected_lang": "zh-Latn"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1241,
+            695,
+            1593,
+            740
+          ],
+          "original_text": "09 APR 1984",
+          "translated_en": "09 APR 1984",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1250,
+            878,
+            1605,
+            923
+          ],
+          "original_text": "15 DEC 2004",
+          "translated_en": "15 DEC 2004",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1661,
+            914,
+            1691,
+            964
+          ],
+          "original_text": "500",
+          "translated_en": "500",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            695,
+            1076,
+            1049,
+            1121
+          ],
+          "original_text": "15 DEC 2024",
+          "translated_en": "15 DEC 2024",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_F_21696826019_7407a3bea0_k_translated.jpg"
+}

@@ -1,0 +1,21 @@
+LE1
+EN: pr
+OR: пр
+EN: Kuzmenko /
+OR: Кузьменко /
+EN: Kuzmenko
+
+LE2
+EN: Victoria Sergiivna /
+OR: Вікторія Сергіївна /
+EN: Damage
+OR: Vauoria
+
+E3
+EN: 12.11.2020
+
+E4
+EN: 28.12.2015
+
+E5
+EN: 28.12.2.9

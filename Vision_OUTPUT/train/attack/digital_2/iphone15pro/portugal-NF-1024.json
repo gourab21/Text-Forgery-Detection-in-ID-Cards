@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\portugal-NF-1024.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        883,
+        434,
+        2084,
+        688
+      ],
+      "lines": [
+        {
+          "text": "QFUSIOISCS A",
+          "box": [
+            969,
+            509,
+            1540,
+            565
+          ]
+        },
+        {
+          "text": "Teresa",
+          "box": [
+            973,
+            594,
+            1210,
+            644
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2352,
+        835,
+        2852,
+        976
+      ],
+      "lines": [
+        {
+          "text": "02 05 1979",
+          "box": [
+            2432,
+            839,
+            2843,
+            895
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1771,
+        1061,
+        2384,
+        1228
+      ],
+      "lines": [
+        {
+          "text": "29 04 2044",
+          "box": [
+            1870,
+            1097,
+            2303,
+            1152
+          ]
+        }
+      ]
+    }
+  ]
+}

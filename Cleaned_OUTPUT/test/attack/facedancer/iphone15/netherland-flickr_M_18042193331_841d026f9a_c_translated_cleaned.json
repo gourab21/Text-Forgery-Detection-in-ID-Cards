@@ -1,0 +1,74 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\iphone15\\netherland-flickr_M_18042193331_841d026f9a_c_translated.json",
+  "image_relative": "test\\attack\\facedancer\\iphone15\\netherland-flickr_M_18042193331_841d026f9a_c.jpg",
+  "width": 2779,
+  "height": 1750,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            947,
+            455,
+            1370,
+            516
+          ],
+          "original_text": "BROUWER",
+          "translated_en": "BROUWER"
+        },
+        {
+          "box": [
+            943,
+            541,
+            1474,
+            607
+          ],
+          "original_text": "Tess Cornelis",
+          "translated_en": "Tess Cornelis"
+        },
+        {
+          "box": [
+            949,
+            637,
+            1316,
+            702
+          ],
+          "original_text": "Gerardus",
+          "translated_en": "Gerardus"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2171,
+            818,
+            2639,
+            883
+          ],
+          "original_text": "04 05 1993",
+          "translated_en": "04 05 1993"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2138,
+            1061,
+            2644,
+            1129
+          ],
+          "original_text": "17 08 2028",
+          "translated_en": "17 08 2028"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "netherland-flickr_M_18042193331_841d026f9a_c_translated_cleaned.jpg"
+}

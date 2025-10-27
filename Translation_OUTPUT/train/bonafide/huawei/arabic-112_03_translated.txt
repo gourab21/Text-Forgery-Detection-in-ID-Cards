@@ -1,0 +1,29 @@
+E1
+EN: Fatima Zohra
+
+L1
+OR: الزهراء فاطمة
+EN: Zahra Fatima
+
+E2
+EN: 30 Oct 1986
+
+E3
+EN: 15 Apr 2023
+
+E4
+EN: 15 Apr 2033
+
+L2
+OR: تاريخ
+EN: History
+OR: ٢٠ / أكتوبر / ۱۹۸۶
+EN: October 20, 1986
+
+L3
+OR: ١٥ / أبريل / ٢٠٢٣
+EN: April 15, 2023
+
+L4
+OR: ١٥ / أبريل / ۲۰۳۳
+EN: April 15, 2033

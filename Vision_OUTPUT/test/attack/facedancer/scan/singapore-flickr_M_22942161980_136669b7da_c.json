@@ -1,0 +1,66 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\singapore-flickr_M_22942161980_136669b7da_c.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        415,
+        413,
+        1500,
+        612
+      ],
+      "lines": [
+        {
+          "text": "Suresh Iyer",
+          "box": [
+            504,
+            471,
+            918,
+            526
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        463,
+        886,
+        1031,
+        1008
+      ],
+      "lines": [
+        {
+          "text": "1976-07-15",
+          "box": [
+            520,
+            924,
+            884,
+            975
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1122,
+        1076,
+        1656,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "1986-07-15",
+          "box": [
+            1183,
+            1099,
+            1547,
+            1148
+          ]
+        }
+      ]
+    }
+  ]
+}

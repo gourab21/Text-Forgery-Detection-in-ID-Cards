@@ -1,0 +1,95 @@
+{
+  "image": "test\\attack\\facedancer\\scan\\chinese2-flickr_M_33525327222_f112b468ed_k.jpg",
+  "template": "chinese2",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        618,
+        395,
+        1192,
+        589
+      ],
+      "lines": [
+        {
+          "text": "孙超",
+          "box": [
+            689,
+            426,
+            789,
+            478
+          ]
+        },
+        {
+          "text": "Sun Chao",
+          "box": [
+            683,
+            494,
+            944,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1206,
+        658,
+        1671,
+        777
+      ],
+      "lines": [
+        {
+          "text": "19 JUN 1971",
+          "box": [
+            1251,
+            697,
+            1594,
+            741
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1210,
+        843,
+        1689,
+        967
+      ],
+      "lines": [
+        {
+          "text": "28 MAR 1993",
+          "box": [
+            1249,
+            876,
+            1615,
+            922
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        642,
+        1044,
+        1119,
+        1177
+      ],
+      "lines": [
+        {
+          "text": "28 MAR 2013",
+          "box": [
+            696,
+            1077,
+            1065,
+            1124
+          ]
+        }
+      ]
+    }
+  ]
+}

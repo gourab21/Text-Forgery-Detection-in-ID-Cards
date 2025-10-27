@@ -1,0 +1,18 @@
+LE1
+EN: Zhuravleva /
+OR: Журавлева /
+EN: Zhuravleva
+
+LE2
+EN: Daria Sergeevna / K
+OR: Дарья Сергеевна / K
+EN: Dasic Cagevna
+
+E3
+EN: 13.05.2010
+
+E4
+EN: 17.12.2014
+
+E5
+EN: 14.12.2034

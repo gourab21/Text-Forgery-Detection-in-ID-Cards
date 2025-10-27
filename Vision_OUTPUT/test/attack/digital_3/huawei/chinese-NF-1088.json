@@ -1,0 +1,86 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\chinese-NF-1088.jpg",
+  "template": "chinese",
+  "comments": [
+    {
+      "comment": "LE1",
+      "region_box": [
+        970,
+        598,
+        1682,
+        878
+      ],
+      "lines": [
+        {
+          "text": "Joy Zhao",
+          "box": [
+            1031,
+            739,
+            1387,
+            815
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1824,
+        994,
+        2449,
+        1195
+      ],
+      "lines": [
+        {
+          "text": "02 May 2071",
+          "box": [
+            1883,
+            1057,
+            2377,
+            1134
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1796,
+        1283,
+        2485,
+        1476
+      ],
+      "lines": [
+        {
+          "text": "15 Aug 2016",
+          "box": [
+            1893,
+            1330,
+            2382,
+            1407
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        940,
+        1570,
+        1657,
+        1756
+      ],
+      "lines": [
+        {
+          "text": "02 Jan 2068",
+          "box": [
+            1058,
+            1628,
+            1545,
+            1696
+          ]
+        }
+      ]
+    }
+  ]
+}

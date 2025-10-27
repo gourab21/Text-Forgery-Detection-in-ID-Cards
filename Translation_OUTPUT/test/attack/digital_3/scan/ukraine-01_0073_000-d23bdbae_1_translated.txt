@@ -1,0 +1,19 @@
+LE1
+OR: Кулик /
+EN: Sandpiper /
+EN: Kulyk
+
+LE2
+OR: Олег Юрійович /
+EN: Oleg Yuriyovych /
+EN: Rand
+
+E3
+EN: 15.06.2011
+
+E4
+EN: на вид
+EN: 08.03.2010
+
+E5
+EN: 20.10.2018

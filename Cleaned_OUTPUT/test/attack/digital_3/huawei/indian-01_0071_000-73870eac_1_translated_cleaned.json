@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\indian-01_0071_000-73870eac_1_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\indian-01_0071_000-73870eac_1.jpg",
+  "width": 3211,
+  "height": 1983,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1123,
+            735,
+            1378,
+            800
+          ],
+          "original_text": "PATEL",
+          "translated_en": "PATEL"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1123,
+            981,
+            1550,
+            1043
+          ],
+          "original_text": "MIKE GITA",
+          "translated_en": "MIKE GITA"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1121,
+            1239,
+            1627,
+            1315
+          ],
+          "original_text": "29/09/1950",
+          "translated_en": "29/09/1950"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1102,
+            1711,
+            1612,
+            1782
+          ],
+          "original_text": "05/07/2011",
+          "translated_en": "05/07/2011"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2272,
+            1728,
+            2785,
+            1799
+          ],
+          "original_text": "01/09/2051",
+          "translated_en": "01/09/2051"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-01_0071_000-73870eac_1_translated_cleaned.jpg"
+}

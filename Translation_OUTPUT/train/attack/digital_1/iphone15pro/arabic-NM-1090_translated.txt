@@ -1,0 +1,27 @@
+E1
+EN: BnbertFares
+
+L1
+OR: فارس بلال
+EN: Fares Bilal
+
+E2
+EN: 11 Nov 2003
+
+E3
+EN: 10 Jul 2025
+
+E4
+EN: 10 Jul 1991
+
+L2
+OR: ۱۱ / نوفمبر / ۱۹۹۱
+EN: November 11, 1991
+
+L3
+OR: ١٠ / يوليو / ٢٠٢٥
+EN: July 10, 2025
+
+L4
+OR: ١٠ / يوليو / ٢٠٣٥
+EN: July 10, 2035

@@ -1,0 +1,21 @@
+LE1
+EN: Last name
+OR: Прізвищ
+EN: Frost /
+OR: Мороз /
+EN: Frost
+OR: Moroz
+
+LE2
+EN: Iryna Oleksandrivna
+OR: Ірина Олександрівна
+EN: Irian
+
+E3
+EN: 17.09.2027
+
+E4
+EN: 21.12.2023
+
+E5
+EN: 19.12.2013

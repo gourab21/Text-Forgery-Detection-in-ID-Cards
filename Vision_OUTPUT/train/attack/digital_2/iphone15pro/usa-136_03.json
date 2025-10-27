@@ -1,0 +1,64 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\usa-136_03.jpg",
+  "template": "usa",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        852,
+        608,
+        1747,
+        945
+      ],
+      "lines": [
+        {
+          "text": "I elinad Hül",
+          "box": [
+            915,
+            674,
+            1320,
+            733
+          ]
+        },
+        {
+          "text": "518 Spruce S RATE",
+          "box": [
+            916,
+            728,
+            1621,
+            839
+          ]
+        },
+        {
+          "text": "Portland ME 04101",
+          "box": [
+            921,
+            835,
+            1602,
+            899
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2051,
+        1078,
+        2749,
+        1223
+      ],
+      "lines": [
+        {
+          "text": "DOB : 04-20-3",
+          "box": [
+            2112,
+            1084,
+            2631,
+            1140
+          ]
+        }
+      ]
+    }
+  ]
+}

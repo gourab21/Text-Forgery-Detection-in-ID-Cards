@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\iphone15pro\\usa-NM-1052.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\usa-NM-1052.jpg",
+  "width": 2836,
+  "height": 1809,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            923,
+            676,
+            1583,
+            756
+          ],
+          "original_text": "Oliviaopher Green",
+          "translated_en": "Oliviaopher Green",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            926,
+            741,
+            1625,
+            848
+          ],
+          "original_text": "112 Oak St HATE",
+          "translated_en": "112 Oak St HATE",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            926,
+            845,
+            1612,
+            910
+          ],
+          "original_text": "Laramie WY 82070",
+          "translated_en": "Laramie WY 82070",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2131,
+            1099,
+            2686,
+            1156
+          ],
+          "original_text": "DOB : 29-07-32",
+          "translated_en": "DOB : 29-07-32",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NM-1052_translated.jpg"
+}

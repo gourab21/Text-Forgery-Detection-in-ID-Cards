@@ -1,0 +1,66 @@
+{
+  "image": "test\\bonafide\\huawei\\singapore-flickr_M_37019084692_714cba8ac1_k.jpg",
+  "template": "singapore",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        663,
+        659,
+        2397,
+        977
+      ],
+      "lines": [
+        {
+          "text": "Jun Lee",
+          "box": [
+            800,
+            763,
+            1210,
+            827
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        740,
+        1414,
+        1651,
+        1612
+      ],
+      "lines": [
+        {
+          "text": "1987-07-13",
+          "box": [
+            824,
+            1483,
+            1400,
+            1558
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1795,
+        1718,
+        2649,
+        1908
+      ],
+      "lines": [
+        {
+          "text": "1997-07-13",
+          "box": [
+            1888,
+            1764,
+            2470,
+            1844
+          ]
+        }
+      ]
+    }
+  ]
+}

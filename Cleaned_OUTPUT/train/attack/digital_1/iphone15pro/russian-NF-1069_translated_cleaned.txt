@@ -1,0 +1,18 @@
+LE1
+EN: Zhuravleva /
+OR: Журавлева /
+EN: Zhuravleva
+
+LE2
+EN: Anna Mikhailovna /
+OR: Анна Михайловна /
+EN: Aete
+
+E3
+EN: 07.01.2021
+
+E4
+EN: 02.01.2021
+
+E5
+EN: 31.12.1997

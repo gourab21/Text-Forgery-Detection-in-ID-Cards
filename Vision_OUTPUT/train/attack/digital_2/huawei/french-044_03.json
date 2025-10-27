@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\french-044_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        958,
+        423,
+        1908,
+        570
+      ],
+      "lines": [
+        {
+          "text": "MOREAU",
+          "box": [
+            1053,
+            465,
+            1389,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        950,
+        697,
+        2020,
+        874
+      ],
+      "lines": [
+        {
+          "text": "Laws , Almn",
+          "box": [
+            1049,
+            743,
+            1501,
+            809
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2235,
+        977,
+        2864,
+        1146
+      ],
+      "lines": [
+        {
+          "text": "16 07 2007",
+          "box": [
+            2301,
+            1008,
+            2775,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2205,
+        1594,
+        2845,
+        1749
+      ],
+      "lines": [
+        {
+          "text": "07 11 2930",
+          "box": [
+            2283,
+            1629,
+            2742,
+            1690
+          ]
+        }
+      ]
+    }
+  ]
+}

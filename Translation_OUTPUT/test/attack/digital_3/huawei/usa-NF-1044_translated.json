@@ -1,0 +1,63 @@
+{
+  "source_json": "test\\attack\\digital_3\\huawei\\usa-NF-1044.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\usa-NF-1044.jpg",
+  "width": 3192,
+  "height": 1972,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1054,
+            737,
+            1541,
+            805
+          ],
+          "original_text": "Jame : Sohe",
+          "translated_en": "Jame : Sohe",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1038,
+            826,
+            1547,
+            897
+          ],
+          "original_text": "321 Alder St",
+          "translated_en": "321 Alder St",
+          "detected_lang": "en"
+        },
+        {
+          "box": [
+            1036,
+            926,
+            1813,
+            996
+          ],
+          "original_text": "Portland OR 97201",
+          "translated_en": "Portland OR 97201",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2392,
+            1233,
+            3027,
+            1302
+          ],
+          "original_text": "DOB : 03-06-80",
+          "translated_en": "DOB : 03-06-80",
+          "detected_lang": "en"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "usa-NF-1044_translated.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\huawei\\turkiye-121_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\huawei\\turkiye-121_03.jpg",
+  "width": 3042,
+  "height": 1897,
+  "comments": [
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            991,
+            992,
+            1219,
+            1048
+          ],
+          "original_text": "Antho",
+          "translated_en": "Antho"
+        }
+      ]
+    },
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            983,
+            679,
+            1107,
+            724
+          ],
+          "original_text": "Soy",
+          "translated_en": "Soy"
+        },
+        {
+          "box": [
+            986,
+            762,
+            1170,
+            815
+          ],
+          "original_text": "Balcı",
+          "translated_en": "Balcı"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1000,
+            1225,
+            1442,
+            1283
+          ],
+          "original_text": "11.07.1966",
+          "translated_en": "11.07.1966"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1010,
+            1700,
+            1461,
+            1765
+          ],
+          "original_text": "02.12.1953",
+          "translated_en": "02.12.1953"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "turkiye-121_03_translated_cleaned.jpg"
+}

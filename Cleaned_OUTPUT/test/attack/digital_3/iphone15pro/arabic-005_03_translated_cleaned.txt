@@ -1,0 +1,27 @@
+E1
+EN: Erical Al - Salen
+
+L1
+EN: Salem Faisal
+OR: السالم فيصل
+
+E2
+EN: 13 Jul 1973
+
+E3
+EN: 25 Mar 2023
+
+E4
+EN: 21 Mar 2039
+
+L2
+EN: February 17, 1995
+OR: ۱۷ / فبراير / ۱۹۹۵
+
+L3
+EN: March 25, 2023
+OR: ٢٥ / مارس / ٢۰۲۳
+
+L4
+EN: July 28, 2029
+OR: ۲۸ / يوليو / ۲۰۲۹

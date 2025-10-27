@@ -1,0 +1,84 @@
+{
+  "image": "test\\bonafide\\scan\\netherland-flickr_F_28630210242_e3780d0ee9_b.jpg",
+  "template": "netherland",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        623,
+        289,
+        1277,
+        539
+      ],
+      "lines": [
+        {
+          "text": "STEVENSON",
+          "box": [
+            679,
+            325,
+            1038,
+            371
+          ]
+        },
+        {
+          "text": "Maarten Petra",
+          "box": [
+            680,
+            390,
+            1087,
+            434
+          ]
+        },
+        {
+          "text": "Petra",
+          "box": [
+            684,
+            461,
+            829,
+            502
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1487,
+        558,
+        1968,
+        657
+      ],
+      "lines": [
+        {
+          "text": "30 05 1993",
+          "box": [
+            1566,
+            586,
+            1898,
+            633
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1461,
+        729,
+        1961,
+        852
+      ],
+      "lines": [
+        {
+          "text": "11 02 2030",
+          "box": [
+            1538,
+            759,
+            1903,
+            806
+          ]
+        }
+      ]
+    }
+  ]
+}

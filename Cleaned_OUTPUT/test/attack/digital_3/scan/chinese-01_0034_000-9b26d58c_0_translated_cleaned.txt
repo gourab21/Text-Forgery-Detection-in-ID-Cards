@@ -1,0 +1,12 @@
+LE1
+EN: AL
+EN: Gregorng
+
+E2
+EN: 16 Sep 1912
+
+E3
+EN: 31 Mar 2014
+
+E4
+EN: 07 Mar 1965

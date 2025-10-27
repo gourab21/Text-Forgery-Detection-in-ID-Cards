@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\facedancer\\huawei\\chinese2-flickr_M_24291592906_b097dd45e5_k_translated.json",
+  "image_relative": "test\\attack\\facedancer\\huawei\\chinese2-flickr_M_24291592906_b097dd45e5_k.jpg",
+  "width": 3221,
+  "height": 2051,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1092,
+            707,
+            1260,
+            785
+          ],
+          "original_text": "吴刚",
+          "translated_en": "Wu Gang"
+        },
+        {
+          "box": [
+            1087,
+            808,
+            1495,
+            895
+          ],
+          "original_text": "Wu Gang",
+          "translated_en": "Wu Gang"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            2008,
+            1146,
+            2595,
+            1224
+          ],
+          "original_text": "13 NOV 1999",
+          "translated_en": "13 NOV 1999"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            2015,
+            1450,
+            2573,
+            1526
+          ],
+          "original_text": "11 SEP 2019",
+          "translated_en": "11 SEP 2019"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1116,
+            1778,
+            1673,
+            1852
+          ],
+          "original_text": "11 SEP 2039",
+          "translated_en": "11 SEP 2039"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_24291592906_b097dd45e5_k_translated_cleaned.jpg"
+}

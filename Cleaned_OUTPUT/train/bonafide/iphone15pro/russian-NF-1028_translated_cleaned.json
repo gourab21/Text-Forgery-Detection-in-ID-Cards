@@ -1,0 +1,104 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\bonafide\\iphone15pro\\russian-NF-1028_translated.json",
+  "image_relative": "train\\bonafide\\iphone15pro\\russian-NF-1028.jpg",
+  "width": 2820,
+  "height": 1798,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1002,
+            385,
+            1359,
+            449
+          ],
+          "original_text": "Соколова /",
+          "translated_en": "Sokolova /"
+        },
+        {
+          "box": [
+            1003,
+            461,
+            1283,
+            513
+          ],
+          "original_text": "Sokolova",
+          "translated_en": "Sokolova"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1012,
+            677,
+            1716,
+            745
+          ],
+          "original_text": "Елизавета Петровна /",
+          "translated_en": "Elizaveta Petrovna /"
+        },
+        {
+          "box": [
+            1011,
+            757,
+            1585,
+            807
+          ],
+          "original_text": "Elizaveta Petrovna",
+          "translated_en": "Elizaveta Petrovna"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1014,
+            975,
+            1368,
+            1027
+          ],
+          "original_text": "27.05.1993",
+          "translated_en": "27.05.1993"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1022,
+            1370,
+            1371,
+            1425
+          ],
+          "original_text": "05.07.2019",
+          "translated_en": "05.07.2019"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1636,
+            1376,
+            1691
+          ],
+          "original_text": "02.07.2029",
+          "translated_en": "02.07.2029"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-NF-1028_translated_cleaned.jpg"
+}

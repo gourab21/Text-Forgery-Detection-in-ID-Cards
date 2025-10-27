@@ -1,0 +1,14 @@
+LE1
+OR: 吴红
+EN: Wu Hong
+OR: Maryong
+EN: Mary
+
+E2
+EN: 03 Jun 1949
+
+E3
+EN: 13 Oct 2097
+
+E4
+EN: 07 Dec 2078

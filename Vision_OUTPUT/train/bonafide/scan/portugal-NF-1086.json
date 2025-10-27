@@ -1,0 +1,75 @@
+{
+  "image": "train\\bonafide\\scan\\portugal-NF-1086.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        298,
+        1456,
+        474
+      ],
+      "lines": [
+        {
+          "text": "SILVA PEREIRA",
+          "box": [
+            677,
+            345,
+            1078,
+            388
+          ]
+        },
+        {
+          "text": "Cláudia",
+          "box": [
+            678,
+            403,
+            868,
+            443
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1643,
+        576,
+        1993,
+        672
+      ],
+      "lines": [
+        {
+          "text": "22 04 1973",
+          "box": [
+            1704,
+            580,
+            1992,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        731,
+        1666,
+        846
+      ],
+      "lines": [
+        {
+          "text": "20 04 2022",
+          "box": [
+            1306,
+            757,
+            1592,
+            796
+          ]
+        }
+      ]
+    }
+  ]
+}

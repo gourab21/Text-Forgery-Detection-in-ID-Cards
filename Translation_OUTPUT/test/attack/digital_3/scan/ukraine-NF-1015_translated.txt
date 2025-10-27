@@ -1,0 +1,19 @@
+LE1
+OR: Козлова /
+EN: Kozlova /
+EN: Kozlova
+
+LE2
+OR: Тетяна Романівна /
+EN: Tatyana Romanivna /
+EN: Laurana
+
+E3
+EN: 18.07.2044
+
+E4
+EN: of Is
+EN: 10.12.2016
+
+E5
+EN: 30.11.2064

@@ -1,0 +1,22 @@
+E1
+EN: Tonyam
+
+E2
+EN: Kermani
+
+L1
+OR: مريم
+EN: Mariam
+
+L2
+OR: قاسمی
+EN: Qasmi
+
+E3
+EN: 23/08/1992
+
+E4
+EN: 15/12/2024
+
+E5
+EN: 18/09/1951

@@ -1,0 +1,86 @@
+{
+  "image": "train\\bonafide\\huawei\\french-114_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        952,
+        422,
+        1894,
+        568
+      ],
+      "lines": [
+        {
+          "text": "DAVID",
+          "box": [
+            1049,
+            464,
+            1293,
+            516
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        943,
+        695,
+        2006,
+        871
+      ],
+      "lines": [
+        {
+          "text": "Gabriel , Étienne",
+          "box": [
+            1040,
+            718,
+            1653,
+            809
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2221,
+        975,
+        2847,
+        1143
+      ],
+      "lines": [
+        {
+          "text": "08 12 1989",
+          "box": [
+            2284,
+            1008,
+            2715,
+            1070
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        2192,
+        1591,
+        2827,
+        1745
+      ],
+      "lines": [
+        {
+          "text": "13 02 2030",
+          "box": [
+            2272,
+            1626,
+            2700,
+            1688
+          ]
+        }
+      ]
+    }
+  ]
+}

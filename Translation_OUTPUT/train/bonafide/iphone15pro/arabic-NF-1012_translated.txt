@@ -1,0 +1,27 @@
+E1
+EN: Fatima Hassan
+
+L1
+OR: حسن فاطمة
+EN: Hassan Fatima
+
+E2
+EN: 04 Oct 1989
+
+E3
+EN: 17 Sep 2022
+
+E4
+EN: 28 Jul 2033
+
+L2
+OR: ٤ / أكتوبر / ١٨٩
+EN: October 4, 189
+
+L3
+OR: ۱۷ ١٧ / سبتمبر / ٢٠
+EN: 17 17 / September / 20
+
+L4
+OR: ٢٨ / يوليو / ۲۰۳۲
+EN: July 28, 2032

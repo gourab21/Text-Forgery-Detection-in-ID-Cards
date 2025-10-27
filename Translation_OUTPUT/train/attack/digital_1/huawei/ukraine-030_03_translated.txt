@@ -1,0 +1,21 @@
+LE1
+OR: Зубенко /
+EN: Zubenko /
+EN: Zubenko
+
+LE2
+OR: Тетяна Василівна /
+EN: Tatyana Vasylivna /
+OR: Tarbara
+EN: Welcome
+
+E3
+EN: 25.12.2019
+
+E4
+EN: Дата видачі вида Date of issue
+EN: 10.11.2020
+
+E5
+EN: у д
+EN: 10.11.1993

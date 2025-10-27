@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_2\\huawei\\portugal-NF-1109.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        996,
+        474,
+        2350,
+        751
+      ],
+      "lines": [
+        {
+          "text": "OISA SOVIOS",
+          "box": [
+            1101,
+            519,
+            1770,
+            630
+          ]
+        },
+        {
+          "text": "Sara",
+          "box": [
+            1097,
+            633,
+            1279,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2652,
+        913,
+        3216,
+        1068
+      ],
+      "lines": [
+        {
+          "text": "09 10 1979",
+          "box": [
+            2752,
+            955,
+            3215,
+            1023
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1997,
+        1159,
+        2690,
+        1342
+      ],
+      "lines": [
+        {
+          "text": "06 10 2005",
+          "box": [
+            2094,
+            1226,
+            2566,
+            1290
+          ]
+        }
+      ]
+    }
+  ]
+}

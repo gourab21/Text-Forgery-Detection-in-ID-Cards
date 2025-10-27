@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\scan\\french-135_03.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        594,
+        266,
+        1181,
+        359
+      ],
+      "lines": [
+        {
+          "text": "LACROIX",
+          "box": [
+            645,
+            301,
+            858,
+            339
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        588,
+        439,
+        1251,
+        550
+      ],
+      "lines": [
+        {
+          "text": "Valérie , Denise",
+          "box": [
+            645,
+            471,
+            1004,
+            523
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1386,
+        615,
+        1775,
+        720
+      ],
+      "lines": [
+        {
+          "text": "26 05 12000",
+          "box": [
+            1420,
+            628,
+            1710,
+            662
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1367,
+        1004,
+        1764,
+        1100
+      ],
+      "lines": [
+        {
+          "text": "11 11 2031",
+          "box": [
+            1430,
+            1013,
+            1718,
+            1048
+          ]
+        }
+      ]
+    }
+  ]
+}

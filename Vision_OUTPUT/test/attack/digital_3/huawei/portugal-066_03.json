@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-066_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        999,
+        479,
+        2356,
+        759
+      ],
+      "lines": [
+        {
+          "text": "APRLS COSTA",
+          "box": [
+            1110,
+            545,
+            1736,
+            616
+          ]
+        },
+        {
+          "text": "Isabel Margarida",
+          "box": [
+            1101,
+            637,
+            1805,
+            726
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2659,
+        922,
+        3225,
+        1078
+      ],
+      "lines": [
+        {
+          "text": "12 12 2007",
+          "box": [
+            2752,
+            972,
+            3150,
+            1041
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        2002,
+        1171,
+        2696,
+        1356
+      ],
+      "lines": [
+        {
+          "text": "17 11 2006",
+          "box": [
+            2103,
+            1239,
+            2565,
+            1305
+          ]
+        }
+      ]
+    }
+  ]
+}

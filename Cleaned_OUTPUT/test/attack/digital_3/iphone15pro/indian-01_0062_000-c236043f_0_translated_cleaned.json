@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\indian-01_0062_000-c236043f_0_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\indian-01_0062_000-c236043f_0.jpg",
+  "width": 2796,
+  "height": 1785,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            975,
+            669,
+            1127,
+            721
+          ],
+          "original_text": "ROY",
+          "translated_en": "ROY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            988,
+            878,
+            1478,
+            944
+          ],
+          "original_text": "KRYSTALNAVI",
+          "translated_en": "KRYSTALNAVI"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            982,
+            1105,
+            1419,
+            1178
+          ],
+          "original_text": "09/03/2023",
+          "translated_en": "09/03/2023"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            990,
+            1524,
+            1426,
+            1593
+          ],
+          "original_text": "12/11/2021",
+          "translated_en": "12/11/2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2001,
+            1514,
+            2435,
+            1582
+          ],
+          "original_text": "05/08/2069",
+          "translated_en": "05/08/2069"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-01_0062_000-c236043f_0_translated_cleaned.jpg"
+}

@@ -1,0 +1,29 @@
+E1
+EN: BrianXlaled
+
+L1
+OR: خالد سارة
+EN: Khaled Sarah
+
+E2
+EN: 30 Aug 2073
+
+E3
+EN: 20 Aug 2023
+
+E4
+EN: 25 Feb 2000
+
+L2
+OR: تاريخ
+EN: History
+OR: ٠٥ / مايو / / ۱۹۳۲
+EN: May 5, 1932
+
+L3
+OR: ٢٠ / أغسطس / ٢٠٢٣
+EN: August 20, 2023
+
+L4
+OR: ٢٠ / أغسطس / ٢٠٢٣
+EN: August 20, 2023

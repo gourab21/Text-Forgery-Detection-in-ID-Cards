@@ -1,0 +1,13 @@
+LE1
+OR: 朱明
+EN: Zhu Ming
+EN: Zhu Ming
+
+E2
+EN: 16 MAY 1995
+
+E3
+EN: 10 MAR 2016
+
+E4
+EN: 10 MAR 2036

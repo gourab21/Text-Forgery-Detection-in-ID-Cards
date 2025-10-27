@@ -1,0 +1,13 @@
+LE1
+OR: 豪 吧
+EN: Hao Bar
+EN: Bollyhao
+
+E2
+EN: 25 Nov 2040
+
+E3
+EN: 15 Aug 2016
+
+E4
+EN: 13 Aug 1994

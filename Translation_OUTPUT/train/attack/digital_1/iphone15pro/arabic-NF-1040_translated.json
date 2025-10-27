@@ -1,0 +1,137 @@
+{
+  "source_json": "train\\attack\\digital_1\\iphone15pro\\arabic-NF-1040.json",
+  "image_relative": "train\\attack\\digital_1\\iphone15pro\\arabic-NF-1040.jpg",
+  "width": 2790,
+  "height": 1764,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1037,
+            668,
+            1581,
+            735
+          ],
+          "original_text": "NarolAllSharii",
+          "translated_en": "NarolAllSharii",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1003,
+            477,
+            1494,
+            557
+          ],
+          "original_text": "الشريف منى",
+          "translated_en": "Sharif Mona",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1046,
+            1107,
+            1549,
+            1169
+          ],
+          "original_text": "21 Dec 2029",
+          "translated_en": "21 Dec 2029",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1054,
+            1334,
+            1547,
+            1400
+          ],
+          "original_text": "17 Jun 2018",
+          "translated_en": "17 Jun 2018",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1057,
+            1569,
+            1553,
+            1632
+          ],
+          "original_text": "14 Oct 2001",
+          "translated_en": "14 Oct 2001",
+          "detected_lang": "en"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1782,
+            1087,
+            2511,
+            1178
+          ],
+          "original_text": "۲۱ / ديسمبر / ۱۹۸۳",
+          "translated_en": "December 21, 1983",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L3",
+      "lines": [
+        {
+          "box": [
+            1789,
+            1319,
+            2406,
+            1413
+          ],
+          "original_text": "١٧ / يونيو / ۲۰۱۸ ٢٠١٨",
+          "translated_en": "June 17, 2018",
+          "detected_lang": "ar"
+        }
+      ]
+    },
+    {
+      "comment": "L4",
+      "lines": [
+        {
+          "box": [
+            1792,
+            1543,
+            2447,
+            1639
+          ],
+          "original_text": "١٤ / أكتوبر / ٢٠٣٣",
+          "translated_en": "October 14, 2033",
+          "detected_lang": "ar"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "arabic-NF-1040_translated.jpg"
+}

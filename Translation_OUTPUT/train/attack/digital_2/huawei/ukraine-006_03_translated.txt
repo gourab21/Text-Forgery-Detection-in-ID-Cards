@@ -1,0 +1,20 @@
+LE1
+OR: Кравчук /
+EN: Kravchuk /
+EN: Kravchuk
+
+LE2
+OR: Тетяна Анатоліївна /
+EN: Tatyana Anatoliivna /
+OR: Tichael
+EN: Teacher
+
+E3
+EN: 15.04.:201
+
+E4
+EN: па вид ate of issue
+EN: 12.02.2019
+
+E5
+EN: 11.02.2

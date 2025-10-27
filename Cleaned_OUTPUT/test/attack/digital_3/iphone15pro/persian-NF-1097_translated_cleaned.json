@@ -1,0 +1,114 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\persian-NF-1097_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\persian-NF-1097.jpg",
+  "width": 2800,
+  "height": 1773,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1062,
+            411,
+            1242,
+            463
+          ],
+          "original_text": "Kirst",
+          "translated_en": "Kirst"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1066,
+            615,
+            1389,
+            672
+          ],
+          "original_text": "Hosseini",
+          "translated_en": "Hosseini"
+        }
+      ]
+    },
+    {
+      "comment": "L1",
+      "lines": [
+        {
+          "box": [
+            1876,
+            397,
+            1959,
+            458
+          ],
+          "original_text": "ليلا",
+          "translated_en": "At night"
+        }
+      ]
+    },
+    {
+      "comment": "L2",
+      "lines": [
+        {
+          "box": [
+            1876,
+            613,
+            2058,
+            679
+          ],
+          "original_text": "حسینی",
+          "translated_en": "Hosseini"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1071,
+            841,
+            1439,
+            901
+          ],
+          "original_text": "06/02/1901",
+          "translated_en": "06/02/1901"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1075,
+            1311,
+            1456,
+            1368
+          ],
+          "original_text": "29/01/2021",
+          "translated_en": "29/01/2021"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1892,
+            1296,
+            2267,
+            1355
+          ],
+          "original_text": "01/02/2059",
+          "translated_en": "01/02/2059"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "persian-NF-1097_translated_cleaned.jpg"
+}

@@ -1,0 +1,27 @@
+E1
+EN: Timohy A Said
+
+L1
+EN: Saeed Hassan
+OR: السعيد حسان
+
+E2
+EN: 07 Jul 2011
+
+E3
+EN: 11 Jun 2022
+
+E4
+EN: 28 May 1955
+
+L2
+EN: TS 24 / March / 1987
+OR: ΤΣ ٢٤ / مارس / ۱۹۸۷
+
+L3
+EN: June 11, 2022
+OR: ١١ / يونيو / ٢٠٢٢ ۲۰۲۲
+
+L4
+EN: May 7, 2030
+OR: ٧ مايو ٢٠٣٠

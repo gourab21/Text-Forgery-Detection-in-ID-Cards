@@ -1,0 +1,86 @@
+{
+  "image": "train\\attack\\digital_2\\iphone15pro\\french-NF-1082.jpg",
+  "template": "french",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        833,
+        380,
+        1658,
+        513
+      ],
+      "lines": [
+        {
+          "text": "MASSON",
+          "box": [
+            915,
+            429,
+            1196,
+            480
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        826,
+        628,
+        1757,
+        787
+      ],
+      "lines": [
+        {
+          "text": "Lenni aubine",
+          "box": [
+            922,
+            677,
+            1390,
+            730
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1944,
+        881,
+        2490,
+        1032
+      ],
+      "lines": [
+        {
+          "text": "15 10 1043",
+          "box": [
+            2004,
+            885,
+            2401,
+            940
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "region_box": [
+        1918,
+        1437,
+        2474,
+        1576
+      ],
+      "lines": [
+        {
+          "text": "02 12 2038",
+          "box": [
+            2013,
+            1439,
+            2410,
+            1485
+          ]
+        }
+      ]
+    }
+  ]
+}

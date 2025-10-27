@@ -1,0 +1,75 @@
+{
+  "image": "test\\attack\\digital_3\\huawei\\portugal-105_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        991,
+        470,
+        2339,
+        745
+      ],
+      "lines": [
+        {
+          "text": "SUZAN FERNADES",
+          "box": [
+            1098,
+            528,
+            2010,
+            607
+          ]
+        },
+        {
+          "text": "Ricardo",
+          "box": [
+            1095,
+            627,
+            1405,
+            683
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        2638,
+        906,
+        3200,
+        1057
+      ],
+      "lines": [
+        {
+          "text": "21 03 1989",
+          "box": [
+            2731,
+            944,
+            3134,
+            1012
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1986,
+        1149,
+        2675,
+        1331
+      ],
+      "lines": [
+        {
+          "text": "2601 1910",
+          "box": [
+            2091,
+            1211,
+            2538,
+            1272
+          ]
+        }
+      ]
+    }
+  ]
+}

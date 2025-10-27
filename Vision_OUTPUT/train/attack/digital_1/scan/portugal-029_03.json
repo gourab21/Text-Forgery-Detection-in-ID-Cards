@@ -1,0 +1,75 @@
+{
+  "image": "train\\attack\\digital_1\\scan\\portugal-029_03.jpg",
+  "template": "portugal",
+  "comments": [
+    {
+      "comment": "E1",
+      "region_box": [
+        617,
+        299,
+        1456,
+        472
+      ],
+      "lines": [
+        {
+          "text": "PATIERADOLITIEAR",
+          "box": [
+            684,
+            341,
+            1203,
+            390
+          ]
+        },
+        {
+          "text": "Tiago",
+          "box": [
+            680,
+            399,
+            820,
+            445
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "region_box": [
+        1642,
+        575,
+        1992,
+        671
+      ],
+      "lines": [
+        {
+          "text": "03 06 2034",
+          "box": [
+            1700,
+            604,
+            1991,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "region_box": [
+        1237,
+        730,
+        1665,
+        845
+      ],
+      "lines": [
+        {
+          "text": "31 05 2025",
+          "box": [
+            1294,
+            770,
+            1594,
+            809
+          ]
+        }
+      ]
+    }
+  ]
+}

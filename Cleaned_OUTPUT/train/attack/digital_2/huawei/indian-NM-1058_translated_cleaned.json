@@ -1,0 +1,84 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\train\\attack\\digital_2\\huawei\\indian-NM-1058_translated.json",
+  "image_relative": "train\\attack\\digital_2\\huawei\\indian-NM-1058.jpg",
+  "width": 3188,
+  "height": 1980,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            1101,
+            737,
+            1668,
+            804
+          ],
+          "original_text": "CHOWDHURY",
+          "translated_en": "CHOWDHURY"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1094,
+            983,
+            1512,
+            1056
+          ],
+          "original_text": "AUIS RAJ",
+          "translated_en": "AUIS RAJ"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1096,
+            1238,
+            1632,
+            1317
+          ],
+          "original_text": "14/02/2033",
+          "translated_en": "14/02/2033"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1085,
+            1710,
+            1590,
+            1789
+          ],
+          "original_text": "29/04/2008",
+          "translated_en": "29/04/2008"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            2245,
+            1727,
+            2781,
+            1800
+          ],
+          "original_text": "29/04/2010",
+          "translated_en": "29/04/2010"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "indian-NM-1058_translated_cleaned.jpg"
+}

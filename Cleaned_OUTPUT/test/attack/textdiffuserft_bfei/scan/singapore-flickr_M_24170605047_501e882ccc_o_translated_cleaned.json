@@ -1,0 +1,54 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_24170605047_501e882ccc_o_translated.json",
+  "image_relative": "test\\attack\\textdiffuserft_bfei\\scan\\singapore-flickr_M_24170605047_501e882ccc_o.jpg",
+  "width": 1995,
+  "height": 1248,
+  "comments": [
+    {
+      "comment": "E1",
+      "lines": [
+        {
+          "box": [
+            518,
+            466,
+            1128,
+            522
+          ],
+          "original_text": "Richard bn Ismal",
+          "translated_en": "Richard bn Ismal"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            518,
+            924,
+            876,
+            976
+          ],
+          "original_text": "08-06-6055",
+          "translated_en": "08-06-6055"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1186,
+            1098,
+            1539,
+            1154
+          ],
+          "original_text": "16-06-8882",
+          "translated_en": "16-06-8882"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "singapore-flickr_M_24170605047_501e882ccc_o_translated_cleaned.jpg"
+}

@@ -1,0 +1,94 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\attack\\digital_3\\iphone15pro\\russian-062_03_translated.json",
+  "image_relative": "test\\attack\\digital_3\\iphone15pro\\russian-062_03.jpg",
+  "width": 2825,
+  "height": 1803,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            1001,
+            386,
+            1419,
+            452
+          ],
+          "original_text": "Журавлева /",
+          "translated_en": "Zhuravleva /"
+        },
+        {
+          "box": [
+            1006,
+            466,
+            1348,
+            511
+          ],
+          "original_text": "Zhuravleva",
+          "translated_en": "Zhuravleva"
+        }
+      ]
+    },
+    {
+      "comment": "LE2",
+      "lines": [
+        {
+          "box": [
+            1009,
+            680,
+            1880,
+            751
+          ],
+          "original_text": "Дарья Сергеевна / K",
+          "translated_en": "Daria Sergeevna / K"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1015,
+            980,
+            1363,
+            1032
+          ],
+          "original_text": "05.03.2050",
+          "translated_en": "05.03.2050"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            1024,
+            1374,
+            1370,
+            1422
+          ],
+          "original_text": "17.12.2014",
+          "translated_en": "17.12.2014"
+        }
+      ]
+    },
+    {
+      "comment": "E5",
+      "lines": [
+        {
+          "box": [
+            1027,
+            1640,
+            1372,
+            1690
+          ],
+          "original_text": "20.10.2050",
+          "translated_en": "20.10.2050"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "russian-062_03_translated_cleaned.jpg"
+}

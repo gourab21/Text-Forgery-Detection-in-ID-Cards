@@ -1,0 +1,79 @@
+{
+  "source_json": "C:\\Users\\user\\Desktop\\IAS\\id-ocr-translate\\Supervised\\Translation_OUTPUT\\test\\bonafide\\scan\\chinese2-flickr_M_32771950686_f8d5084d87_h_translated.json",
+  "image_relative": "test\\bonafide\\scan\\chinese2-flickr_M_32771950686_f8d5084d87_h.jpg",
+  "width": 2001,
+  "height": 1246,
+  "comments": [
+    {
+      "comment": "LE1",
+      "lines": [
+        {
+          "box": [
+            688,
+            420,
+            797,
+            475
+          ],
+          "original_text": "黄杰",
+          "translated_en": "Huang Jie"
+        },
+        {
+          "box": [
+            685,
+            488,
+            953,
+            541
+          ],
+          "original_text": "Huang Jie",
+          "translated_en": "Huang Jie"
+        }
+      ]
+    },
+    {
+      "comment": "E2",
+      "lines": [
+        {
+          "box": [
+            1239,
+            707,
+            1596,
+            753
+          ],
+          "original_text": "20 DEC 1998",
+          "translated_en": "20 DEC 1998"
+        }
+      ]
+    },
+    {
+      "comment": "E3",
+      "lines": [
+        {
+          "box": [
+            1240,
+            889,
+            1599,
+            933
+          ],
+          "original_text": "15 MAR 2019",
+          "translated_en": "15 MAR 2019"
+        }
+      ]
+    },
+    {
+      "comment": "E4",
+      "lines": [
+        {
+          "box": [
+            680,
+            1076,
+            1042,
+            1119
+          ],
+          "original_text": "15 MAR 2039",
+          "translated_en": "15 MAR 2039"
+        }
+      ]
+    }
+  ],
+  "annotated_image": "chinese2-flickr_M_32771950686_f8d5084d87_h_translated_cleaned.jpg"
+}
